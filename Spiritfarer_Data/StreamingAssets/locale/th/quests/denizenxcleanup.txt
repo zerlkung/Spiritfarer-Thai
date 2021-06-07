@@ -1,0 +1,21 @@
+key: quests/denizenxcleanup.cleanup._flavortextloc 9035103336287699241 v1 Revised
+A cleaning effort. Why not! I do like it when things are clean.
+
+key: quests/denizenxcleanup.cleanup._namekeyloc 8904839949810397590 v1 Revised
+Hummingberg Preservation Society
+
+key: quests/denizenxcleanup.destroycrates._descriptionloc -4549977865994896243 v2 Revised
+Get ride of those ((floating crates)).
+
+key: quests/denizenxcleanup.getglue._descriptionloc 4056447270197881921 v2 Revised
+Find ((household glue)).
+
+key: quests/denizenxcleanup.getplanks._descriptionloc -7178689243575722634 v2 Revised
+Find ((oak planks)).
+
+key: quests/denizenxcleanup.getthread._descriptionloc -8459445989623255608 v2 Revised
+Find ((silk thread)).
+
+key: quests/denizenxcleanup.talktoleader._descriptionloc -6045070976305648409 v3 Revised
+Talk to Jabari in ((Alt Harbor)).
+

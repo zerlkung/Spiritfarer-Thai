@@ -1,0 +1,141 @@
+key: knowledges/destinations.knowledge_a2_sideb_hinted._textloc 5107267843103666932 v3 Revised
+A mountain island that features an empty mine and a lost sheep.
+
+key: knowledges/destinations.knowledge_a3_mine_hinted._textloc -4632537234789857970 v1 Revised
+A mine filled with overworked miners.
+
+key: knowledges/destinations.knowledge_al_lighthouse_thelighthouselit._textloc -8118446931836085392 v2 Revised
+A lit lighthouse that lets you discover new islands.
+
+key: knowledges/destinations.knowledge_ar1_field01_hinted._textloc -8983220678369374149 v5 Revised
+A calm and peaceful island filled with rice patches and a humid oak forest.
+
+key: knowledges/destinations.knowledge_ar2_field02_hinted._textloc -2434796539737476756 v4 Revised
+A small island with rice patches and a strange rock.
+
+key: knowledges/destinations.knowledge_ar3_field03_hinted._textloc 5196264895480510210 v2 Revised
+A small island filled with metal and oak.
+
+key: knowledges/destinations.knowledge_as4_mountaintop_hinted._textloc -3989659211476275093 v1 Revised
+AS4_MountainTop hint
+
+key: knowledges/destinations.knowledge_b1_canalcity_doublejump._textloc -2969574615674755820 v1 Revised
+A beautiful and mysterious shrine is located in the town square.
+
+key: knowledges/destinations.knowledge_b1_canalcity_hinted._textloc -7757543785945279395 v2 Revised
+A grand city with a mysterious shrine.
+
+key: knowledges/destinations.knowledge_b1_canalcity_raccoonshop._textloc -8460039216692928279 v1 Revised
+Houses the shop Raccoon Inc with goods to buy and sell.
+
+key: knowledges/destinations.knowledge_b2_mansion_deerparentshouse._textloc 4227789071325370689 v1 Revised
+A giant Alpine villa that once belonged to Gwen's parents.
+
+key: knowledges/destinations.knowledge_b3_wintervillage_hinted._textloc -6357879580967775837 v1 Revised
+A wintry village in the middle of nowhere.
+
+key: knowledges/destinations.knowledge_b4_wintermountain_hinted._textloc -6629833887100606047 v1 Revised
+The remains of an abandoned cottage.
+
+key: knowledges/destinations.knowledge_bl_lighthouse_hinted._textloc 1008495433973427749 v1 Placeholder
+CL_Lighthouse hint
+
+key: knowledges/destinations.knowledge_br1_forest01_hinted._textloc -3747628416464962372 v2 Revised
+A lush forest that contains maple trees.
+
+key: knowledges/destinations.knowledge_br2_forest02_hinted._textloc 2630272069084268136 v3 Revised
+A forest that contains maple trees and rocks.
+
+key: knowledges/destinations.knowledge_br3_forest03_hinted._textloc -5338437881105605218 v2 Revised
+A grand forest that contains maple trees and slate deposits.
+
+key: knowledges/destinations.knowledge_br4_winter01_hinted._textloc 8388475498738343409 v1 Revised
+An abandoned mine that doesn't get many visitors.
+
+key: knowledges/destinations.knowledge_bs5_wintermountaintop_hinted._textloc 469018528750140753 v1 Placeholder
+BS5_WinterMountainTop hint
+
+key: knowledges/destinations.knowledge_c1_neighbor_hinted._textloc 8875311032498170670 v2 Revised
+A cosmopolitan city with all kinds of shops and interesting people.
+
+key: knowledges/destinations.knowledge_c2_downtown_hinted._textloc 3336594463423033980 v2 Revised
+Highrises! Luxury!
+
+key: knowledges/destinations.knowledge_c3_parking_hinted._textloc -8668608137134433482 v3 Revised
+The dark part of town according to the travel guide.
+
+key: knowledges/destinations.knowledge_c4_billboards_flashinglights._textloc -6443826058455035113 v1 Revised
+Flashing lights with giant screens!
+
+key: knowledges/destinations.knowledge_c6_port_hinted._textloc 4079410734448566195 v2 Revised
+A port filled with containers and people hard at work.
+
+key: knowledges/destinations.knowledge_ccontainercity_hinted._textloc 5813121791512597196 v1 Revised
+An underground refuge built with containers.
+
+key: knowledges/destinations.knowledge_collector_hinted._textloc -3357841177640188934 v1 Revised
+A harbour for the great collector, Susan.
+
+key: knowledges/destinations.knowledge_cr1_field01_hinted._textloc 1067367916655559971 v1 Revised
+A scenic park filled with dying trees.
+
+key: knowledges/destinations.knowledge_cr2_field02_hinted._textloc -6877903262352408133 v1 Revised
+A giant park built in honour of the late Theodore Raccoon.
+
+key: knowledges/destinations.knowledge_cs6_downtowntop_hinted._textloc 4770471557118839613 v1 Placeholder
+CS6_DowntownTop hint
+
+key: knowledges/destinations.knowledge_d1_industry_hinted._textloc -10335725005346769 v2 Revised
+Home to the largest distribution centre this side of the sea.
+
+key: knowledges/destinations.knowledge_d2_occult_hinted._textloc -5881435601946919084 v2 Revised
+A popular camping spot for fans of the occult.
+
+key: knowledges/destinations.knowledge_d3_factory_hinted._textloc -8389239489671989424 v2 Revised
+An abandoned factory amongst the trees.
+
+key: knowledges/destinations.knowledge_dl_lighthouse_hinted._textloc 8835888552726118142 v1 Placeholder
+DL_Lighthouse hint
+
+key: knowledges/destinations.knowledge_dr1_forest01_hinted._textloc 667690569504685842 v2 Revised
+A small forest with overbearing trees.
+
+key: knowledges/destinations.knowledge_dr2_forest02_hinted._textloc -7983410563295034991 v2 Revised
+A dark forest with a certain panache.
+
+key: knowledges/destinations.knowledge_dr3_forest03_hinted._textloc 5485408991444004029 v1 Revised
+Sunken islands with barely anything to see.
+
+key: knowledges/destinations.knowledge_dr4_forest04_hinted._textloc 6190501579051550648 v3 Revised
+An obscure island perfect for hiking.
+
+key: knowledges/destinations.knowledge_ds2_tower_hinted._textloc 8110873021215229205 v1 Placeholder
+DS2_Tower hint
+
+key: knowledges/destinations.knowledge_e_hospital_hinted._textloc -2943811098941880892 v5 ReadyForRevision
+An impressive monument to modern medical science.
+
+key: knowledges/destinations.knowledge_h1_hinted._textloc 170270230932239458 v2 Revised
+A sparse island with an ancient shrine.
+
+key: knowledges/destinations.knowledge_h2_hinted._textloc 6552021089117267008 v2 Revised
+Once lost at sea, this shrine breathed of life and power.
+
+key: knowledges/destinations.knowledge_h3_hinted._textloc 1936169126231323954 v2 Revised
+An island with a mysterious shrine.
+
+key: knowledges/destinations.knowledge_mistguardian_mysterious._textloc 5323214003926507736 v1 Placeholder
+The great unknown waits beyond yonder.
+
+key: knowledges/destinations.knowledge_tempisland._textloc -3976854033935534775 v2 Placeholder
+A beautiful island.
+
+key: knowledges/destinations.knowledge_trashisland_cleaned_hinted._textloc 7259824021021472625 v1 Revised
+An old Harbour that's been cleaned up.
+
+key: knowledges/destinations.knowledge_trashisland_hinted._textloc 5643468890236060072 v4 Revised
+The remains of an old Shipyard.
+
+key: knowledges/destinations.knowledge_trashisland_hinted1._textloc 8949775203684669060 v1 Revised
+The remains of an old Shipyard.
+

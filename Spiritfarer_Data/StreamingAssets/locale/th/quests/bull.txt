@@ -1,0 +1,114 @@
+key: quests/bull.atshrine._descriptionloc 21464746327610172 v2 Revised
+คุยกับ บรูซและมิกกี้.
+
+key: quests/bull.buildbullbuilding.flavortext 8437875039610052475 v2 Revised
+พวกเขาบอกว่าพวกเขาต้องการพระราชวังที่จะอยู่ แต่มันรู้สึกมากไปหน่อย.
+
+key: quests/bull.buildbullbuilding.name -4474762802058687341 v2 Revised
+พระราชวังเล็ก
+
+key: quests/bull.buildingquest._descriptionloc 7928574023735944805 v1 Revised
+((สร้าง)) เครื่อง ((บด))
+
+key: quests/bull.buildingquest._namekeyloc 8120445438191357120 v1 Revised
+Smash! Smash!
+
+key: quests/bull.bull._talktodescription 1108409692380852349 v2 Revised
+คุยกับ บรูซและมิกกี้.
+
+key: quests/bull.bulldecorations.flavortext 3087750139396926948 v1 Revised
+ตอนนี้ออกมาแล้ว! พวกเขาต้องการให้ฉันทำให้มันใหญ่มากขึ้น.
+
+key: quests/bull.bulldecorations.name -2624445304592406735 v2 Revised
+วิถีชีวิตของคนรวยและคนมีชื่อเสียง
+
+key: quests/bull.bully._descriptionloc -6742850610494624265 v2 Revised
+หาคนงานเพื่อข่มขู่.
+
+key: quests/bull.bully._flavortextloc 2137498608577078355 v1 Revised
+นี่รู้สึกผิด รู้สึกผิดกฎหมาย ฉันจะทำให้ดูเหมือนว่าฉันกำลังรังแกพวกเขา แต่ฉันก็ยังดูดี.
+
+key: quests/bull.bully._namekeyloc 4797297731297620579 v1 Revised
+การกลั่นแกล้งสำหรับผู้เริ่มต้น
+
+key: quests/bull.buyadecoration-somethingbig.description 6508255209810695250 v2 Revised
+((ปรับปรุง)) บ้านของพวกเขาด้วยการเพิ่มสิ่งที่ใหญ่.
+
+key: quests/bull.buyadecoration-somethingflashy.description -8441507543419082357 v2 Revised
+((ปรับปรุง)) บ้านของพวกเขาด้วยการเพิ่มสิ่งที่ฉูดฉาด.
+
+key: quests/bull.buyadecoration-somethingloud.description 374269812200016846 v2 Revised
+((ปรับปรุง)) บ้านของพวกเขาด้วยการเพิ่มเสียงดัง.
+
+key: quests/bull.buybullhouse.description -3235946196448744567 v2 Revised
+((สร้าง)) ((แปลของบรูซและมิกกี้)).
+
+key: quests/bull.compositequest._flavortextloc 3591561498322232956 v1 Revised
+เสียงและความแรงทั้งหมดนี้อาจไม่ดีสำหรับพวกเขาได้! ฉันคิดว่าการมี ((เครื่องบด)) อาจทำให้พวกเขาดีขึ้น
+
+key: quests/bull.compositequest._namekeyloc 1833741319673372761 v1 Revised
+Smash! Smash!
+
+key: quests/bull.crushsomething._descriptionloc 4445143836878591981 v1 Revised
+((บด)) ก้อน ((หิน)).
+
+key: quests/bull.fallingstars._descriptionloc -1465054869998984529 v3 Revised
+ค้นหารังสีพัลซาร์.
+
+key: quests/bull.fallingstars._flavortextloc 8940110051992798071 v2 Revised
+มีแสงในทะเล? ฉันต้องไปดู!
+
+key: quests/bull.fallingstars._namekeyloc 3336362228639976121 v1 Revised
+จังหวะของกลางคืน
+
+key: quests/bull.fancyfood.description -8948209736306984825 v6 Revised
+((ให้)) ((กุ้งมังกรม้วน)) กับบรูซ.
+
+key: quests/bull.fedbruce.flavortext -2082719512588774972 v1 Revised
+บรูซและมิกกี้ ต้องการให้ฉันทำอาหารให้ ฉันหวังว่าฉันจะไม่ทำผิดพลาด.
+
+key: quests/bull.fedbruce.name 6512290420851477864 v2 Revised
+รสชาติของที่บ้าน
+
+key: quests/bull.gotoportal._descriptionloc -606537918588474259 v1 Revised
+พา บรูซและมิกกี้ ไปยัง ((เอเวอร์ดอร์)).
+
+key: quests/bull.gotoportal._flavortextloc 7110958698228470399 v1 Revised
+บรูซดูไม่ค่อยมีความสุขกับงานของฉัน ฉันเดาว่าถึงเวลาที่เขาจะกัดฉันหรือจากไป.
+
+key: quests/bull.gotoportal._namekeyloc -6979451739717671807 v1 Revised
+พี่น้องจนถึงจุดจบ
+
+key: quests/bull.homyfood.description 8286842875613785169 v6 Revised
+((ให้)) ((ไก่ทอด))บางชิ้นกับบรูซ.
+
+key: quests/bull.impossible.flavortext -6473235458796915401 v1 Revised
+งานใหญ่งานเดียว! แต่ได้คะแนนเยอะ! เด็กชายเหล่านี้กำลังวางแผนอะไรบนเรือของฉัน?
+
+key: quests/bull.impossible.name -2883803365386182482 v2 Revised
+Mask Off
+
+key: quests/bull.impossiblefruit._descriptionloc 1048132817510834124 v3 Revised
+บรูซต้องการ ((ลูกพีช)) เดี๋ยวนี้.
+
+key: quests/bull.impossibleveggie._descriptionloc -9079896737653990755 v3 Revised
+บรูซต้องการ ((แครอท)).
+
+key: quests/bull.vacation.flavortext -4328543949822475415 v2 Revised
+โลกไม่ใหญ่พอสำหรับสองคนนี้ พวกเขาต้องการไปพักร้อนกับฉันตอนนี้.
+
+key: quests/bull.vacation.name 5297885127764868413 v5 Revised
+ตั้งแคมป์ใน คาดิลแลค 
+
+key: quests/bull.visith2.description -5273293008609904151 v6 Revised
+ตรงไปที่ ((Greymist Peaks)).
+
+key: quests/bull.welcomebull.description -6088915229325230432 v2 Revised
+ยินดีต้อนรับผู้โดยสารคนใหม่ของคุณ.
+
+key: quests/bull.welcomebull.flavortext -1264555244011186205 v1 Revised
+ดูเหมือนว่าจะมีคนอยากขึ้นเรือ.
+
+key: quests/bull.welcomebull.name 4473651566193609651 v2 Revised
+ยินดีต้อนรับ
+

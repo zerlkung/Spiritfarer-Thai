@@ -1,0 +1,138 @@
+key: quests/owl.builddesk._descriptionloc -6933478029509012812 v2 Revised
+((Improve)) Gustav's Gallery with the ((Vintage Modernist Desk)).
+
+key: quests/owl.buildforge._descriptionloc 4152001156868793931 v1 Revised
+((Build)) a ((Smithy)).
+
+key: quests/owl.buildforge._flavortextloc -8724045309425623070 v4 Revised
+Gustav suggested adding a ((Smithy)) to the boat, hinting at the fact that we might need it later.
+
+key: quests/owl.buildforge._namekeyloc 8781366174651195809 v1 Revised
+The Master Forger
+
+key: quests/owl.buildloom._descriptionloc 3706712219299529537 v1 Revised
+((Build)) a ((Loom)).
+
+key: quests/owl.buildmailbox._descriptionloc -2193914830540838674 v2 Revised
+((Upgrade)) the boat with a ((Mailbox)).
+
+key: quests/owl.buildoffice._descriptionloc -4612649923947929280 v2 Revised
+((Build)) ((Gustav's Gallery)).
+
+key: quests/owl.buildoffice._flavortextloc -8781705560130547924 v3 Revised
+What's a multipurpose area? And why does Gustav need one? This seems like a lot of work for one person! I do hope it will liven the mood on the boat. 
+
+key: quests/owl.buildoffice._namekeyloc -7461194458113914702 v1 Revised
+The House of Bau
+
+key: quests/owl.buildowlsbuilding.description -8198439337773572098 v2 Revised
+((Build)) the ((Lounge)).
+
+key: quests/owl.buildsawmill._descriptionloc 8372557844463661289 v1 Revised
+((Build)) a ((Sawmill)).
+
+key: quests/owl.buildsmelter._descriptionloc 4979963452881497626 v1 Revised
+((Build)) a ((Foundry)).
+
+key: quests/owl.clock._descriptionloc -8676171404599894335 v3 Revised
+((Improve)) Gustav's Gallery with the ((Maximinimalist Clock)).
+
+key: quests/owl.compositequest._flavortextloc -6739470051356651163 v1 Revised
+With his exhibition finished, Gustav says he's ready to move on, and asked me to bring him to the ((Everdoor)).
+
+key: quests/owl.compositequest._namekeyloc -7368011703947193744 v2 Revised
+The Old Violinist
+
+key: quests/owl.deskquest._flavortextloc 22335643639748003 v3 Revised
+Gustav needs a desk in his office. He has heard of a master woodworker living in ((Oxbury)), but couldn't get in touch with him. Perhaps his partner, working in a café there, could help us out?
+
+key: quests/owl.deskquest._namekeyloc -7445896717997985642 v1 Revised
+The Search for Erich Deskmann
+
+key: quests/owl.equiptheboat._flavortextloc 6685494974072777710 v1 Revised
+Gustav has charged me with setting up the groundwork for his planned exhibit. To that end, he needs me to equip the boat with a variety of stations.
+
+key: quests/owl.equiptheboat._namekeyloc -5228034668194426752 v1 Revised
+Lock and Load
+
+key: quests/owl.feedaveragefood._descriptionloc -8324885042224527061 v1 Revised
+Bring a ((casserole)) to the woodworker.
+
+key: quests/owl.feedbadfood._descriptionloc -1772255415669829593 v1 Revised
+Bring a ((grilled fish)) to the woodworker.
+
+key: quests/owl.feedgoodfood._descriptionloc -6829722892012184659 v1 Revised
+Bring a ((surf n' turf)) to the woodworker.
+
+key: quests/owl.fireplace._descriptionloc -7562440112447016692 v3 Revised
+((Improve)) Gustav's Gallery with the ((Neoclassical Nordic Fireplace)).
+
+key: quests/owl.flagquest._descriptionloc -2357131047046901280 v1 Revised
+((Upgrade)) the boat with a ((figurehead)).
+
+key: quests/owl.flagquest._flavortextloc 7889624614096791049 v1 Revised
+Gustav, upon joining the crew, commented on the "drabness" of the boat's prow. He would enjoy a figurehead very much.
+
+key: quests/owl.flagquest._namekeyloc 3646577271125794151 v1 Revised
+Taillé dans l'Or Massif
+
+key: quests/owl.flagquest_1._descriptionloc -2856919064488570152 v1 Revised
+Travel to the ((Everdoor)).
+
+key: quests/owl.fullyfurnishhouse._flavortextloc -8132318699977420572 v2 Revised
+With Gustav's Gallery fully functional, Gustav is ready to start filling it with pieces. While he should be able to do everything by himself, he asked me to stay ready for any of the bigger pieces that might need to be produced on site.
+
+key: quests/owl.fullyfurnishhouse._namekeyloc -5739980716020856380 v1 Revised
+Fully Loaded
+
+key: quests/owl.gotocollectorsisland._descriptionloc 5349292774464832697 v1 Revised
+Travel to ((Susan's Museum)) at coordinates <nobr>((-150, 150))</nobr>.
+
+key: quests/owl.hoursaboardquest_2._descriptionloc 5445912092466899959 v1 Revised
+Wait for Gustav to give you more designs for the exhibit.
+
+key: quests/owl.hoursaboardquest_3._descriptionloc 1002492829457694326 v1 Revised
+Wait for Gustav to give you more designs for the exhibit.
+
+key: quests/owl.maininventoryquest._descriptionloc 8155739517119299357 v1 Revised
+Get the missing ((woodprint)) from the Collector.
+
+key: quests/owl.owl._talktodescription -2130944418600992629 v2 Revised
+Talk to Gustav.
+
+key: quests/owl.paywoodworker._descriptionloc 4838447443330424597 v3 Revised
+Pay the woodworker his fee of 450,000 ((glims)).
+
+key: quests/owl.recruitowl._flavortextloc -7654489561079236096 v2 Revised
+Some person in ((Furogawa)) has enthusiastically asked for my help completing a collection of traditional woodprints. I didn't recognize them, but they seem to know me very well.
+
+key: quests/owl.recruitowl._namekeyloc 5890182437744707434 v1 Revised
+Five Views of Mount Furogawa
+
+key: quests/owl.spiritprogressquest._descriptionloc 6489888575227669983 v1 Revised
+Bring Gustav to the ((Everdoor)).
+
+key: quests/owl.talktogirlfriend._descriptionloc -6510098298721206838 v2 Revised
+Find the woodworker's partner in a café in ((Oxbury)).
+
+key: quests/owl.talktogirlfriendagain._descriptionloc 1401151349187340567 v2 Revised
+DO NOT TELL the woodworker's partner in ((Oxbury)).
+
+key: quests/owl.talktoowldenizen2._descriptionloc -8016130866378128371 v1 Revised
+Report back to the art collector.
+
+key: quests/owl.talktoowldenizen3._descriptionloc -5213296729136808888 v1 Revised
+((Give)) the ((woodprint)) to the art collector in ((Furogawa)).
+
+key: quests/owl.talktoshopkeeper._descriptionloc 9049049255727376752 v1 Revised
+Ask the shopkeeper about the missing print.
+
+key: quests/owl.talktowoodworker._descriptionloc -7933398457672888415 v1 Revised
+Find the woodworker hanging around in ((Ambertown Park)).
+
+key: quests/owl.talktowoodworkeragain._descriptionloc 8754712364891979837 v2 Revised
+Tell the woodworker that his partner will take him back in.
+
+key: quests/owl.useforge._descriptionloc -6837561956274172187 v1 Revised
+Use the ((smithy)).
+

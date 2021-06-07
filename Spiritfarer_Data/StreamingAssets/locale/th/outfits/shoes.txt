@@ -1,0 +1,30 @@
+key: outfits/shoes.dark._name -1585307627968669816 v2 Revised
+Gray Shoes
+
+key: outfits/shoes.default._name -6962742408933202611 v2 Revised
+GreenShoes
+
+key: outfits/shoes.eshe._name 4185299916883513818 v2 Revised
+Shht'liehsh
+
+key: outfits/shoes.pastel._name -3323026413600654261 v2 Revised
+Pink Shoes
+
+key: outfits/shoes.periwinkle._name 4086146377425165170 v2 Revised
+Mauve Shoes
+
+key: outfits/shoes.purple._name -1349052402597717818 v2 Revised
+Admiral Shoes
+
+key: outfits/shoes.red._name -8787779270240023965 v2 Revised
+Denim Shoes
+
+key: outfits/shoes.specialaliceshoes._name -7921405133273637496 v2 Revised
+Walking Shoes
+
+key: outfits/shoes.thora._name -3223398750728360540 v2 Revised
+Jera's Shoes
+
+key: outfits/shoes.yellow._name -4928508145818384103 v3 Revised
+Water Shoes
+

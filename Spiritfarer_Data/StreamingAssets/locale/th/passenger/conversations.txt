@@ -1,0 +1,208 @@
+key: passenger/conversations._snake-buildheaterfirstreminder._independenttextbubbleloc -4262898927866012818 v1 Revised
+ซัมเมอร์อยู่ที่ไหน?
+
+key: passenger/conversations._snake-buildheaterfirstreminder.loctext 7731707609210748168 v2 Revised
+วันนี้คุณได้เจอซัมเมอร์แล้วหรือยัง?
+{|Expression_Pensive}ฉันคิดว่าเช้านี้เธอไม่ได้ออกไปไหน.
+{|Expression_Pensive}น่าแปลก. เธอมักจะตื่นเช้าเสมอ.
+
+key: passenger/conversations._snake-buildheaterthirdreminder._independenttextbubbleloc 5495766614743626279 v1 Revised
+เราต้องทำอะไรสักอย่าง...
+
+key: passenger/conversations._snake-buildheaterthirdreminder.loctext -1084485290238426755 v4 Revised
+{|Expression_Pensive}บ้านของเธอดูเหมือนจะมีบางอย่างผิดปกติ.
+{|Expression_Headnod}บางที ((Albert the Shipwright)) อาจช่วยเราได้?
+
+key: passenger/conversations.genericaccept-glue01.loctext -4930405607185447707 v2 Revised
+{Restless}ฉันรู้สึกไม่ค่อยดี.
+
+key: passenger/conversations.genericaccept-glue02.loctext -2387885202038683209 v2 Revised
+{Restless}ฉันปวดหัว.
+
+key: passenger/conversations.genericaccept-glue03.loctext -1169324613023258928 v2 Revised
+{Restless}ฉันมองไม่เห็น.
+
+key: passenger/conversations.genericaccept-glue04.loctext -4401179012960990833 v2 Revised
+{Restless}คุณเป็นใครนะ?
+
+key: passenger/conversations.genericrefuse.loctext 6369376080621419036 v1 Revised
+ขอบคุณ แต่ฉันไม่ต้องการอย่างนั้น.
+
+key: passenger/conversations.hedgehog-movehousedownintroduction._independenttextbubbleloc -2337657262983086085 v1 Revised
+ฉันขอคุยกับคุณได้ไหม?
+
+key: passenger/conversations.hedgehog-movehousedownintroduction.loctext -5308924042914301058 v2 Revised
+คุณอาจสังเกตเห็น แต่อลิซก็...
+{|Expression_Pensive}ดูเหมือนว่าเธอจะมีปัญหาในการไปไหนมาไหนใช่ไหม?
+{|Expression_Pensive}ฉันไม่คิดว่าเธอจะใช้บันไดได้อีกแล้ว...
+
+key: passenger/conversations.passenger_startsnailsevent._independenttextbubbleloc 7815603158932961130 v1 Revised
+เราได้อะไรที่มาที่นี่?
+
+key: passenger/conversations.passenger_startsnailsevent.loctext -4271535080911301859 v4 Revised
+[CancelTimer]สเตลล่า ฉันไม่คิดว่าอลิซจะพร้อมนะ.
+คุณยังต้องการเล่นหรือไม่?
+
+key: passenger/conversations.passenger_startsnailsevent_no.loctext -8987599772869007855 v2 Revised
+เอาล่ะไปกันเลย!
+
+key: passenger/conversations.passenger_startsnailsevent_yes.loctext -5467017510913309997 v2 Revised
+เอาล่ะไปกันเลย!
+
+key: passenger/conversations.passengerconversation-basilisk-morning._commenttext -2049377090928726183 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-bat-morning._commenttext 7725118365272647260 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-bull-morning._commenttext 426067282968145825 v2 Revised
+หวัดดี, เจ้าหนู.
+
+key: passenger/conversations.passengerconversation-butterflies-morning._commenttext -4174829436730957119 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-deer-morning._commenttext 8961882563872175117 v3 Revised
+สวัสดีตอนเช้า, สเตลล่า.
+
+key: passenger/conversations.passengerconversation-dog-morning._commenttext -4989365178258679568 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-fallingstarsatmosphere01.loctext -4014142651693194781 v2 Revised
+ฉันไม่ชอบสิ่งนี้.
+
+key: passenger/conversations.passengerconversation-fallingstarsatmosphere02.loctext 3086400146344775738 v2 Revised
+เกิดอะไรขึ้น?
+
+key: passenger/conversations.passengerconversation-frog-morning._commenttext -8786626464233182889 v2 Revised
+สวัสดีตอนเช้า, สเปราท์!
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder01._commenttext -8086763540607243589 v1 Revised
+เกวนอยู่ที่ไหน?
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder01._independenttextbubbleloc -1958466869603989494 v2 Revised
+เกวนอยู่ที่ไหน?
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder01.loctext 4140023929401315087 v2 Revised
+ฉันไม่ได้เจอเธอมาสักพักแล้ว.
+{|Expression_Pensive}คุณคิดว่าเธอหนีไปเหรอ?
+{|Expression_Pensive}บางทีอาจจะกลับไปที่บ้านพ่อแม่ของเธอ.
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder02._commenttext 2835617352776495542 v1 Revised
+เกวนไม่ได้อยู่ที่นี่.
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder02._independenttextbubbleloc -4433270033463234535 v2 Revised
+เกวนหายไปแล้ว.
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder02.loctext -663188061739526512 v4 Revised
+บางทีเธออาจจะไปที่เกาะที่ไหนสักแห่ง.
+{|Expression_Pensive}ที่ไหน... ฉันก็ไม่รู้.
+{|Expression_Pensive}เธอรู้จักสถานที่อื่นในโลกนี้ไหม?
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder03._commenttext -1235232652099213351 v1 Revised
+แปลก!
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder03._independenttextbubbleloc 7883569814991486282 v2 Revised
+แปลก!
+
+key: passenger/conversations.passengerconversation-gwenismissingreminder03.loctext 2727987490846636994 v4 Revised
+ฉันสงสัยว่าเกวนอยู่ที่ไหน.
+{|Expression_Pensive}บางทีเธออาจจะไปเที่ยวเพื่อพักสมอง?
+{|Expression_Pensive}คุณควรมองหาเพื่อนของคุณ, สเตลล่า.
+
+key: passenger/conversations.passengerconversation-hedgehog-morning._commenttext -7447745907539772244 v1 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-hyena-morning._commenttext -1244411352137865284 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-jellyfisheventafterrelease._independenttextbubbleloc -790655821196313126 v1 Revised
+โอ้!
+
+key: passenger/conversations.passengerconversation-jellyfisheventafterrelease.loctext -5610393110556057221 v4 Revised
+เกวน เพื่อนของคุณอาจจะหายไป แต่แมงกะพรุนพวกนี้ไม่ใช่.
+{|Expression_Pensive}สัญลักษณ์ที่ประตูของเธอกำลังทำอะไรบางอย่าง.
+{|Expression_Pensive}อาจเป็นกุญแจสำคัญในการต่อสู้กับแมงกะพรุนเหล่านี้.
+{|Expression_Headnod}ลองดูสิ.
+
+key: passenger/conversations.passengerconversation-lion-morning._commenttext 529253727279527359 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-lynx-morning._commenttext 2938762685436517308 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-mushroom-morning._commenttext 1615877957299668040 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-owl-morning._commenttext -262952167634065378 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passengerconversation-rain01.loctext 6923117437139109868 v1 Revised
+โอ้, ฝนนี่!
+มันจะไม่หยุดตกเลยเหรอ?
+
+key: passenger/conversations.passengerconversation-rain02.loctext 7120604087223384642 v2 Revised
+มันแย่มากเลยเหรอที่ฝนตก?
+
+key: passenger/conversations.passengerconversation-rain03.loctext 3697227881423051624 v3 Revised
+ฉันไม่ใช่แฟนพันธุ์แท้ของสภาพอากาศ!
+
+key: passenger/conversations.passengerconversation-readyforplay01.loctext -6624152551382287499 v1 Revised
+มาดูกันว่าเด็กคนนี้ทำอะไรได้บ้าง.
+
+key: passenger/conversations.passengerconversation-readyforplay02.loctext -2583002193036759753 v1 Revised
+เอาล่ะไปกันเลย.
+
+key: passenger/conversations.passengerconversation-sheepeatfood._independenttextbubbleloc -8668161948169650569 v1 Revised
+โอ้ ไม่!
+
+key: passenger/conversations.passengerconversation-sheepeatfood.loctext 4063729325985004409 v2 Revised
+แกะตัวนั้นกำลังกินพืชผลของคุณ!
+{|Expression_Surprise}โอ้, ดูสวนที่น่าสงสารนั่น.
+{|Expression_Headnod}คุณต้องนำพวกมันไปไว้ในกรง.
+
+key: passenger/conversations.passengerconversation-sheepeatfoodfield._independenttextbubbleloc -3262305131069181768 v2 Revised
+เยี่ยมมาก!
+
+key: passenger/conversations.passengerconversation-sheepeatfoodfield.loctext -2585648757240065023 v4 Revised
+แกะเหล่านี้กำลังกินสิ่งที่คุณปลูก.
+{|Expression_Pensive}พื้นที่นั้นจะปลูกอะไรไม่ขึ้นเลย ถ้าพวกเขาเอาแต่กินเป็นขนมแบบนั้น.
+{|Expression_Pensive}ไม่มีเกาะที่มีคอกกั้นอยู่ที่ไหนสักแห่งหรือ?
+
+key: passenger/conversations.passengerconversation-snake-morning._commenttext 6815465952533864412 v2 Revised
+สวัสดีตอนเช้า, คุณผึ้ง.
+
+key: passenger/conversations.passengerconversation-tinyowl-morning._commenttext 111922088169931886 v2 Revised
+สวัสดีตอนเช้า.
+
+key: passenger/conversations.passenger-dragoncancel.loctext 5331216822416717260 v1 Revised
+มันค่อนข้างน่ากลัวใช่มั้ย?
+
+key: passenger/conversations.passenger-dragonconfirm.loctext -153299909125419401 v1 Revised
+ได้เลย. เตรียมตัวให้พร้อม.
+
+key: passenger/conversations.passenger-notreadyatportal01.loctext 8975503505322998725 v3 Revised
+ได้โปรด, ออกไปจากที่นี่กันเถอะ.
+
+key: passenger/conversations.passenger-notreadyatportal02.loctext 4464499685815649456 v1 Revised
+ฉันไม่อยากอยู่ที่นี่.
+
+key: passenger/conversations.passenger-notreadyatportal03.loctext 1687244260268073450 v2 Revised
+เรามาทำอะไรที่นี่?
+เราควรออกไปนะ.
+
+key: passenger/conversations.passenger-notreadyatportal04.loctext -2733811883230631339 v2 Revised
+ฉันไม่คิดว่าฉันพร้อมจะอยู่ที่นี่.
+
+key: passenger/conversations.snakeconversation-dragonintro-generic._independenttextbubbleloc -9188305940549282379 v2 Revised
+
+key: passenger/conversations.snakeconversation-dragonintro-generic.loctext 6072068408818162302 v1 Revised
+ซัมเมอร์ยังหลับ, แต่มังกรก็ยังมา.
+คุณอยากให้ช่วยไหม?
+
+key: passenger/conversations.snakeconversation-dragonoutro._independenttextbubbleloc 199788855439477683 v1 Revised
+นั่นดูเหมือนจะช่วยได้.
+
+key: passenger/conversations.snakeconversation-dragonoutro.loctext 2467208935294128765 v1 Revised
+[start]What an impressive display, Stella!
+ฉันแน่ใจว่าซัมเมอร์จะอนุมัติ.
+

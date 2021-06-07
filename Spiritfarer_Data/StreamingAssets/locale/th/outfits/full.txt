@@ -1,0 +1,30 @@
+key: outfits/full.dark._name 6257965999610347593 v2 Revised
+Twilight Outfit
+
+key: outfits/full.default._name -6714599256483569080 v2 Revised
+Classic Outfit
+
+key: outfits/full.eshe._name -1026480703772051555 v3 Revised
+Eshe's Outfit
+
+key: outfits/full.pastel._name 3047854607649447441 v2 Revised
+Easter Outfit
+
+key: outfits/full.periwinkle._name 5544900522614524397 v2 Revised
+Periwinkle Outfit
+
+key: outfits/full.purple._name 2499975247337787638 v2 Revised
+Blackberry Outfit
+
+key: outfits/full.red._name -147981283780799772 v2 Revised
+Pirate Outfit
+
+key: outfits/full.specialaliceoutfit._name 3060836888164157691 v2 Revised
+Annie's Beach Outift
+
+key: outfits/full.thora._name 5494850666457211816 v2 Revised
+Thora's outfit
+
+key: outfits/full.yellow._name -765627901597938702 v2 Revised
+Sunday's Outfit
+

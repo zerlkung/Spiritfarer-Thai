@@ -1,0 +1,30 @@
+key: outfits/cat.dark._name 886023811857205808 v2 Revised
+ดัสตี้
+
+key: outfits/cat.default._name -3487807402046043454 v2 Revised
+วนิลา
+
+key: outfits/cat.eshe._name -5848078275034540647 v2 Revised
+เคทัก
+
+key: outfits/cat.pastel._name 6838014014911158234 v2 Revised
+เลดี้ แมรี่ แอน
+
+key: outfits/cat.periwinkle._name -66791489265537731 v1 Revised
+พริ๊นเซส
+
+key: outfits/cat.purple._name 6026546595636438005 v2 Revised
+พุดดิ้ง
+
+key: outfits/cat.red._name 568907531266756951 v1 Revised
+การ์โฟลด์
+
+key: outfits/cat.specialaliceoutfit._name 1825050197955716859 v1 Revised
+ทักซ์
+
+key: outfits/cat.thora._name -6321826547941125598 v2 Revised
+สโคจแคทท์
+
+key: outfits/cat.yellow._name 2359108144552137120 v2 Revised
+เฟิร์น
+

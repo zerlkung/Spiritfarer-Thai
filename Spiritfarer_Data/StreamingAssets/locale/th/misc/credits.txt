@@ -1,0 +1,156 @@
+key: misc/credits.endcredits.2dartist -2170628372771577508 v1 Revised
+2D Artist
+
+key: misc/credits.endcredits.addperformances -6259832625404004837 v1 Revised
+Additional Performances by 
+
+key: misc/credits.endcredits.addperformances_harmonica -3218787250185860937 v1 Revised
+Leo Bercoff (Harmonica)
+
+key: misc/credits.endcredits.addperformances_violin -4088895728530560921 v1 Revised
+Maria Grigoryeva (Violin)
+
+key: misc/credits.endcredits.addperformances_vocals 4952116927209274297 v1 Revised
+Maude Plante-Husaruk (Vocals)
+
+key: misc/credits.endcredits.animators 1990167121443844565 v1 Revised
+Animators
+
+key: misc/credits.endcredits.animdirector 4457219294354510104 v1 Revised
+Animation Director
+
+key: misc/credits.endcredits.artdirector 8905955111496041180 v1 Revised
+Art Director
+
+key: misc/credits.endcredits.ceo -5692288526184035603 v1 Revised
+President & Chief Executive Officer
+
+key: misc/credits.endcredits.commmanager 1830046548881956500 v1 Revised
+Community Manager
+
+key: misc/credits.endcredits.copyeditor -7669490609382861492 v1 Revised
+English Copy Editor 
+
+key: misc/credits.endcredits.creativedirector -7360015961532744835 v1 Revised
+Creative Director & Lead Writer
+
+key: misc/credits.endcredits.frenchloc 4096142882045886832 v1 Revised
+French Localization
+
+key: misc/credits.endcredits.inlovingmemory 453844937370926624 v1 Revised
+In Loving Memory of
+
+key: misc/credits.endcredits.japan_loc 2763575646195437559 v1 Revised
+Japanese Localization
+
+key: misc/credits.endcredits.japan_pub -372186424902264224 v1 Revised
+Japanese Publishing Support 
+
+key: misc/credits.endcredits.ld -7129458549789406496 v1 Revised
+Level Designer
+
+key: misc/credits.endcredits.ld_writers -6050163029242226123 v1 Revised
+Level Designers & Writers 
+
+key: misc/credits.endcredits.leadqa 4833931539897818426 v1 Revised
+Lead Development Quality Assurance Tester
+
+key: misc/credits.endcredits.locservices -5782584729956609378 v1 Revised
+Localization Services
+
+key: misc/credits.endcredits.markdirector -1372190581208011165 v1 Revised
+Marketing Director
+
+key: misc/credits.endcredits.musicby -1651933825967517148 v1 Revised
+Music by
+
+key: misc/credits.endcredits.originalsongs 4660314138425121366 v1 Revised
+Original Songs
+
+key: misc/credits.endcredits.originalsongs_performed1 1571243686992840749 v1 Revised
+Performed by Timbre Cierpke 
+
+key: misc/credits.endcredits.originalsongs_performed2 1705225809074392865 v1 Revised
+Performed by Maude Plante-Husaruk  
+
+key: misc/credits.endcredits.originalsongs_songname1 9142675236640069955 v1 Revised
+"What Will You Leave Behind (Orchestral Version)" 
+
+key: misc/credits.endcredits.originalsongs_songname2 1994505872681908734 v1 Revised
+"What Will You Leave Behind (Acoustic Version)"
+
+key: misc/credits.endcredits.originalsongs_writtenby1 3332224090217794471 v1 Revised
+Written by Maxime Lacoste-Lebuis
+
+key: misc/credits.endcredits.originalsongs_writtenby2 799911652942231321 v1 Revised
+Written by Maxime Lacoste-Lebuis
+
+key: misc/credits.endcredits.progdirector -529171045391259279 v1 Revised
+Programming Director
+
+key: misc/credits.endcredits.programmers -8520525700648613093 v1 Revised
+Programmers
+
+key: misc/credits.endcredits.prservices 3174764602512095867 v1 Revised
+Communications and PR Services
+
+key: misc/credits.endcredits.psy -4185918748802460804 v2 Revised
+Organizational Psychologist
+
+key: misc/credits.endcredits.qa -2215473432731697775 v1 Revised
+Quality Assurance Testers
+
+key: misc/credits.endcredits.research 2908078428879523219 v1 Revised
+World Building & Research Support
+
+key: misc/credits.endcredits.sound -6946966994084592039 v1 Revised
+Sound Design & Integration 
+
+key: misc/credits.endcredits.sound_designer1 8618471988068707643 v1 Revised
+Mathieu Beaudet - Senior Sound Designer
+
+key: misc/credits.endcredits.sound_designer2 -4626503250194743782 v1 Revised
+Ulric Corbeil Trudel - Senior Sound Designer
+
+key: misc/credits.endcredits.sound_designer3 714156854763077566 v1 Revised
+Isabelle Beaulieu - Junior Sound Designer
+
+key: misc/credits.endcredits.sound_lead -187332827816343038 v1 Revised
+Eric Shaw - Audio Lead
+
+key: misc/credits.endcredits.techart -3245502967289884222 v1 Revised
+Technical Artist
+
+key: misc/credits.endcredits.techdesigner -2705148305677451655 v1 Revised
+Senior Technical Designer 
+
+key: misc/credits.endcredits.thanks 7643976611051862868 v1 Revised
+Spiritfarer was made possible thanks to: 
+
+key: misc/credits.endcredits.thanks_alpha -2117801994229612286 v1 Revised
+Special thanks to our Alpha Testers:
+
+key: misc/credits.endcredits.thanks_beta -3014610850856832344 v1 Revised
+And our Beta Testers:
+
+key: misc/credits.endcredits.thanks_corpo 1926359037245004176 v1 Revised
+Spiritfarer was made possible thanks to
+
+key: misc/credits.endcredits.thanks_demo 8769452167661230746 v1 Revised
+And our Demo Testers:
+
+key: misc/credits.endcredits.thanks_friends 4188927719044627654 v1 Revised
+Special thanks to our Friends and Family who lovingly support us! 
+
+key: misc/credits.endcredits.thanks_tlgfans -6939047770421124907 v1 Revised
+And of course all our love to our Thunderlings across the world. You’re incredible and without your support, our studio would not exist. 
+
+key: misc/credits.endcredits.thunderlotus -3904262332701835567 v2 Revised
+Thunder Lotus
+
+key: misc/credits.endcredits.uiartist -6918155783636411821 v1 Revised
+UI Artist
+
+key: misc/credits.endcredits.viddirector 3576530253576839351 v1 Revised
+Video Director
+

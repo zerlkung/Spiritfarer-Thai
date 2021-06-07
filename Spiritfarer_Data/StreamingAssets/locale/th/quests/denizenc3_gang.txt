@@ -1,0 +1,12 @@
+key: quests/denizenc3_gang.flagquest._descriptionloc 1615584129523730476 v1 Revised
+((Play)) The Autumn End.
+
+key: quests/denizenc3_gang.gangwar._flavortextloc 5175769786114742812 v1 Revised
+These individuals are fighting for... I'm not sure about what... a song, maybe... anyway, I can't wait to see where this leads.
+
+key: quests/denizenc3_gang.gangwar._namekeyloc -9204619503052540650 v3 Revised
+Pauls vs. Simons
+
+key: quests/denizenc3_gang.maininventorycountquest._descriptionloc -5196377125420128432 v2 Revised
+Find the fight ((score)) in ((Nordweiler)).
+

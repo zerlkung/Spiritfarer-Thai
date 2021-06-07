@@ -1,0 +1,4 @@
+key: prompts/conversations.interact-stellalastvoyagemanualconversation.loctext -4726917209381663879 v4 Revised
+จากจุดนี้เป็นต้นไป, จะหันหลังกลับไม่ได้แล้ว.
+คุณต้องการดำเนินการต่อหรือไม่?
+

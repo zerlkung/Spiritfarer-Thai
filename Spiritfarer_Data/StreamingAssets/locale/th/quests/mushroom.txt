@@ -1,0 +1,165 @@
+key: quests/mushroom.buildshelf._descriptionloc 482662952939351492 v1 Revised
+((Build)) the ((cellar)).
+
+key: quests/mushroom.cookpaper._descriptionloc 8507778271429326145 v2 Revised
+((Cook)) ((sawdust)) & ((glue)) together
+
+key: quests/mushroom.crusherexperiment._descriptionloc 3231085393084900641 v2 Revised
+Use the ((crusher)) to experiment.
+
+key: quests/mushroom.drawing._flavortextloc -4134923004974353931 v1 Revised
+Stanley wants some paper. I have to remember my arts and craft class from grade school, I suppose. This kid is so full of energy.
+
+key: quests/mushroom.drawing._namekeyloc -863943412011477758 v1 Revised
+Junior Architectural Designer
+
+key: quests/mushroom.egg._descriptionloc -7733251928267434828 v2 Revised
+((Give)) Stanley a ((fakinhage)).
+
+key: quests/mushroom.egg._flavortextloc 7914973015090225370 v2 Revised
+Stanley says it's round and white and goes well with toast. What could it be?
+
+key: quests/mushroom.fabricplease._descriptionloc -3951587502854857724 v1 Revised
+((Give)) Stanley some ((linen fabric)).
+
+key: quests/mushroom.fabricplease._flavortextloc 4714564974958150532 v1 Revised
+Stanley wants something soft for our transformation guest house.
+
+key: quests/mushroom.fabricplease._namekeyloc 9165661161482005065 v2 Revised
+Big Boy's Room
+
+key: quests/mushroom.givepaper._descriptionloc -8203651027373584793 v2 Revised
+((Give)) Stanley ((homemade paper)).
+
+key: quests/mushroom.gotoportal._descriptionloc -5882909123359030592 v1 Revised
+Bring Stanley to the ((Everdoor)).
+
+key: quests/mushroom.gotoportal._flavortextloc -6789152798164964579 v1 Revised
+Stanley looks and sounds hurt by the reactions to his play. Rejection is never fun.
+
+key: quests/mushroom.gotoportal._namekeyloc -7902315174082255530 v1 Revised
+Last Vacation
+
+key: quests/mushroom.invitepassengerstoplay._descriptionloc -5967180737785530349 v1 Revised
+Invite your favourite friends to Stanley's play.
+
+key: quests/mushroom.kidsplay._flavortextloc 7189325747690375559 v1 Revised
+Stanley wants to throw a play. It's going to be a long day.
+
+key: quests/mushroom.kidsplay._namekeyloc -5615849607305536937 v1 Revised
+A Play In One Act
+
+key: quests/mushroom.lastvoyageplay._descriptionloc 5329876560648990378 v1 Revised
+Watch Stanley's play
+
+key: quests/mushroom.loomexperiment._descriptionloc -8264642607600889807 v1 Revised
+Use the ((loom)) to the extreme.
+
+key: quests/mushroom.mushroom._talktodescription -1771352170235258560 v2 Revised
+Talk to Stanley.
+
+key: quests/mushroom.needglue._descriptionloc -6480422447411040270 v1 Revised
+Find something sticky.
+
+key: quests/mushroom.needsawdust._descriptionloc -2468033473248199666 v1 Revised
+Find something itchy and coarse.
+
+key: quests/mushroom.playreaction._flavortextloc -7176555331284770651 v1 Revised
+Stanley wants to know if people liked his play. Let's see...
+
+key: quests/mushroom.playreaction._namekeyloc -4596531292005793798 v2 Revised
+The Reviews Are In!
+
+key: quests/mushroom.shelf._flavortextloc 3306553231907290812 v1 Revised
+Stanley wants to try fermentation. Let's let it rot in the ((cellar)).
+
+key: quests/mushroom.shelf._namekeyloc 1092372917121026260 v1 Revised
+It's Alive!
+
+key: quests/mushroom.smelterexperiment._descriptionloc -2258972619876694690 v3 Revised
+Use the ((foundry)) to have fun.
+
+key: quests/mushroom.smelterexperiment_glue._descriptionloc 2291142495868216657 v1 Revised
+((Smelt)) an ((old shoe)).
+
+key: quests/mushroom.smelterexperiment_glue._flavortextloc -7468714307271668516 v3 Revised
+He wants me to ((smelt)) an ((old shoe)). What a waste! I better start fishing or go buy one from Francis.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_1_1_1_1_1._descriptionloc 6593271469893858342 v2 ReadyForRevision
+Ask Beverly about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_1_1_2_1._descriptionloc -5553306334794659116 v1 Revised
+Ask Summer about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_1_2_1_1._descriptionloc -8731921262302499275 v1 Revised
+Ask Bruce & Mickey about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_1_3_1._descriptionloc -3157060706779245224 v1 ReadyForRevision
+Ask Jackie about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_2_1_1_1._descriptionloc -280139644990024425 v1 Placeholder
+Ask Cho about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_1_2_2_1._descriptionloc -7519033108462809822 v1 Revised
+Ask Giovanni about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_2_1_1_1._descriptionloc 887063346848850371 v1 Revised
+Ask Atul about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_2_2_1_1._descriptionloc -2087415224819002071 v2 Revised
+Ask Buck about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_1_2_3_1._descriptionloc -3874663522572167605 v1 Revised
+Ask Elena about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_2_1_1_1_1._descriptionloc 2719930398844436660 v1 Revised
+Ask Gustav about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_2_1_2_1_1._descriptionloc -6508025622830279820 v1 Placeholder
+Ask Daria about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_2_1_3_1._descriptionloc -5941766363405249845 v1 Revised
+Ask Alice about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_3_1_1_1_1._descriptionloc 4001191438267982088 v1 Revised
+Ask Gwen about Stanley's play.
+
+key: quests/mushroom.spiritprogressquest_1_3_1_2_1._descriptionloc -8111188610706552646 v1 Revised
+Ask Astrid about Stanley's play.
+
+key: quests/mushroom.stanexperiments._flavortextloc 8929872233017021629 v1 Revised
+Stanley has some interesting ideas about putting things inside my hard-earned stations. This kid is a part-time job!
+
+key: quests/mushroom.stanexperiments._namekeyloc 9087015489636033773 v1 Revised
+Dr. Splash's Strange Experiments
+
+key: quests/mushroom.talkaftercooking._descriptionloc 3173622779280515600 v1 Revised
+Talk to Stanley.
+
+key: quests/mushroom.tchotchkeplease._descriptionloc -3697935137101317183 v3 Revised
+((Give)) Stanley an old ((tchotchke)).
+
+key: quests/mushroom.tchotchkeplease._flavortextloc 9218095065501007345 v1 Revised
+Stanley wants something old. Is he getting married in there?
+
+key: quests/mushroom.tchotchkeplease._namekeyloc 2194282700760367236 v1 Revised
+Big Boy's Room
+
+key: quests/mushroom.useshelf._descriptionloc -1109236081082764912 v4 Revised
+((Ferment)) something in the ((cellar)).
+
+key: quests/mushroom.vistc1._descriptionloc -1672614982789126459 v1 Revised
+Head over to ((Oxbury)).
+
+key: quests/mushroom.what._flavortextloc 3504926510016155276 v1 Revised
+What is he talking about? What is a ((fakinhage))?
+
+key: quests/mushroom.what._namekeyloc 653479893842392717 v1 Revised
+Mysterious Word
+
+key: quests/mushroom.wonder._descriptionloc 2835902591068337282 v1 Revised
+((Give)) Stanley a ((fakinhage)).
+
+key: quests/mushroom.wonder._flavortextloc -5576841927708577703 v2 Revised
+What is he talking about? What is a fakinhage? A breakfast food?
+

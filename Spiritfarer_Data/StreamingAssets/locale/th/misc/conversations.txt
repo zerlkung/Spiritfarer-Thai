@@ -1,0 +1,6 @@
+key: misc/conversations.defaultconversation.loctext 8274501754731648267 v1 Revised
+...
+
+key: misc/conversations.mourningconversation.loctext 97812071149782382 v2 Revised
+{Expression_Sad}...
+

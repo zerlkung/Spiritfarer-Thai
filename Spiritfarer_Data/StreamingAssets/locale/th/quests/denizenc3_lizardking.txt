@@ -1,0 +1,18 @@
+key: quests/denizenc3_lizardking.badsubject._descriptionloc -1723073824587731198 v1 Revised
+Talk to the Lizard King.
+
+key: quests/denizenc3_lizardking.badsubject._flavortextloc 2103702713538591763 v1 Revised
+I did bad, I think.
+
+key: quests/denizenc3_lizardking.badsubject._namekeyloc -6288996496344583874 v1 Revised
+Terrible Subject
+
+key: quests/denizenc3_lizardking.carrots._descriptionloc 6980587876081084912 v1 Revised
+Find 20 ((carrots)).
+
+key: quests/denizenc3_lizardking.carrots._flavortextloc 5508931772293167074 v1 Revised
+I've never heard and seen this Lizard King. Not a fan, to be honest.
+
+key: quests/denizenc3_lizardking.carrots._namekeyloc -1611487124120207199 v1 Revised
+Loyal Subject
+

@@ -1,0 +1,81 @@
+key: quests/lion.buildlounge.description -7645545403808319015 v3 Revised
+((Build)) the ((lounge))
+
+key: quests/lion.buildlounge.flavortext -6833514788442822961 v1 Revised
+A ((lounge)) does sound nice. A calm place for the passengers. Maybe they'll stop asking me for things all the time.
+
+key: quests/lion.buildlounge.name 4415358152275060174 v3 Revised
+A Place for Strangers
+
+key: quests/lion.buymeat._descriptionloc 4151240047295988255 v7 Revised
+Find ((roses)) in ((Ambertown Park)).
+
+key: quests/lion.buytea._descriptionloc 5568724965115759768 v3 Revised
+((Buy)) a ((box of chocolate)) from the shop in ((Bottom Line Corp.))
+
+key: quests/lion.explorea1._descriptionloc -2712547000832780973 v3 Revised
+Head over to ((Bottom Line Corp.))
+
+key: quests/lion.explorebl._descriptionloc 2964248951991214382 v5 Revised
+Head over to ((Ambertown Park)).
+
+key: quests/lion.explorec1._descriptionloc -4455130835742902139 v1 Revised
+Head over to ((Oxbury)).
+
+key: quests/lion.givemeat._descriptionloc 4635229558355497859 v5 Revised
+((Give)) ((roses)) to Giovanni.
+
+key: quests/lion.givetea._descriptionloc 3986857525059093701 v3 Revised
+((Give)) the ((box of chocolate)) to Giovanni.
+
+key: quests/lion.gotoportal._descriptionloc -9050707369839554174 v3 Revised
+Bring Giovanni to the ((Everdoor)).
+
+key: quests/lion.gotoportal._flavortextloc -3046961172963355341 v1 Revised
+Giovanni needs a ride. I don't really feel like it, but he looks tired.
+
+key: quests/lion.gotoportal._namekeyloc 7925026331766183153 v1 Revised
+One Last Drink for the Road
+
+key: quests/lion.indiscreetmeeting._flavortextloc -883975819793832628 v1 Revised
+Why do I always get babysitting duty? I guess I'll follow Giovanni around!
+
+key: quests/lion.indiscreetmeeting._namekeyloc 8556919623854040475 v1 Revised
+Indiscreet Meeting
+
+key: quests/lion.lion._talktodescription -4558692953400169983 v1 Revised
+Talk to Giovanni.
+
+key: quests/lion.meetinglover._descriptionloc -2342626200788232062 v1 Revised
+Follow Giovanni on ((Oxbury)).
+
+key: quests/lion.moreshopping._flavortextloc 6023447784727251255 v2 Revised
+Roses? Such a delicate attention! Astrid will be delighted!
+
+key: quests/lion.moreshopping._namekeyloc -6189542962161215838 v1 Revised
+Indiscreet Shopping
+
+key: quests/lion.recruit.description 1364219916697530204 v2 Revised
+Talk to Giovanni.
+
+key: quests/lion.recruit.flavortext -9223307344348142982 v1 Revised
+This old man looks familiar. But, where have I seen him?
+
+key: quests/lion.recruit.name -548869904067595374 v3 Revised
+Familiar Face
+
+key: quests/lion.seetheworld._flavortextloc -6114391980040532838 v1 Revised
+Shopping? Really? He's definitely more romantic than what I could've imagined!
+
+key: quests/lion.seetheworld._namekeyloc 3124014296728177783 v1 Revised
+Indiscreet Shopping
+
+key: quests/lion.talkonboat._descriptionloc 2344846171536387462 v2 Revised
+Talk to Giovanni on the boat.
+
+key: quests/lion.welcomelion.description -5014293144852932285 v2 Revised
+Welcome your new passenger
+
+key: quests/lion.welcomelion.name -489855873228763465 v3 Revised
+Welcome Aboard
+

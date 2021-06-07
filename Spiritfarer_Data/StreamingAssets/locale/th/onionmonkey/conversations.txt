@@ -1,0 +1,237 @@
+key: onionmonkey/conversations.monkeyquest_basilisk1._displayname -8602471515550773421 v2 Revised
+Visions of Oil
+
+key: onionmonkey/conversations.monkeyquest_cereals_t1._displayname 8608250923153613720 v4 Revised
+Cup o' Tea, Guvnor?
+
+key: onionmonkey/conversations.monkeyquest_cereals_t2._displayname 4635345354464350277 v3 Revised
+Spitting Sunflower Seeds
+
+key: onionmonkey/conversations.monkeyquest_cereals_t3._displayname -6369536989576490023 v2 Revised
+Sugar Rush (of Doom)
+
+key: onionmonkey/conversations.monkeyquest_cereals_t4._displayname 6499721413619292615 v2 Revised
+Garlic Breath
+
+key: onionmonkey/conversations.monkeyquest_cereals_t5._displayname 4835067461427049760 v2 Revised
+The Source of Glims is Tomatoes
+
+key: onionmonkey/conversations.monkeyquest_dog1._displayname -5708112331819194105 v6 Revised
+Elena's Lesson
+
+key: onionmonkey/conversations.monkeyquest_dog2._displayname 7229461411219197336 v4 Revised
+Elena's Demand
+
+key: onionmonkey/conversations.monkeyquest_dog3._displayname 4669166239372627982 v4 Revised
+Elena's Stipulation
+
+key: onionmonkey/conversations.monkeyquest_eventtogem_t1._displayname 1806401548460270187 v3 Revised
+Elemental Transmutation
+
+key: onionmonkey/conversations.monkeyquest_eventtogem_t2._displayname -1981713743207839931 v3 Revised
+Sparkle for Days
+
+key: onionmonkey/conversations.monkeyquest_eventtogem_t3._displayname -8123999233115574003 v3 Revised
+Opaleantologuous
+
+key: onionmonkey/conversations.monkeyquest_eventtogem_t4._displayname 7475341994186155619 v4 Revised
+Thyst But A Flesh Wound
+
+key: onionmonkey/conversations.monkeyquest_eventtogem_t5._displayname -8849474929247171112 v3 Revised
+Diamonds Are Everybody's Best Friend
+
+key: onionmonkey/conversations.monkeyquest_fish_to_honey._displayname 6157299589814111476 v4 Revised
+Honey, I Shrunk the Fishes
+
+key: onionmonkey/conversations.monkeyquest_fish_to_maplesyrup._displayname 3393985513159110126 v5 Revised
+Sugar Shack's Delight
+
+key: onionmonkey/conversations.monkeyquest_fruits_to_peach._displayname -4313558119886081028 v5 Revised
+Peaches & Cream
+
+key: onionmonkey/conversations.monkeyquest_h1map._displayname 3463168398738543257 v3 Revised
+Saturday Night Shopping List
+
+key: onionmonkey/conversations.monkeyquest_smeltermap._displayname -9121707179579200507 v3 Revised
+A Little Bit of Sun
+
+key: onionmonkey/conversations.monkeyquest_unique_takeout_t1._displayname 6649764850228145218 v3 Revised
+Healthy Menu
+
+key: onionmonkey/conversations.monkeyquest_unique_takeout_t2._displayname -877968710502404011 v4 Revised
+Too Many Items on the Menu
+
+key: onionmonkey/conversations.monkeyquest_unique_takeout_t3._displayname 6898562660092445623 v4 Revised
+Good Cholesterol! Bad Cholesterol! 
+
+key: onionmonkey/conversations.monkeyquest_unique_takeout_t4._displayname -467664851682426411 v4 Revised
+Greasy Spoon
+
+key: onionmonkey/conversations.monkeyquest_unique_takeout_t5._displayname -6467231434211414312 v3 Revised
+Royalty Diner
+
+key: onionmonkey/conversations.monkeyquest_veggies_t1._displayname -181287337934872723 v4 Revised
+Let's Turn Up the Char
+
+key: onionmonkey/conversations.monkeyquest_veggies_t2._displayname 4320689691200232129 v3 Revised
+Ants on a Log
+
+key: onionmonkey/conversations.monkeyquest_veggies_t3._displayname -1175263586029200634 v3 Revised
+Potatiolly Correct!
+
+key: onionmonkey/conversations.monkeyquest_veggies_t4._displayname -1179305900728033975 v5 Revised
+O Nion... Not That!
+
+key: onionmonkey/conversations.monkeyquest_veggies_t5._displayname 2767773756685163759 v2 Revised
+Low Cal, High Glims!
+
+key: onionmonkey/conversations.monkeyquest_ziplinematerial._displayname -8420062146448119904 v1 Revised
+Zip & Away
+
+key: onionmonkey/conversations.onionmonkeyconversation-allabilitiesacquired_h1validation._independenttextbubbleloc -3328613530341439554 v2 Revised
+Ah!
+
+key: onionmonkey/conversations.onionmonkeyconversation-allabilitiesacquired_h1validation.loctext -1524797535260911653 v5 Revised
+{|Expression_Surprise}I've got a favour to ask.
+Yes, yes.
+Me, a favour!
+{|Expression_Pensive}How odd it must be for you.
+Nobody must ask you for favours on that giant boat of yours.
+Listen!
+As a wandering merchant, I'm always looking for the next customer.
+{|Expression_Idle_Neutral}I can't really do the simple things in life.
+{|Expression_Idle_Neutral}I need to always be ready.
+Now...
+I have an important ((errand)) for you.
+I need...
+{|Expression_Surprise}-=I need you to do my groceries.=- 
+I know, I know.
+I just can't live off fish and seagulls for eternity.
+Go have a look.
+{|Expression_Pensive}My grocery list might seem strange to you.
+{|Expression_Pensive}I assure you, it's very common where I'm from.
+
+key: onionmonkey/conversations.onionmonkeyconversation-basiliskerrandintroduction._independenttextbubbleloc -8075811714478966380 v2 Revised
+Ah yes...
+
+key: onionmonkey/conversations.onionmonkeyconversation-basiliskerrandintroduction.loctext -3642683451906857940 v5 Revised
+Oh!
+Haha, a merry adventure!
+Oh! That's right!
+{|Expression_Idle_Neutral}I need to get into character, and dust a bit my old method acting.
+{|Expression_Idle_Neutral}Give me a minute.
+{|Expression_Unhappy}-=Hum...=-, -=Hum...=-
+{|Expression_Unhappy}+=La la la la!!!=+
+{|Expression_Unhappy}-=Rugle, rugle, rugle...=-
+{|Expression_Idle_Neutral}Hello, my dear.
+{|Expression_Idle_Neutral}Welcome to my humble embarkation!
+{|Expression_Idle_Neutral}I am Phyllis!
+{|Expression_Idle_Neutral}I pillage villages and steal from the corpse of the day!
+{|Expression_Idle_Neutral}I have their things!
+{|Expression_Idle_Neutral}The things of the... dead people!
+{|Expression_Idle_Neutral}-=Buck, are you sure about this?=-
+{|Expression_Idle_Neutral}-=Sounds macabre...=-
+{|Expression_Idle_Neutral}If you find me more of these objects, I shall reward you!
+{|Expression_Idle_Neutral}And shower you with treasures untold!
+{|Expression_Idle_Neutral}-=Phew, that was harder than I thought.=-
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}How was it?
+{|Expression_Idle_Neutral}Good, yes?
+{|Expression_Unhappy}I think I nailed it.
+{|Expression_Unhappy}Buck wanted a sombre tone.
+{|Expression_Unhappy}I think that came across!
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestintroduction._independenttextbubbleloc 5006939767679126323 v4 Revised
+Over here.
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestintroduction.loctext 4993940539702478187 v5 Revised
+{|Expression_Pensive}If you ever have any clutter, I'm always interested.
+{|Expression_Happy}Maybe we could even trade.
+{|Expression_Headnod}You give me your useless objects, I'll give you mine.
+Just the thought of new curios makes my head spin.
+I've neatly organized my stock in ((errands)).
+{|Expression_Headnod}Take a look for yourself.
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestskipconversation._independenttextbubbleloc -3463461352298122869 v2 Revised
+Good show!
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestskipconversation.loctext 2046620492400205475 v2 Revised
+You learn quick, fellow sailor.
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestvalidation._independenttextbubbleloc 7984470421997666571 v2 Revised
+Well done!
+
+key: onionmonkey/conversations.onionmonkeyconversation-monkeyquestvalidation.loctext 4215093390877666388 v3 Revised
+You completed your first errand.
+What a great haul.
+There is plenty more to do, if you ever feel like it.
+{|Expression_Headnod}I'll always be around.
+
+key: onionmonkey/conversations.onionmonkeyconversation-rumorsreminder.loctext -1541228339467789888 v1 Revised
+Go see that location I've shown you.
+
+key: onionmonkey/conversations.onionmonkeyconversation-sundeckintroduction._independenttextbubbleloc -8570471150096928849 v2 Revised
+Ah!
+
+key: onionmonkey/conversations.onionmonkeyconversation-sundeckintroduction.loctext 8850115259505190483 v7 Revised
+You found your first treasure map.
+You might find something interesting from it.
+{|Expression_Happy}Look inside, you'll find coordinates for some treasure.
+
+key: onionmonkey/conversations.onionmonkeyrumor_intro._independenttextbubbleloc -1032385806466027693 v1 Revised
+Wait!
+
+key: onionmonkey/conversations.onionmonkeyrumor_intro.loctext 8905289818694609423 v3 Revised
+Your ship is so sparse and austere.
+{|Expression_Pensive}You have nothing.
+{|Expression_Pensive}You need paintings, greenery, chandeliers, music!
+{|Expression_Pensive}You need friends and enemies to bask in your beautiful mess!
+{|Expression_Pensive}I can't stand to see a boat so empty.
+Let me give you a hand.
+You should go out and meet new people.
+{|Expression_Happy}I've seen people hang around there.
+
+key: onionmonkey/conversations.onionmonkeytalk-default._independenttextbubbleloc 1429715462374779260 v2 Revised
+Over here!
+
+key: onionmonkey/conversations.onionmonkeytalk-default.loctext -7464640295966841021 v5 Revised
+I'm immensely chipper to see a dynamic young lady being so hard at work!
+{|Expression_Idle_Neutral}Not that Charon wasn't a true professional, but his manners were...
+{|Expression_Idle_Neutral}Well, a bit... 
+{|Expression_Idle_Neutral}Cold, if you know what I mean.
+{|Expression_Unhappy}And he kept everything he found!
+{|Expression_Unhappy}What a pity.
+But you're here now!
+Huzzah, if I daresay!
+Oh, and, don't fret, budding mariner!
+If ever needed, old Francis will never be too far!
+{|Expression_Idle_Neutral}But don't let me be an impendiment to your appetite for adventure!
+{|Expression_Idle_Neutral}Go on, set sail, little bluejacket!
+
+key: onionmonkey/conversations.onionmonkeytalk-introduction._independenttextbubbleloc 2202080495619307501 v1 Revised
+Jump down!
+
+key: onionmonkey/conversations.onionmonkeytalk-introduction.loctext 7197622754224456252 v6 Revised
+{|Expression_Surprise}Hello there, young lady!
+{|Expression_Headnod}I guess you must be the new Spiritfarer!
+Happy to make your acquaintance.
+{|Expression_Headnod}I’m Francis!
+{|Expression_Pensive}You can say I'm a sort of wandering merchant!
+{|Expression_Pensive}See... I’m very fond of "Things"!
+{|Expression_Pensive}Objects, Curios, Tchotchkes...
+{|Expression_Surprise}I just buy everything!
+{|Expression_Idle_Neutral}Simply put, I will buy anything you don't want anymore.
+{|Expression_Idle_Neutral}I'm sure you've come across a few valuables treasures already!
+{|Expression_Idle_Neutral}So tell me, what is it you want to part with?
+
+key: onionmonkey/conversations.onionmonkeytalk-newerrand._independenttextbubbleloc 3956569151065113272 v3 Revised
+Something new!
+
+key: onionmonkey/conversations.onionmonkeytalk-newerrand.loctext 9177063630580194902 v6 Revised
+Francis says...
+It's your lucky day!
+How lucky you must be.
+{|Expression_Happy}I've got a new ((errand)) just for you.
+Fresh off the presses!
+Have a look-see.
+

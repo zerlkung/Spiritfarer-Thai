@@ -1,0 +1,273 @@
+key: misc/spirits.basiliskdata._localizeddefaultname 470384818263133684 v1 Revised
+บัค
+
+key: misc/spirits.basiliskdata.moodperks.content -5801614616237770422 v1 Revised
+เก็บเห็ด
+
+key: misc/spirits.basiliskdata.moodperks.ecstatic -2717316778878319797 v1 Revised
+เก็บโพชั่น XP
+
+key: misc/spirits.basiliskdata.moodperks.happy -3691257705352007482 v1 Revised
+ให้ของว่าง
+
+key: misc/spirits.batdata._localizeddefaultname 1106582084231697758 v1 Placeholder
+ดาเรีย
+
+key: misc/spirits.bulldata._localizeddefaultname 9200862050900601888 v1 Revised
+บรูซและมิกกี้
+
+key: misc/spirits.bulldata.locname 4962016939148587109 v1 Revised
+พลเมืองเดนิเซ็น
+
+key: misc/spirits.bulldata.moodperks.content -2110848192942777438 v2 Revised
+พูดอะไรที่มีความหมาย.
+
+key: misc/spirits.bulldata.moodperks.ecstatic -4090031872788818017 v1 Revised
+เก็บเกี่ยวแร่พัลซาร์
+
+key: misc/spirits.bulldata.moodperks.happy -2164716030586325697 v1 Revised
+เก็บเกี่ยวขนสัตว์
+
+key: misc/spirits.bulldata.moodperks.sad -3045548675112162497 v2 Revised
+เอาแกะออกจากคอกกันเถอะ
+
+key: misc/spirits.butterfliesdata._localizeddefaultname -4522296022741293448 v2 Revised
+ลิลลี่
+
+key: misc/spirits.deerdata._localizeddefaultname -5205255201893972396 v2 Revised
+เกวน
+
+key: misc/spirits.deerdata.locname -8318842431283665418 v2 Revised
+ท่าเรือเดนิเซ็น
+
+key: misc/spirits.deerdata.moodperks.content 6285339629708552168 v1 Revised
+ร้านค้าสำหรับเส้นใย
+
+key: misc/spirits.deerdata.moodperks.ecstatic -1834959616195671486 v1 Revised
+เก็บเกี่ยวเส้นใย
+
+key: misc/spirits.deerdata.moodperks.happy -6252800969458044771 v2 Revised
+ร้านค้าสำหรับด้าย
+
+key: misc/spirits.deerdata.moodperks.happy_2 -8953676459577300415 v1 Revised
+ใช้เครื่องทอผ้า
+
+key: misc/spirits.denizen -7075057133758793301 v7 Revised
+เดนิเซ็น
+
+key: misc/spirits.denizen_a1data._localizeddefaultname -3494823365813232512 v3 Revised
+ไกด์นำเที่ยวฟูโรกาวะ
+
+key: misc/spirits.denizen_adriftdata._localizeddefaultname 6993244443742180445 v1 Revised
+แอดริฟท์ เดนิเซ็น
+
+key: misc/spirits.denizen_ar1data._localizeddefaultname 9213692405460208711 v1 Revised
+ไกด์นำเที่ยวกูเรนิว
+
+key: misc/spirits.denizen_b2data._localizeddefaultname 4297789921380263781 v1 Revised
+วิลล่าพันตรีการ์ดเนอร์ 
+
+key: misc/spirits.denizen_bl_producerdata._localizeddefaultname -5639289424466854409 v1 Revised
+ผู้ผลิตภาพยนตร์ท่าเรือทะเลเหนือ
+
+key: misc/spirits.denizen_br4data._localizeddefaultname -127943618941801797 v1 Revised
+Kaltstein Mines Guard
+
+key: misc/spirits.denizen_c1_diceboysdata._localizeddefaultname 464184388931345270 v2 Revised
+ลูกเรือของ Oxbury Rap
+
+key: misc/spirits.denizen_c1_lemonadedata._localizeddefaultname -3038472947077424963 v1 Revised
+พ่อค้าแห่ง Oxbury
+
+key: misc/spirits.denizen_c3_gangdata._localizeddefaultname -7759757243587915728 v1 Revised
+แฟนเพลงของ Edgeborough Lane
+
+key: misc/spirits.denizen_c3_lizardkingdata._localizeddefaultname 3112089346075850610 v1 Revised
+ราชา Edgeborough Lane
+
+key: misc/spirits.denizen_cr2data._localizeddefaultname 2135257830597435681 v1 Revised
+นักธรรมชาติวิทยา Ambertown Park
+
+key: misc/spirits.denizen_dr4_berrydata._localizeddefaultname -6994274252098454162 v1 Revised
+Obscure Canopy Berry Picker
+
+key: misc/spirits.denizen_x_cleanupdata._localizeddefaultname -964485110940175869 v3 Revised
+ปรับปรุงเกาะ Alt Harbor
+
+key: misc/spirits.dogdata._localizeddefaultname -4888800772131436120 v1 Revised
+เอเลน่า
+
+key: misc/spirits.dogdata.moodperks.sad 4641980654739295849 v1 Revised
+ให้ข้อเสนอแนะที่รุนแรง.
+
+key: misc/spirits.frogdata._localizeddefaultname 252866073953527248 v1 Revised
+อาทูล
+
+key: misc/spirits.frogdata.fooddislikes -8084854869006093052 v2 Revised
+ไม่มีอะไร
+
+key: misc/spirits.frogdata.foodlikes 1304184096783331192 v2 Revised
+ทุก ๆ อย่าง!
+
+key: misc/spirits.frogdata.moodperks.content -8804665560702260157 v1 Revised
+ซ่อมแซมอาคารบนเรือ.
+
+key: misc/spirits.frogdata.moodperks.ecstatic -5733607307405147101 v1 Revised
+เล่นเพลงสนุกสนาน.
+
+key: misc/spirits.frogdata.moodperks.happy -3209946318126304950 v2 Revised
+เก็บเกี่ยวไม้.
+
+key: misc/spirits.frogdata.moodperks.happy_2 5520422212911836483 v1 Revised
+ทำไม้กระดาน.
+
+key: misc/spirits.furogawa_denizen 3253011348050130946 v2 Revised
+เมืองเดนิเซ็น
+
+key: misc/spirits.furogawa_village_denizen -8109546825815158454 v3 Revised
+นักสะสมศิลปะเดนิเซ็น
+
+key: misc/spirits.hedgehogdata._localizeddefaultname 802549351783720129 v1 Revised
+อลิซ
+
+key: misc/spirits.hedgehogdata.moodperks.content_1 5614064531058158614 v2 Revised
+นำอาหารที่ไหม้เกรียมออกไป.
+
+key: misc/spirits.hedgehogdata.moodperks.content_2 -6240075615151526445 v1 Revised
+ทำอาหารให้คุณ.
+
+key: misc/spirits.hedgehogdata.moodperks.ecstatic_1 3902805003377548611 v2 Revised
+เล่นเพลงสนุกสนาน.
+
+key: misc/spirits.hedgehogdata.moodperks.ecstatic_2 -5762469272244050361 v2 Revised
+ซุบซิบเกี่ยวกับสูตรอาหาร.
+
+key: misc/spirits.hedgehogdata.moodperks.happy_1 6354725670948417237 v2 Revised
+ซื้อส่วนผสม.
+
+key: misc/spirits.hedgehogdata.moodperks.happy_2 421716839266876203 v1 Revised
+เลือกผลไม้สด.
+
+key: misc/spirits.hedgehogdata.moodperks.sad -3644374027483606700 v1 Revised
+พูดอะไรที่มีความหมาย.
+
+key: misc/spirits.hummingberg_denizen -6481738366512043282 v2 Revised
+ที่ราบเดนิเซ็น
+
+key: misc/spirits.hyenadata._localizeddefaultname 6852470719726082610 v1 Placeholder
+แจ็คกี้
+
+key: misc/spirits.liondata._localizeddefaultname -6800300849177787853 v1 Revised
+จิโอวานนี
+
+key: misc/spirits.liondata.locname -2727764627779370760 v1 Revised
+Galavanting เดนิเซ็น
+
+key: misc/spirits.liondata.moodperks.content 4643364022573148622 v1 Revised
+จีบผู้โดยสารคนอื่น.
+
+key: misc/spirits.liondata.moodperks.ecstatic -5046320271104724524 v3 Revised
+เก็บเกี่ยวหินดาวหาง.
+
+key: misc/spirits.liondata.moodperks.happy -4778864620368193470 v1 Revised
+ให้อัญมณีแก่คุณ.
+
+key: misc/spirits.liondata.moodperks.sad -2183767303436928767 v1 Revised
+นอนอยู่บนโซฟา.
+
+key: misc/spirits.lynxdata._localizeddefaultname -4416897997603893202 v1 Revised
+อัสตริด
+
+key: misc/spirits.lynxdata.moodperks.content -3445597612565268915 v1 Revised
+เก็บเกี่ยวแร่.
+
+key: misc/spirits.lynxdata.moodperks.ecstatic -3695379707688385331 v1 Revised
+ปลาสำหรับคุณ.
+
+key: misc/spirits.lynxdata.moodperks.happy 1712917252708688760 v1 Revised
+ใช้โรงหลอม.
+
+key: misc/spirits.lynxdata.moodperks.sad -7258864756831780112 v1 Revised
+พูดอะไรที่มีความหมาย.
+
+key: misc/spirits.moodperks.verysad -5883503520746851973 v1 Revised
+ไม่ต้องทำอะไรเลย.
+
+key: misc/spirits.mushroomdata._localizeddefaultname 8571803311431547719 v1 Revised
+สแตนลีย์
+
+key: misc/spirits.mushroomdata.locname -4716948119873357829 v2 Revised
+สวนเดนิเซ็น
+
+key: misc/spirits.mushroomdata.moodperks.content -3376557339944669888 v1 Revised
+นำขยะที่ไร้ประโยชน์มาให้คุณ.
+
+key: misc/spirits.mushroomdata.moodperks.ecstatic 3920072947567346196 v1 Revised
+ติดตามคุณไปรอบ ๆ.
+
+key: misc/spirits.mushroomdata.moodperks.happy -3010069190688466581 v1 Revised
+ให้ภาพวาดที่ดี.
+
+key: misc/spirits.mushroomdata.moodperks.sad 6797293159714088356 v1 Revised
+ทำลายสถานี.
+
+key: misc/spirits.onionmonkeydata._localizeddefaultname 44487684956584226 v1 Revised
+ฟรานซิสผู้กักตุน
+
+key: misc/spirits.owldata._localizeddefaultname -1776778628133098247 v1 Revised
+กุสตาฟ
+
+key: misc/spirits.owldata.moodperks.content -5052412965903332837 v1 Revised
+ให้สิ่งของมีค่าแก่คุณ.
+
+key: misc/spirits.owldata.moodperks.ecstatic 79503699404420179 v1 Revised
+ทำซูชิ.
+
+key: misc/spirits.owldata.moodperks.happy -8527356687356230390 v1 Revised
+เล่นเพลงที่มีความสุข.
+
+key: misc/spirits.owldata.moodperks.sad 8400172848656234823 v1 Revised
+เล่นเพลงเศร้า.
+
+key: misc/spirits.pond_denizen -4539161954099481351 v1 Revised
+พอนด์เดนิเซ็น
+
+key: misc/spirits.protest_denizen -2288003838213051259 v2 Revised
+Protest เดนิเซ็น
+
+key: misc/spirits.sealdata._localizeddefaultname 5256284323316766072 v1 Revised
+อเล็กซ์
+
+key: misc/spirits.sharkdata._localizeddefaultname -2355639330714812587 v1 Revised
+อัลเบิร์ตช่างต่อเรือ
+
+key: misc/spirits.snakedata._localizeddefaultname 520936638088341104 v1 Revised
+ซัมเมอร์
+
+key: misc/spirits.snakedata.moodperks.ecstatic -1863535764603533251 v2 Revised
+ซื้อเมล็ดพันธุ์
+
+key: misc/spirits.snakedata.moodperks.happy 3140241507648169644 v1 Revised
+เล่นเพลงให้พืชฟัง.
+
+key: misc/spirits.stelladata._localizeddefaultname -3446009453931975289 v2 Revised
+สเตลล่า & แดฟโฟดิล
+
+key: misc/spirits.tinyowldata._localizeddefaultname 2497402315295067114 v1 Placeholder
+แดฟนี
+
+key: misc/spirits.turtle_onedata._localizeddefaultname 438806490544195957 v1 Revised
+อัลก้า
+
+key: misc/spirits.turtle_threedata._localizeddefaultname -5736467044078218653 v1 Revised
+มาชา
+
+key: misc/spirits.turtle_twodata._localizeddefaultname -5826785088582842655 v1 Revised
+อิรีน่า
+
+key: misc/spirits.uptight_denizen 521866130801693726 v1 Revised
+Uptight เดนิเซ็น
+
+key: misc/spirits.walrusdata._localizeddefaultname 8469462024861161638 v1 Revised
+ซูซานนักสะสม
+

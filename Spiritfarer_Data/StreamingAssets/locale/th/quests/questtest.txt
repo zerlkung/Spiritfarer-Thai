@@ -1,0 +1,6 @@
+key: quests/questtest.buildingquest.name 8543865628326462208 v2 Placeholder
+Building Quest
+
+key: quests/questtest.flagquest.name -7222260137280076891 v2 Placeholder
+Flag Quest
+

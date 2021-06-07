@@ -1,0 +1,36 @@
+key: quests/shark.building101.flavortext 1955130211438237480 v2 Revised
+If this keeps up, I'll be an architect in no time.
+
+key: quests/shark.building101.name -61605741210151263 v2 Revised
+Building 101
+
+key: quests/shark.buildmailbox._flavortextloc 8622277163632883714 v2 Revised
+I should have letters waiting for me in my new mailbox.
+
+key: quests/shark.buildmailbox._namekeyloc 5441165507946388371 v1 Revised
+You've Got Mail!
+
+key: quests/shark.buildnewtemphouse._descriptionloc 2554486383439724752 v1 ReadyForRevision
+((Build)) a new ((guest house)).
+
+key: quests/shark.buildnewtemphouse._flavortextloc 6851134651541358334 v1 ReadyForRevision
+Albert makes a good point! I should be have a ((guest house)) for my new passengers that don't have a home yet.
+
+key: quests/shark.buildnewtemphouse._namekeyloc -1015535356326716868 v1 ReadyForRevision
+New Beginnings
+
+key: quests/shark.maininventoryquest._descriptionloc -7901557663812110189 v1 Revised
+Check your newly built mailbox.
+
+key: quests/shark.readsharkletter._descriptionloc -2604823834556607947 v5 Revised
+Read your first letter.
+
+key: quests/shark.shark._talktodescription 438291646938032624 v2 Revised
+Talk to Albert.
+
+key: quests/shark.upgradeblueprintstation._descriptionloc -1605184828166543490 v3 Revised
+((Upgrade)) your blueprint station.
+
+key: quests/shark.upgradenow.name -7751946268794505846 v2 Revised
+XL
+

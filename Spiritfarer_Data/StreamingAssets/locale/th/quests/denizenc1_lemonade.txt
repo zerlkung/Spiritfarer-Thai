@@ -1,0 +1,24 @@
+key: quests/denizenc1_lemonade.courrier._descriptionloc -5198785342194862268 v1 Revised
+Talk to courier in ((Bottom Line Corp.))
+
+key: quests/denizenc1_lemonade.deliveryman._descriptionloc 1566715982804112173 v1 Revised
+Talk to delivery man in ((Southpoint Docks)).
+
+key: quests/denizenc1_lemonade.lemonadestand._flavortextloc 1134679673055754991 v1 Revised
+This young lemonade start-up needs my help. I've got to find them some delicious lemons.
+
+key: quests/denizenc1_lemonade.lemonadestand._namekeyloc 9187885463540613725 v1 Revised
+Ride The Lemon Dragon
+
+key: quests/denizenc1_lemonade.lemonperson._descriptionloc 2783711505174733093 v1 Revised
+Talk to the lemonade vendor in ((Oxbury)).
+
+key: quests/denizenc1_lemonade.tomatoperson._descriptionloc 7126272476600364147 v1 Revised
+Talk to the tomato juice vendor in ((Oxbury)).
+
+key: quests/denizenc1_lemonade.tomatostand._flavortextloc 9011431413261634014 v1 Revised
+What a pivot! They now sell tomato juice. I swear things move faster in the big city.
+
+key: quests/denizenc1_lemonade.tomatostand._namekeyloc -8971747084638224366 v1 Revised
+Tomato Squeeze Co.
+

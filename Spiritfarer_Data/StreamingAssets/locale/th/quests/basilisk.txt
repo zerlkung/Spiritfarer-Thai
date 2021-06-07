@@ -1,0 +1,138 @@
+key: quests/basilisk.activeshrine._descriptionloc 1509335434619947159 v2 Revised
+ได้รับพลังแห่งแสง.
+
+key: quests/basilisk.bas-continuedndquest._descriptionloc -2248933693290918645 v2 Revised
+รวบรวมของว่างสำหรับปาร์ตี้ของบัค!
+
+key: quests/basilisk.basequest._descriptionloc -7596630865543777574 v2 Revised
+คุยกับบัคใน ((ฟุโรกาวะ)).
+
+key: quests/basilisk.bas-gatherallfooditemsfordndparty_corndog._descriptionloc 4935051130967947792 v3 Revised
+((ให้)) ((คอร์นดอก)) กับบัค.
+
+key: quests/basilisk.bas-gatherallfooditemsfordndparty_corndog_1._descriptionloc 531141256328708678 v1 Revised
+((ให้)) ((ป๊อปคอร์น)) กับบัค.
+
+key: quests/basilisk.bas-gatherallfooditemsfordndparty_toffee._descriptionloc 1277611199229853245 v3 Revised
+((ให้)) ((ทอฟฟี)) กับบัค.
+
+key: quests/basilisk.bas-headwheredndparyisnow._descriptionloc 8957291746582021308 v1 Revised
+ไปที่ ((Nordweiler)) เพื่อพบกับเพื่อนของบัค.
+
+key: quests/basilisk.basilisk._talktodescription -2008025904420657390 v2 Revised
+คุยกับบัค.
+
+key: quests/basilisk.basiliskhouse._flavortextloc 5046782496343152844 v1 Revised
+ผู้โดยสารอีกคน. บ้านอีกหลัง. ฟังจากเสียงของมันสิ่งนี้ดูซับซ้อน.
+
+key: quests/basilisk.basiliskhouse._namekeyloc 771874642078512024 v1 Revised
+ที่ซ่อนสิ่งมหัศจรรย์
+
+key: quests/basilisk.bas-shadyraccoonblueprint._descriptionloc 5045811835539172779 v5 Revised
+((ซื้อ)) พิมพ์เขียวสำหรับห้องของบัคใน ((Edgeborough Lane)).
+
+key: quests/basilisk.buildbasilisksbuilding.description -1397872116215704902 v3 Revised
+((สร้าง)) ที่ซ่อนสิ่งมหัศจรรย์ของบัค.
+
+key: quests/basilisk.checkthemail._descriptionloc -6870257227996767886 v1 Revised
+ตรวจสอบอีเมล.
+
+key: quests/basilisk.compositequest._flavortextloc -2550482302954182437 v2 Revised
+An adventure with a peculiar Oracle tree and role-playing friends. Buck sure has an active imagination...
+
+key: quests/basilisk.denizenadvice._descriptionloc 9094578576180443508 v2 Revised
+พบกับ Lizard King ใน ((Edgeborough Lane)).
+
+key: quests/basilisk.denizenadvice._flavortextloc 1682843303652098936 v2 Revised
+อะไรคือ Lizard King? ฉันต้องรู้ให้ได้!
+
+key: quests/basilisk.denizenadvice._namekeyloc 9194484609315487029 v2 Revised
+The Lizard King
+
+key: quests/basilisk.denizenadvice2._descriptionloc 1397399579150458836 v3 Revised
+ทำการประมูลของ Lizard King.
+
+key: quests/basilisk.dl_lighthouse._descriptionloc 6418215757918581939 v2 Revised
+ไฟของ ทอนดอร์ จะต้องสว่างขึ้น เหมือนจะต้องเปิดเครื่องที่ประภาคาร.
+
+key: quests/basilisk.dl_lighthouse._namekeyloc -4820769593185983283 v5 Revised
+ไฟแห่งทอนดอร์
+
+key: quests/basilisk.dndfriendb1._descriptionloc -2310381678188481422 v1 Revised
+ค้นหาเจอโรม เพื่อนของบัคใน ((Hummingberg)).
+
+key: quests/basilisk.dndfriendc1._descriptionloc 7998331100506250941 v1 Revised
+ค้นหาบ๊อบ เพื่อนของบัคใน ((Oxbury)).
+
+key: quests/basilisk.dndfriendd1._descriptionloc -4866709378827583348 v1 Revised
+ค้นหาไบรอัน เพื่อนของบัคใน ((Bottom Line Corp.)).
+
+key: quests/basilisk.findfriends._namekeyloc -8438297588426879695 v1 Revised
+บริษัท สีเงิน
+
+key: quests/basilisk.haveoneobol._descriptionloc -8154338282247595996 v1 Revised
+ได้รับ ((obol)).
+
+key: quests/basilisk.headwhere2nddndpartyisnow._descriptionloc 4093949980814210715 v5 Revised
+ตรงไปที่ ((-185)), ((-92))
+
+key: quests/basilisk.lightal._descriptionloc 5241802708100925880 v3 Revised
+จุดไฟ ((ประภาคารฮิคาริชิมะ)).
+
+key: quests/basilisk.lightbl._descriptionloc 7340819284416631051 v2 Revised
+จุดไฟ ((ท่าเรือนอร์ดซี)).
+
+key: quests/basilisk.lightcl._descriptionloc 812170411089260069 v1 Revised
+จุดไฟ ((Sandwich Walk)).
+
+key: quests/basilisk.lightthelighthouses._flavortextloc -6186209806525371694 v1 Revised
+ไฟของ ทอนดอร์ จะต้องสว่างขึ้น เหมือนจะต้องเปิดเครื่องที่ประภาคาร.
+
+key: quests/basilisk.lightthelighthouses._namekeyloc 8964295759790063999 v2 Revised
+ไฟแห่งทอนดอร์
+
+key: quests/basilisk.monkeyquest._descriptionloc -3485914593396718366 v2 Revised
+ทำตาม ((ธุระ)) ให้เรียบร้อย.
+
+key: quests/basilisk.monkeyquest._flavortextloc -8819609911991761453 v1 Revised
+อันนี้คืออะไร? พ่อค้าเร่ร่อน... นั่นใช่ ((ฟรานซิส)) ใช่มั้ย?
+
+key: quests/basilisk.monkeyquest._namekeyloc 309036145338080362 v1 Revised
+วิสัยทัศน์ของน้ำมัน
+
+key: quests/basilisk.peekabooafteral._descriptionloc 2426954700735703463 v1 Revised
+สู้กับ ((Shadow Steel Orcs)).
+
+key: quests/basilisk.peekabooafterbl._descriptionloc -9175283683079380143 v2 Revised
+สู้กับ ((Shadow Steel Orcs)).
+
+key: quests/basilisk.peekabooaftercl._descriptionloc 2959813572995568658 v2 Revised
+สู้กับ ((Shadow Steel Orcs)).
+
+key: quests/basilisk.peekabooafterthirdlighthouse._descriptionloc 5564290614585660130 v1 Revised
+สู้กับ ((Shadow Steel Orcs)).
+
+key: quests/basilisk.readletter._descriptionloc -3568044730510370107 v1 Revised
+อ่านจดหมาย.
+
+key: quests/basilisk.shrineadventure._flavortextloc 7739056667658819265 v1 Revised
+ศาลเจ้ากลางมหาสมุทร. ความชั่วร้ายในสมัยโบราณ. ดูแปลกดี?
+
+key: quests/basilisk.shrineadventure._namekeyloc 3633305042394482945 v1 Revised
+ปีศาจแห่งแสง
+
+key: quests/basilisk.talkattavern._descriptionloc 3059981261866996909 v1 Revised
+ตรงไปที่ ((Nordweiler)).
+
+key: quests/basilisk.talkattavern_1._descriptionloc 4488233110020117719 v1 Revised
+คุยกับบัค.
+
+key: quests/basilisk.talktooracle._descriptionloc -7518475437793683902 v1 Revised
+คุยกับต้นออราเคิลใน ((ฟุโรกาวะ)).
+
+key: quests/basilisk.treasuremaps._flavortextloc 8061153210444124241 v1 Revised
+บัคตื่นเต้นมากเกี่ยวกับนิตยสารหรือวารสารอะไรก็ตาม.
+
+key: quests/basilisk.treasuremaps._namekeyloc -2275708835287841854 v1 Revised
+รีวิววรรณกรรมการเก็บของ
+

@@ -1,0 +1,96 @@
+key: quests/dog.builddogsbuilding._descriptionloc -8526787399453509913 v1 Revised
+((Build)) ((Elena's Cubicle)).
+
+key: quests/dog.builddogsbuilding._flavortextloc 7126336335324611205 v2 Revised
+Her description of her house sounds... depressing.
+
+key: quests/dog.builddogsbuilding.name -32653622429690189 v2 Revised
+Four Walls & A Roof
+
+key: quests/dog.checkmailbox._descriptionloc -5251634307245629764 v3 Revised
+Check the mailbox.
+
+key: quests/dog.dailyquests._descriptionloc -8030314574216175637 v2 Revised
+Complete Elena's errands with Francis.
+
+key: quests/dog.dog._talktodescription -9220725002946549926 v2 Revised
+Talk to Elena.
+
+key: quests/dog.dogdharma._descriptionloc -7379489194549717736 v1 Revised
+Elena has a few tasks for you.
+
+key: quests/dog.dogdharma._flavortextloc -3293809096081366199 v1 Revised
+Elena has a long list of things for you to do: fight a ((gold dragon)), conquer the ((deadly pulsar rays)), and survive a ((severe thunderstorm)). What a challenge!
+
+key: quests/dog.dogdharma._namekeyloc 920133866259213150 v1 Revised
+Elena's Dharma
+
+key: quests/dog.gotoportal._descriptionloc 3224618362439707877 v1 Revised
+Bring Elena to the ((Everdoor)).
+
+key: quests/dog.gotoportal._flavortextloc 3999526516848353482 v1 Revised
+This lesson seems easy. No talking, just sailing towards the ((Everdoor))... Easy might not be the right word here.
+
+key: quests/dog.gotoportal._namekeyloc 812047580848512050 v1 Revised
+On the Sea of Tranquility
+
+key: quests/dog.hard-dragon._descriptionloc -4877303976355166994 v2 Revised
+Complete the gold dragon in under 6 minutes.
+
+key: quests/dog.hard-fallingstars._descriptionloc -6338209790619279964 v2 Revised
+Catch over one third of all deadly pulsar rays.
+
+key: quests/dog.hard-thunderstorm._descriptionloc -5413526288948947333 v3 Revised
+Capture over one third of all severe lightning strikes.
+
+key: quests/dog.havedash._descriptionloc 1832372570771507932 v1 Revised
+((Acquire)) the ((dash)) ability.
+
+key: quests/dog.havedash._flavortextloc -526122118295836897 v1 Revised
+Elena says my skills aren't up to the task. She wants me to add another one to my arsenal.
+
+key: quests/dog.havedash._namekeyloc 6899813992922596126 v1 Revised
+Missing Credentials
+
+key: quests/dog.post._descriptionloc -6632102225807923374 v1 Revised
+Elena has a few last words for you.
+
+key: quests/dog.post._namekeyloc 1831711118132135714 v1 Revised
+Postscripta
+
+key: quests/dog.readletters._descriptionloc -2763705542076618215 v2 Revised
+Read one of Elena's letters.
+
+key: quests/dog.realchoice._descriptionloc -4414935539123670281 v1 Revised
+((Give)) Elena one of your newfound treasures.
+
+key: quests/dog.recruitdog._descriptionloc -4343640910828230905 v1 Revised
+Talk to the stranger.
+
+key: quests/dog.recruitdog._flavortextloc -3920176690644586807 v1 Revised
+Someone is asking for my help.
+
+key: quests/dog.recruitdog._namekeyloc -1750304251843292728 v1 Revised
+The Dog Whisperer
+
+key: quests/dog.releasedog.description -9087860318658495454 v3 Revised
+Talk to Elena.
+
+key: quests/dog.treasuremap-oldcoincollection._descriptionloc -4839186561303049428 v5 Revised
+Find a treasure lost at sea at ((40, -50)).
+
+key: quests/dog.treasuremap-ring._descriptionloc -4460659175012678313 v4 Revised
+Find a treasure sunk at sea at ((34, 69)).
+
+key: quests/dog.upgrade._descriptionloc -1285967023741784088 v4 Revised
+((Improve)) your stations to their full potential.
+
+key: quests/dog.welcomedog.description -6950423459904176955 v2 Revised
+Welcome your new passenger.
+
+key: quests/dog.welcomedog.flavortext -3736172937537104352 v1 Revised
+This one looks intense.
+
+key: quests/dog.welcomedog.name -8612110835073187944 v1 Revised
+Welcome Aboard
+

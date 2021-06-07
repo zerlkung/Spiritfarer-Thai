@@ -1,0 +1,18 @@
+key: quests/hyena.buildhyenasbuilding.description -2438502588211994442 v2 Placeholder
+Build the lounge
+
+key: quests/hyena.buildhyenasbuilding.name 5988341553756432095 v2 Placeholder
+Building Quest
+
+key: quests/hyena.hyena._talktodescription -7586428125980287665 v2 ReadyForRevision
+Talk to Jackie.
+
+key: quests/hyena.releasehyena.name -5322316961580231147 v2 Placeholder
+ReleaseHyena
+
+key: quests/hyena.welcomehyena.description 6454965773365812964 v2 Placeholder
+Welcome your new passenger
+
+key: quests/hyena.welcomehyena.name 1162834580045526635 v2 Placeholder
+Spirit Progress Quest
+

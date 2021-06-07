@@ -1,0 +1,207 @@
+key: quests/lynx.buildlynxshouse.description 3387685434654011468 v2 Revised
+((Build)) ((Astrid's Bungalow)).
+
+key: quests/lynx.buildsmelter.description -5930109367781425458 v3 Revised
+((Build)) a ((Foundry)).
+
+key: quests/lynx.checkiftier2unlocked._descriptionloc 2741728477127361131 v1 Revised
+Upgrade your blueprint station at ((Albert's Shipyard)).
+
+key: quests/lynx.checkiftier2unlocked._flavortextloc 8259123185987520302 v1 Revised
+Astrid thinks I should upgrade the blueprint station. More stations, I suppose.
+
+key: quests/lynx.checkiftier2unlocked._namekeyloc 8364906364506566929 v1 Revised
+Junior Architect
+
+key: quests/lynx.checkthemail._descriptionloc -7088277280820312178 v1 Revised
+Check the mail.
+
+key: quests/lynx.checkthemailagain._descriptionloc 6831600812662704925 v1 Revised
+Check the mail.
+
+key: quests/lynx.craftbars.description -2323617574847692465 v3 Revised
+Smelt an ((ingot)) in the ((foundry)).
+
+key: quests/lynx.denizenar2.description -4666792204666706249 v2 Revised
+Ask about Giovanni on the island.
+
+key: quests/lynx.denizenb3.description -6511304129340694033 v2 Revised
+Ask about Giovanni on the island.
+
+key: quests/lynx.denizenc1.description 5907292261714808221 v3 Revised
+Talk to Giovanni.
+
+key: quests/lynx.documentsopenedquest._descriptionloc 2917179781845026808 v1 Revised
+Read the mysterious letter.
+
+key: quests/lynx.doubts._flavortextloc -6364728425788574554 v4 Revised
+Something is afoot. Is Giovanni not sleeping at night? Is he leaving the boat at night? Maybe I should follow him around.
+
+key: quests/lynx.doubts._namekeyloc 5048408430327705664 v1 Revised
+I Have My Doubts
+
+key: quests/lynx.fedlynx._descriptionloc -917145735673651705 v1 Revised
+((Feed)) something to Astrid.
+
+key: quests/lynx.fedlynx._flavortextloc 4913887432208043028 v1 Revised
+Astrid is hungry. I need to give her some food quickly.
+
+key: quests/lynx.fedlynx._namekeyloc -6875500649012901526 v1 Revised
+Feed Your Elders
+
+key: quests/lynx.findlynx._flavortextloc 862355393798974475 v2 Revised
+I've been getting letters upon letters. Maybe I should check my mailbox more often!
+
+key: quests/lynx.findlynx._namekeyloc 8453214757348817713 v1 Revised
+Something to Write Home About
+
+key: quests/lynx.flagquest._descriptionloc -2230199407428274928 v1 Revised
+Talk to Astrid.
+
+key: quests/lynx.giovanni.flavortext 7857737045258934882 v2 Revised
+Astrid has received a letter from Olga, describing a nice house she might like. Olga hasn't got any news from the enigmatic Giovanni.
+
+key: quests/lynx.giovanni.name -7358325907016530389 v2 Revised
+Humble Abode
+
+key: quests/lynx.gold.flavortext -1197189177675175808 v2 Revised
+Astrid thinks we should have a ((foundry)) on the boat. She said she would show me how to use it.
+
+key: quests/lynx.gold.name 4847726801967215118 v2 Revised
+Bars of Gold
+
+key: quests/lynx.gotoportal._descriptionloc -6797173755533530339 v1 Revised
+Bring Astrid to the ((Everdoor)).
+
+key: quests/lynx.gotoportal._flavortextloc -7595145205836040455 v1 Revised
+I didn't know Astrid really missed Giovanni. There was so much tension between the two. I suppose you only find your true love once.
+
+key: quests/lynx.gotoportal._namekeyloc 2145417122845884379 v1 Revised
+Lovers for Life
+
+key: quests/lynx.gototurtleevent.description -5859132210938687189 v4 Revised
+Find Astrid's seabound friend.
+
+key: quests/lynx.gototurtleevent_1._descriptionloc -3165479034792698430 v1 Revised
+Find Olga's sister, Masha.
+
+key: quests/lynx.happyonboat.description -5977993073839938989 v1 Revised
+Let Astrid live her best life.
+
+key: quests/lynx.happyonboat.flavortext 4937944441259078347 v1 Revised
+Maybe I should give Astrid some space. She is dealing with a lot.
+
+key: quests/lynx.happyonboat.name 4882154144628607909 v1 Revised
+A Second Wind
+
+key: quests/lynx.kickedout.flavortext 7169233953779037495 v1 Revised
+Oh no! I've got to tell some hard truths to Giovanni.
+
+key: quests/lynx.kickedout.name -926211788367158686 v2 Revised
+Retrograde
+
+key: quests/lynx.lookforlion._descriptionloc -7594094559046656988 v1 Revised
+Follow Giovanni during nighttime.
+
+key: quests/lynx.lynx._talktodescription 5296422431919250543 v2 Revised
+Talk to Astrid.
+
+key: quests/lynx.maininventorycountquest._descriptionloc 4107007484930809860 v1 Revised
+Check your mail.
+
+key: quests/lynx.plantonturtle._descriptionloc -5859104899917296114 v1 Revised
+((Plant)) some resources on Olga's shell.
+
+key: quests/lynx.plantonturtle_1._descriptionloc -2773903647592298957 v1 Revised
+((Plant)) some resources on Masha's shell.
+
+key: quests/lynx.protest._flavortextloc 5286580690396295836 v1 Revised
+I'm in the middle of worker's strike and I love it.
+
+key: quests/lynx.protest._namekeyloc -6573483096172619175 v1 Revised
+Unite!
+
+key: quests/lynx.read2ndturtleletter._descriptionloc 724798635896665453 v1 Revised
+Read the letter.
+
+key: quests/lynx.readletter._descriptionloc -2509302027903747973 v1 Revised
+Read the letter.
+
+key: quests/lynx.readletter_1._descriptionloc -5230970554299385963 v1 Revised
+Read your new letters.
+
+key: quests/lynx.suspicious._descriptionloc -8231364063085957167 v2 Revised
+Talk to Astrid the next morning.
+
+key: quests/lynx.talktoboss1._descriptionloc -7540799053814290897 v1 Revised
+Talk to the cowardly CEO.
+
+key: quests/lynx.talktoboss2._descriptionloc 4966802816145525455 v1 Revised
+Talk to the terrible CEO again.
+
+key: quests/lynx.talktoboss3._descriptionloc -1031013268724655549 v1 Revised
+Talk to the obnoxious CEO one more time.
+
+key: quests/lynx.talktolion.description 2053654467491630036 v4 Revised
+Talk to Giovanni.
+
+key: quests/lynx.talktolynx._descriptionloc 7628752531038702875 v1 Revised
+Talk to the protest leader.
+
+key: quests/lynx.talktolynx_1._descriptionloc -5772232935105340173 v2 Revised
+Talk to Astrid.
+
+key: quests/lynx.talktolynx_2._descriptionloc -832834107006888102 v1 Revised
+Talk to Astrid.
+
+key: quests/lynx.talktolynx_2_1._descriptionloc -355602413567004933 v1 Revised
+Talk to Astrid.
+
+key: quests/lynx.talktoprotestleader1._descriptionloc -3838037991180674644 v1 Revised
+Talk to protest leader.
+
+key: quests/lynx.talktoprotestleader2._descriptionloc -5935023448301410395 v1 Revised
+Talk to protest leader one more time.
+
+key: quests/lynx.talktoprotestleader3._descriptionloc 1518677645103435493 v1 Revised
+Talk to protest leader for the last time.
+
+key: quests/lynx.turtle.flavortext -2405134807723421498 v1 Revised
+Astrid says a friend is waiting for us. Who knows what surprise awaits us!
+
+key: quests/lynx.turtle.name 8025932295792218686 v2 Revised
+Three Sisters
+
+key: quests/lynx.turtleencounter.description -2886795418752991749 v3 Revised
+Talk to Astrid in front of Olga.
+
+key: quests/lynx.turtleencounter2._descriptionloc -1505661418276069382 v2 Revised
+Talk to Astrid in front of Masha.
+
+key: quests/lynx.visitar2.description 6373995452031204187 v1 Revised
+Visit ((Iwashima Countryside)).
+
+key: quests/lynx.visitb3.description 2211657343049470029 v4 Revised
+Visit ((Furogawa)).
+
+key: quests/lynx.visitc1.description -5842647972836057101 v5 Revised
+Visit ((Loneberg)).
+
+key: quests/lynx.waitabit.description -7163026251200684628 v1 Revised
+Wait until Astrid is ready to talk to you.
+
+key: quests/lynx.welcomelynx.description 5743744561428577723 v2 Revised
+Welcome your new passenger.
+
+key: quests/lynx.welcomelynx.name 7048368772045690632 v3 Revised
+Welcome Aboard
+
+key: quests/lynx.welcometogiovanni.description -7932358118049860711 v2 Revised
+Welcome Giovanni aboard.
+
+key: quests/lynx.welcometogiovanni.flavortext -7761736323380037881 v1 Revised
+It's time for a big reunion. Hopefully, this goes well.
+
+key: quests/lynx.welcometogiovanni.name -1876940247794719343 v2 Revised
+Past Lovers
+

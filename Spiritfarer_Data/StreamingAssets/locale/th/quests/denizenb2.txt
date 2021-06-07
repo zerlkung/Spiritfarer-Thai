@@ -1,0 +1,9 @@
+key: quests/denizenb2.lockeddoor._descriptionloc -5918058003652135221 v1 Revised
+Let this upset man do his thing.
+
+key: quests/denizenb2.lockeddoor._flavortextloc -8840314520255666154 v1 Revised
+Hopefully, he won't work too long on that door.
+
+key: quests/denizenb2.lockeddoor._namekeyloc -4867274586482114970 v1 Revised
+This Shed Is My Shed
+

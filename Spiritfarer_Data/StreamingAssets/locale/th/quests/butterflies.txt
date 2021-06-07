@@ -1,0 +1,39 @@
+key: quests/butterflies.butterflies._talktodescription 698062726980352901 v2 ReadyForRevision
+คุยกับลิลลี่.
+
+key: quests/butterflies.memory1._descriptionloc 6086069607667874581 v1 Revised
+ไปพบลิลลี่ที่ ((ศาลเจ้าฮัมมิงเบิร์ก)), ในเวลา ((กลางคืน)).
+
+key: quests/butterflies.memory1._flavortextloc 8797308394592967994 v0 Revised
+ฉันได้ยินเสียงของลิลลี่. เธออยู่ที่นี่กับฉัน, ยังไงก็ตามไปที่ ((ฮัมมิงเบิร์ก)) ฉันอยากได้ยินเสียงของเธออีกครั้ง
+
+key: quests/butterflies.memory1._namekeyloc 9150096479699130342 v1 Revised
+Time Abroad
+
+key: quests/butterflies.memory2._descriptionloc -3427873794151500811 v0 Revised
+ไปพบลิลลี่ที่ ((ศาลเจ้าฟุโรกาวะ)), ในเวลา ((กลางคืน)).
+
+key: quests/butterflies.memory2._flavortextloc 7439828589075838629 v0 Revised
+ฉันจำสิ่งเหล่านี้ไม่ได้ทั้งหมด มันนานมากแล้ว การได้ยินเสียงของคุณเป็นเพลงที่ไพเราะมาก. 
+
+key: quests/butterflies.memory2._namekeyloc -725141245111922749 v0 Revised
+โดดเด่นด้วยตัวของฉันเอง
+
+key: quests/butterflies.memory3._descriptionloc -7273829417208348773 v0 Revised
+ไปพบลิลลี่ที่ ((ศาลเจ้า Oxbury)), ในเวลา ((กลางคืน)).
+
+key: quests/butterflies.memory3._flavortextloc -66086822971122940 v0 Revised
+ฉันไม่อยากหยุดแม้ว่าจะต้องเจ็บปวดเมื่อได้ยินสิ่งเหล่านี้ก็ตาม. ลิลลี่, เราต้องก้าวต่อไป.
+
+key: quests/butterflies.memory3._namekeyloc 7567560001779447132 v0 Revised
+ความสัมพันธ์ในครอบครัว
+
+key: quests/butterflies.memory4._descriptionloc -8191173350999833538 v0 Revised
+ไปพบลิลลี่ที่ ((ศาลเจ้า Greymist Peaks)), ในเวลา ((กลางคืน)).
+
+key: quests/butterflies.memory4._flavortextloc 1190101258169956730 v0 Revised
+โอ้, ลิลลี่. ฉันรู้ว่านี่เป็นเรื่องเจ็บปวดสำหรับคุณ เราเกือบจะอยู่ที่นั่น... ด้วยกัน. 
+
+key: quests/butterflies.memory4._namekeyloc -5874878615723616128 v0 Revised
+ไปยังทุนดรา
+

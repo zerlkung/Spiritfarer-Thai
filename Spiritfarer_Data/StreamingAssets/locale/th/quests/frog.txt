@@ -1,0 +1,321 @@
+key: quests/frog.bigmeal.description 4770153881206334463 v2 Revised
+Atul wants to organise a big meal.
+
+key: quests/frog.bigmeal.flavortext -390769579457979992 v1 Revised
+A big family-style dinner sounds amazing. I just need to do all the work now.
+
+key: quests/frog.bigmeal.name -7372857449623162388 v3 Revised
+Family Style
+
+key: quests/frog.buildbuildings.description -6554368357230750834 v4 Revised
+Add a ((sawmill)) for Atul on your boat.
+
+key: quests/frog.buildbuildings.flavortext 5305616164464275105 v1 Revised
+Atul thinks my boat is empty without a sawmill. The more, the merrier, right?
+
+key: quests/frog.buildbuildings.name 3575523345952318978 v4 Revised
+Woodwork
+
+key: quests/frog.buyadecoration-desk.description 1203165370758553229 v3 Revised
+((Improve)) Atul's house by adding a ((desk)).
+
+key: quests/frog.buyadecoration-frame.description 3809186968876285954 v3 Revised
+((Improve)) Atul's house by adding a ((picture frame)).
+
+key: quests/frog.buyadecoration-shower.description -2178593123583157141 v3 Revised
+((Improve)) Atul's house by adding a ((shower)).
+
+key: quests/frog.buyatulhouse.description -3039138857825345937 v3 Revised
+((Build)) a house for Atul.
+
+key: quests/frog.buyatulhouse.flavortext 2314466728603847848 v1 Revised
+Time to help out my old uncle. Morale on the boat is pretty bad because of his snoring. A soundproof house could do the trick.
+
+key: quests/frog.buyatulhouse.name -5124617486769182456 v1 Revised
+Atul's Workshop
+
+key: quests/frog.buyworkbench.description 3610094937313313201 v3 Revised
+((Build)) a ((sawmill)).
+
+key: quests/frog.compositequest._descriptionloc -1532801882690799429 v1 Revised
+Atul wants a very specific dish.
+
+key: quests/frog.compositequest._flavortextloc -5627702201428686519 v1 Revised
+Again with the food. What's next?
+
+key: quests/frog.compositequest._namekeyloc 3935425283048905768 v1 Revised
+Fishing Trip
+
+key: quests/frog.decorations.description -5765580599416543874 v2 Revised
+((Improve)) Atul's house.
+
+key: quests/frog.decorations.flavortext 6821264650316377524 v1 Revised
+Atul thinks I should take some time and ((improve)) his house.
+
+key: quests/frog.decorations.name 5515286139673508911 v3 Revised
+Spice Up Your Life
+
+key: quests/frog.dinnertime._descriptionloc -8414413891871096820 v1 Revised
+Go and have your family-style dinner.
+
+key: quests/frog.dinnertime._flavortextloc 2325963672218857153 v1 Revised
+The table is set and everything should be ready for our dinner.
+
+key: quests/frog.dinnertime._namekeyloc 7227274743812800856 v1 Revised
+Au pied de grenouille
+
+key: quests/frog.fedatul.description -968716898935554110 v4 Revised
+Atul wants a very specific dish.
+
+key: quests/frog.fedatul.flavortext -3745726536212769773 v1 Revised
+I get it. I get food cravings, too.
+
+key: quests/frog.fedatul.name 7884208906891292991 v3 Revised
+Movie Night
+
+key: quests/frog.fedatul2._descriptionloc 2962819198010262764 v2 Revised
+Atul wants a very specific dish.
+
+key: quests/frog.fedatul2._flavortextloc 6769926951997193629 v1 Revised
+More food! Atul is unfillable.
+
+key: quests/frog.fedatul2._namekeyloc 1794175922667349059 v1 Revised
+Local Union 2187
+
+key: quests/frog.fedspirits._descriptionloc -8036624234909941274 v1 Revised
+Prepare everyone's food.
+
+key: quests/frog.fedspirits._flavortextloc -4992771163467418051 v1 Revised
+Apparently, I have to prepare food and give it to Atul. What a day.
+
+key: quests/frog.fedspirits._namekeyloc 121700143080351434 v1 Revised
+Sous-Chef Extraordinaire
+
+key: quests/frog.findlemon._descriptionloc 2393145218518130867 v1 Revised
+Recover your new friend's lost lemon.
+
+key: quests/frog.findlemon._flavortextloc 7324592254376251219 v1 Revised
+This strange man wants me to jump in a pond for a lemon.
+
+key: quests/frog.findlemon._namekeyloc 275691923304638835 v1 Revised
+Sticky Fingers
+
+key: quests/frog.fishingtime.description 5023526090676203630 v2 Revised
+Fish for your uncle Atul.
+
+key: quests/frog.fishingtime.flavortext -2359639232967115006 v1 Revised
+According to my uncle, my fishing chair was broken. I should try it now.
+
+key: quests/frog.fishingtime.name 6378131620919931995 v2 Revised
+Sea Master 2000
+
+key: quests/frog.fishingtrip.description -4599211922054580321 v5 Revised
+((Give)) Atul some ((fried chicken)).
+
+key: quests/frog.flagquest._namekeyloc 5025172363373799641 v1 Revised
+The Ice Breaker
+
+key: quests/frog.frog._talktodescription -7357931627466120272 v1 Revised
+Talk to Atul.
+
+key: quests/frog.gatherspirits.description 408429186026335738 v2 Revised
+Invite everyone to the dinner.
+
+key: quests/frog.gotobr1._descriptionloc 3144561132560799656 v3 Revised
+Head over to ((Hummingberg)).
+
+key: quests/frog.itemgiftquest._descriptionloc 1612003607065780965 v3 Revised
+((Give)) ((black coffee)) to Atul.
+
+key: quests/frog.itemgiftquest_1._descriptionloc 3738637480716521299 v2 Revised
+((Give)) ((green salad)) to Atul.
+
+key: quests/frog.itemgiftquest_1_1._descriptionloc 5927625661668142290 v3 Revised
+((Give)) ((apple pie)) to Atul.
+
+key: quests/frog.itemgiftquest_1_1_1._descriptionloc 8229282120255455489 v2 Revised
+((Give)) ((grilled chicken)) to Atul.
+
+key: quests/frog.itemgiftquest_1_1_1_1._descriptionloc -5891651801338650969 v3 Revised
+((Give)) ((noodle soup)) to Atul.
+
+key: quests/frog.itemgiftquest_1_1_2._descriptionloc 4566546623712199191 v2 Revised
+((Give)) ((garlic bread)) to Atul.
+
+key: quests/frog.itemgiftquest_1_2._descriptionloc -4049646387035612000 v2 Revised
+((Give)) ((Tuna Tataki)) to Atul.
+
+key: quests/frog.itemgiftquest_1_2_1._descriptionloc 7173850767061750767 v4 ReadyForRevision
+((Give)) ((laksa)) to Atul.
+
+key: quests/frog.itemgiftquest_2._descriptionloc -7840262321434005922 v5 Revised
+((Give)) a ((casserole)) to Atul.
+
+key: quests/frog.itemgiftquest_2_1._descriptionloc -2117300304334143290 v3 Revised
+((Give)) a ((corn dog)) to Atul.
+
+key: quests/frog.itemgiftquest_2_1_1._descriptionloc 6298470500662762372 v4 Revised
+((Give)) ((bouillabaisse)) to Atul.
+
+key: quests/frog.itemgiftquest_2_2._descriptionloc -5459561320063429407 v4 Revised
+((Give)) a ((veggie pot pie)) to Atul.
+
+key: quests/frog.itemgiftquest_3._descriptionloc 6588966022254303726 v3 Revised
+((Give)) ((french fries)) to Atul.
+
+key: quests/frog.itemgiftquest_3_1._descriptionloc 3475046166188934055 v3 Revised
+((Give)) ((sweet tea)) to Atul.
+
+key: quests/frog.localunion.description -6723819947898907686 v3 Revised
+((Give)) Atul some ((pork chops)).
+
+key: quests/frog.maininventoryquest._descriptionloc -6735791742899894036 v2 Revised
+((Cook)) a ((casserole)) for Buck.
+
+key: quests/frog.maininventoryquest_1._descriptionloc 6871925148255185502 v2 Revised
+((Cook)) ((apple pie)) for Daria.
+
+key: quests/frog.maininventoryquest_1_1._descriptionloc 1438527977176207359 v1 Revised
+((Cook)) ((grilled chicken)) for Cho.
+
+key: quests/frog.maininventoryquest_1_1_1._descriptionloc 2720046420681294215 v1 Revised
+((Cook)) ((garlic bread)) for Jackie.
+
+key: quests/frog.maininventoryquest_1_1_1_1._descriptionloc 746079402991467434 v2 Revised
+((Cook)) ((tuna tataki)) for Gustav.
+
+key: quests/frog.maininventoryquest_1_1_1_1_1._descriptionloc 8901586311319305220 v2 ReadyForRevision
+((Cook)) ((laksa)) for Beverly.
+
+key: quests/frog.maininventoryquest_1_2._descriptionloc 3804653608935378133 v1 Revised
+((Cook)) ((green salad)) for Elena.
+
+key: quests/frog.maininventoryquest_1_2_1._descriptionloc 9047326676494970787 v2 Revised
+((Cook)) a ((noodle soup)) for Astrid.
+
+key: quests/frog.maininventoryquest_2._descriptionloc 8520947645897246779 v2 Revised
+((Cook)) a ((corn dog)) for Bruce & Mickey.
+
+key: quests/frog.maininventoryquest_2_1._descriptionloc -7621964799227694078 v2 Revised
+((Cook)) ((veggie pot pie)) for Alice.
+
+key: quests/frog.maininventoryquest_2_1_1._descriptionloc 1523338446145800149 v2 Revised
+((Cook)) ((french fries)) for Stanley.
+
+key: quests/frog.maininventoryquest_2_1_1_1._descriptionloc 7142114135054798368 v1 Revised
+((Cook)) ((sweet tea)) for Summer.
+
+key: quests/frog.maininventoryquest_3._descriptionloc -8848443923704732178 v1 Revised
+((Cook)) ((black coffee)) for Gwen.
+
+key: quests/frog.maininventoryquest_3_1._descriptionloc 2263927206730761584 v2 Revised
+((Cook)) ((bouillabaisse)) for Giovanni.
+
+key: quests/frog.movienight.description 5809485412627688705 v3 Revised
+((Give)) Atul some ((popcorn)).
+
+key: quests/frog.openbottle._descriptionloc 874172933143280115 v2 Revised
+Atul really wants you to open a bottle from the sea.
+
+key: quests/frog.openbottle._flavortextloc 1326850645668718453 v1 Revised
+A bottle from the sea. A message from far away. I should open it.
+
+key: quests/frog.openbottle._namekeyloc 7224994177461987709 v1 Revised
+The Sommelier
+
+key: quests/frog.spiritprogressquest_1_1_1_1_1_1_1_1._descriptionloc 5901507914267121644 v2 Placeholder
+Ask Beverly about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_1_1_1_2_1._descriptionloc 5502672784290692369 v1 Revised
+Ask Summer about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_1_1_2_1_1._descriptionloc -7708998557996546979 v1 Revised
+Ask Bruce & Mickey about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_1_1_3_1._descriptionloc 586208263598315240 v1 Placeholder
+Ask Jackie about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_1_2_1_1_1._descriptionloc 2538685565904774309 v1 Placeholder
+Ask Cho about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_1_2_2_1._descriptionloc -6668123832937534426 v1 Revised
+Ask Giovanni about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_2_1_1_1._descriptionloc 4513245178010651299 v1 Revised
+Ask Stanley about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_2_2_1_1._descriptionloc 4301721709352117674 v1 Revised
+Ask Buck about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_1_2_3_1._descriptionloc -1030199906944120037 v1 Revised
+Ask Elena about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_2_1_1_1_1._descriptionloc 601794302187140323 v1 Revised
+Ask Gustav about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_2_1_2_1_1._descriptionloc -760184024820808038 v1 Placeholder
+Ask Daria about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_2_1_3_1._descriptionloc -3387976738481020426 v1 Revised
+Ask Alice about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_3_1_1_1_1._descriptionloc 4394312113241880260 v1 Revised
+Ask Gwen about Atul's whereabouts
+
+key: quests/frog.spiritprogressquest_1_3_1_2_1._descriptionloc -9032248288244300560 v1 Revised
+Ask Astrid about Atul's whereabouts
+
+key: quests/frog.toast.description 8062110903223658694 v2 Revised
+Toast to this great dinner!
+
+key: quests/frog.unclegone._descriptionloc -5852835108258920215 v1 Revised
+Atul is missing from the boat.
+
+key: quests/frog.unclegone._flavortextloc 8749590429546587373 v1 Revised
+Maybe I should ask around if anyone has seen my uncle.
+
+key: quests/frog.unclegone._namekeyloc -4775888025831898379 v1 Revised
+Uncle's Gone?
+
+key: quests/frog.upgradeboatice._descriptionloc -8113168976381125097 v1 Revised
+Add the ((Ice Breaker)) upgrade to your boat.
+
+key: quests/frog.upgradeboatice._flavortextloc -7371203772808123725 v1 Revised
+Atul says I can upgrade my boat at ((Albert's Shipyard)).
+
+key: quests/frog.upgradekitchen._descriptionloc 5504957450415768312 v1 Revised
+((Improve)) the ((kitchen)) with an upgraded stove.
+
+key: quests/frog.upgradekitchen._flavortextloc 4203634970586500449 v1 Revised
+Atul thinks your ((kitchen)) is not up to snuff. You need to step up your culinary game.
+
+key: quests/frog.upgradekitchen._namekeyloc 6013008900370111431 v1 Revised
+Big Stove
+
+key: quests/frog.upgradeworkbench.description 5113112856499394585 v3 Revised
+Try out the ((sawmill)).
+
+key: quests/frog.upgradeyourblueprintstation._descriptionloc 2099514382387307968 v3 Revised
+((Upgrade)) your blueprint station again at ((Albert's Shipyard))
+
+key: quests/frog.upgradeyourblueprintstation._flavortextloc 3932549033842340303 v1 Revised
+Atul says I can upgrade my boat at ((Albert's Shipyard)).
+
+key: quests/frog.upgradeyourblueprintstation._namekeyloc 2665625729107147460 v1 Revised
+The Drawing Board
+
+key: quests/frog.welcomefrog.description -1789763919666821570 v2 Revised
+Welcome your new passenger.
+
+key: quests/frog.welcomefrog.name 4862260080219124593 v2 Revised
+Welcome aboard
+
+key: quests/frog.workbenchin.description -3362401045333672502 v3 Revised
+Atul wants to show you a trick with the ((sawmill))
+
+key: quests/frog.workbenchin.flavortext 729984939060578616 v1 Revised
+This sawmill might not just spit out sawdust after this.
+
+key: quests/frog.workbenchin.name 2556729849869662560 v2 Revised
+Measure Twice, Cut Once
+

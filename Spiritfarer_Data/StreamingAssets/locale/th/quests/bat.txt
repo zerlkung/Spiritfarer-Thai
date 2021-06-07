@@ -1,0 +1,18 @@
+key: quests/bat.bat._talktodescription -8476302253266378219 v2 ReadyForRevision
+คุยกับดาเรีย.
+
+key: quests/bat.buildbatsbuilding.name -53238802045047691 v3 Placeholder
+เควสการสร้าง
+
+key: quests/bat.itemcraftingquest._namekeyloc 943216794880813646 v1 ReadyForRevision
+;
+
+key: quests/bat.releasebat.name 7528833791753159884 v3 Placeholder
+ปล่อยค้างคาว
+
+key: quests/bat.welcomebat.description -6937427062064648560 v3 Placeholder
+ยินดีต้อนรับผู้โดยสารคนใหม่ของคุณ
+
+key: quests/bat.welcomebat.name -7760388718256078761 v3 Placeholder
+เควสความก้าวหน้าของวิญญาณ
+

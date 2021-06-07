@@ -1,0 +1,33 @@
+key: quests/onionmonkey.compositequest._descriptionloc -565986455214296210 v1 Revised
+Francis wants you to find some trasure.
+
+key: quests/onionmonkey.compositequest._flavortextloc 855400097066815457 v1 Revised
+A map! Lost treasure! This is a real life pirate adventure.
+
+key: quests/onionmonkey.compositequest._namekeyloc 418842449087789109 v1 Revised
+Lost Bounty
+
+key: quests/onionmonkey.documentsopenedquest._descriptionloc 1665185019334270656 v4 Revised
+Look inside the bottle.
+
+key: quests/onionmonkey.knowledgequest._descriptionloc 9116952029669993497 v2 Revised
+Find the location of the lost bounty.
+
+key: quests/onionmonkey.monkeyquest._descriptionloc 9186731407535751775 v1 Revised
+Complete your first errand.
+
+key: quests/onionmonkey.monkeyquest._flavortextloc 3501072083894314835 v1 Revised
+This odd person wants me to gather ressources in exchange for other ressources! I don't get it.
+
+key: quests/onionmonkey.monkeyquest._namekeyloc -3082255506925913576 v1 Revised
+Everyone Loves Errands
+
+key: quests/onionmonkey.onionmonkey._talktodescription 6215458256523741451 v2 Revised
+Talk to Francis.
+
+key: quests/onionmonkey.rumors.description 4653524623317865008 v2 Revised
+Explore the location marked by Francis.
+
+key: quests/onionmonkey.rumors.name 3194613490357592150 v2 Revised
+Summer Season Has Been Announced
+

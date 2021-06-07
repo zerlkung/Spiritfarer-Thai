@@ -1,0 +1,48 @@
+key: quests/testquestline.composite.description 8955674089640489321 v2 Placeholder
+Second composite quest
+
+key: quests/testquestline.composite.name 4930442598828892967 v2 Placeholder
+Composite Quest
+
+key: quests/testquestline.compositequest.description 3697784059054105632 v2 Placeholder
+Composite quest
+
+key: quests/testquestline.compositequest.name 6463834160001127024 v2 Placeholder
+Composite Quest
+
+key: quests/testquestline.daysaboardquest.description 798570980265367851 v2 Placeholder
+Stay 1 day aboard
+
+key: quests/testquestline.daysaboardquest.name -7661728124220149044 v2 Placeholder
+Days Aboard Quest
+
+key: quests/testquestline.daysaboardquest_1.description -728839478032877999 v2 Placeholder
+Stay 1 day aboard
+
+key: quests/testquestline.daysaboardquest_1.name -104507740768608669 v2 Placeholder
+Days Aboard Quest
+
+key: quests/testquestline.flagquest_1.description 7231423907062532507 v2 Placeholder
+This is done automatically
+
+key: quests/testquestline.flagquest_1.name -4166035055881832855 v2 Placeholder
+Flag Quest
+
+key: quests/testquestline.intro.description -6207083329166366944 v2 Placeholder
+This is the intro
+
+key: quests/testquestline.intro.name 3798863909349251711 v2 Placeholder
+Currency Gain Quest
+
+key: quests/testquestline.queststatusquest.description -722143928265578820 v2 Placeholder
+Do the Intro quest
+
+key: quests/testquestline.queststatusquest.name 110912010580619919 v2 Placeholder
+Quest Status Quest
+
+key: quests/testquestline.traveldistancequest.description -8264746193445267971 v2 Placeholder
+Travel 1 unit
+
+key: quests/testquestline.traveldistancequest.name 2109577192295138771 v2 Placeholder
+Travel Distance Quest
+

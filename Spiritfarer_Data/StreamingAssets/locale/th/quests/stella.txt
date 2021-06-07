@@ -1,0 +1,9 @@
+key: quests/stella.stellareleased._descriptionloc -2487954417156914063 v1 Revised
+Bring Stella & Daffodil to the ((Everdoor)).
+
+key: quests/stella.stellareleased._flavortextloc -195728214507904207 v1 Revised
+My time has come. I am no longer alone. Lily and mom are with me, holding my hands, somewhere out there.
+
+key: quests/stella.stellareleased._namekeyloc 1755117122107348472 v3 Revised
+Stella's Last Voyage
+

@@ -1,0 +1,1219 @@
+key: lynx/conversations._lynxbigmealfoodintro.loctext 569979685042282339 v7 Revised
+Atul wants me at the dinner?
+Hum... sure!
+I guess I should be there...
+{|Expression_Idle_Neutral}I don't know... 
+{|Expression_Idle_Neutral}I'm not sure if I...
+Anyway, if I get there I should eat some ((noodle soup)).
+It will probably be fun to talk to everyone...
+{|Expression_Idle_Neutral}...or not.
+See you there munchkin!
+
+key: lynx/conversations.askgiveallore.loctext -1226800398249853592 v5 Revised
+I mined this ore when I was on the island with you earlier.
+{|Expression_Happy}I thought of smelting it for you munchkin but I can give it to you instead if you want.
+What do you think?
+
+key: lynx/conversations.askgiveallore-noanswer_conversation.loctext 1786999404029431494 v2 Revised
+Ok I'll do some smelting later with it then.
+Yes, it's a technical word.
+
+key: lynx/conversations.askgiveallore-yesanswer_conversation.loctext 5799168119122504167 v2 Revised
+Here you go munchkin!
+
+key: lynx/conversations.askstopsmelter.loctext 8262922703239723646 v2 Revised
+Should I stop ?
+
+key: lynx/conversations.askstopsmelter-noanswer_conversation.loctext -601614011017615572 v2 Revised
+I'll continue!
+
+key: lynx/conversations.askstopsmelter-yesanswer_conversation.loctext -6842343798881796312 v2 Revised
+Ok I'll stop.
+
+key: lynx/conversations.data.loctext -7531046313988654058 v2 Revised
+Thank you!
+
+key: lynx/conversations.denizenconversation-talktoboss1validation._commenttext 9202208977922424720 v1 Revised
+Go away!
+
+key: lynx/conversations.denizenconversation-talktoboss1validation.loctext -3577411934221031191 v1 Revised
+{|Expression_Idle_Neutral}What do you want!
+{|Expression_Idle_Neutral}Get away from here!
+{|Expression_Idle_Neutral}I have done nothing wrong!
+{|Expression_Idle_Neutral}I am the one being threatened!
+{|Expression_Surprise}As if three fewer days of vacation a year was a big problem for them.
+{|Expression_Unhappy}I mean, they should’ve thought twice before starting a family right?
+{|Expression_Unhappy}I’m not responsible for their poor life choices!
+{|Expression_Unhappy}Nor for their lack of higher qualifications!
+{|Expression_Unhappy}And they should be happy I’ve not delocalized the production.
+{|Expression_Idle_Neutral}What will I have to do next?
+{|Expression_Unhappy}Pay them medical insurance too?
+{|Expression_Unhappy}Why would I pay them if they don’t work?
+{|Expression_Unhappy}It doesn’t make a difference if they have a broken arm or whooping cough.
+{|Expression_Unhappy}They still don’t work when they’re not here!
+
+key: lynx/conversations.denizenconversation-talktoboss2validation._commenttext 7201051407355827121 v1 Revised
+What do you want!
+
+key: lynx/conversations.denizenconversation-talktoboss2validation._independenttextbubbleloc -401105205777232938 v1 Revised
+So?
+
+key: lynx/conversations.denizenconversation-talktoboss2validation.loctext -3077955763557178916 v4 Revised
+{|Expression_Headnod}They just want to negotiate, you say?
+{|Expression_Idle_Neutral}Look, it’s getting hot in here...
+{|Expression_Idle_Neutral}And I’m getting hungry too...
+{|Expression_Idle_Neutral}...
+Ok, you can tell them I’ll reverse my decision on the vacations.
+{|Expression_Headnod}I’ll wait for you here.
+
+key: lynx/conversations.denizenconversation-talktoboss3validation._commenttext 6303562783238222948 v2 Revised
+What did she say?
+
+key: lynx/conversations.denizenconversation-talktoboss3validation.loctext 6015529748396224273 v3 Revised
+{|Expression_Idle_Neutral}But, but...
+{|Expression_Idle_Neutral}Damn, I’ve really got to pee...
+{|Expression_Idle_Neutral}Ok, ok.
+{|Expression_Idle_Neutral}Whatever they want!
+{|Expression_Idle_Neutral}Tell them they’ll get WHATEVER they want!
+{|Expression_Unhappy}But they have to stop calling me Mr. Money Bags, got it?!
+{|Expression_Idle_Neutral}Ok, go now, I have to find the key to this door...
+
+key: lynx/conversations.foodaccept.loctext 8795307832736348494 v3 Revised
+{Eat}Thank you munchkin.
+
+key: lynx/conversations.foodaccept_dislike.loctext -1975205965856550680 v2 Revised
+{Eat}This is terrible, but what are you gonna do about it?
+
+key: lynx/conversations.foodaccept_like.loctext -6531156741896828832 v3 Revised
+{Eat}I'll always be full if you keep this up.
+
+key: lynx/conversations.foodaccept_love.loctext 6942226507261565470 v3 Revised
+{Eat}Oh wow... you made it just right.
+
+key: lynx/conversations.foodrefuse.loctext -3883330835008943382 v2 Revised
+I won't eat that.
+
+key: lynx/conversations.foodrefuse_inedible.loctext 7750067271871750062 v2 Revised
+That looks nasty.
+
+key: lynx/conversations.foodrefuse_same.loctext 1844132681733207768 v2 Revised
+Hum, munchkin...
+{|Expression_Idle_Neutral}Didn't you give me that recently? 
+{|Expression_Idle_Neutral}I don't mean to sound picky but...
+{|Expression_Idle_Neutral}Would you have anything else on hand?
+
+key: lynx/conversations.foodrefuse_same_fallback01.loctext 2585687286594821009 v1 Revised
+{|Expression_Idle_Neutral}I'm sure you have some other food in there.
+{|Expression_Idle_Neutral}I feel like I've just eaten that.
+
+key: lynx/conversations.foodrefuse_same_fallback02.loctext 7168478204415404895 v1 Revised
+{|Expression_Idle_Neutral}I might start cooking...
+{|Expression_Idle_Neutral}If you're always going to give me the same things.
+
+key: lynx/conversations.giveallfish.loctext 8418672009705383522 v4 Revised
+Don't be mad at me munchkin but I did some fishing while you weren't looking.
+
+key: lynx/conversations.giveallingots._commenttext 4719814478794057630 v1 Revised
+Munchkin!
+
+key: lynx/conversations.giveallingots.loctext 8925331772040652789 v3 Revised
+{|Expression_Happy}There, I made these for you, munchkin!
+
+key: lynx/conversations.gossipmean1._commenttext -8299805029527690345 v1 Revised
+I don't like you.
+
+key: lynx/conversations.lynx_favorite_omelette.loctext 5529359363201571161 v2 Revised
+Look, Stella, you won't hear me say that often.
+{Expression_Happy}But you did something marvelous here!
+{Expression_Happy}Simply incredible!
+I'm so proud of you!
+I'm even wondering if there is something left for me to teach you!
+{Eat}This ((noodle soup)) is simply my ((favourite)) dish.
+Congratulations!
+
+key: lynx/conversations.lynx_favorite_omelette_fallback01.loctext 4652848555629690228 v1 Revised
+{Expression_Happy}Now this is how you make ((noodle soup)), Munchkin.
+{Eat}You've made my ((favourite)) again, you're such a sweetheart!
+
+key: lynx/conversations.lynx_favorite_omelette_fallback02.loctext 8201696378041610862 v1 Revised
+{Expression_Happy}This broth! It's my ((favourite))!
+{Eat}I couldn't ask for a better ((noodle soup)), Munchkin.
+
+key: lynx/conversations.lynx_lastvoyage_fallback1.loctext -7195358832134934833 v2 Revised
+We should go.
+
+key: lynx/conversations.lynx_lastvoyage_fallback2.loctext 4236592577446985182 v2 Revised
+Let's not wait around any longer.
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_a.loctext 469472324610378220 v2 Revised
+I don’t think it’s wise to live that long munchkin.
+Good thing I've never been that wise.
+But boy am I old.
+And being that old is disappointing.
+You just end up being ugly on the outside.
+And rotten on the inside.
+And it hurts so much!
+Life is suffering. 
+It is hard!
+The world is cursed. 
+But still, you find reasons to keep on living.
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_b.loctext -1564082507225905022 v2 Revised
+I don’t regret a thing you know.
+I don’t regret the struggles.
+I don’t regret the hardships.
+The pain.
+The sorrow.
+And I've seen so much of it!
+But still.
+I don’t regret what I’ve done and how I've lived my life.
+I just wished the world had been a better place.
+A better place for them all, for us...
+But surely, a better place for you my dear.
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_c.loctext 599691405733495184 v2 Revised
+I feel like a vast vessel, with so many dusty rooms and cabins...
+I have so many of them...
+So many memories...
+Some of them are gone, but some of them...
+Some of them will live on forever.
+In you, in others.
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_d.loctext 7249499935937741797 v2 Revised
+I remember their faces as they trembled in fear...
+I remember their houses and the parties they threw...
+I remember their songs and their love...
+I remember their touch, their warmth...
+It’s all fading away now, munchkin...
+It’s fading away...
+It’s all grey, all white, all foggy...
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_e.loctext -1407635053351564721 v2 Revised
+Is it all gone already?
+I don’t see much anymore...
+You’re still here with me, aren’t you?
+You’re still here Stella?
+Don’t you forget about me, please.
+I don’t care about anyone else!
+But you, you don’t forget about me I’m telling you!
+I’ll come back and haunt you if you do!
+
+key: lynx/conversations.lynx_lastvoyage_tendersequence_f.loctext 1483071539856579508 v2 Revised
+I can feel it coming.
+Goodbye, Stella.
+Just follow your heart and keep smiling.
+
+key: lynx/conversations.lynx_like_plain.loctext 6422852939831321608 v1 Revised
+This is really good munchkin.
+You know, I'm a simple person.
+And simple persons love ((plain)) dishes.
+Unpretentious, simple food.
+{Eat}And this is exactly it.
+Thank you!
+
+key: lynx/conversations.lynx_like_plain_fallback01.loctext 5198202382148032856 v1 Revised
+I always say: "((Plain)) dishes make delicious dishes".
+{Eat}You can quote me on that one!
+
+key: lynx/conversations.lynx_like_plain_fallback02.loctext -562892595901800069 v1 Revised
+There is no hassle with ((plain)) food.
+{Eat}No fuss, no muss.
+
+key: lynx/conversations.lynx_like_soup.loctext 7439437334835592956 v1 Revised
+Oh!
+I've always loved ((soup))!
+How did you know?
+{Eat}Mmm, very good.
+Thanks Munchkin!
+
+key: lynx/conversations.lynx_like_soup_fallback01.loctext 6486103318052794967 v1 Revised
+{Eat}I just adore this ((soup)).
+There must be a secret!
+
+key: lynx/conversations.lynx_like_soup_fallback02.loctext -3349607466158068747 v1 Revised
+Oh, Munchkin!
+{Eat}I could never get tired of ((soup)).
+
+key: lynx/conversations.lynx_readytoleave_accept.loctext 9045308780068338914 v2 Revised
+[Start]{|Expression_Idle_Neutral}Ok.
+{|Expression_Idle_Neutral}Let’s do this, I can’t hold it any longer.
+
+key: lynx/conversations.lynx_readytoleave_question._independenttextbubbleloc -1630378287825878097 v1 Revised
+Stella...
+
+key: lynx/conversations.lynx_readytoleave_question.loctext -4030100549109457298 v5 Revised
+[Particles]{|Expression_Idle_Neutral}Ah, we’ve finally arrived.
+{|Expression_Idle_Neutral}I feel so weak...
+{|Expression_Idle_Neutral}Can we go now?
+
+key: lynx/conversations.lynx_readytoleave_refuse.loctext 5230042902833688100 v2 Revised
+{|Expression_Idle_Neutral}Alright.
+{|Expression_Idle_Neutral}But don’t make me wait for too long will you?
+
+key: lynx/conversations.lynx_refuse_finedining.loctext 6642990429561470505 v1 Revised
+{|Expression_Idle_Neutral}I'm sorry, I can't accept this.
+{|Expression_Idle_Neutral}This is way too fancy for me.
+{|Expression_Idle_Neutral}((fine dining)) is a concept I can't go behind.
+{|Expression_Idle_Neutral}You'll have to deal with it.
+
+key: lynx/conversations.lynx_refuse_finedining_fallback01.loctext -1392401743446138386 v1 Revised
+{|Expression_Idle_Neutral}No thanks, Munchkin.
+{|Expression_Idle_Neutral}((Fine dining)) has always been out of my price range.
+
+key: lynx/conversations.lynx_refuse_finedining_fallback02.loctext 2624835244446215640 v1 Revised
+{Expression_Angry|Expression_Idle_Neutral}You know I don’t like ((fine dining)), Munchkin.
+{Expression_Angry|Expression_Unhappy}And you trying over and over again won’t change my mind, sorry.
+
+key: lynx/conversations.lynx_refuse_sweet.loctext -788265503359207771 v1 Revised
+{|Expression_Idle_Neutral}Ah.
+{|Expression_Idle_Neutral}This is way too sweet for me.
+{|Expression_Idle_Neutral}I really don't want anything ((sweet)) like that.
+{Expression_Angry|Expression_Unhappy}I'm not a kid anymore, Stella.
+{Expression_Angry|Expression_Unhappy}I won't take this, sorry.
+
+key: lynx/conversations.lynx_refuse_sweet_fallback01.loctext 9067502492534690622 v1 Revised
+{Expression_Angry|Expression_Unhappy}Did you drop a pound of sugar in this?
+{Expression_Angry|Expression_Unhappy}I've never been on the ((sweet)) side!
+
+key: lynx/conversations.lynx_refuse_sweet_fallback02.loctext 502335271952312107 v1 Revised
+{Expression_Angry|Expression_Unhappy}Anything ((sweet)) is not for me.
+{Expression_Angry|Expression_Unhappy}I don't have a sweet tooth.
+
+key: lynx/conversations.lynxconversation-askaboutfrogvalidation.loctext -4048590221254720443 v4 Revised
+{|Expression_Idle_Neutral}Atul?
+{|Expression_Idle_Neutral}Indeed, I wonder where he might be.
+{|Expression_Idle_Neutral}I don't know why munchkin but I have a hunch he won't be back.
+{|Expression_Idle_Neutral}And that makes me sad...
+{|Expression_Idle_Neutral}He's always been so joyful!
+{|Expression_Idle_Neutral}And funny!
+{|Expression_Unhappy}Oh but I won't miss him snoring for sure...
+{|Expression_Idle_Neutral}Sorry I couldn't be of more help Stella...
+
+key: lynx/conversations.lynxconversation-askaboutplayvalidation.loctext -3002677003558089908 v3 Revised
+Oh, Stan is so cute isn't he?
+With his cute little cheeks and his funny manners?
+I love kids!
+We connect so much, me and them.
+You can tell him he was wonderful!
+{|Expression_Idle_Neutral}He still speaks too fast though.
+{|Expression_Idle_Neutral}He should articulate more.
+But he was great!
+
+key: lynx/conversations.lynxconversation-buildastridshousevalidation._independenttextbubbleloc 2594315921961635729 v1 Revised
+Perfect!
+
+key: lynx/conversations.lynxconversation-buildastridshousevalidation.loctext 6234140411161675332 v3 Revised
+Stella!
+You've got to be kidding me!
+{Expression_Happy}This house is just fantastic!
+You know, I love simple things.
+Simple things that make me feel good and warm inside.
+What can I do, I just don't like when it's too complicated or luxurious!
+I just don't, that's who I am!
+{|Expression_Pensive}I've always been like that, as far as I remember.
+{|Expression_Pensive}When I was young, many of my friends were pretty rich and famous.
+{|Expression_Pensive}You know, artists, philosophers, sports athletes...
+{|Expression_Unhappy}I've always attracted the finest people, what can I say?
+But it didn't mean a thing back then, and still doesn't up to this day.
+{|Expression_Idle_Neutral}That's probably why I ended up marrying Giovanni.
+{|Expression_Pensive}He was so simple, yet so elegant!
+{|Expression_Pensive}So genuine, but also fun and unpretentious!
+{|Expression_Idle_Neutral}And he didn't have a dime to his name.
+{|Expression_Idle_Neutral}Still doesn't I guess.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}OK, I've got to admit, I think I miss him.
+{Expression_Angry|Expression_Idle_Neutral}I know I shouldn't!
+{Expression_Angry|Expression_Idle_Neutral}I know he's a worthless riffraff!
+{Expression_Angry|Expression_Idle_Neutral}I know he probably doesn't give a shit about me now!
+{|Expression_Empathy}But...
+{|Expression_Empathy}But I just can't forget about him.
+{|Expression_Idle_Neutral}Hey, munchkin, do you think you could check the mail?
+{|Expression_Headnod}Maybe Olga has written to us about him, as she said she would...
+{Expression_Happy}I would be so grateful if you did!
+Thanks a lot Stella.
+{Expression_Happy|Expression_Headnod}I won't forget this.
+
+key: lynx/conversations.lynxconversation-buildlynxshousereminder._commenttext -5525643978136062460 v1 Revised
+Hey, munchkin!
+
+key: lynx/conversations.lynxconversation-buildlynxshousereminder.loctext -2304194506643573227 v3 Revised
+{|Expression_Idle_Neutral}Oh, munchkin, I can't wait for my cabin to be ready!
+{Expression_Happy}It's going to be so pretty!
+Don't get me wrong, the guest house is really cozy.
+{|Expression_Idle_Neutral}It's just a bit... small.
+{|Expression_Idle_Neutral}And busy.
+{|Expression_Unhappy}And smelly.
+{|Expression_Unhappy}Some of us could use a bath I think...
+{|Expression_Unhappy}But I'm not judging!
+
+key: lynx/conversations.lynxconversation-buildmailboxintroduction._independenttextbubbleloc 5089533989900835193 v1 Placeholder
+-PH- Spirit Call!
+
+key: lynx/conversations.lynxconversation-buildsmelterskipconversation._independenttextbubbleloc 2220262867986766225 v2 Revised
+Would you look that?
+
+key: lynx/conversations.lynxconversation-buildsmelterskipconversation.loctext -3094888825465876948 v2 Revised
+That's what I call a ((foundry))!
+
+key: lynx/conversations.lynxconversation-buildsmeltervalidation._independenttextbubbleloc -7028203819756312310 v1 Revised
+Simply beautiful.
+
+key: lynx/conversations.lynxconversation-buildsmeltervalidation.loctext -6942010667135800857 v1 Revised
+{Expression_Happy}Do you feel that heat, munchkin?
+{Expression_Happy}Do you smell these fragrances of molten metals and heavy machinery?
+{Expression_Happy}This is where magic happens!
+{Expression_Happy}We are going to make some beautiful things in here!
+Let's go inside so I can explain how it works.
+
+key: lynx/conversations.lynxconversation-call.loctext -7351384214936514028 v1 Revised
+What are you waiting for?
+
+key: lynx/conversations.lynxconversation-checkiftier2unlockedintroduction._commenttext -6241893791003437343 v1 Revised
+Hmm...
+
+key: lynx/conversations.lynxconversation-checkiftier2unlockedintroduction._independenttextbubbleloc 3174113029176932198 v1 Revised
+Munchkin!
+
+key: lynx/conversations.lynxconversation-checkiftier2unlockedintroduction.loctext 6190979323869100480 v2 Revised
+What a wonderful boat you have here, munchkin!
+{|Expression_Unhappy}I never would have thought you could build something this nice.
+But you did! Congratulations!
+{|Expression_Idle_Neutral}That being said, there is still of course room for improvement.
+{|Expression_Idle_Neutral}Little things here and there.
+{|Expression_Idle_Neutral}Nothing major!
+{|Expression_Pensive}You know what you should focus on?
+Upgrading your blueprint station.
+{|Expression_Idle_Neutral}Look, I know zilch about ships and sailing.
+{|Expression_Idle_Neutral}But I've been spending my whole life in factories and around heavy machineries.
+{|Expression_Idle_Neutral}And I have a hunch it would be worth it.
+{|Expression_Idle_Neutral}No idea who could do that for you though!
+{|Expression_Happy}...
+What?
+{|Expression_Headnod}A shark you say?
+{|Expression_Headnod}He loaned the boat to you?
+{Expression_Angry|Expression_Unhappy}Yeah, I don't like him.
+But OK, I'll trust you on this.
+
+key: lynx/conversations.lynxconversation-commentaboutplay01.loctext -8821253502250899899 v1 Revised
+What!
+
+key: lynx/conversations.lynxconversation-commentonlionvalidation._independenttextbubbleloc -6058924248414784948 v1 Revised
+Hmm...
+
+key: lynx/conversations.lynxconversation-commentonlionvalidation.loctext 1086428330248368751 v1 Revised
+{|Expression_Idle_Neutral}I...
+{|Expression_Idle_Neutral}I don't know how I feel.
+{|Expression_Idle_Neutral}Should I be sad?
+{|Expression_Idle_Neutral}Should I be happy?
+{|Expression_Idle_Neutral}Angry?
+{|Expression_Idle_Neutral}I can feel his absence.
+{|Expression_Idle_Neutral}But at the same time, it's as if something had been fulfilled.
+{|Expression_Idle_Neutral}Completed.
+{|Expression_Idle_Neutral}You know what I mean munchkin?
+{|Expression_Idle_Neutral}Am I a bad person?
+{|Expression_Idle_Neutral}Is it ok for someone to feel liberated under such circumstances?
+{|Expression_Idle_Neutral}I'm sorry Stella, I don't want to sound ungrateful.
+{|Expression_Idle_Neutral}I'm still a bit shaken.
+{|Expression_Idle_Neutral}But not lost.
+{|Expression_Idle_Neutral}At least you're here with me.
+{|Expression_Idle_Neutral}That's the most important.
+{|Expression_Idle_Neutral}My heart is stronger because you're in it.
+
+key: lynx/conversations.lynxconversation-craftbarsintro._independenttextbubbleloc 5511485849576081310 v1 Revised
+What a machine!
+
+key: lynx/conversations.lynxconversation-craftbarsintro.loctext -7630549860025157751 v3 Revised
+Oh my!
+{Expression_Happy|Expression_Surprise}Stella, this is a first class ((foundry)) you've got here!
+{Expression_Happy}Even I myself couldn't have done better!
+{Expression_Happy}Simply stunning!
+{|Expression_Headnod}Let me run you through the basics.
+{|Expression_Pensive}This is a complex machine, and you have to be careful around it.
+{|Expression_Pensive}First, you have to load ((ore)) in the furnace.
+{|Expression_Pensive}Then, you have to throw ((coal)) in the burner to power it.
+{|Expression_Pensive}The machine will then reach its working temperature.
+{|Expression_Pensive}Then whatever ((ore)) you've deposited in the furnace will be smelted into ((ingots)).
+{|Expression_Pensive}The bellows on each side of the furnace will make the heat go up.
+{|Expression_Pensive}Each metal will behave differently, but once the right temperature is reached, the fusion starts.
+{|Expression_Pensive}You'll have to make sure the temperature remains at the right level.
+{|Expression_Pensive}Below it, the process simply stops, and above it, well...
+{|Expression_Idle_Neutral}You don't want to see this happen, munchkin.
+And that's it, I've told you all you needed to know.
+{|Expression_Headnod}Have at it!
+
+key: lynx/conversations.lynxconversation-craftbarsvalidation._independenttextbubbleloc 8305489658255654176 v1 Revised
+Great work!
+
+key: lynx/conversations.lynxconversation-craftbarsvalidation.loctext 5388746881628828176 v1 Revised
+{Expression_Happy}Oh, Stella, how I wished all the metalworkers I've met were as gifted as you are!
+{Expression_Happy|Expression_Unhappy}You look so small and weak, but you danced around the smelter like a veteran forge-master!
+{Expression_Happy}I'm so proud of you!
+This is a splendid machine, and I'm sure you'll put it to good use.
+{|Expression_Headnod}I'll even indulge myself, and use it from times to times, if you're OK with that.
+
+key: lynx/conversations.lynxconversation-denizenar2intro._independenttextbubbleloc -3358742673359052244 v1 Revised
+Alright Munchkin!
+
+key: lynx/conversations.lynxconversation-denizenar2intro.loctext -3523635642053346608 v2 Revised
+Olga said in her letter that Giovanni could have been around.
+{|Expression_Idle_Neutral}Knowing him as I do, I have my doubts.
+{|Expression_Idle_Neutral}He wouldn't linger in a place like this.
+{|Expression_Idle_Neutral}But, who knows?
+{|Expression_Idle_Neutral}Maybe if you ask around, we might find a clue or two?
+{|Expression_Idle_Neutral}I'll leave you to it, I don't want to go too far.
+{|Expression_Idle_Neutral}The humidity here is killing me.
+{|Expression_Idle_Neutral}Go, go, I trust you will find interesting stuff.
+
+key: lynx/conversations.lynxconversation-denizenar2validation._independenttextbubbleloc -3332763878009198023 v1 Revised
+Bummer.
+
+key: lynx/conversations.lynxconversation-denizenar2validation.loctext 3725804833630650215 v4 Revised
+{|Expression_Headnod}He was here you say?
+{|Expression_Headnod}And he... met someone?
+{Expression_Angry|Expression_Idle_Neutral}No.
+{Expression_Angry|Expression_Idle_Neutral}Don't tell me.
+{Expression_Angry|Expression_Idle_Neutral}I don't want to know.
+{Expression_Angry|Expression_Idle_Neutral}...
+{Expression_Angry|Expression_Unhappy}Ok, maybe I do.
+{|Expression_Unhappy}But just a tiny bit!
+{|Expression_Idle_Neutral}Only where he went.
+{|Expression_Headnod}((Furogawa)) you say?
+{|Expression_Pensive}I think I know where that is.
+{|Expression_Pensive}I've heard it's a lovely place.
+{|Expression_Pensive}Well, at least that's what the brochures said.
+{Expression_Happy}I've always loved these colorful fliers!
+{Expression_Happy}They make you travel without leaving your seat!
+{|Expression_Headnod}Alright Munchkin, let's check it out!
+
+key: lynx/conversations.lynxconversation-denizenb3intro._independenttextbubbleloc -7347946884978585909 v1 Revised
+Let's look around.
+
+key: lynx/conversations.lynxconversation-denizenb3intro.loctext 4082907246126808475 v1 Revised
+{|Expression_Pensive}Mmm, that's funny.
+{|Expression_Pensive}Is it his perfume that I can smell?
+{|Expression_Pensive}This peculiar mix of musk and nonchalance?
+{|Expression_Idle_Neutral}He must have been here recently!
+{|Expression_Headnod}Quick Munchkin, let's ask around!
+
+key: lynx/conversations.lynxconversation-denizenb3validation._independenttextbubbleloc -6459509515231590067 v1 Revised
+What a bust.
+
+key: lynx/conversations.lynxconversation-denizenb3validation.loctext -4963186175295346517 v2 Revised
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Sorry Stella I...
+{Expression_Angry|Expression_Surprise}Oh, damn it!
+{Expression_Angry|Expression_Surprise}Enough is enough!
+{Expression_Angry|Expression_Idle_Neutral}I'm done losing my time!
+{Expression_Angry|Expression_Idle_Neutral}I won't be looking for that hoodlum anymore!
+{Expression_Angry|Expression_Idle_Neutral}I don't need him to be happy!
+{Expression_Angry|Expression_Idle_Neutral}I don't need to hear his stupid jokes and incessant yammering.
+{Expression_Angry|Expression_Idle_Neutral}I don't need to be suffocated by his floral perfume.
+{Expression_Angry|Expression_Idle_Neutral}I don't need to have him constantly showering me with praise.
+{Expression_Angry|Expression_Idle_Neutral}I don't need to see his flamboyant mane...
+{|Expression_Idle_Neutral}I don't...
+{|Expression_Empathy}...
+{|Expression_Empathy}I...
+{|Expression_Headnod}Let's go back to the boat munchkin.
+
+key: lynx/conversations.lynxconversation-denizenc1intro._independenttextbubbleloc 6567762039052963204 v1 Revised
+Stella!
+
+key: lynx/conversations.lynxconversation-denizenc1intro.loctext 4008921218395922652 v1 Revised
+{|Expression_Idle_Neutral}He's been here...
+{|Expression_Idle_Neutral}I can feel it.
+{|Expression_Idle_Neutral}I won't beg.
+{|Expression_Idle_Neutral}But, if you could...
+{|Expression_Idle_Neutral}Oh come on, you know what to do!
+
+key: lynx/conversations.lynxconversation-denizenc1validation._independenttextbubbleloc -2798363805520085026 v1 Revised
+He... what?
+
+key: lynx/conversations.lynxconversation-denizenc1validation.loctext -2047769895000107818 v2 Revised
+Just like that!
+No fuss?
+Really?
+He must be really desperate.
+Let's go back.
+
+key: lynx/conversations.lynxconversation-doubtsintroduction._independenttextbubbleloc 1647467476005801266 v1 Revised
+Munchkin!
+
+key: lynx/conversations.lynxconversation-doubtsintroduction.loctext -499114015331205981 v2 Revised
+{|Expression_Pensive}Something...
+{|Expression_Surprise}Something is wrong.
+{|Expression_Idle_Neutral}I can feel it in my bones.
+{|Expression_Idle_Neutral}Listen, just to make sure:
+{|Expression_Idle_Neutral}Could you check around the boat for my husband?
+{|Expression_Idle_Neutral}Especially at night?
+{|Expression_Headnod}I appreciate it.
+{|Expression_Headnod}Thanks Stella!
+
+key: lynx/conversations.lynxconversation-doubtsvalidation._independenttextbubbleloc 8700019710452949872 v1 Revised
+What's this?
+
+key: lynx/conversations.lynxconversation-doubtsvalidation.loctext 8958700663027808556 v3 Revised
+{|Expression_Idle_Neutral}Where was he?
+{|Expression_Idle_Neutral}Where was that dirtbag last night?
+{|Expression_Surprise}He clearly didn't sleep in his bed!
+{|Expression_Surprise}Stella, this is exactly as I feared.
+{Expression_Angry|Expression_Idle_Neutral}I KNEW it was not only in my imagination.
+{Expression_Angry|Expression_Idle_Neutral}Something WAS wrong...
+{|Expression_Idle_Neutral}Also, a letter came for him.
+{|Expression_Idle_Neutral}I didn't want to open it.
+{|Expression_Idle_Neutral}Here.
+{|Expression_Idle_Neutral}You read it.
+{|Expression_Idle_Neutral}Please... go...
+{|Expression_Idle_Neutral}Go investigate him for me...
+{|Expression_Idle_Neutral}Follow him around...
+{|Expression_Idle_Neutral}Thank you so much Stella...
+
+key: lynx/conversations.lynxconversation-encounter2-no.loctext -8222743074342323148 v1 Revised
+I'll stay here and wait.
+
+key: lynx/conversations.lynxconversation-encounter2-yes.loctext -7747291590750495340 v1 Revised
+Perfect.
+
+key: lynx/conversations.lynxconversation-encounter-no.loctext 3943018335861221229 v1 Revised
+I'll stay here and wait.
+
+key: lynx/conversations.lynxconversation-encounter-yes.loctext -2752708298394262585 v2 Revised
+Perfect.
+
+key: lynx/conversations.lynxconversation-fedlynxmanualconversation.loctext 6996252572140029730 v5 Revised
+{|Expression_Idle_Neutral}Well...
+{|Expression_Surprise}It's a bit... overcooked, isn't itw?
+{|Expression_Unhappy}And kind of... bland?
+{|Expression_Idle_Neutral}Bah, nevermind. 
+{|Expression_Idle_Neutral}That will do.
+{Expression_Happy}Thank you, munchkin!
+{Expression_Happy}You're a sweetheart.
+{|Expression_Idle_Neutral}I've been out of the loop on that island.
+{|Expression_Pensive}You tend to lose track when you fight for the workers' rights!
+{|Expression_Pensive}We should catch up on the latest gossip don't you think!
+Oh but don't get me wrong, I don't really like gossip.
+{|Expression_Pensive}But we need to stay informed!
+In case important things happen!
+And I know just the right person!
+{|Expression_Pensive}An old friend of mine has been roaming the seas.
+{|Expression_Pensive}She could probably tell us what's been going on.
+{|Expression_Headnod}Are you game for a little adventure?
+{|Expression_Idle_Neutral}Well, it's not like you have a choice.
+She should be around.
+{|Expression_Unhappy}She's gained a bit of weight recently, but don't tell her that!
+{|Expression_Unhappy}She's always making a scene when someone mentions her appearance.
+Let's go meet her.
+{|Expression_Idle_Neutral}Hurry up now!
+
+key: lynx/conversations.lynxconversation-fedlynxreminder._commenttext 8120533766957283652 v2 Revised
+Hey!
+
+key: lynx/conversations.lynxconversation-fedlynxreminder.loctext 8491480870818891804 v2 Revised
+Don't you try an forget to feed me something!
+
+key: lynx/conversations.lynxconversation-giovanniintroduction._independenttextbubbleloc 6318206046702206177 v1 Placeholder
+-PH- Spirit Call!
+
+key: lynx/conversations.lynxconversation-giovanniintroduction.loctext -2124690001943034444 v1 Placeholder
+LynxConversation-GiovanniIntroduction
+
+key: lynx/conversations.lynxconversation-goldintroduction._independenttextbubbleloc -944745395616636928 v2 Revised
+Stella!
+
+key: lynx/conversations.lynxconversation-goldintroduction.loctext -3324983066111110397 v3 Revised
+{|Expression_Idle_Neutral}Good, I see this shark didn't gouge you too much with his delirious prices.
+{Expression_Angry|Expression_Idle_Neutral}I know how these people are: Always trying to scam you from your money.
+{Expression_Angry|Expression_Idle_Neutral}And don't you dare being weak in front of them, they will smell it right away.
+{Expression_Angry|Expression_Idle_Neutral}Like the rabid dogs they are.
+Anyway, now that you've upgraded your ((blueprint table)), I see that you can ((build)) a ((foundry))!
+I could teach you a thing or two you know...
+I come from a long line of metal workers, and as much as I've learned how to fight for the workers' rights in factories,
+I've also learned how to operate such heavy machinery.
+{Expression_Happy}And let me tell you, it's absolutely fantastic!
+{|Expression_Idle_Neutral}It sure doesn't sound like it, and it's dirtier than you would expect...
+{Expression_Happy}But the vibrations, the sounds, the heat!
+{|Expression_Headnod}You know what? Be a dear, and build one for us!
+It will come in handy in your travels, and I will have something to do with my hands!
+
+key: lynx/conversations.lynxconversation-happyonboatvalidation._independenttextbubbleloc 1596390442841088099 v2 Revised
+Stella...
+
+key: lynx/conversations.lynxconversation-happyonboatvalidation.loctext -3448397689860636373 v5 Revised
+{|Expression_Idle_Neutral}Munchkin...
+{|Expression_Idle_Neutral}I am...
+{|Expression_Empathy}I’m so tired...
+{|Expression_Empathy}So old...
+{|Expression_Empathy}I can’t...
+{|Expression_Empathy}I can't do it anymore.
+{|Expression_Empathy}I can’t go much further.
+{|Expression_Empathy}Will you do me a favour?
+{|Expression_Empathy}Please bring me there sweetheart.
+{|Expression_Empathy}Bring me where it ends.
+
+key: lynx/conversations.lynxconversationhungry01.loctext -5814394698192819934 v2 Revised
+You know what would be nice?
+{|Expression_Idle_Neutral}Something to eat.
+
+key: lynx/conversations.lynxconversationhungry02.loctext -2219059248141926896 v2 Revised
+You wouldn't happen to have a little something to eat on you would you?
+
+key: lynx/conversations.lynxconversationhungrymaster._commenttext 98245231067860843 v2 Revised
+Be a dear...
+
+key: lynx/conversations.lynxconversationhungrymaster._independenttextbubbleloc -2497038657635052794 v1 Revised
+Munchkin...
+
+key: lynx/conversations.lynxconversation-idletalk01.loctext -8153182141183067408 v1 Revised
+What about that book I recommended?
+
+key: lynx/conversations.lynxconversation-idletalk02.loctext -8320588463754295342 v4 Revised
+Maybe we should take a longer walk?
+
+key: lynx/conversations.lynxconversation-idletalk03.loctext -4875288618809865065 v1 Revised
+The breeze is so refreshing...
+
+key: lynx/conversations.lynxconversation-idletalk04.loctext 2603094690074159285 v1 Revised
+A nice glass of white wine...
+
+key: lynx/conversations.lynxconversation-invitelynxintroduction.loctext -2524663005702689050 v3 Revised
+{|Expression_Happy}That sounds wonderful.
+{|Expression_Happy_to_Idle}That's something my husband would never like to go to.
+
+key: lynx/conversations.lynxconversation-kickedoutintro._independenttextbubbleloc 2642738427571229803 v1 Revised
+Enough!
+
+key: lynx/conversations.lynxconversation-kickedoutintro.loctext -7701399120359893535 v3 Revised
+{Expression_Angry|Expression_Idle_Neutral}I've had enough!
+{Expression_Angry|Expression_Idle_Neutral}I thought I was stronger than that, but obviously, I was WRONG.
+{Expression_Angry|Expression_Idle_Neutral}I can't tolerate that any longer!
+{Expression_Angry|Expression_Idle_Neutral}He is driving me up the walls!
+{Expression_Angry|Expression_Idle_Neutral}He is following me everywhere!
+{Expression_Angry|Expression_Idle_Neutral}He talks and talks and talks...
+{Expression_Angry|Expression_Idle_Neutral}And I KNOW he lies!
+{Expression_Angry|Expression_Idle_Neutral}All the time!
+{Expression_Angry|Expression_Idle_Neutral}EVERYTHING he says is a blatant lie!
+{Expression_Angry|Expression_Idle_Neutral}What did you find out there?
+{Expression_Angry|Expression_Idle_Neutral}Was he cheating on me?
+{Expression_Angry|Expression_Idle_Neutral}Tell me!
+
+key: lynx/conversations.lynxconversation-kickedoutintro-noanswer.loctext -7107417232700636936 v2 Revised
+{|Expression_Idle_Neutral}Ok, I believe you.
+{Expression_Angry|Expression_Idle_Neutral}But it doesn't matter.
+{Expression_Angry|Expression_Idle_Neutral}You have to get rid of him, Stella.
+{|Expression_Idle_Neutral}Please.
+{|Expression_Idle_Neutral}For my sanity.
+{Expression_Angry|Expression_Idle_Neutral}If I have to listen to one more of his stories I'll...
+{Expression_Angry|Expression_Unhappy}I'll push him off this boat...
+
+key: lynx/conversations.lynxconversation-kickedoutintro-yesanswer.loctext -8133530648905658365 v2 Revised
+{|Expression_Idle_Neutral}I knew it...
+{Expression_Angry|Expression_Idle_Neutral}I KNEW it...
+{|Expression_Idle_Neutral}Thank you for telling me the truth, munchkin.
+{|Expression_Idle_Neutral}I knew I could count on you.
+{|Expression_Idle_Neutral}It warms my heart to know that I can trust in someone.
+{|Expression_Idle_Neutral}Now, please.
+{|Expression_Idle_Neutral}You know what to do.
+{Expression_Angry|Expression_Idle_Neutral}I don't want to see his face anymore...
+{Expression_Angry|Expression_Idle_Neutral}He's out!
+{Expression_Angry|Expression_Idle_Neutral}Out of my house!
+{Expression_Angry|Expression_Idle_Neutral}Out of my hair!!!
+
+key: lynx/conversations.lynxconversation-kickedoutvalidation._independenttextbubbleloc 8204445619446678293 v1 Revised
+Ah...
+
+key: lynx/conversations.lynxconversation-kickedoutvalidation.loctext -8394079845737229499 v1 Revised
+I don't know why but...
+{|Expression_Empathy}It hurts to see him go.
+{|Expression_Empathy}I didn't think it would but...
+{|Expression_Empathy}Here we are.
+{|Expression_Idle_Neutral}Anyway, it was the right thing to do.
+{|Expression_Idle_Neutral}Thank you for your help Stella.
+{|Expression_Empathy}Now I...
+{|Expression_Empathy}I need some time.
+{|Expression_Empathy}I need to be alone and by myself for little a while I think...
+{|Expression_Empathy}Thank you munchkin.
+{|Expression_Empathy}Thank you for being here, by my side...
+
+key: lynx/conversations.lynxconversation-lettersintro._independenttextbubbleloc -7840216261934553630 v1 Placeholder
+You came!
+
+key: lynx/conversations.lynxconversation-lettersintro.loctext -2369441840961031768 v1 Placeholder
+I wrote and wrote!
+I never thought you would actually come here.
+Let's go.
+Take me away from here.
+
+key: lynx/conversations.lynxconversation-narrativemoment_threeintroduction._commenttext -6326389360125595022 v2 Revised
+Munchkin!
+
+key: lynx/conversations.lynxconversation-narrativemoment_threeintroduction.loctext 3640856436907369830 v2 Revised
+I don’t know why but I think about the past a lot these days.
+{|Expression_Idle_Neutral}All those images come back to me, waking me up at night.
+{|Expression_Idle_Neutral}I think of all the horrors during the war.
+{|Expression_Idle_Neutral}All my friends who died.
+{|Expression_Idle_Neutral}The joy at the liberation!
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}And of course, I think of all those children we hid in the basement of the factory, granny Sue and I...
+{|Expression_Idle_Neutral}I was so young, only a few years older than them.
+{|Expression_Idle_Neutral}16? 17 maybe?
+{|Expression_Idle_Neutral}I didn’t realize what I was doing.
+{|Expression_Idle_Neutral}All the implications. 
+{|Expression_Idle_Neutral}All the risks.
+{|Expression_Idle_Neutral}But I was young, and I didn’t see any other option.
+{|Expression_Idle_Neutral}I couldn’t let these kids out there.
+{|Expression_Idle_Neutral}They were so afraid.
+{|Expression_Idle_Neutral}So small. 
+{|Expression_Idle_Neutral}And we knew most of their parents.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}None of them came back.
+
+key: lynx/conversations.lynxconversation-narrativemoment_twointroduction._commenttext -8507915611140812142 v3 Revised
+Come closer!
+
+key: lynx/conversations.lynxconversation-narrativemoment_twointroduction.loctext -7109469540425442608 v2 Revised
+{|Expression_Idle_Neutral}Don’t be afraid!
+You’re so pretty munchkin!
+You remind me so much how I used to be when I was younger.
+I used to wear a red ribbon in my hair, just like in the magazines.
+The boys always noticed me you know.
+{|Expression_Idle_Neutral}I could’ve had Tony, the barber’s son.
+{|Expression_Idle_Neutral}He was quite rich and had a red convertible!
+{|Expression_Idle_Neutral}Or even Al, the ski champion.
+{|Expression_Unhappy}Oh, Al, he had the nicest butt!
+{|Expression_Idle_Neutral}But Giovanni!
+{Expression_Happy}Ah, Giovanni.
+{Expression_Happy}…
+{Expression_Happy}Whatever I did, whatever happened, he always made me smile.
+{Expression_Happy}His eyes looked like shooting stars, his hair smelled like morning dew.
+But enough of this.
+{Expression_Angry}Daydreaming won't get us nowhere.
+Let's do something productive!
+{|Expression_Unhappy}Aren't your crops in need of water?
+
+key: lynx/conversations.lynxconversation-narrativemoment-oneintroduction._commenttext -6169191126028568926 v1 Revised
+Stella, come here!
+
+key: lynx/conversations.lynxconversation-narrativemoment-oneintroduction.loctext -6918747863125922725 v2 Revised
+I’m happy you found me, munchkin, and I’m happy we’ve been able to help these poor souls in the factory!
+{|Expression_Idle_Neutral}The workers deserve better, and the ruling class will never change.
+{Expression_Angry|Expression_Idle_Neutral}A bunch of swines they are.
+{|Expression_Idle_Neutral}They are the same as us you know.
+{|Expression_Idle_Neutral}They just pretend to be superior, only because their wallets are full, and their houses are big.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Yes, I know all rich people don’t deserve to die.
+{Expression_Angry|Expression_Idle_Neutral}But I’ve never accepted how the workers were treated.
+{|Expression_Idle_Neutral}Exploited.
+{|Expression_Idle_Neutral}Diminished.
+{|Expression_Idle_Neutral}Just because of their birth.
+{Expression_Angry|Expression_Idle_Neutral}It’s unfair and unjust.
+{Expression_Angry|Expression_Idle_Neutral}And I will fight for them until my last dying breath.
+
+key: lynx/conversations.lynxconversation-protestreminder01._commenttext -6444535267340180438 v1 Revised
+Come here you!
+
+key: lynx/conversations.lynxconversation-protestreminder01.loctext 722807833815016130 v2 Revised
+Our work here is not done!
+
+key: lynx/conversations.lynxconversation-protestreminder02._commenttext 972953508332338484 v1 Revised
+Come back here!
+
+key: lynx/conversations.lynxconversation-protestreminder02.loctext 4044739748296328690 v2 Revised
+This is our time to fight.
+
+key: lynx/conversations.lynxconversation-read2ndturtlelettervalidation._independenttextbubbleloc 5771049791145073223 v2 Revised
+Stella!
+
+key: lynx/conversations.lynxconversation-read2ndturtlelettervalidation.loctext -1466038091561526851 v8 Revised
+I've heard we received another letter from Olga?
+...
+{|Expression_Headnod}Masha you say?
+{|Expression_Pensive}She's her sister.
+{|Expression_Headnod}And she might know something about Giovanni's location?
+{|Expression_Pensive}Huh, ok...
+{|Expression_Surprise}Good!
+{|Expression_Headnod}Let's go talk to her then!
+{|Expression_Pensive}She is...
+{|Expression_Pensive}How to put it...
+{|Expression_Pensive}Special.
+{|Expression_Pensive}Me and her...
+{|Expression_Idle_Neutral}Let's say we've never been friends.
+{|Expression_Surprise}And Stella? 
+{Expression_Happy}Thanks for playing messenger.
+{Expression_Happy}You're wonderful.
+
+key: lynx/conversations.lynxconversation-readlettervalidation._independenttextbubbleloc 571615787441391749 v2 Revised
+What is it Munchkin?
+
+key: lynx/conversations.lynxconversation-readlettervalidation.loctext 3925816036817037803 v2 Revised
+A letter you say?
+{|Expression_Headnod}From Olga?
+{Expression_Happy}This is so nice of her!
+{|Expression_Idle_Neutral}...
+{|Expression_Headnod}Olga had news about Giovanni's whereabouts?
+{|Expression_Headnod}((Iwashima countryside)) you say?
+{|Expression_Idle_Neutral}Oh...
+{|Expression_Idle_Neutral}Ok...
+We should probably go take a look.
+{|Expression_Surprise}And what? 
+{|Expression_Headnod}An inspiration for a house?
+{|Expression_Headnod}For me?
+{Expression_Happy}How thoughtful!
+Can't deny it, Olga knows me so well!
+Yes, indeed, I would be very happy to have such a nice den to live in!
+{|Expression_Idle_Neutral}And it's always pleasant to know someone is thinking about you.
+{|Expression_Unhappy}I mean, you could have thought about this yourself of course.
+{Expression_Happy|Expression_Unhappy}But don't worry, I know you're very busy, munchkin!
+{|Expression_Idle_Neutral}Being the Spiritfarer and all.
+{|Expression_Idle_Neutral}It's OK, I won't begrudge you.
+{|Expression_Idle_Neutral}And I know you, you'll build this nice cabin aboard as soon as you can!
+{Expression_Happy}You're so resourceful after all.
+Thanks a lot Stella, I can't wait!
+
+key: lynx/conversations.lynxconversation-recruit.loctext 6325906769727564462 v1 Revised
+Let's go back to your boat.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk01._independenttextbubbleloc 8639559900665012185 v1 Revised
+She's here!
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk01.loctext 2567194008497815137 v1 Revised
+What a grand day!
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk02._independenttextbubbleloc -8762798098752098009 v1 Revised
+She's here.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk02.loctext 6305536211562441666 v1 Revised
+Don't you just love the outdoors.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk03._independenttextbubbleloc -6042605506721567895 v1 Revised
+She's here.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk03.loctext -2984004190450323864 v1 Revised
+There's always been something particularly great about living all by yourself.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk04._independenttextbubbleloc -4937990292003013080 v1 Revised
+She's here.
+
+key: lynx/conversations.lynxconversation-secondactrandomtalk04.loctext 327863667766331269 v1 Revised
+This day is what I make of it!
+
+key: lynx/conversations.lynxconversationstarving01.loctext 995939584927539232 v2 Revised
+{|Expression_Idle_Neutral}Stella!
+{|Expression_Idle_Neutral}What do I have to do to get fed?
+{|Expression_Idle_Neutral}Send you a letter?
+
+key: lynx/conversations.lynxconversationstarving02.loctext 1541230941561245023 v2 Revised
+{|Expression_Idle_Neutral}Why are you holding out on me Munchkin?
+{|Expression_Idle_Neutral}I might be old, but I still have a stomach!
+
+key: lynx/conversations.lynxconversationstarving03.loctext -3910825666561389525 v2 Revised
+{|Expression_Idle_Neutral}Oh come on Munchkin...
+{|Expression_Idle_Neutral}I'm starving!
+{|Expression_Idle_Neutral}Do something!
+
+key: lynx/conversations.lynxconversationstarvingmaster._commenttext 2284460899700484359 v2 Revised
+A word...
+
+key: lynx/conversations.lynxconversation-suspiciousagainvalidation._independenttextbubbleloc 5151288029602136405 v1 Revised
+Munchkin...
+
+key: lynx/conversations.lynxconversation-suspiciousagainvalidation.loctext 1700020440804939637 v1 Revised
+{|Expression_Pensive}Didn't you hear strange noises last night?
+{|Expression_Pensive}Around your cabin?
+{|Expression_Pensive}So odd...
+{|Expression_Idle_Neutral}Not sure I can sleep knowning something is off on this boat...
+
+key: lynx/conversations.lynxconversation-suspiciousvalidation._independenttextbubbleloc -2454417811298869195 v3 Revised
+Munchkin!
+
+key: lynx/conversations.lynxconversation-suspiciousvalidation.loctext -7194415761928664449 v1 Revised
+{|Expression_Pensive}Listen, I know this will sound strange but...
+{|Expression_Pensive}I heard my door slam last night!
+{|Expression_Pensive}Odd, isn't it?
+{|Expression_Pensive}Hopefully no one is coming in and out of our home!
+
+key: lynx/conversations.lynxconversation-talktolynx_2_1validation._independenttextbubbleloc -4815853762875661616 v2 Revised
+Well!
+
+key: lynx/conversations.lynxconversation-talktolynx_2_1validation.loctext -2535847365608154814 v4 Revised
+{|Expression_Idle_Neutral}She has never been nice!
+{|Expression_Idle_Neutral}Running her mouth like that.
+{|Expression_Idle_Neutral}She's the mean one of the bunch!
+{|Expression_Idle_Neutral}But enough about her!
+{Expression_Happy|Expression_Headnod}Thanks for bringing me here, Munchkin.
+{|Expression_Pensive}So, Giovanni is in ((Loneberg))...
+{|Expression_Pensive}Well...
+{|Expression_Pensive}He usually hates winter.
+{|Expression_Headnod}Let's go find him, Munchkin!
+
+key: lynx/conversations.lynxconversation-talktolynxabouttinyowlintroduction.loctext -7600736023774660307 v2 ReadyForRevision
+I have too much pride to insult someone I barely know.
+Let's just leave it at that.
+
+key: lynx/conversations.lynxconversation-talktolynxvalidation._commenttext -4329295892884258274 v1 Revised
+What did he say?
+
+key: lynx/conversations.lynxconversation-talktolynxvalidation.loctext 4275183913890286080 v5 Revised
+He agreed to everything you say?
+{|Expression_Headnod}Wonderful!
+You’re one hell of a negotiator, Munchkin!
+I like you already!
+Look, my work is done here thanks to you. 
+{|Expression_Happy}I probably could embark with you on this fancy boat of yours!
+I can’t wait to rest my old bones in a cozy home and have you by my side, Munchkin.
+{|Expression_Headnod}See you there!
+
+key: lynx/conversations.lynxconversation-talktoprotestleader1validation._independenttextbubbleloc -6410537594682405181 v2 Revised
+Oh!
+
+key: lynx/conversations.lynxconversation-talktoprotestleader1validation.loctext 8618164149947978061 v3 Revised
+Hello there!
+{|Expression_Idle_Neutral}You’ve come to join our protest?
+
+key: lynx/conversations.lynxconversation-talktoprotestleader1validation-noanswer_conversation.loctext -7360589624989123343 v2 Revised
+{|Expression_Idle_Neutral}No worries, everyone is welcome here.
+
+key: lynx/conversations.lynxconversation-talktoprotestleader1validation-skip_conversation.loctext -7894021384042188392 v1 Revised
+{|Expression_Idle_Neutral}I even have a little something to ask you since you’ve just arrived.
+{|Expression_Idle_Neutral}You’ll find up there the CEO of this company.
+{|Expression_Idle_Neutral}He’s fled in his office and won’t come out.
+{|Expression_Idle_Neutral}Coward.
+{|Expression_Idle_Neutral}See if you can convince him to face his employees, and have an honest dialog with them.
+{|Expression_Idle_Neutral}We won’t budge before their conditions have improved!
+
+key: lynx/conversations.lynxconversation-talktoprotestleader1validation-yesanswer_conversation.loctext -655190943275785733 v2 Revised
+Good, come on in!
+
+key: lynx/conversations.lynxconversation-talktoprotestleader2validation._commenttext 427403729276619535 v1 Revised
+What?
+
+key: lynx/conversations.lynxconversation-talktoprotestleader2validation.loctext 1149011399858348615 v3 Revised
+{|Expression_Idle_Neutral}We won’t move.
+{|Expression_Idle_Neutral}Not without having negotiated.
+
+key: lynx/conversations.lynxconversation-talktoprotestleader3validation._commenttext -4774602948304387238 v1 Revised
+So?
+
+key: lynx/conversations.lynxconversation-talktoprotestleader3validation.loctext 3943201307184035241 v3 Revised
+{|Expression_Idle_Neutral}Nope, not enough.
+{|Expression_Idle_Neutral}Plus 20% increase in wages, and full compensation for medical expenses.
+{|Expression_Idle_Neutral}As well as another week of vacation, and 5% on capital gains.
+
+key: lynx/conversations.lynxconversation-toastreminder.loctext 4642062358258678450 v1 Revised
+Let's see what he has to say.
+
+key: lynx/conversations.lynxconversation-toldsecretvalidation._independenttextbubbleloc -3836547196715968618 v2 Revised
+Stella...
+
+key: lynx/conversations.lynxconversation-toldsecretvalidation.loctext -5091122795944871685 v3 Revised
+{|Expression_Idle_Neutral}Oh, munchkin, I feel so foolish...
+{|Expression_Empathy}So naive...
+{Expression_Angry|Expression_Empathy}Why did I think he could change?
+{Expression_Angry|Expression_Empathy}How could I hope he would've been any different?
+{Expression_Angry|Expression_Empathy}This lying, cheating scumbag...
+{|Expression_Idle_Neutral}...
+{|Expression_Pensive}And you?
+{Expression_Angry|Expression_Surprise}How could you do this to me?
+{Expression_Angry|Expression_Surprise}Why did you feel the need to tell me the truth?
+{Expression_Angry|Expression_Surprise}Don't you think some things are better left untold?
+{Expression_Angry|Expression_Surprise}That some secrets deserve to stay unspoken?
+{Expression_Angry|Expression_Surprise}I'm so mad at you!
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Look, I know you believe you did the right thing.
+{|Expression_Idle_Neutral}But, things are not that simple.
+{|Expression_Idle_Neutral}It's not always a matter of honesty versus duplicity...
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}I'll...
+{|Expression_Idle_Neutral}I'll take some time alone now.
+{|Expression_Idle_Neutral}See you later Stella.
+
+key: lynx/conversations.lynxconversation-turtleencounte2rreminder.loctext 5422081102483147162 v2 Revised
+Come close Munchkin.
+Stay with me as we talk to my friend's sister...
+
+key: lynx/conversations.lynxconversation-turtleencounter2introduction._independenttextbubbleloc 8809197604808419330 v2 Revised
+Here we are!
+
+key: lynx/conversations.lynxconversation-turtleencounter2introduction.loctext 3501115913891806714 v3 Revised
+{|Expression_Idle_Neutral}As I told you, Masha and I never really got along.
+{|Expression_Idle_Neutral}She's a tried and true blabbermouth.
+{|Expression_Idle_Neutral}And no, not the funny kind.
+{|Expression_Idle_Neutral}And yes, much worse than me.
+{|Expression_Idle_Neutral}I never took pleasure in destroying other people's lives.
+{|Expression_Idle_Neutral}On the contrary!
+{|Expression_Idle_Neutral}Alright.
+{|Expression_Idle_Neutral}I should be able to pull off a little bit of acting here.
+{|Expression_Headnod}Let's see if I can fake it?
+
+key: lynx/conversations.lynxconversation-turtleencounterintro._independenttextbubbleloc 36130446266577343 v1 Revised
+She's here.
+
+key: lynx/conversations.lynxconversation-turtleencounterintro.loctext 6597612034979394697 v2 Revised
+Ah!
+There we are!
+{Expression_Happy}I'm happy to see her munchkin!
+She's always been a kind person, and we go way back, me and her.
+{|Expression_Idle_Neutral}But I've got to tell you!
+{|Expression_Idle_Neutral}Last time we saw each other, things didn't end up that well.
+{|Expression_Idle_Neutral}She might still hold a bit of a grudge against me.
+{|Expression_Pensive}It's not my fault if I say things as they are!
+{Expression_Angry|Expression_Unhappy}You don't always make friends by being honest...
+{Expression_Angry|Expression_Unhappy}And you might even lose a few.
+{|Expression_Idle_Neutral}But we're old now!
+{|Expression_Idle_Neutral}So, canoe under the bridge, as they say.
+{|Expression_Headnod}Follow my lead?
+
+key: lynx/conversations.lynxconversation-turtleencounterreminder.loctext 1993347678398748946 v1 Revised
+Stay here with me and talk to my friend?
+
+key: lynx/conversations.lynxconversation-turtleintroduction._independenttextbubbleloc 5440099248177841874 v2 Revised
+Alright!
+
+key: lynx/conversations.lynxconversation-turtleintroduction.loctext 5785140118745763598 v2 Revised
+{|Expression_Idle_Neutral}I've been out of the loop on that island.
+{|Expression_Pensive}You tend to lose track when you fight for the workers' rights!
+{|Expression_Pensive}We should catch up on the latest gossip don't you think!
+Oh but don't get me wrong, I don't really like gossip.
+{|Expression_Pensive}But we need to stay informed!
+In case important things happen!
+And I know just the right person!
+{|Expression_Pensive}An old friend of mine has been roaming the seas.
+{|Expression_Pensive}She could probably tell us what's been going on.
+{|Expression_Headnod}Are you game for a little adventure?
+{|Expression_Idle_Neutral}Well, it's not like you have a choice.
+She should be around.
+{|Expression_Unhappy}She's gained a bit of weight recently, but don't tell her that!
+{|Expression_Unhappy}She's always making a scene when someone mentions her appearance.
+Let's go meet her.
+{|Expression_Idle_Neutral}Hurry up now!
+
+key: lynx/conversations.lynxconversation-turtlevalidation._independenttextbubbleloc -72568408058727256 v1 Revised
+What a bust.
+
+key: lynx/conversations.lynxconversation-turtlevalidation.loctext 166691348145428606 v5 Revised
+{|Expression_Idle_Neutral}She had a lot to say, did she?
+{|Expression_Idle_Neutral}Running her mouth like that.
+{|Expression_Idle_Neutral}She's always been chatty this one, but I don't judge!
+{|Expression_Unhappy}Also, I don't know if you've noticed, but her eyes are a bit scary.
+{|Expression_Unhappy}Soothing and kind, for sure!
+{|Expression_Unhappy}But scary.
+{|Expression_Unhappy}I think she should talk to someone about this.
+{|Expression_Idle_Neutral}But enough about her!
+{Expression_Happy|Expression_Headnod}Thanks a lot for having brought me to her Munchkin, it's really appreciated!
+There is always so much going on, I can't get enough of it!
+{|Expression_Pensive}Also...
+{|Expression_Pensive}What she said about that Giovanni character...
+{|Expression_Pensive}Well...
+{|Expression_Pensive}...
+{|Expression_Pensive}Mmm, you know what?
+{|Expression_Idle_Neutral}Never mind.
+{|Expression_Idle_Neutral}We'll have ample time to talk about this later.
+{|Expression_Idle_Neutral}I don't want to bore you with this now.
+{|Expression_Headnod}See you later Stella!
+
+key: lynx/conversations.lynxconversation-unclegonereminder.loctext 8374395955772024519 v1 Revised
+Munchkin?
+Where is your uncle?
+I usually see him all the time around here...
+
+key: lynx/conversations.lynxconversation-visitar2validation._independenttextbubbleloc 8221520585134120650 v2 Revised
+Perfect.
+
+key: lynx/conversations.lynxconversation-visitar2validation.loctext -3243952812614608623 v1 Revised
+We're here.
+Let's see if he's around.
+
+key: lynx/conversations.lynxconversation-visitb3validation._independenttextbubbleloc -3595077871195891863 v2 Revised
+Alright!
+
+key: lynx/conversations.lynxconversation-visitb3validation.loctext 3968398280638297754 v1 Revised
+We're here.
+Let's go down.
+
+key: lynx/conversations.lynxconversation-visitc1validation._independenttextbubbleloc -214678607704828512 v2 Revised
+Let's see...
+
+key: lynx/conversations.lynxconversation-visitc1validation.loctext 4918524013986004969 v1 Revised
+We're here.
+Let's take a look.
+
+key: lynx/conversations.lynxconversation-welcome02.loctext 595379826235928557 v1 Revised
+Perfect timing for a trip.
+
+key: lynx/conversations.lynxconversation-welcomenewspirit01.loctext 466779051614664470 v2 Placeholder
+Oh well...
+
+key: lynx/conversations.lynxconversation-welcomenewspirit02.loctext -6945183105180069693 v2 Placeholder
+Hey there.
+
+key: lynx/conversations.lynxconversation-welcometogiovanniintro._independenttextbubbleloc 4476118953017960032 v1 Revised
+He's here!
+
+key: lynx/conversations.lynxconversation-welcometogiovanniintro.loctext 2007932735435304943 v1 Revised
+{|Expression_Idle_Neutral}Well don't just stand there!
+{|Expression_Idle_Neutral}Welcome him aboard, Stella.
+
+key: lynx/conversations.lynxconversation-welcometogiovannivalidation._independenttextbubbleloc -5223913239185595852 v2 Revised
+Alright.
+
+key: lynx/conversations.lynxconversation-welcometogiovannivalidation.loctext 6838976689478322208 v6 Revised
+{|Expression_Pensive}Giovanni and I have a few things to settle.
+{|Expression_Pensive}You don't need to babysit me for a while.
+{|Expression_Unhappy}I'm sure you've got better things to do then watch 2 ancient lovebirds reconnect.
+I'll talk to you later.
+
+key: lynx/conversations.lynxfoodsame.loctext 1244617466762530095 v2 Revised
+I don't want to eat the same thing twice.
+
+key: lynx/conversations.lynxhug.loctext 7988680306522848577 v2 Revised
+A hug brightens my day.
+
+key: lynx/conversations.lynxhughappy01.loctext -3059075448594669973 v2 Revised
+That was a good hug, if I say so myself.
+
+key: lynx/conversations.lynxhughappy02.loctext 4585950816561867111 v3 Revised
+Good. I needed that.
+
+key: lynx/conversations.lynxhugrefuse.loctext 1997055208335889746 v3 Revised
+{|Expression_Idle_Neutral}I don't want you to get close right now.
+
+key: lynx/conversations.lynxhugrefuse01.loctext -4353267420787047039 v3 Revised
+{|Expression_Idle_Neutral}That would not be... fun for me.
+
+key: lynx/conversations.lynxhugrefuse02.loctext 4447855568340348712 v3 Revised
+I feel that would be inappropriate.
+
+key: lynx/conversations.lynxwelcome.loctext 3237351800966004951 v2 Revised
+Took you long enough!
+
+key: lynx/conversations.lynxwelcomeend.loctext -1058622739082072344 v6 Revised
+Woof!
+That felt funny!
+You'd think I would have seen everything at my age!
+{|Expression_Idle_Neutral}Not sure I liked it though...
+{|Expression_Idle_Neutral}But it sure beats being an impersonal hooded blob!
+{|Expression_Idle_Neutral}Those capes are really scratchy.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Ah!
+It feels good to breathe the fresh air!
+Time for me to stretch my legs for a bit!
+{|Expression_Idle_Neutral}Hmmm, I'm hungry as well...
+{|Expression_Pensive}You know what?
+{Expression_Happy|Expression_Idle_Neutral}Would you be a dear and fix me a little meal?
+{Expression_Happy|Expression_Headnod}That would be marvelous!
+Thank you munchkin!
+{|Expression_Idle_Neutral}Ok, you can leave now.
+
+key: lynx/conversations.medecineaccept.loctext -2931637727608531241 v1 Placeholder
+<spirit>MedecineAccept
+
+key: lynx/conversations.medecinebad.loctext -4528110552913118552 v1 Placeholder
+<spirit>MedecineBad
+
+key: lynx/conversations.medecinerefuse.loctext -4787421681925998243 v1 Placeholder
+<spirit>MedecineRefuse
+
+key: lynx/conversations.oreharvester.loctext 6492102419734274468 v3 Revised
+{Expression_Happy}I'm picking up some ore!
+
+key: lynx/conversations.verysadconversation.loctext -4483930837529866173 v2 Revised
+{Expression_Angry}I'm very sad.
+

@@ -1,0 +1,18 @@
+key: quests/denizendr4_berry.berry._flavortextloc 4775900726993469731 v1 Revised
+แบร์รี่ต้องการผลเบอร์รี่ ฉันสงสัยว่าเขามีความคิดนั้นได้อย่างไร?
+
+key: quests/denizendr4_berry.berry._namekeyloc -2724255020747818213 v1 Revised
+Berry Good!
+
+key: quests/denizendr4_berry.getblueberry._descriptionloc -481489421967382295 v4 Revised
+หา 30 ((บลูเบอร์รี่))
+
+key: quests/denizendr4_berry.getraspberry._descriptionloc -3857359454883542889 v4 Revised
+หา 30 ((ราสเบอร์รี่))
+
+key: quests/denizendr4_berry.getstrawberry._descriptionloc -8114132377198792686 v4 Revised
+หา 30 ((สตรอเบอร์รี่))
+
+key: quests/denizendr4_berry.talktoberrydenizen._descriptionloc 4506094543758849073 v2 Revised
+คุยกับแบร์รี่
+

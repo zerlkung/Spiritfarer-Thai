@@ -1,0 +1,1467 @@
+key: misc/ui.acquire 2260611583672112401 v3 Revised
+ได้รับ
+
+key: misc/ui.activity_log.request_completed -1911533402085793841 v1 Revised
+คำขอเสร็จสมบูรณ์!
+
+key: misc/ui.activity_messages.blueprint_unlocked -949366539270014467 v3 Revised
+ได้รับพิมพ์เขียวใหม่!
+
+key: misc/ui.activity_messages.destination_hinted_text -8961612075041526670 v1 Revised
+ตำแหน่งถูกทำเครื่องหมายบนแผนที่ของคุณ!
+
+key: misc/ui.activity_messages.destination_revealed -5616137774396736199 v1 Revised
+เผยจุดหมายปลายทางใหม่!
+
+key: misc/ui.activity_messages.improvement_unlocked -940453621255155160 v1 Revised
+ได้รับการปรับปรุงใหม่!
+
+key: misc/ui.activity_messages.outfit_unlocked -922467360112464255 v3 Revised
+ได้รับชุดใหม่!
+
+key: misc/ui.activity_messages.recipe_learned -5290677844815837323 v1 Revised
+เรียนรู้สูตรใหม่
+
+key: misc/ui.activity_messages.request_advanced -9217421902273043875 v1 Revised
+คำขอได้รับการอัพเดท!
+
+key: misc/ui.activity_messages.request_completed -3486150620555964885 v1 Revised
+คำขอเสร็จสมบูรณ์!
+
+key: misc/ui.activity_messages.request_started -4322569197720736531 v1 Revised
+คำขอใหม่
+
+key: misc/ui.add_prompt -3029742998855631904 v1 Revised
+เพิ่ม
+
+key: misc/ui.auto_saves 197369353696158250 v1 Revised
+บันทึกอัตโนมัติ
+
+key: misc/ui.back_prompt -1628887619759434144 v1 Revised
+กลับ
+
+key: misc/ui.blocker_ice -5214556939831500527 v3 Revised
+เรือตัดน้ำแข็ง
+
+key: misc/ui.blocker_mist -6795803595309055926 v1 Revised
+กำจัดหมอก 1000
+
+key: misc/ui.blocker_rock 4318016706575968090 v1 Revised
+เรือพิฆาตหิน
+
+key: misc/ui.blueprint_library.title -5383312803106282116 v1 Revised
+พิมพ์เขียว
+
+key: misc/ui.blueprinttier0 3177039963293978301 v3 Revised
+มือใหม่
+
+key: misc/ui.blueprinttier1 -53674692222049250 v3 Revised
+งานอดิเรก
+
+key: misc/ui.blueprinttier2 4522192342452460826 v3 Revised
+ช่างฝีมือ
+
+key: misc/ui.blueprinttier3 6168604815146632005 v3 Revised
+ผู้เชี่ยวชาญ
+
+key: misc/ui.blueprinttier4 5833736222092075393 v3 Revised
+อาจารย์
+
+key: misc/ui.blueprinttier5 -6371759088053832694 v3 Revised
+ชนชั้นสูง
+
+key: misc/ui.boathuge.displayname 3554549403430467255 v1 Revised
+The Adventurous Manatee
+
+key: misc/ui.boathuger.displayname 6333492469340999809 v1 Revised
+The Dauntless Dolphin
+
+key: misc/ui.boathuger_01.displayname 5538741385433127781 v1 Revised
+The Brawlish Narwhal
+
+key: misc/ui.boathuger_02.displayname 3886218074491793140 v1 Revised
+The Flawless Beluga
+
+key: misc/ui.boathuger_03.displayname 968718226019837929 v1 Revised
+The Silent Orca
+
+key: misc/ui.boathuger_04.displayname 8407111719952847175 v1 Revised
+The Fearless Whale
+
+key: misc/ui.boatlarge.displayname -7406502432365436518 v1 Revised
+The Intrepid Otter
+
+key: misc/ui.boatsize_big -9113306099738563537 v2 Revised
+The Adventurous Manatee
+
+key: misc/ui.boatsize_huge -5913333286766809489 v2 Revised
+The Dauntless Dolphin
+
+key: misc/ui.boatsize_huge.description 2031594741339066356 v4 Revised
+The Adventurous Manatee เป็นเรือ ((ขนาดใหญ่)) ที่จะพาคุณเข้าและออกจากน่านน้ำที่มีปัญหา
+
+key: misc/ui.boatsize_huger.description 7547772934360230007 v4 Revised
+The Dauntless Dolphin เป็นเรือ ((ขนาดใหญ่โต)) ที่ไม่สามารถเอาชนะได้
+
+key: misc/ui.boatsize_huger01 3862954802014885841 v2 Revised
+The Brawlish Narwhal
+
+key: misc/ui.boatsize_huger01.description 7532059399866990820 v2 Revised
+The Brawlish Narwhal เป็นเรือ ((ขนาดยักษ์)) ที่ต่อสู้กับคลื่น
+
+key: misc/ui.boatsize_huger02 3079548929131445589 v2 Revised
+The Flawless Beluga
+
+key: misc/ui.boatsize_huger02.description 7947305540281640684 v4 Revised
+The Flawless Beluga เป็นเรือ ((ขนาดมหึมา)) ที่ไม่เคยหลับใหล
+
+key: misc/ui.boatsize_huger03 2517607145032343878 v2 Revised
+The Silent Orca
+
+key: misc/ui.boatsize_huger03.description 8473841277673985555 v3 Revised
+The Silent Orca เป็นเรือ ((ขนาดใหญ่โต)) ที่น่ากัดจริงๆ
+
+key: misc/ui.boatsize_huger04 440948517856300877 v2 Revised
+The Fearless Whale
+
+key: misc/ui.boatsize_huger04.description 4145644343588154963 v3 Revised
+The Fearless Whale เป็นเรือ ((ขนาดมหึมา)) ในฝันของคุณ
+
+key: misc/ui.boatsize_large.description 4689885706459158360 v4 Revised
+The Intrepid Otter เป็นเรือ ((ขนาดกลาง)) ที่จะทำให้คุณหลุดลอยไปอย่างมีสไตล์
+
+key: misc/ui.boatsize_med -2625491568856817902 v3 Revised
+The Intrepid Otter
+
+key: misc/ui.boatsize_small -202080317582898205 v3 Revised
+The Exploring Krill
+
+key: misc/ui.boatsize_small.description -1106043868083103118 v3 Revised
+The Exploring Krill เป็นเรือ ((ขนาดเล็ก)) ที่จะพาคุณไปในที่ที่คุณต้องการไปเสมอ
+
+key: misc/ui.boatstartup.displayname -7618242876545761373 v1 Revised
+The Exploring Krill
+
+key: misc/ui.build_mode.activities 1173736142776141753 v1 Revised
+กิจกรรม
+
+key: misc/ui.build_mode.activities_description 5996260660712216093 v1 Revised
+กิจกรรมและพื้นที่ทำงานที่ใช้ในการปรับแต่งและเปลี่ยนทรัพยากร
+
+key: misc/ui.build_mode.already_built 6678603488624952048 v1 Revised
+คุณสามารถสร้างหนึ่งในสิ่งเหล่านี้
+
+key: misc/ui.build_mode.build_action 5567825758793760872 v1 Revised
+สร้าง
+
+key: misc/ui.build_mode.build_prompt -2216281287662458976 v1 Revised
+สร้าง
+
+key: misc/ui.build_mode.built 8560932905203515038 v1 Revised
+สร้าง
+
+key: misc/ui.build_mode.decorate 4813873640524585942 v1 Revised
+ปรับปรุง
+
+key: misc/ui.build_mode.delete -6078761395110329882 v3 Revised
+กู้ซาก
+
+key: misc/ui.build_mode.free 2738398687966341257 v1 Revised
+ปล่อย
+
+key: misc/ui.build_mode.furnish 1276158984165392923 v1 Revised
+โหมดปรับปรุง
+
+key: misc/ui.build_mode.furnish_action 3242462882987801776 v1 Revised
+ปรับปรุง
+
+key: misc/ui.build_mode.houses -1467503992691660065 v1 Revised
+บ้าน
+
+key: misc/ui.build_mode.houses_description -8225520134557692362 v1 Revised
+ที่พักทั้งแบบถาวรและชั่วคราวสำหรับวิญญาณขนาดใหญ่และขนาดเล็ก
+
+key: misc/ui.build_mode.move_action 9828239076550622 v2 Revised
+แก้ไข
+
+key: misc/ui.build_mode.move_building -4803993087763114641 v1 Revised
+ย้ายสิ่งก่อสร้าง
+
+key: misc/ui.build_mode.move_cursor 1074630734052171421 v2 Revised
+เลื่อนเคอร์เซอร์
+
+key: misc/ui.build_mode.others -7820969115370202125 v1 Revised
+อื่น ๆ
+
+key: misc/ui.build_mode.others_description 2043330868412939044 v1 Revised
+อุปกรณ์ตกแต่งและอื่น ๆ
+
+key: misc/ui.build_mode.place_building 5709380622930932317 v3 Revised
+วาง/สลับ
+
+key: misc/ui.build_mode.required_materials 6653595420063046965 v1 Revised
+วัสดุที่จำเป็น
+
+key: misc/ui.build_mode.salvage_building -5374987940493458407 v1 Revised
+กู้ซากสิ่งก่อสร้าง
+
+key: misc/ui.build_mode.select_building 3579428268564101997 v3 Revised
+เลือก
+
+key: misc/ui.build_mode.subtitle -5080417337489875024 v2 Revised
+สร้าง
+
+key: misc/ui.build_mode.title 3044461590777326642 v1 Revised
+โหมดสร้าง
+
+key: misc/ui.build_mode.unique -132110103039503511 v1 Revised
+ไม่ซ้ำใคร
+
+key: misc/ui.build_mode.unknown 6467531952176734811 v1 Revised
+ไม่ทราบ
+
+key: misc/ui.build_mode.unsalvageable -2730485749640674148 v1 Revised
+ไม่สามารถกู้ซากได้
+
+key: misc/ui.build_mode.upgrade_action -945960239242519805 v1 Revised
+อัพเกรด
+
+key: misc/ui.build_mode.view_action 3725096939983575213 v1 Revised
+ดู
+
+key: misc/ui.cancel_prompt 2881925769757089536 v1 Revised
+ยกเลิก
+
+key: misc/ui.cereal_seeds -8908216852776051339 v1 Revised
+เมล็ดพืช
+
+key: misc/ui.chicken_feeder 8303982552049906628 v1 Revised
+เครื่องป้อนอาหาร
+
+key: misc/ui.close_prompt -7444696462772400026 v1 Revised
+ปิด
+
+key: misc/ui.collections.claim_reward 6963889941025792645 v1 Revised
+รับรางวัล
+
+key: misc/ui.collections.collected 4665795245923116875 v1 Revised
+สะสม
+
+key: misc/ui.collections.finished -6503207868026294738 v1 Revised
+สะสมสำเร็จ!
+
+key: misc/ui.collections.mystery_item 751902518591581961 v1 Revised
+รายการลึกลับ
+
+key: misc/ui.collections.next_reward 2105819810778724100 v1 Revised
+รางวัลถัดไป
+
+key: misc/ui.collections.not_collected 708792237481081148 v1 Revised
+รายการนี้ยังไม่ถูกสะสม
+
+key: misc/ui.collections.select_for_info -2965154981206734115 v1 Revised
+เลือกไอเทมเพื่อดูข้อมูลเพิ่มเติม
+
+key: misc/ui.collections.title -9107016376482936756 v1 Revised
+คอลเลกชัน
+
+key: misc/ui.comma 6761256269502295073 v1 Revised
+, 
+
+key: misc/ui.cook_prompt 8127755826225194831 v4 Revised
+ปรุงอาหาร
+
+key: misc/ui.cookingproperties.displayname.allrecipes -1030525210360129146 v1 Revised
+สูตรอาหารทั้งหมด
+
+key: misc/ui.cookingproperties.displayname.berry 7002367460675684165 v1 Revised
+เบอร์รี่
+
+key: misc/ui.cookingproperties.displayname.cephalopod 4022531908063976937 v1 Revised
+เซฟาโลพอด
+
+key: misc/ui.cookingproperties.displayname.cereal 7643410263000801037 v1 Revised
+เมล็ดพืช
+
+key: misc/ui.cookingproperties.displayname.cheese -6334841952508923710 v1 Revised
+ชีส
+
+key: misc/ui.cookingproperties.displayname.clam -4733131961061781445 v1 Revised
+หอย
+
+key: misc/ui.cookingproperties.displayname.coffee 5884736242717687322 v1 Revised
+กาแฟ
+
+key: misc/ui.cookingproperties.displayname.crayfish 8871457266117712139 v1 Revised
+ครัสเตเชียน
+
+key: misc/ui.cookingproperties.displayname.dairy -943590902185650939 v1 Revised
+ผลิตภัณฑ์นม
+
+key: misc/ui.cookingproperties.displayname.egg 1143789668103541585 v1 Revised
+ไข่
+
+key: misc/ui.cookingproperties.displayname.fat -8424287435124567121 v1 Revised
+ไขมัน
+
+key: misc/ui.cookingproperties.displayname.fish -2152852751877887567 v1 Revised
+ปลา
+
+key: misc/ui.cookingproperties.displayname.flour -1758878568592018292 v1 Revised
+แป้ง
+
+key: misc/ui.cookingproperties.displayname.fruit -7417565957326357586 v1 Revised
+ผลไม้
+
+key: misc/ui.cookingproperties.displayname.leafveggie 945809028001696031 v1 Revised
+ผักใบ
+
+key: misc/ui.cookingproperties.displayname.meat -8182805633904598405 v1 Revised
+เนื้อ
+
+key: misc/ui.cookingproperties.displayname.mushroom 2025069785404075517 v1 Revised
+เห็ด
+
+key: misc/ui.cookingproperties.displayname.rootveggie -2998609877996677276 v1 Revised
+รากผัก
+
+key: misc/ui.cookingproperties.displayname.salmon -8200191850894485911 v1 Revised
+แซลมอน
+
+key: misc/ui.cookingproperties.displayname.sauerkraut -7378885390713211413 v1 Revised
+กะหล่ำปลีดอง
+
+key: misc/ui.cookingproperties.displayname.savouryveggie -7075233337632833545 v1 Revised
+ผักรสจัด
+
+key: misc/ui.cookingproperties.displayname.seafood -1851754741591902098 v2 Revised
+อาหารทะเล
+
+key: misc/ui.cookingproperties.displayname.shellfish 4628672599588323229 v1 Revised
+หอย
+
+key: misc/ui.cookingproperties.displayname.shrimp 4314204259369972768 v1 Revised
+กุ้ง
+
+key: misc/ui.cookingproperties.displayname.sweetener 2130486563469945901 v1 Revised
+สารให้ความหวาน
+
+key: misc/ui.cookingproperties.displayname.tea -106274619158595738 v1 Revised
+ชา
+
+key: misc/ui.cookingproperties.displayname.treefruit 8859676950469040289 v1 Revised
+ต้นไม้ผล
+
+key: misc/ui.cookingproperties.displayname.tuna 6702080013826668259 v1 Revised
+ทูน่า
+
+key: misc/ui.cookingproperties.displayname.veggie 716868956992125673 v1 Revised
+ผัก
+
+key: misc/ui.cookingproperties.displayname.wood -8408863763890621235 v1 Revised
+ไม้
+
+key: misc/ui.cookingproperties.displayname.yoghurt -1791932636903477756 v1 Revised
+โยเกิร์ต
+
+key: misc/ui.coop_feeder -6986842011454167039 v1 Revised
+เครื่องป้อนอาหาร
+
+key: misc/ui.cost 2757070600987678143 v1 Revised
+ค่าใช้จ่าย:
+
+key: misc/ui.crush 2907853680795026208 v1 Revised
+บด
+
+key: misc/ui.crushable -3297384315573061464 v2 Revised
+บดได้
+
+key: misc/ui.crusher 3255643242672457868 v1 Revised
+เครื่องบด
+
+key: misc/ui.currency 8174695217074382174 v1 Revised
+กลิมส์
+
+key: misc/ui.currencysuffix 8629785568609425618 v1 Revised
+กลิมส์
+
+key: misc/ui.dailyquests_title -5150941153188534036 v2 Revised
+เควสรายวัน
+
+key: misc/ui.debug_saves -3682518366188816330 v1 Revised
+แก้จุดบกพร่องบันทึกเกม (Shift + R)
+
+key: misc/ui.description_title 6023222905431057786 v1 Revised
+คำอธิบาย
+
+key: misc/ui.displaydailyquests -3727498448065155278 v3 Revised
+Errands
+
+key: misc/ui.experiment -5965898828558961961 v1 Revised
+การทดลอง
+
+key: misc/ui.finalize_prompt 7995059787028845106 v1 Revised
+สรุป
+
+key: misc/ui.find_and_collect -128180039264914728 v1 Revised
+ค้นหาและรวบรวม
+
+key: misc/ui.food.acquiredtaste 8319062060316497545 v1 Revised
+ได้รับรสชาติ
+
+key: misc/ui.food.allergiccrayfish -2303195081527400023 v1 Revised
+แพ้กั้ง
+
+key: misc/ui.food.anythingfried 7889830684420120157 v1 Revised
+ผัดอะไรก็ได้
+
+key: misc/ui.food.breaksfast -851524701635155348 v1 Revised
+อาหารเช้า
+
+key: misc/ui.food.carbs 9067505477635728023 v1 Revised
+คาร์โบไฮเดรต
+
+key: misc/ui.food.comfortfood -1393352140215356948 v1 Revised
+อาหารที่สะดวกสบาย
+
+key: misc/ui.food.desserts -5992442591381087513 v2 Revised
+ขนม
+
+key: misc/ui.food.eggs 5584001684624914082 v1 Revised
+อะไรก็ได้ที่มีไข่
+
+key: misc/ui.food.exoticfood 6151338943213655569 v1 Revised
+อาหารแปลกใหม่
+
+key: misc/ui.food.favoritefood 4617351929315359730 v1 Revised
+อาหารที่ชอบ:
+
+key: misc/ui.food.finedining 5498710368406504616 v1 Revised
+อาหารชั้นเลิศ
+
+key: misc/ui.food.fooddislikes 1159099176174704195 v1 Revised
+ไม่ชอบ:
+
+key: misc/ui.food.foodlikes 3965775416173428975 v1 Revised
+ชอบ:
+
+key: misc/ui.food.friedfood 3013287610819126440 v1 Revised
+อาหารทอด
+
+key: misc/ui.food.fruit 5591180255880174020 v1 Revised
+ผลไม้
+
+key: misc/ui.food.healthyfood 977122681767188980 v1 Revised
+อาหารสุขภาพ
+
+key: misc/ui.food.lactoseintolerant 7134988227585930719 v1 Revised
+แพ้แลคโตส
+
+key: misc/ui.food.meat -8440095967428185054 v1 Revised
+เนื้อ
+
+key: misc/ui.food.nonvegan -3058087791516794559 v1 Revised
+อาหารที่ไม่ใช่มังสวิรัติ
+
+key: misc/ui.food.oldfashioned 1294021930514389328 v1 Revised
+อาหารสมัยเก่า
+
+key: misc/ui.food.oneingredient -826417830894836203 v1 Revised
+อาหารส่วนผสมเดียว
+
+key: misc/ui.food.plainfood 4151768233958907165 v1 Revised
+อาหารธรรมดา
+
+key: misc/ui.food.pubfood 6569157140216168231 v1 Revised
+อาหารในผับ
+
+key: misc/ui.food.salads -6231927110815569962 v1 Revised
+สลัด
+
+key: misc/ui.food.shellfish 4824710436507811475 v1 Revised
+อะไรก็ได้ที่มีหอย
+
+key: misc/ui.food.soups 4962369833445097530 v1 Revised
+ซุป
+
+key: misc/ui.food.stimulants 9001559805361020488 v1 Revised
+สารกระตุ้น
+
+key: misc/ui.food.sugaryfood 4841845477767996764 v1 Revised
+อาหารหวาน
+
+key: misc/ui.food.veggies -4285216473842843874 v1 Revised
+ผัก
+
+key: misc/ui.give_prompt 8488246326628401230 v1 Revised
+ให้
+
+key: misc/ui.interaction_menu.buy 7134985363822589560 v1 Revised
+ซื้อ
+
+key: misc/ui.interaction_menu.construct -4435345044422788777 v2 Revised
+อัพเกรด
+
+key: misc/ui.interaction_menu.cook 4964478452206767279 v1 Revised
+ปรุงอาหาร
+
+key: misc/ui.interaction_menu.events -1036634574918126817 v2 Revised
+เริ่มเหตุการณ์?
+
+key: misc/ui.interaction_menu.feed -2988289238937041786 v1 Revised
+ให้อาหาร
+
+key: misc/ui.interaction_menu.food 6977343304824551796 v1 Revised
+อาหาร
+
+key: misc/ui.interaction_menu.give -4117056707635061754 v5 Revised
+ให้
+
+key: misc/ui.interaction_menu.hug -6046286832373211044 v1 Revised
+กอด
+
+key: misc/ui.interaction_menu.milk -3678097527807548900 v1 Revised
+นม
+
+key: misc/ui.interaction_menu.mood 127051578272655887 v2 Revised
+อารมณ์
+
+key: misc/ui.interaction_menu.music -3923054531254531015 v2 ReadyForRevision
+ดนตรี?
+
+key: misc/ui.interaction_menu.no -8721364082026938131 v2 Revised
+ไม่
+
+key: misc/ui.interaction_menu.recipes -5785688423925560752 v1 Revised
+สูตรอาหาร
+
+key: misc/ui.interaction_menu.sell -4020860547687521838 v1 Revised
+ขาย
+
+key: misc/ui.interaction_menu.shear -6079671663187329604 v1 Revised
+เล็ม
+
+key: misc/ui.interaction_menu.sleep -5651783087111288971 v1 Revised
+หลับจนถึงเช้า?
+
+key: misc/ui.interaction_menu.talk 6639870692022488067 v1 Revised
+พูดคุย
+
+key: misc/ui.interaction_menu.travel -3542917452265990608 v2 Revised
+เดินทาง
+
+key: misc/ui.interaction_menu.yes -6868367979567695958 v2 Revised
+ใช่
+
+key: misc/ui.inventory -3073073664225214309 v3 Revised
+รายการสิ่งของ
+
+key: misc/ui.inventory_confirm -2538735984876003364 v2 Revised
+รายการสิ่งของ / ยืนยัน
+
+key: misc/ui.inventory_empty 7642892251072186526 v1 Revised
+ไม่มีไอเทมพร้อมใช้งาน
+
+key: misc/ui.load_prompt 3763078228822953157 v1 Revised
+โหลด
+
+key: misc/ui.loom -3860872364217900767 v1 Revised
+ทอ
+
+key: misc/ui.main_menu.apply -98562732112046772 v1 Revised
+ยืนยัน
+
+key: misc/ui.main_menu.assign_players 2237402413102600884 v1 Revised
+กำหนดผู้เล่น
+
+key: misc/ui.main_menu.audio 8399090578208060040 v1 Revised
+เสียง
+
+key: misc/ui.main_menu.audio.ambience 6694727856165243358 v1 Revised
+บรรยากาศ
+
+key: misc/ui.main_menu.audio.master 3940105157629683371 v1 Revised
+Master
+
+key: misc/ui.main_menu.audio.music 6175915913648241381 v1 Revised
+ดนตรี
+
+key: misc/ui.main_menu.audio.sfx 7275246289164124221 v1 Revised
+SFX
+
+key: misc/ui.main_menu.auto_save 428025664888673953 v2 Revised
+โหลดเซฟอัตโนมัติ
+
+key: misc/ui.main_menu.bug_report 1310136429489929323 v1 Revised
+ข้อบกพร่องหรือปัญหาทางเทคนิค?
+
+key: misc/ui.main_menu.character 3994450078061421698 v1 Revised
+ตัวละคร
+
+key: misc/ui.main_menu.character_cat 8759748457478800362 v1 Revised
+ดัฟโฟดิล
+
+key: misc/ui.main_menu.character_stella 6882450875946907495 v1 Revised
+สเตลล่า
+
+key: misc/ui.main_menu.continue -3036574518459395088 v1 Revised
+ดำเนินการต่อ
+
+key: misc/ui.main_menu.controls -5826036399135554774 v1 Revised
+การควบคุม
+
+key: misc/ui.main_menu.controls.accept -1171775300234005696 v1 Revised
+ยอมรับ (เมนู)
+
+key: misc/ui.main_menu.controls.assign -7204645853914175524 v1 Revised
+กำหนด
+
+key: misc/ui.main_menu.controls.assign_controller 3804783327932447490 v2 Revised
+กำหนดตัวควบคุม
+
+key: misc/ui.main_menu.controls.assignation.press_to_join -9200871352102331715 v6 Revised
+กด $ACTION_ACCEPT$ เพื่อกำหนด
+
+key: misc/ui.main_menu.controls.cancel 1747747766442597053 v2 Revised
+ยกเลิก
+
+key: misc/ui.main_menu.controls.change_tab_left 3956843665483121342 v1 Revised
+เปลี่ยนแท็บเมนูไปทางซ้าย
+
+key: misc/ui.main_menu.controls.change_tab_right -5643285055649262994 v1 Revised
+เปลี่ยนแท็บเมนูไปทางขวา
+
+key: misc/ui.main_menu.controls.commit -1455323910346927389 v2 Revised
+ยืนยัน
+
+key: misc/ui.main_menu.controls.controller -2212327702657442487 v1 Revised
+คอนโทรลเลอร์
+
+key: misc/ui.main_menu.controls.gamepad 7129119354917185053 v1 Revised
+เกมแพดคอนโทรลเลอร์
+
+key: misc/ui.main_menu.controls.gamepad.custom -6098519456290805319 v1 Revised
+แมปปิ้งกำหนดเอง
+
+key: misc/ui.main_menu.controls.gamepad.default 3524411216817661002 v1 Revised
+แมปปิ้งเริ่มต้น
+
+key: misc/ui.main_menu.controls.gamepad.how_to 4732085981083455581 v2 Revised
+เลือกปุ่มที่ต้องการ, กด $UI_SUBMIT$, จากนั้นกดปุ่มที่ต้องการเพื่อแทนที่
+
+key: misc/ui.main_menu.controls.input -2899956173875727895 v1 Revised
+อินพุต
+
+key: misc/ui.main_menu.controls.interact 4116398603115204478 v4 Revised
+โต้ตอบ
+
+key: misc/ui.main_menu.controls.joystick 1383381670095359620 v2 Revised
+เกมแพด
+
+key: misc/ui.main_menu.controls.jump_glide -5746470572720935535 v1 Revised
+กระโดด/กดค้างเพื่อร่อน
+
+key: misc/ui.main_menu.controls.keyboard 4431213334283746097 v1 Revised
+คีย์บอร์ด
+
+key: misc/ui.main_menu.controls.keyboard_mapping -6929840454291380960 v1 Revised
+รีแมปคีย์บอร์ด
+
+key: misc/ui.main_menu.controls.keyboard_mapping.how_to 7997676952482500882 v3 Revised
+เลือกคีย์แล้วกด Enter ตามด้วยคีย์ที่ต้องการเพื่อแทนที่
+
+key: misc/ui.main_menu.controls.move 7806399231850400308 v1 Revised
+เคลื่อนที่
+
+key: misc/ui.main_menu.controls.move_down -2588702641140319139 v1 Revised
+ลงข้างล่าง
+
+key: misc/ui.main_menu.controls.move_left -6364709906535910336 v1 Revised
+เคลื่อนที่ไปทางซ้าย
+
+key: misc/ui.main_menu.controls.move_right 2605351141246061447 v1 Revised
+เคลื่อนที่ไปทางขวา
+
+key: misc/ui.main_menu.controls.move_up -7684952464529265215 v1 Revised
+ขึ้นข้างบน
+
+key: misc/ui.main_menu.controls.no_controller -1299075592223212650 v1 Revised
+ไม่มี
+
+key: misc/ui.main_menu.controls.pause_menu -7789037978977365188 v1 Revised
+เมนูหยุด
+
+key: misc/ui.main_menu.controls.player1 -6796534618434954709 v1 Revised
+ผู้เล่น 1
+
+key: misc/ui.main_menu.controls.player2 7763369306656685837 v1 Revised
+ผู้เล่น 2
+
+key: misc/ui.main_menu.controls.rebind 4537567253447728015 v1 Revised
+Rebind
+
+key: misc/ui.main_menu.controls.requests_menu -3488185840534848490 v3 Revised
+คำขอ
+
+key: misc/ui.main_menu.controls.requests_menu_cancel 2249594713257236149 v1 Revised
+คำขอ / ยกเลิก
+
+key: misc/ui.main_menu.controls.restore_default 3569158013786035737 v1 Revised
+คืนค่าเริ่มต้น
+
+key: misc/ui.main_menu.controls.switch_dual_joycon 3022106162009077242 v1 Revised
+Joy-Con Grip
+
+key: misc/ui.main_menu.controls.switch_left_joycon 1978111399398112951 v1 Revised
+Joy-Con™ (L)
+
+key: misc/ui.main_menu.controls.switch_pro_controller 4209937818482517605 v1 Revised
+Pro Controller
+
+key: misc/ui.main_menu.controls.switch_right_joycon 8402403208920631330 v1 Revised
+Joy-Con™ (R)
+
+key: misc/ui.main_menu.controls.zoom_out -8274724853367336605 v1 Revised
+วิถีเรือและนาฬิกา
+
+key: misc/ui.main_menu.coop_mode 2822696858147906088 v2 Revised
+Co-op ในเครื่องเดียวกัน
+
+key: misc/ui.main_menu.debug_save 3481977863719946606 v1 Revised
+โหลด Debug Save
+
+key: misc/ui.main_menu.delete_save 1098958087065273814 v1 Revised
+ลบเซฟ
+
+key: misc/ui.main_menu.delete_save_confirm 3423931359498179390 v1 Revised
+แน่ใจไหมว่าต้องการลบบันทึกเกม?
+
+key: misc/ui.main_menu.disabled -3495840647930142938 v1 Revised
+ปิดการใช้งาน
+
+key: misc/ui.main_menu.enabled 5925844808004666555 v1 Revised
+เปิดใช้งาน
+
+key: misc/ui.main_menu.feedback 4399091244178163150 v2 Revised
+เราต้องการความคิดเห็นของคุณ!
+
+key: misc/ui.main_menu.keybboard_layout.keyboard_layout -2056399058840999795 v2 Revised
+รูปแบบแป้นพิมพ์
+
+key: misc/ui.main_menu.language -3896059772928454565 v1 Revised
+ภาษา
+
+key: misc/ui.main_menu.mailing_list.confirmation -9027260372879245744 v2 Revised
+โปรดยืนยันว่าคุณมีอายุมากกว่า 14 ปีและคุณสามารถรับอีเมลของเราได้โดยทำเครื่องหมายในช่องต่อไปนี้
+
+key: misc/ui.main_menu.mailing_list.confirmation_error -9005759720070563421 v1 Revised
+โปรดทำเครื่องหมายในช่องเพื่อตกลงรับอีเมลของเราและเพื่อยืนยันว่าคุณมีอายุ 14 ปีขึ้นไป
+
+key: misc/ui.main_menu.mailing_list.descriptions -8173964439879988721 v1 Revised
+Thunder Lotus จะใช้ข้อมูลที่ให้เพื่อส่งของขวัญให้คุณฟรีตลอดจนข่าวสารและข้อเสนอพิเศษเป็นครั้งคราว (คุณสามารถยกเลิกการสมัครได้ตลอดเวลา)
+
+key: misc/ui.main_menu.mailing_list.email -4703312070806999129 v1 Revised
+ที่อยู่อีเมล :
+
+key: misc/ui.main_menu.mailing_list.first_name 7747507056558640423 v1 Revised
+ชื่อ :
+
+key: misc/ui.main_menu.mailing_list.instructions -9011200876492472071 v5 Revised
+ลงทะเบียนเพื่อรับจดหมายข่าวของเราเพื่อรับ <b> หนังสือดิจิทัลเล่มเล็ก Spiritfarer ฟรี </b> แนะนำตัวละครจากเกม!
+
+key: misc/ui.main_menu.mailing_list.internal_error -6048863013572167667 v1 Revised
+ข้อผิดพลาดภายในเซิร์ฟเวอร์
+
+key: misc/ui.main_menu.mailing_list.invalid_email -3228936831190820402 v1 Revised
+กรุณาใส่อีเมล์ที่ถูกต้อง
+
+key: misc/ui.main_menu.mailing_list.join_us -486578624326937416 v2 Revised
+เข้าร่วมกับเรา!
+
+key: misc/ui.main_menu.mailing_list.no_email_or_name 4534426131369176470 v1 Revised
+โปรดป้อนที่อยู่อีเมลและชื่อ
+
+key: misc/ui.main_menu.mailing_list.no_internet 3137109781438882029 v1 Revised
+ไม่มีการเชื่อมต่ออินเทอร์เน็ต
+
+key: misc/ui.main_menu.mailing_list.success -6282141587254456678 v1 Revised
+User successfully subscribed to mailing list!
+
+key: misc/ui.main_menu.mailing_list.suscribe 6463391382007789963 v2 Revised
+Subscribe
+
+key: misc/ui.main_menu.mailing_list.wait_response -4224983817415586612 v1 Revised
+กำลังรอการตอบกลับของเซิร์ฟเวอร์
+
+key: misc/ui.main_menu.mailing_list_prompt -781965873234176490 v1 Revised
+Join the Thunder Lotus family!
+
+key: misc/ui.main_menu.new_game -414344580169942312 v1 Revised
+เริ่มเกมส์ใหม่
+
+key: misc/ui.main_menu.new_game_confirm -7194861214563072188 v3 Revised
+สวัสดี! ยินดีต้อนรับสู่การ Demo Spiritfarer!
+
+โปรดทราบว่าการสาธิตนี้มาจาก <b> รุ่นที่ใช้งานจริง </b> และไม่ได้สะท้อนถึงคุณภาพของผลิตภัณฑ์ขั้นสุดท้ายซึ่งเรายังคงดำเนินการอย่างเต็มที่ ขออภัยสำหรับข้อบกพร่องใด ๆ ที่คุณอาจพบ - โปรดแจ้งให้เราทราบในฟอรัม Steam หากคุณพบบางส่วนเพื่อให้เราสามารถเอาชนะได้!
+
+ขอให้มีความสุข!
+
+- ทีม Spiritfarer
+
+key: misc/ui.main_menu.new_game_confirm_erase -5330336534616734126 v1 Revised
+คุณกำลังจะลบบันทึกเกมปัจจุบัน แน่ใจไหมว่าต้องการเริ่มเกมใหม่?
+
+key: misc/ui.main_menu.no -8856277168998520444 v1 Revised
+ไม่
+
+key: misc/ui.main_menu.options -1482430160656636302 v3 Revised
+ตัวเลือก
+
+key: misc/ui.main_menu.options.force_glyphs 8320129218125949938 v2 ReadyForRevision
+บังคับใช้ glyphs
+
+key: misc/ui.main_menu.options.force_glyphs.dont_force 3071648582912556273 v1 ReadyForRevision
+ไม่บังคับ
+
+key: misc/ui.main_menu.options.force_glyphs.nintendo 3837809266183043705 v1 ReadyForRevision
+NINTENDO
+
+key: misc/ui.main_menu.options.force_glyphs.sony 2527999849170184605 v1 ReadyForRevision
+SONY
+
+key: misc/ui.main_menu.options.force_glyphs.xbox 1946248846552175565 v1 ReadyForRevision
+XBOX
+
+key: misc/ui.main_menu.play 730006766543827204 v2 Revised
+รับทราบ!
+
+key: misc/ui.main_menu.privacy_policy -2309771976287460787 v1 Revised
+นโยบายความเป็นส่วนตัว
+
+key: misc/ui.main_menu.privacy_policy.error -1768509860125265483 v1 Revised
+เกิดข้อผิดพลาดในการรับนโยบายความเป็นส่วนตัว
+
+key: misc/ui.main_menu.privacy_policy.fetching -1948281835215440363 v1 Revised
+กำลังดึงนโยบายความเป็นส่วนตัว
+
+key: misc/ui.main_menu.quit -5489600814768327641 v1 Revised
+ออก
+
+key: misc/ui.main_menu.repairsave -5044639480468215752 v3 Revised
+ซ่อมแซมบันทึก
+
+key: misc/ui.main_menu.requests_completed -7377322332503105650 v1 Revised
+คำขอเสร็จสมบูรณ์
+
+key: misc/ui.main_menu.save_and_quit -2000431813961803268 v1 Revised
+บันทึกและออก
+
+key: misc/ui.main_menu.single_player 9182681382531460258 v2 Revised
+ผู้เล่นคนเดียว
+
+key: misc/ui.main_menu.skipintro -6081501149313638843 v1 Revised
+ข้ามบทนำ
+
+key: misc/ui.main_menu.spirits_saved -4153153051951307771 v1 Revised
+วิญญาณ
+
+key: misc/ui.main_menu.thanks_for_playing 8356157774741647820 v2 Revised
+ขอบคุณสำหรับการเล่น!
+
+key: misc/ui.main_menu.video -3808984780999593909 v2 Revised
+วิดีโอ
+
+key: misc/ui.main_menu.video.1024_mb -4059464425414171959 v2 Revised
+1024 MB
+
+key: misc/ui.main_menu.video.120_fps 7353725670747645 v4 Revised
+120 FPS
+
+key: misc/ui.main_menu.video.144_fps -1607427760788228767 v3 Revised
+144 FPS
+
+key: misc/ui.main_menu.video.1536_mb -4400760314714017378 v2 Revised
+1536 MB
+
+key: misc/ui.main_menu.video.2048_mb 1505737892381624898 v2 Revised
+2048 MB
+
+key: misc/ui.main_menu.video.30_fps -7801566394665714946 v2 Revised
+30 FPS
+
+key: misc/ui.main_menu.video.512_mb 1594639619362642516 v3 Revised
+512 MB
+
+key: misc/ui.main_menu.video.60_fps 5265420531986325535 v3 Revised
+60 FPS
+
+key: misc/ui.main_menu.video.framerate_cap -7056959148026112468 v2 Revised
+เฟรมเรตที่ต้องการ
+
+key: misc/ui.main_menu.video.full_screen 5373566373909999860 v1 Revised
+เต็มจอ
+
+key: misc/ui.main_menu.video.high -1812849188910000989 v1 Revised
+สูง
+
+key: misc/ui.main_menu.video.low -5984315370821772281 v1 Revised
+ต่ำ
+
+key: misc/ui.main_menu.video.low_graphics -1101808987804712032 v1 Revised
+กราฟิกต่ำ
+
+key: misc/ui.main_menu.video.memory_budget -1614497633622570347 v1 Revised
+Memory Budget
+
+key: misc/ui.main_menu.video.resolution 190244810731830567 v1 Revised
+ความละเอียด
+
+key: misc/ui.main_menu.video.run_in_background -7475512393889204611 v1 Revised
+ทำงานในพื้นหลัง
+
+key: misc/ui.main_menu.video.screen_mode 325538365541107408 v1 Revised
+โหมดหน้าจอ
+
+key: misc/ui.main_menu.video.texture_quality -2903119434730889659 v1 Revised
+Texture Quality
+
+key: misc/ui.main_menu.video.texture_streaming 8190469001314935542 v1 Revised
+Texture Streaming
+
+key: misc/ui.main_menu.video.vsync 4784185875142698795 v1 Revised
+Vsync
+
+key: misc/ui.main_menu.video.windowed -4939291516168793028 v1 Revised
+หน้าต่าง
+
+key: misc/ui.main_menu.wishlist -8649019658172774449 v2 Revised
+Please wishlist and follow!
+
+key: misc/ui.main_menu.yes -7827018532323243994 v1 Revised
+ใช่
+
+key: misc/ui.map.event -50146683997253994 v1 Revised
+เหตุการณ์
+
+key: misc/ui.map.falling_stars 7425795637129956816 v1 Revised
+Pulsar Rays
+
+key: misc/ui.map.falling_stars_hard 815324328344836628 v2 Revised
+Deadly Pulsar Rays
+
+key: misc/ui.map.meteor 5086245876971999006 v1 Revised
+ฝนดาวตก
+
+key: misc/ui.map.resources_found -5858876309376176165 v1 Revised
+ค้นพบทรัพยากร
+
+key: misc/ui.map.set_destination_prompt 1659603730259757890 v1 Revised
+ตั้งค่าปลายทาง
+
+key: misc/ui.map.shop_specialities -7809864080603511447 v1 Revised
+ร้านพิเศษ
+
+key: misc/ui.map.storm 6862506966373853932 v2 Revised
+พายุฝนฟ้าคะนอง
+
+key: misc/ui.map.storm_hard -203041728543533439 v1 Revised
+พายุฝนฟ้าคะนองรุนแรง
+
+key: misc/ui.map.zoomin 5774941510848935983 v2 Revised
+ซูมเข้า
+
+key: misc/ui.map.zoomout 6690989839268906584 v2 Revised
+ซูมออก
+
+key: misc/ui.mood-buff.addeddecorations1._displayname 5805002068802018743 v1 Revised
+มีบ้านที่ปรับปรุงใหม่.
+
+key: misc/ui.mood-buff.addeddecorations1._displaynamefemale -3848037397588753577 v1 Revised
+มีบ้านที่ปรับปรุงใหม่.
+
+key: misc/ui.mood-buff.addeddecorations2._displayname -5060887520930667099 v3 Revised
+มีบ้านที่ปรับปรุงใหม่.
+
+key: misc/ui.mood-buff.addeddecorations2._displaynamefemale 5691764774131441504 v3 Revised
+มีบ้านที่ปรับปรุงใหม่.
+
+key: misc/ui.mood-buff.addeddecorations3._displayname -5790237151921360473 v1 Revised
+มีบ้านที่ปรับปรุงใหม่.
+
+key: misc/ui.mood-buff.addeddecorations3._displaynamefemale 1794602907993255530 v1 Revised
+มีบ้านที่ปรับปรุงใหม่ทั้งหมด.
+
+key: misc/ui.mood-buff.alicebeingmean._displayname -5430292242193896841 v2 Revised
+ถูกอลิซดุ.
+
+key: misc/ui.mood-buff.alicebeingmean._displaynamefemale 5534867292010404144 v1 Revised
+ถูกอลิซดุ.
+
+key: misc/ui.mood-buff.atesushi._displayname -5810689500961110523 v4 Revised
+ลองชิมซูชิแสนอร่อยของกุสตาฟ.
+
+key: misc/ui.mood-buff.atesushi._displaynamefemale -6686395600222921680 v5 Revised
+ลองชิมซูชิแสนอร่อยของกุสตาฟ.
+
+key: misc/ui.mood-buff.atulplayingmusic._displayname 2319754732320033815 v1 Revised
+มีความสุขกับการฟังเสียงขลุ่ยของอาทูล
+
+key: misc/ui.mood-buff.atulplayingmusic._displaynamefemale 7713506050721976076 v1 Revised
+มีความสุขกับการฟังเสียงขลุ่ยของอาทูล
+
+key: misc/ui.mood-buff.baddecorations._displaynamefemale -6623867463272630447 v1 Revised
+มีบ้านที่ปรับปรุงใหม่อย่างใหญ่โต.
+
+key: misc/ui.mood-buff.basiliskmasteradventurer._displayname 5345144354526522301 v1 Revised
+ได้รับรางวัลชื่อ Master Adventurer.
+
+key: misc/ui.mood-buff.basiliskmasteradventurer._displaynamefemale -1951387334618977970 v2 Revised
+ได้รับรางวัลชื่อ Master Adventurer.
+
+key: misc/ui.mood-buff.builthouse._displayname 6497585378582464967 v4 Revised
+มีบ้านสวย.
+
+key: misc/ui.mood-buff.builthouse._displaynamefemale 3862946507733158739 v3 Revised
+มีบ้านสวย.
+
+key: misc/ui.mood-buff.builtloom._displaynamefemale 8833107144732917849 v1 Revised
+สามารถเข้าถึงเครื่องทอผ้า.
+
+key: misc/ui.mood-buff.builtthegarden._displaynamefemale 5667621084894301038 v1 Revised
+เพลิดเพลินกับสวนสวย.
+
+key: misc/ui.mood-buff.bullbeingmean._displayname 8398035812792368256 v2 Revised
+รู้สึกโดนมิกกี้รังแก.
+
+key: misc/ui.mood-buff.bullbeingmean._displaynamefemale -7388207909105563713 v1 Revised
+รู้สึกโดนมิกกี้รังแก.
+
+key: misc/ui.mood-buff.caredfor._displayname -7984386237839384564 v1 Revised
+รู้สึกได้รับการดูแล.
+
+key: misc/ui.mood-buff.caredfor._displaynamefemale 8526112488801970251 v1 Revised
+รู้สึกได้รับการดูแล.
+
+key: misc/ui.mood-buff.cowersduringstorms._displayname -3925817645890435583 v2 Revised
+ไม่ชอบพายุ.
+
+key: misc/ui.mood-buff.dogwashuggedwhensad._displaynamefemale 1429541145949666051 v2 Revised
+เกือบจะถูกกอดอีกครั้ง.
+
+key: misc/ui.mood-buff.drankatthelounge._displayname 2673947547093487005 v2 Revised
+ดื่มเครื่องดื่มเพื่อความสดชื่น.
+
+key: misc/ui.mood-buff.drankatthelounge._displaynamefemale 8923175408545809250 v1 Revised
+ดื่มเครื่องดื่มเพื่อความสดชื่น.
+
+key: misc/ui.mood-buff.dreamtaboutthedragon._displaynamefemale 3457809482681464106 v1 Revised
+มีความฝันที่ไม่มั่นคง.
+
+key: misc/ui.mood-buff.endsuppliesquest._displayname -3710100309506989704 v1 Revised
+บ้าฉันช่วยไม่ได้กับกิจกรรมที่ผิดกฎหมายของพวกเขา.
+
+key: misc/ui.mood-buff.fedamazingfood._displayname 6111787372649137836 v1 Revised
+ได้กินอาหารโปรดของเขา.
+
+key: misc/ui.mood-buff.fedamazingfood._displaynamefemale 351862091322854626 v1 Revised
+ได้กินอาหารโปรดของเธอ.
+
+key: misc/ui.mood-buff.fedbadfood._displayname -5380589117012186592 v1 Revised
+ได้กินอาหารที่เขาไม่ชอบ.
+
+key: misc/ui.mood-buff.fedbadfood._displaynamefemale 8702520325997505253 v1 Revised
+ได้กินอาหารที่เธอไม่ชอบ.
+
+key: misc/ui.mood-buff.fedglue._displayname -8486732308918222940 v1 Revised
+รู้สึกไม่สบายตัวจากการกินกาว.
+
+key: misc/ui.mood-buff.fedglue._displaynamefemale -8210129637712391056 v1 Revised
+รู้สึกไม่สบายตัวจากการกินกาว.
+
+key: misc/ui.mood-buff.fedgoodfood._displayname -3483393709415287038 v1 Revised
+ได้กินอาหารที่เขาชอบ.
+
+key: misc/ui.mood-buff.fedgoodfood._displaynamefemale 2294346238730642638 v1 Revised
+ได้กินอาหารที่เธอชอบ.
+
+key: misc/ui.mood-buff.fishingtrip._displayname 1624011601318175198 v3 Revised
+จดจำความทรงจำของพ่อที่รัก.
+
+key: misc/ui.mood-buff.foodconnoisseur._displayname 5987655206289678448 v2 Revised
+มีความสุขกับอาหารมื้อพิเศษ.
+
+key: misc/ui.mood-buff.foundexocets._displayname -4552744392484679978 v2 Revised
+ตื่นเต้นจากการต่อสู้ที่ดี.
+
+key: misc/ui.mood-buff.happyalicemusic._displayname 8534060357448319707 v1 Revised
+สนุกกับออร์แกนของอลิซ.
+
+key: misc/ui.mood-buff.happyalicemusic._displaynamefemale -2440006621872780713 v1 Revised
+สนุกกับออร์แกนของอลิซ.
+
+key: misc/ui.mood-buff.happyatuldoupboat._displayname -5934790258874288340 v3 Revised
+เพลิดเพลินกับการแสดงความสามรถของอาทูล.
+
+key: misc/ui.mood-buff.happyatuldoupboat._displaynamefemale -5504302257381930092 v2 Revised
+เพลิดเพลินกับการแสดงความสามรถของอาทูล.
+
+key: misc/ui.mood-buff.happyowlplayingmusic._displayname -5429393307996622267 v3 Revised
+มีความสุขกับการฟังซอของกุสตาฟ.
+
+key: misc/ui.mood-buff.happyowlplayingmusic._displaynamefemale -4120402785951096479 v3 Revised
+มีความสุขกับการฟังซอของกุสตาฟ.
+
+key: misc/ui.mood-buff.hedgehog_closetokitchen._displaynamefemale -5133077909919371351 v1 Revised
+อาศัยอยู่ใกล้กับห้องครัว.
+
+key: misc/ui.mood-buff.hedgehog_closetoorchard._displaynamefemale -2360280147903987741 v1 Revised
+ได้กลิ่นสวนผลไม้จากเตียงของเธอ.
+
+key: misc/ui.mood-buff.hedgehog_houseistoohigh._displaynamefemale -2346499972748258354 v1 Revised
+ไม่สามารถใช้บันไดไปบ้านของเธอได้.
+
+key: misc/ui.mood-buff.hedgehog_manypassengers._displaynamefemale 6879728189512123991 v1 Revised
+ชื่นชมเรือที่มีชีวิตชีวาและแออัด.
+
+key: misc/ui.mood-buff.hedgehog_spentnightoutside._displaynamefemale 1153379544192140351 v1 Revised
+ถูกทิ้งไว้ข้างนอกทั้งคืน.
+
+key: misc/ui.mood-buff.hedgehog_wentoutside._displaynamefemale -5003124100099269772 v1 Revised
+ได้สูดอากาศบริสุทธิ์.
+
+key: misc/ui.mood-buff.homiefood._displayname 8567919668489076695 v2 Revised
+กินอาหาร "เหมือนที่แม่เคยทำ".
+
+key: misc/ui.mood-buff.huggedwhenecstatic._displayname 3765467739832882129 v2 Revised
+ถูกกอดเมื่อไม่นานมานี้.
+
+key: misc/ui.mood-buff.huggedwhenecstatic._displaynamefemale 4630226653655078610 v2 Revised
+ถูกกอดเมื่อไม่นานมานี้.
+
+key: misc/ui.mood-buff.hungry._displayname 7417808594406298076 v2 Revised
+หิว.
+
+key: misc/ui.mood-buff.hungry._displaynamefemale 543294399625524584 v2 Revised
+หิว.
+
+key: misc/ui.mood-buff.likesrain._displayname -5922269942236070156 v4 Revised
+ชอบความรู้สึกที่ฝนสัมผัสผิวของเขา.
+
+key: misc/ui.mood-buff.likesrain._displaynamefemale 5663334460080321573 v1 Revised
+ชอบความรู้สึกที่ฝนสัมผัสผิวของเธอ.
+
+key: misc/ui.mood-buff.liondidnttellsecret._displayname 4163938195811494307 v2 Revised
+รู้สึกผิดที่ทำร้ายคนที่รัก.
+
+key: misc/ui.mood-buff.lobsterroll._displayname 2253125176008798097 v2 Revised
+กินอาหารทะเลแล้วไม่ชอบ.
+
+key: misc/ui.mood-buff.lynxbeingmean._displayname -7672761886476006965 v2 Revised
+เถียงกับอัสตริด.
+
+key: misc/ui.mood-buff.lynxbeingmean._displaynamefemale -4642490692624703600 v1 Revised
+เถียงกับอัสตริด.
+
+key: misc/ui.mood-buff.lynxpainfulmemories._displaynamefemale 8932291697110451658 v1 Revised
+ไม่ลืมความทรงจำที่เจ็บปวด
+
+key: misc/ui.mood-buff.lynxtoldsecret._displaynamefemale 899326853625988341 v1 Revised
+เผชิญหน้ากับความเท็จจริงเกี่ยวกับการวิ่งหนีของจิโอวานนี.
+
+key: misc/ui.mood-buff.needshouse._displayname 9099097381972122839 v2 Revised
+ต้องการบ้าน.
+
+key: misc/ui.mood-buff.needshouse._displaynamefemale 2891672893979292233 v2 Revised
+ต้องการบ้าน.
+
+key: misc/ui.mood-buff.needsspace._displayname 7600013675644443713 v2 Revised
+ต้องใช้เวลากับตัวเองบ้าง.
+
+key: misc/ui.mood-buff.nothappyatuldoupboat._displayname 871416687639277314 v3 Revised
+ไม่ชอบการทำเสียงดังของอาทูล.
+
+key: misc/ui.mood-buff.nothappyatuldoupboat._displaynamefemale 652872862448026554 v2 Revised
+ไม่ชอบการทำเสียงดังของอาทูล.
+
+key: misc/ui.mood-buff.owlplayingsadmusic._displayname 14571882116221422 v2 Revised
+หดหู่เพราะเพลงเศร้าของกุสตาฟ
+
+key: misc/ui.mood-buff.owlplayingsadmusic._displaynamefemale 884932101537829107 v2 Revised
+หดหู่เพราะเพลงเศร้าของกุสตาฟ
+
+key: misc/ui.mood-buff.proudofyourwork._displaynamefemale -3948964618081708014 v2 Revised
+ภูมิใจในจรรยาบรรณในการทำงานของคุณ.
+
+key: misc/ui.mood-buff.remembersoldstudent._displaynamefemale 6755949153960483416 v1 Revised
+คิดถึงหอพักนักเรียนเก่าของเธอ.
+
+key: misc/ui.mood-buff.sadlionbeingflirty._displayname -8416276131213846842 v2 Revised
+โดนความเจ้าชู้ของจิโอวานนี เล็กน้อย.
+
+key: misc/ui.mood-buff.sadlionbeingflirty._displaynamefemale 7558323208112892273 v3 Revised
+โดนความเจ้าชู้ของจิโอวานนี เล็กน้อย.
+
+key: misc/ui.mood-buff.sadyousolddrawing._displayname 6002321615459912561 v3 Revised
+น่าเศร้าที่ฉันขายภาพวาดของเขาไปหนึ่งภาพ.
+
+key: misc/ui.mood-buff.sawmill._displayname 7171615542216096231 v2 Revised
+ตื่นตากับโรงเลื่อยใหม่.
+
+key: misc/ui.mood-buff.sawnicearchitecture._displayname -7975159827498410504 v2 Revised
+เห็นสถานที่ที่สวยงาม..
+
+key: misc/ui.mood-buff.sheepeatyourfood._displayname -5515794628760100180 v3 Revised
+เจ้าแกะบ้านั่นกำลังวิ่งเตลิด.
+
+key: misc/ui.mood-buff.sleepingoutside._displayname -6395765352657802720 v2 ReadyForRevision
+เกลียดการนอนข้างนอก.
+
+key: misc/ui.mood-buff.sleepingoutside._displaynamefemale 3431819769681976194 v2 ReadyForRevision
+เกลียดการนอนข้างนอก.
+
+key: misc/ui.mood-buff.starving._displayname 7821651536341901816 v2 Revised
+กำลังหิวโหย.
+
+key: misc/ui.mood-buff.starving._displaynamefemale 4835653048397635330 v2 Revised
+กำลังหิวโหย.
+
+key: misc/ui.mood-buff.stophavingfunwithbell._displayname -9198307279415744380 v3 Revised
+บ้ามากที่ฉันเล่นกับกระดิ่งนั่น.
+
+key: misc/ui.mood-buff.stophavingfunwithbell._displaynamefemale 2758758439871291026 v2 Revised
+บ้ามากที่ฉันเล่นกับกระดิ่งนั่น.
+
+key: misc/ui.mood-buff.taughtloom._displaynamefemale -5367460052720174369 v1 Revised
+มีความสุขที่ได้แสดงให้ฉันเห็นรอบ ๆ เครื่องทอผ้า.
+
+key: misc/ui.mood-buff.taughtsheepshear._displayname 6077292439503292603 v2 Revised
+ตื่นเต้นที่ตัดขนแกะ.
+
+key: misc/ui.mood-buff.thinksoffamily._displayname 8661283066338492553 v2 Revised
+จำวิถีชีวิตครอบครัวเก่าของเขา.
+
+key: misc/ui.mood-buff.unionpast._displayname 8076073179867901387 v2 Revised
+ภูมิใจในผลงานของเขา.
+
+key: misc/ui.mood-buff.upgradedloom._displayname 2655431940385901317 v2 Revised
+มีความสุขที่เครื่องทอผ้าได้รับการอัพเกรด.
+
+key: misc/ui.mood-buff.veganoption._displaynamefemale 7510167181869547178 v1 Revised
+ได้รับการเสนออาหารที่ไม่ใช่มังสวิรัติ.
+
+key: misc/ui.mood-buff.visitedartgallery._displayname 6909844354986662020 v2 Revised
+เยี่ยมชมแกลเลอรีของกุสตาฟ.
+
+key: misc/ui.mood-buff.visitedartgallery._displaynamefemale -5557129296062571772 v2 Revised
+เยี่ยมชมแกลเลอรีของกุสตาฟ.
+
+key: misc/ui.mood-buff.visitedparentshouse._displaynamefemale 6077334789890868933 v2 Revised
+ไปเยี่ยมบ้านในวัยเด็กของเธอ.
+
+key: misc/ui.mood-buff.visitedracoonshop._displaynamefemale -1618161313820085980 v2 Revised
+ซื้อของที่ห้างแรคคูน.
+
+key: misc/ui.mood-buff.wasgivencrystal._displaynamefemale -8174233521194832031 v1 Revised
+ได้รับการเสนอขายพลอย.
+
+key: misc/ui.mood-buff.welcomed._displayname 3887465390915697266 v3 Revised
+มองโลกในแง่ดีเกี่ยวกับการเดินทางครั้งใหม่ของเขา.
+
+key: misc/ui.mood-buff.welcomed._displaynamefemale 3903711370212459623 v4 Revised
+มองโลกในแง่ดีเกี่ยวกับการเดินทางครั้งใหม่ของเธอ.
+
+key: misc/ui.mood-buff.witnessedthedragon._displaynamefemale 4911057098417886449 v2 Revised
+ได้พบเห็นมังกรจากอดีตของเธอ.
+
+key: misc/ui.mood-buff.wokenupbybell._displayname -8093593561110049212 v2 Revised
+รำคาญเสียงระฆังตอนเช้า.
+
+key: misc/ui.mood-buff.wokenupbybell._displaynamefemale 5549136065647387323 v2 Revised
+รำคาญเสียงระฆังตอนเช้า.
+
+key: misc/ui.moodperk -3281062346160217671 v1 Revised
+อารมณ์ที่พิเศษ
+
+key: misc/ui.move_prompt 350815780721803354 v1 Revised
+ย้าย
+
+key: misc/ui.newdestinationlabel -2494432233075607784 v1 Revised
+ใหม่!
+
+key: misc/ui.no_item_title -8303060144061942871 v1 Revised
+เลือกไอเทมเพื่อดูข้อมูลเพิ่มเติม
+
+key: misc/ui.open_prompt 2116586599349899908 v1 Revised
+เปิด
+
+key: misc/ui.orchard_seeds -7600824721475266 v1 Revised
+เมล็ดออร์ชาร์ด
+
+key: misc/ui.outfit_menu.closet 2417742611699157905 v1 Revised
+ตู้เสื้อผ้า
+
+key: misc/ui.outfit_menu.full_outfit 4726500821712743364 v1 Revised
+เครื่องแต่งกายเต็มรูปแบบ
+
+key: misc/ui.outfit_menu.fur -7808037523799578454 v1 Revised
+ขน
+
+key: misc/ui.outfit_menu.hair 7388660430568996389 v1 Revised
+ผม
+
+key: misc/ui.outfit_menu.hats -13561021070993887 v1 Revised
+หมวก
+
+key: misc/ui.outfit_menu.pants 8358181397429034073 v1 Revised
+กางเกง
+
+key: misc/ui.outfit_menu.save_outfit 8999720240433185712 v1 Revised
+ชุดที่บันทึกไว้
+
+key: misc/ui.outfit_menu.shoes 6387336572445874207 v1 Revised
+รองเท้า
+
+key: misc/ui.outfit_menu.tops -5286332212635960165 v1 Revised
+ส่วนบน
+
+key: misc/ui.oven -9131443702663803253 v3 Revised
+ครัว
+
+key: misc/ui.pausescreen.back 269023600366878277 v2 Revised
+กลับ
+
+key: misc/ui.pausescreen.interactconfirm -1090940142615405982 v2 Revised
+โต้ตอบ / ยืนยัน
+
+key: misc/ui.pausescreen.inventory 1988641309998178042 v2 Revised
+รายการสิ่งของ
+
+key: misc/ui.pausescreen.jumpglide -1569367512760698465 v2 Revised
+กระโดด/กดค้างเพื่อร่อน
+
+key: misc/ui.pausescreen.move 1132713664816202253 v3 Revised
+ย้าย
+
+key: misc/ui.pausescreen.questlog -5949897507572741442 v2 Revised
+บันทึกภารกิจ
+
+key: misc/ui.pausescreen.zoomout 5791497226498495603 v1 Revised
+ซูมออก
+
+key: misc/ui.plant_prompt -5191393676740700111 v2 Revised
+ปลูก
+
+key: misc/ui.purchase -7510933477520724908 v1 Revised
+ซื้อ
+
+key: misc/ui.quest_log.selected_title -8586268537566312723 v1 Revised
+วัตถุประสงค์ปัจจุบัน
+
+key: misc/ui.quest_log.title -1111763380498919686 v2 Revised
+บันทึกของกัปตัน
+
+key: misc/ui.quest_log.upgrade_title 2600777740808651888 v2 Revised
+อัพเกรด
+
+key: misc/ui.question_mark 4899742140821732657 v1 Revised
+?
+
+key: misc/ui.quests.categories.miscellaneous 4688451654701765271 v1 Revised
+เบ็ดเตล็ด 
+
+key: misc/ui.quests.categories.spirit_requests 7018832493952625881 v1 Revised
+คำขอ
+
+key: misc/ui.quests.categories.upgrades -852987775892599810 v1 Revised
+อัพเกรด
+
+key: misc/ui.recipe_display.title -4493828676367239389 v1 Revised
+สูตรอาหาร
+
+key: misc/ui.remove_prompt 8465002120717990636 v1 Revised
+ลบ
+
+key: misc/ui.resourcedisplay.chestblueprint 77011433590168485 v1 Revised
+หีบพิมพ์เขียว
+
+key: misc/ui.resourcedisplay.chestrare 8323192210642418164 v1 Revised
+หีบหายาก
+
+key: misc/ui.resourcedisplay.mushrooms -4922424418957368507 v2 Revised
+เห็ด
+
+key: misc/ui.resourcedisplay.ores -8242604343750466248 v1 Revised
+แร่
+
+key: misc/ui.resourcedisplay.sheep -6754149261053534629 v1 Revised
+แกะ
+
+key: misc/ui.resourcedisplay.shop -2243288581918733428 v1 Revised
+ร้านค้า
+
+key: misc/ui.resourcedisplay.shrine 1914752687645451210 v1 Revised
+ศาลเจ้า
+
+key: misc/ui.resourcedisplay.spirits 5048175885848307836 v1 Revised
+วิญญาณ
+
+key: misc/ui.resourcedisplay.treasures 6218657475012354695 v1 Revised
+สมบัติ
+
+key: misc/ui.resourcedisplay.unknown 3093423088306044291 v1 Revised
+???
+
+key: misc/ui.reward 8367408122838325425 v1 Revised
+รางวัล
+
+key: misc/ui.salvage.text 6256870614269824242 v1 Revised
+แน่ใจไหมว่าต้องการกู้ซากอาคารนี้ คุณจะได้รับทรัพยากรต่อไปนี้กลับคืนมา:
+
+key: misc/ui.select_prompt 175429463464825574 v1 Revised
+เลือก
+
+key: misc/ui.shelf_prompt -5705938659490284577 v1 Revised
+หมัก
+
+key: misc/ui.shelf_remove -7993373021185471057 v1 Revised
+ลบไอเทม?
+
+key: misc/ui.shop.buy 1227444319524708049 v1 Revised
+ซื้อ
+
+key: misc/ui.shop.sell 6773214146107534968 v1 Revised
+ขาย
+
+key: misc/ui.shrine.learn_ability -6816710363128320660 v1 Revised
+เรียนรู้ความสามารถ
+
+key: misc/ui.shrine.new_ability 7060660561456763868 v1 Revised
+ความสามารถใหม่
+
+key: misc/ui.shrine.title -3551762905565694666 v1 Revised
+ศาลเจ้า
+
+key: misc/ui.smithy_title 5465452239410939317 v3 Revised
+โรงตีเหล็ก
+
+key: misc/ui.stadia.disclaimer -5567707930981501621 v1 Revised
+No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.
+
+key: misc/ui.turtle.plant -3053863568085523631 v1 Revised
+ปลูก
+
+key: misc/ui.turtle.resources 4598569529126805321 v1 Revised
+ทรัพยากร
+
+key: misc/ui.veggie_sees -7647816538702955587 v1 Revised
+เมล็ดพันธุ์ผัก
+
+key: misc/ui.weave 3292664602266205291 v1 Revised
+สาน
+
+key: misc/ui.xbox_message_command_1 6292492171100154094 v1 Revised
+ตกลง
+
+key: misc/ui.xbox_message_user_disconnected -6155916881558280894 v1 Revised
+ผู้ใช้ตัดการเชื่อมต่อ 
+

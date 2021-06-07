@@ -1,0 +1,15 @@
+key: quests/denizenbl_producer.flagquest._descriptionloc 7441947809868568901 v1 Revised
+Talk to Larry in ((Nordsee Pier)).
+
+key: quests/denizenbl_producer.ingrid._descriptionloc 3180226149332634858 v1 Revised
+Talk to Ingrid in ((Old-Central District)).
+
+key: quests/denizenbl_producer.katherine._descriptionloc 4960968533861313565 v2 Revised
+Talk to Katherine in ((Obscure Canopy)).
+
+key: quests/denizenbl_producer.producer._flavortextloc 8510202598927747035 v2 Revised
+Me... a movie star? What an absurd idea! I better help this poor man. He probably hit his head or something. He's seeing stars everywhere.
+
+key: quests/denizenbl_producer.producer._namekeyloc -6122184347294819164 v1 Revised
+The Sweet Smell of Success
+

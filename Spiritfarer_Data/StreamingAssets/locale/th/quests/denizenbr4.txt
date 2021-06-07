@@ -1,0 +1,15 @@
+key: quests/denizenbr4.doublejump.description -1635284804409610400 v3 Revised
+((กระโดด)) สูงเป็นสองเท่า
+
+key: quests/denizenbr4.glide.description -1609717186589890256 v3 Revised
+((ร่อน)) ในอากาศ
+
+key: quests/denizenbr4.secretmine.flavortext 7159531965132109750 v1 Revised
+รปภ. คนนี้ต้องการให้ฉันฝึกฝนให้หนักขึ้นและอัพเกรดความสามารถของฉัน อะไรก็อาจเป็นไปได้ในเหมืองนั้น?
+
+key: quests/denizenbr4.secretmine.name 6110066954920615476 v2 Revised
+วงล้อฝึก
+
+key: quests/denizenbr4.zipline.description 2363126974667556413 v3 Revised
+((ซิปไลน์)) บนเชือกและสายไฟ
+

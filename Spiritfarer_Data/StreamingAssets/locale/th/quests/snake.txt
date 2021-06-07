@@ -1,0 +1,135 @@
+key: quests/snake.basequest._descriptionloc 486668440767817265 v3 Revised
+Talk with Summer on the pier.
+
+key: quests/snake.buildfield.description -4839248210184507518 v2 Revised
+((Build)) a ((field)).
+
+key: quests/snake.buildgarden.description 5065369490493871662 v4 Revised
+((Build)) a ((garden)).
+
+key: quests/snake.buildgarden.flavortext 1879141340668031274 v1 Revised
+Summer asked me if I could add a garden to the boat. She wants to use it as a classroom to teach me about gardening.
+
+key: quests/snake.buildgarden.name 3045532031559563026 v5 Revised
+Nature Class
+
+key: quests/snake.buildheater.description -8093401092256427478 v4 Revised
+((Improve)) ((Summer's Sanctuary)) with the HVAC system.
+
+key: quests/snake.buildheatercompositequest._flavortextloc -23533383825306326 v1 Revised
+Summer has fallen asleep several days ago, and shows no sign of waking up any time soon. I have to find a way to bring her back with us.
+
+key: quests/snake.buildheatercompositequest._namekeyloc 8247296574179435482 v1 Revised
+A Cold and Dreamless Slumber
+
+key: quests/snake.buildhousecomposite._flavortextloc 7970495335970190679 v1 Revised
+Summer has tasked me with building her a house. I should ask around to find someone who could design it.
+
+key: quests/snake.buildhousecomposite._namekeyloc -4284107908988314435 v1 Revised
+Laying at the Ley Line
+
+key: quests/snake.buildsummershouse.description -1273612636954999091 v4 Revised
+((Build)) ((Summer's Sanctuary)).
+
+key: quests/snake.completegreendragon._descriptionloc -4792957734314246172 v1 Revised
+Meet with the ((aluminium dragon)).
+
+key: quests/snake.dragoncompositequest._flavortextloc 6595258552423343855 v3 Revised
+Summer has had a vision of a great snake in the middle of the sea. It made her very restless. I should visit the spot she marked on my map as soon as possible.
+
+key: quests/snake.dragoncompositequest._namekeyloc -3097581308591970255 v1 Revised
+An Old Acquaintance
+
+key: quests/snake.giftcrystals.flavortext 2646444820043462998 v4 Revised
+Summer has asked me to gather a variety of gemstones and crystals that she could use to bring herself back to health. She is not picky, and requires only three different kinds.
+
+key: quests/snake.giftcrystals.name -3946887008534536032 v6 Revised
+The Diffracted Cabinet
+
+key: quests/snake.giftcrystals_amethyst.description 3664527655561985885 v2 Revised
+((amethyst))
+
+key: quests/snake.giftcrystals_amethyst_done._descriptionloc -6108246461910563717 v1 Revised
+<s>((amethyst))</s>
+
+key: quests/snake.giftcrystals_diamond.description 5362578080378034348 v2 Revised
+((diamond))
+
+key: quests/snake.giftcrystals_diamond_done._descriptionloc 2764621499316767129 v1 Revised
+<s>((diamond))</s>
+
+key: quests/snake.giftcrystals_hematite.description 3090864903445747188 v3 Revised
+((hematite))
+
+key: quests/snake.giftcrystals_hematite_done._descriptionloc -1787845492679339748 v1 Revised
+<s>((hematite))</s>
+
+key: quests/snake.giftcrystals_master._descriptionloc 1100389141342296352 v1 Revised
+((Give)) Summer three gemstones.
+
+key: quests/snake.giftcrystals_opal.description 4700739687730817586 v2 Revised
+((opal))
+
+key: quests/snake.giftcrystals_opal_done._descriptionloc -2237748999111826795 v1 Revised
+<s>((opal))</s>
+
+key: quests/snake.giftcrystals_quartz.description -1923672793192438072 v3 Revised
+((citrine))
+
+key: quests/snake.giftcrystals_quartz_done._descriptionloc 1137575461817641680 v1 Revised
+<s>((citrine))</s>
+
+key: quests/snake.growgardenproduce.description 698987228655073037 v7 Revised
+Play music to any sprouting plant in the ((garden)).
+
+key: quests/snake.growgardenproduce.flavortext 1996378846988224199 v1 Revised
+Summer has discovered a melody that significantly speeds up plant growth. I should try playing it in a garden.
+
+key: quests/snake.growgardenproduce.name 8237029945268103419 v3 Revised
+Jiving Chives
+
+key: quests/snake.hoursaboardquest_3._descriptionloc 4780253979035610809 v1 Revised
+Wait for Summer to gather her thoughts.
+
+key: quests/snake.learntomeditate.description -5284750304175405255 v4 Revised
+Go to ((Mount Toroyama)).
+
+key: quests/snake.learntomeditatecompositequest._flavortextloc 1373548391988470290 v1 Revised
+Summer has a special lesson to teach me. She would like me to meet her on the cliff in ((Mount Toroyama)).
+
+key: quests/snake.learntomeditatecompositequest._namekeyloc 2249434837014128688 v1 Revised
+The Oneness and the Wholeness
+
+key: quests/snake.meditatewithsummer._descriptionloc -4568354459562186911 v4 Revised
+Sit by the boulder next to Summer.
+
+key: quests/snake.snake._talktodescription 2217923882246007044 v1 Revised
+Talk to Summer.
+
+key: quests/snake.spiritprogressquest._descriptionloc -7048743304661299345 v1 Revised
+Bring Summer to the ((Everdoor)).
+
+key: quests/snake.startgreendragon._descriptionloc -3915705904474105485 v1 Revised
+Meet with the ((aluminium dragon)).
+
+key: quests/snake.summerisasleep_1._descriptionloc 3704053601988129518 v2 Revised
+Figure out what is wrong with Summer. ((Albert the Shipwright)) might be able to help.
+
+key: quests/snake.talkonpier._descriptionloc 8988803747459632261 v1 Revised
+Talk to Summer on the pier.
+
+key: quests/snake.talkonthecliffside._descriptionloc -5631767221129925231 v1 Revised
+Talk with Summer on the cliffside.
+
+key: quests/snake.talktosummer._descriptionloc 3375732642458504292 v1 Revised
+((Talk)) to Summer when she wakes up.
+
+key: quests/snake.visitdragon._descriptionloc 6353607975351689060 v1 Revised
+Visit the spot Summer has marked on the map.
+
+key: quests/snake.visitgreendragon._flavortextloc -6803849666657212417 v1 Revised
+Summer had a new vision of another, more threatening dragon. I should visit it as soon as possible.
+
+key: quests/snake.visitgreendragon._namekeyloc -5606998851540534356 v1 Revised
+The Metastatic Coil
+

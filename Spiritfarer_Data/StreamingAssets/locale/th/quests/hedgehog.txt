@@ -1,0 +1,139 @@
+
+key: quests/hedgehog.bringasecondsheep._descriptionloc -2734368248499310606 v1 Revised
+Find a second sheep and escort it back to ((Mount Toroyama))'s enclosure.
+
+key: quests/hedgehog.bringsheeptoenclosure._descriptionloc -1550155763638875001 v1 Revised
+Bring the sheep back to its enclosure, close to ((Mount Toroyama))'s pier.
+
+key: quests/hedgehog.buildhouse.description -6481350854234205289 v7 Revised
+((Build)) a cozy cottage for Alice.
+
+key: quests/hedgehog.buildorchard.description 1477086711675313748 v2 Revised
+((Build)) an ((orchard)).
+
+key: quests/hedgehog.buildorchardcomposite._flavortextloc -7282731129836556971 v2 Revised
+Alice has fond memories of her past life, surrounded by her loving family. She talks passionately about different fruit trees they used to plant. An ((orchard)) will definitely cheer her up! 
+
+key: quests/hedgehog.buildorchardcomposite._namekeyloc 5882295243861319427 v1 Revised
+Apples and Oranges
+
+key: quests/hedgehog.buildwardrobe.description 2408835270665387784 v4 Revised
+((Improve)) Alice's quarters with a ((wardrobe)).
+
+key: quests/hedgehog.completeescortcycle._descriptionloc 3623148664717156776 v1 Revised
+Walk Alice back to her house in the evening.
+
+key: quests/hedgehog.confusedaboutcolor.description 2741887501870252454 v3 Revised
+Find a way to shake Alice out of her confusion.
+
+key: quests/hedgehog.confusedaboutcolor.flavortext 6991658867592233665 v3 Revised
+Alice doesn't seem to recognize me anymore. I think she is scared of leaving the prow of the boat with me. How can I get her out of there?
+
+key: quests/hedgehog.confusedaboutcolor.name 7959958263074608164 v7 Revised
+Annie's Lost Hat
+
+key: quests/hedgehog.confusedrequest.description 3356640696080406781 v5 Revised
+What did Alice mean by "old wooly"... A blanket maybe? A piece of ((fabric))? I should find out and ((give)) it to her.
+
+key: quests/hedgehog.confusedrequest.flavortext 8428944899607792999 v5 Revised
+Alice, in a confused manner, asked me to find Eugene and tell him to bring her her "old wooly". Maybe I can find what she means by it, and bring her some other thing instead?
+
+key: quests/hedgehog.confusedrequest.name 255819758688504504 v5 Revised
+A Chilling Realisation
+
+key: quests/hedgehog.fashionshow.description -6832032860075228147 v6 Revised
+Change outfit with the ((wardrobe)).
+
+key: quests/hedgehog.fashionshow2._descriptionloc 3015188792541991673 v1 Revised
+Put on the ((periwinkle outfit)) from the ((wardrobe)).
+
+key: quests/hedgehog.feedonesheep._descriptionloc 9159612148076973106 v1 Revised
+Get the sheep at ((Mount Toroyama)) to follow you by ((feeding)) it.
+
+key: quests/hedgehog.fourthstop.description 3422568152961255621 v2 Revised
+Follow Alice.
+
+key: quests/hedgehog.gethedgehoghousecomposite.flavortext -7172544273092711949 v4 Revised
+Alice seems eager to join me on my travels, but does not want to bother me. Perhaps she would accept an invitation if I built her some quarters? She described a house very passionately.
+
+key: quests/hedgehog.gethedgehoghousecomposite.name -6685419188928108486 v4 Revised
+The Coziest Cottage
+
+key: quests/hedgehog.getshurt.description -5570048654376933849 v2 Revised
+Follow Alice.
+
+key: quests/hedgehog.goback.description -7072341332334838082 v3 Revised
+Get back to the boat
+
+key: quests/hedgehog.goonatrip.flavortext 382756437766769508 v4 Revised
+Alice asked me if I would accompany her on a trip to ((Nordweiler)). She is excited to see the village, as it reminds her of her Swedish romance novels.
+
+key: quests/hedgehog.goonatrip.name -4442426261392382438 v4 Revised
+Down the Rabbit Hole
+
+key: quests/hedgehog.gotob3._descriptionloc -5497569333788305163 v1 Revised
+Travel to ((Nordweiler)).
+
+key: quests/hedgehog.gotoportal._descriptionloc -187857439710861059 v1 Revised
+Bring Alice to the ((Everdoor)), and talk to her while wearing ((Annie's outfit)) with a ((red hat)).
+
+key: quests/hedgehog.growatree._descriptionloc 2318700693994610090 v1 Revised
+Grow a tree in the ((orchard)).
+
+key: quests/hedgehog.hedgehog._talktodescription -7920860474256773289 v2 Revised
+Talk to Alice.
+
+key: quests/hedgehog.movehousedown.description 8094476793824299584 v4 Revised
+((Move)) Alice's house down to the deck level.
+
+key: quests/hedgehog.movehousedowncomposite._flavortextloc -3012224526166741442 v1 Revised
+Alice might have some difficulty walking down from her house to the deck of the boat. I could lower her house so she has an easier time getting around.
+
+key: quests/hedgehog.movehousedowncomposite._namekeyloc -4056999773203562256 v5 Revised
+Taking the Low Road
+
+key: quests/hedgehog.reporttoalice._descriptionloc 1934550431229817832 v1 Revised
+Report back to the denizen.
+
+key: quests/hedgehog.returntoalice._descriptionloc -5111242524223490075 v1 Revised
+Tell Alice about the house you built for her.
+
+key: quests/hedgehog.secondstop.description 9011654491877914086 v5 Revised
+Join Alice in ((Nordweiler)).
+
+key: quests/hedgehog.shearsheep._descriptionloc 3822466558026030017 v1 Revised
+((Shear)) a sheep.
+
+key: quests/hedgehog.shearsheep._flavortextloc -4507879540534907264 v3 Revised
+We have a new passenger aboard... it's a sheep. Alice wants me to ((shear)) the wool off its back! Let's put my barber skills to work.
+
+key: quests/hedgehog.shearsheep._namekeyloc 1970375888900064963 v1 Revised
+A Coat of Wool
+
+key: quests/hedgehog.sheepquest._flavortextloc -6824484963588346618 v1 Revised
+I've been asked for some help in corraling some sheep back to their enclosure, in ((Mount Toroyama)).
+
+key: quests/hedgehog.sheepquest._namekeyloc 4860239357838393160 v1 Revised
+One Shoop, Two Sheep
+
+key: quests/hedgehog.talktoalice._descriptionloc 7398481337884430673 v1 Revised
+Check on Alice in the morning.
+
+key: quests/hedgehog.thirdstop.description -3625846310545412212 v2 Revised
+Follow Alice.
+
+key: quests/hedgehog.upgradekitchen.description -3056343491074623375 v3 Revised
+((Improve)) the ((kitchen)) with an upgraded stove.
+
+key: quests/hedgehog.upgradekitchen.flavortext -4313782786633377912 v1 Revised
+Alice would like to help with the cooking duties, and thus advised me to ((improve)) the ((kitchen)).
+
+key: quests/hedgehog.upgradekitchen.name -6112679595269707740 v4 Revised
+A Spot for Pots
+
+key: quests/hedgehog.wardrobecompositequest._flavortextloc -7708225758703847274 v1 Revised
+Alice asked me to add a wardrobe to her house, and even offered to let me use it to store extra sets of clothes. She seems quite excited by the whole prospect.
+
+key: quests/hedgehog.wardrobecompositequest._namekeyloc 81934483897679231 v1 Revised
+Of Warts and Ropes
+

@@ -1,0 +1,9 @@
+key: quests/denizena1.tourguide.description -7269598659062818655 v1 Revised
+Follow your tour guide.
+
+key: quests/denizena1.tourguide.flavortext 4510125057051794686 v1 Revised
+Another one of these tours. This can't be a sound business model.
+
+key: quests/denizena1.tourguide.name -9161339491619770555 v1 Revised
+Greetings from Furogawa!
+

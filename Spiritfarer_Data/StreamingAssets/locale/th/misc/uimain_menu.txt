@@ -1,0 +1,3 @@
+key: misc/uimain_menu.start_game -974686699742433569 v1 Revised
+เริ่มเกม
+

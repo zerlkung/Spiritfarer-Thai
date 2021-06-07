@@ -1,0 +1,30 @@
+key: outfits/pants.dark._name -1257050294867296411 v2 Revised
+Spruce Trousers
+
+key: outfits/pants.default._name 5388653972562355023 v2 Revised
+Teal Trousers
+
+key: outfits/pants.eshe._name 6397112887319938706 v2 Revised
+Phaeng'tag'sh
+
+key: outfits/pants.pastel._name 6654454812574542535 v2 Revised
+Powder Pants
+
+key: outfits/pants.periwinkle._name -1214667638820380655 v1 Revised
+Plum Trousers
+
+key: outfits/pants.purple._name -8747243589245118090 v2 Revised
+Indigo Pants
+
+key: outfits/pants.red._name -9209824633652353907 v2 Revised
+Burgundy Trousers
+
+key: outfits/pants.specialalicepants._name 878710496172982176 v2 Revised
+Blue Jeans
+
+key: outfits/pants.thora._name 4540989760433679187 v2 Revised
+Kaunan's Breeches
+
+key: outfits/pants.yellow._name -4103458389995418310 v2 Revised
+Mustard Trousers
+

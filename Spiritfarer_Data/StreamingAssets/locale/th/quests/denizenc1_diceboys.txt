@@ -1,0 +1,18 @@
+key: quests/denizenc1_diceboys.diceboys._flavortextloc 8884848581923365296 v1 Revised
+การแสดงแบบฮิปฮอปนี้ ต้องการเปิดตัวเล็กน้อย ฉันจะเป็นทีมสตรีทคนเดียวของพวกเขา!
+
+key: quests/denizenc1_diceboys.diceboys._namekeyloc -629370428240022139 v3 Revised
+Dice Boys ขอนำเสนอ...
+
+key: quests/denizenc1_diceboys.talktodiceleader._descriptionloc 7271665958729533169 v1 Revised
+คุยกับ Dice Boys.
+
+key: quests/denizenc1_diceboys.vinylone._descriptionloc -4122616912505135132 v3 Revised
+คุยกับใครบางคนใน ((Hummingberg)).
+
+key: quests/denizenc1_diceboys.vinylthree._descriptionloc 2435364359627162923 v1 Revised
+คุยกับใครบางคนใน ((Bottom Line Corp.))
+
+key: quests/denizenc1_diceboys.vinyltwo._descriptionloc 7857568240646508494 v1 Revised
+คุยกับใครบางคนใน ((ฟุโรกาวะ)).
+

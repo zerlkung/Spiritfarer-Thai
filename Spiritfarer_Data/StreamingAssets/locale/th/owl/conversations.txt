@@ -1,0 +1,794 @@
+key: owl/conversations._talktoowldenizen2validation.loctext 1128593166884190598 v1 Revised
+{|Expression_Idle_Neutral}Ah, you're back!
+{|Expression_Idle_Neutral}Did you manage to get the missing print?
+{|Expression_Idle_Neutral}No? It was already sold??
+{|Expression_Idle_Neutral}But... How?? 
+{|Expression_Idle_Neutral}Wait... Is there... A competing art collector roaming about?
+{|Expression_Idle_Neutral}A +=walrus=+ lady, you say?
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Of course!
+{|Expression_Idle_Neutral}Of course it was her!
+{|Expression_Surprise}Oh, that horrid woman!
+{|Expression_Surprise}That dim-witted, egotistic, patronizing charlatan!
+{|Expression_Surprise}She calls herself "The Collector", if you can believe it!
+{|Expression_Surprise}She doesn't even collect anything!
+{|Expression_Surprise}Oh, I'm sure she bought the print only to spite me. I should have never told her about my collection!
+{|Expression_Unhappy}That ugly-ass sack-face...
+{|Expression_Idle_Neutral}Well, I'm not one to waive off competition!
+{|Expression_Idle_Neutral}The ugly witch is in hiding. 
+{|Expression_Surprise}In hiding from you!!
+{|Expression_Surprise}I don't specifically know why, but the news of a new Spiritfarer made her skitter away like a puny cockroach.
+{|Expression_Idle_Neutral}How fitting!
+{|Expression_Idle_Neutral}Yes, yes, you're the Spiritfarer...
+{|Expression_Idle_Neutral}Tell me something +=I=+ don't know...
+{|Expression_Idle_Neutral}She should have known better than to tell me the location of her hideout, though.
+{|Expression_Idle_Neutral}She's hiding at these coordinates: <nobr>((-150, 150))</nobr>.
+{|Expression_Idle_Neutral}Pay her a visit, would you?
+{|Expression_Idle_Neutral}And when you see her, show her this figurine. She'll know...
+{|Expression_Idle_Neutral}Believe me, she'll +=know=+...
+{|Expression_Idle_Neutral}This? Oh, do not worry, it's just some junk Theodore gave me.
+
+key: owl/conversations._talktoowldenizen3validation.loctext -5719725846520567546 v3 Revised
+{|Expression_Idle_Neutral}Back again, are you?
+And would you look at that, you've got the piece!
+Oh, Stella, this is very good!
+{|Expression_Idle_Neutral}You've managed to wrestle the woodprint from the cold hands of the hag!
+{|Expression_Idle_Neutral}What ingeniosity! What spunk!
+{|Expression_Idle_Neutral}Yes, you'll prove to be an immense asset to all of my endeavours!
+{|Expression_Idle_Neutral}Or, shall I say, our endeavours!
+{|Expression_Idle_Neutral}...
+Well, it is decided, then!
+There is no pursuit left for me on this island.
+{|Expression_Happy}Therefore, I will join your little expedition!
+As a passenger, mind you, not as a crew member.
+Yes, yes, such a boat might just be the perfect gallery...
+Well, what are we waiting for? Let's go!
+
+key: owl/conversations._talktoowldenizenvalidation._commenttext -3490910006871037960 v1 Revised
+Now, where could it be?
+
+key: owl/conversations._talktoowldenizenvalidation._independenttextbubbleloc -7424896088922420728 v1 Revised
+Hey there!
+
+key: owl/conversations._talktoowldenizenvalidation.loctext -242819721784789674 v17 Revised
+{|Expression_Surprise}Oh, what impeccable timing!
+{|Expression_Surprise}I am in dire need of assistance.
+{|Expression_Idle_Neutral}I can tell from your friendly and familiar face that you are undoubtedly the helpful type!
+{|Expression_Idle_Neutral}Listen, I'm looking to complete this set of five traditional woodprints.
+{|Expression_Idle_Neutral}They date from the Ushiro period, and as such, are immensely invaluable!
+{|Expression_Idle_Neutral}I have found four of them, but, alas, the last one eludes me.
+{|Expression_Idle_Neutral}I am certain it is in this very village.
+{|Expression_Idle_Neutral}Furthermore, I am absolutely positive that it was recently in possession of the local shopkeeper, Theodore.
+{|Expression_Idle_Neutral}But he refuses to even acknowledge its existence!
+{|Expression_Idle_Neutral}What an irksome little man...
+{|Expression_Idle_Neutral}Raccoon...
+{|Expression_Unhappy}Tanuki...
+{|Expression_Unhappy}Whatever he is! 
+{|Expression_Idle_Neutral}But with your help...
+{|Expression_Idle_Neutral}Yes! With that sweet little smile of yours, and generally non-threatening attitude...
+{|Expression_Idle_Neutral}Well, I'm sure you can shmooze your way into acquiring that last precious piece!
+{|Expression_Idle_Neutral}That would be the last missing piece of this slippery puzzle!
+{|Expression_Idle_Neutral}Well, go ahead Skipper, I can't wait!
+
+key: owl/conversations.foodaccept.loctext -8782708557064283919 v2 Revised
+{Eat}Thank you, Skipper!
+{Eat}This meal is...
+{Eat}nourrishing...
+
+key: owl/conversations.foodaccept_dislike.loctext 4340322284007169225 v2 Revised
+{Eat}This food is bad.
+
+key: owl/conversations.foodaccept_like.loctext -9206281712726027777 v3 Revised
+{Eat}That food is quite remarkable!
+
+key: owl/conversations.foodaccept_love.loctext -7897482045035974244 v2 Revised
+{Eat}This is my favorite food! Thank you!
+
+key: owl/conversations.foodrefuse.loctext 6150587683459632959 v1 Revised
+I'm not hungry.
+
+key: owl/conversations.foodrefuse_inedible.loctext -3041684027867760530 v1 Revised
+This is not strictly speaking... food.
+
+key: owl/conversations.foodrefuse_same.loctext -8926262768141098290 v1 Revised
+I've already had this recently. Do you have anything else?
+
+key: owl/conversations.foodrefuse_same_fallback01.loctext 18431965994435684 v1 Revised
+{|Expression_Idle_Neutral}I would prefer something different.
+
+key: owl/conversations.foodrefuse_same_fallback02.loctext -3137823346335841826 v1 Revised
+{|Expression_Idle_Neutral}I believe I'll have something else.
+
+key: owl/conversations.owl_lastvoyage_tendersequence_a.loctext -1711802069637120390 v3 Revised
+It seems to me you were quite surprised by my request to leave.
+And it seems to me you still are.
+But you have to understand, Stella,
+That everything is but a meaningless arrangement of atoms.
+Everything you've ever known, seen, or experienced.
+Fortuitous circumstances.
+In the universal chaos, mankind emerged.
+Not a tiny bit more purposeful than the rest,
+But with an incredible faculty:
+That of creating meaning, however fleeting it might be.
+
+key: owl/conversations.owl_lastvoyage_tendersequence_b.loctext -6564048203521540376 v3 Revised
+I have no inherent meaning.
+Neither do you.
+But we can create, organize, put in order.
+And thus create purpose and meaning.
+Transcend the primordial chaos.
+All of humankind does so.
+We create machines that are useful. To take control.
+Machines like the dreaded chair.
+The one that subsumed me, made of me an object.
+But maybe, also, that made me truly realize what impermanence means.
+For our numerous creations only have meaning as long as they are useful.
+My chair, when it finally became unneeded,
+Became once again a heap of metal.
+Melted back into the universal chaos.
+Lost its inherent humanity.
+
+key: owl/conversations.owl_lastvoyage_tendersequence_c.loctext 8169129602544723495 v3 Revised
+Usefulness is an easy way to meaningfulness.
+But not a trustworthy one.
+It vanishes as quickly as we do.
+And so it seems the only hope humanity has for transcendence is through art.
+Meaningfulness pulled from our chaotic minds,
+Not for utility,
+But for its own sake.
+And after the artist has been long gone,
+Turned to dust,
+The art remains.
+And even after the last one of all humans
+Will have returned to the primordial chaos,
+Provided that we have protected it,
+Art will remain.
+
+key: owl/conversations.owl_lastvoyage_tendersequence_d.loctext 4548518296696019226 v4 Revised
+And so it is that art alone is left in our wake.
+The only veritable form of transcendence to ever have been in our grasp.
+Proof of our existence, and of our pitiful efforts to raise from the chaos,
+As would some unknown script from a long-gone power.
+...
+
+key: owl/conversations.owl_lastvoyage_tendersequence_e.loctext 970982390647852484 v3 Revised
+Oh, we're here!
+
+key: owl/conversations.owl_lastvoyage_tendersequence_f.loctext -5598157533210015639 v3 Revised
+Well, well, now, Stella. Ozymandias beckons. Let's go.
+
+key: owl/conversations.owl_like_acquiredtaste.loctext -783754035890580674 v2 Revised
+{Expression_Pensive|Expression_Idle_Neutral}You know, some people just don't get it.
+{Expression_MakingAPoint|Expression_Idle_Neutral}Oh, don't get me started on taste...
+{Expression_Pensive|Expression_Idle_Neutral}There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity...
+{|Expression_Idle_Neutral}This is... exactly that.
+{|Expression_Idle_Neutral}A taste so unique, so special...
+{Eat}I don't even get why some people would call this an ((acquired taste)).
+{Eat}Neophytes, assuredly.
+{Eat}This is wonderful, Skipper, thank you.
+
+key: owl/conversations.owl_like_acquiredtaste_fallback01.loctext 490649969193864288 v1 Revised
+{Expression_MakingAPoint|Expression_Idle_Neutral}This will surely turn some heads!
+{Eat}Only a narrow-minded individual would call this an ((acquired taste)).
+{Eat}This is simply higher quality food.
+
+key: owl/conversations.owl_like_acquiredtaste_fallback02.loctext 1368108836430740545 v1 Revised
+{|Expression_Idle_Neutral}Anything with an ((acquired taste)) commands respect.
+{Eat}Thank you, Stella, for this bold and daring meal!
+
+key: owl/conversations.owl_like_exotic.loctext 2255592685864287860 v2 Revised
+Ha!
+Stella!
+{Expression_Positive}Found my weak spot again, did you?
+{Expression_Positive}This complex and exhilarating blend of flavours...
+Yes, ((exotic)) delicacies are just my taste!
+{Eat}Oh!
+{Eat}Yes, quite good!
+{Eat}Quite good indeed!
+
+key: owl/conversations.owl_like_exotic_fallback01.loctext 2367019123408790802 v1 Revised
+{Expression_Positive}Another facet of my existence is revealed.
+{Expression_Positive}As a citizen of the world, I consider all food to stand on equal footing.
+{Eat}This might be ((exotic)) to some, but I consider it a must!
+
+key: owl/conversations.owl_like_exotic_fallback02.loctext -5008069404732562751 v1 Revised
+You can taste... no... feel the rich flavours!
+{Eat}Quite the ((exotic)) palate, Skipper!
+
+key: owl/conversations.owl_love_surstromming.loctext 2829264885486558386 v2 Revised
+{Expression_Negative}Oh! 
+{Expression_Negative}My!
+{Expression_Negative}Goodness!!
+I...
+I would have never thought possible to sink my teeth in...
+In this +=EXTRAORDINARY=+ delight again!
+{Expression_Positive}Stella, you outdid yourself!
+{Expression_Positive}Simply brilliant!
+{Eat}((Surstromming)) is not for the weak-willed.
+{Eat}Not for the faint-hearted
+{Eat}But for me, it definitely is!
+{Eat}I could eat two buckets of it...
+
+key: owl/conversations.owl_love_surstromming_fallback01.loctext 8020079480164110117 v1 Revised
+{Expression_Positive}My compliments to the chef!
+{Eat}Another beautifully prepared ((surstromming)).
+{Eat}One might welcome death after such an incredible meal.
+
+key: owl/conversations.owl_love_surstromming_fallback02.loctext -7012834488861396266 v1 Revised
+{Expression_Pensive}Such a pungent smell...
+{Expression_MakingAPoint}((Surstromming)), once again!
+{Eat}Stella, really, you leave me speechless. Thank you.
+
+key: owl/conversations.owl_refuse_fried.loctext 4480328920114081626 v2 Revised
+{|Expression_Idle_Neutral}No.
+{|Expression_Idle_Neutral}Nope.
+{|Expression_Idle_Neutral}I'm sorry Skipper, I won't eat anything ((fried)).
+{|Expression_Idle_Neutral}I might be vain, but I have standards.
+
+key: owl/conversations.owl_refuse_fried_fallback01.loctext -6526822972494562542 v1 Revised
+{|Expression_Idle_Neutral}I'm afraid I simply won't let anything ((fried)) near me.
+{|Expression_Idle_Neutral}I don't want the smell to linger on my clothes.
+
+key: owl/conversations.owl_refuse_fried_fallback02.loctext -5534234986891833911 v1 Revised
+{|Expression_Idle_Neutral}Now Skipper, we've already had this discussion.
+{|Expression_Idle_Neutral}I don't want to see any ((fried)) food.
+
+key: owl/conversations.owl_refuse_sweet.loctext 3820252300469074794 v3 Revised
+{|Expression_Idle_Neutral}Oh, darling.
+{|Expression_Idle_Neutral}This is a kind-hearted try, but no, I can't let myself be tempted.
+{|Expression_Idle_Neutral}Eating anything ((sweet)) would be against my principles.
+{|Expression_Idle_Neutral}I don't have many.
+{|Expression_Idle_Neutral}But I have at least this one.
+
+key: owl/conversations.owl_refuse_sweet_fallback01.loctext -4025261142052751172 v1 Revised
+{|Expression_Idle_Neutral}Eating anything ((sweet)) feels like tempting faith.
+{|Expression_Idle_Neutral}And I want chance on my side.
+
+key: owl/conversations.owl_refuse_sweet_fallback02.loctext 4656303923440742976 v1 Revised
+{|Expression_Idle_Neutral}Fortitude has never been an issue for me.
+{|Expression_Idle_Neutral}Do you not believe me?
+Well, bear witness to my strength of character, as I refuse this ((sweet)) offering.
+
+key: owl/conversations.owlcall.loctext -110144428055698181 v3 Revised
+A marvelous venue!
+
+key: owl/conversations.owlconversation-askaboutfrogvalidation.loctext 7804812176798946715 v2 Revised
+{|Expression_Pensive}My time is quite valuable.
+{|Expression_Pensive}However, I've noticed that a passenger missing.
+{|Expression_Pensive}What was his name?
+{|Expression_Pensive}That bombastic friend of yours?
+{|Expression_Pensive}Oh well...
+
+key: owl/conversations.owlconversation-askaboutplayvalidation.loctext -3755918927408138369 v2 Revised
+It reminded me of my college days.
+Those early, naive experiments with the form of theater.
+Such a noble, vibrant Art.
+Living Art and performances are not my forte, but I definitely condone the idea of it.
+{|Expression_Unhappy}That little fellow was technically awful for sure.
+But his heart was in the right place, he's got that at least.
+
+key: owl/conversations.owlconversation-builddeskvalidation._independenttextbubbleloc -3337727747160774400 v2 Revised
+Look at that!
+
+key: owl/conversations.owlconversation-builddeskvalidation.loctext 6487243999708714406 v8 Revised
+{Expression_Pensive}It's finally here! Look at it!
+{Expression_MakingAPoint}Look at the curves!
+{Expression_Pensive}Look at the perfect fit of the materials!
+{Expression_Pensive}Truly, a masterpiece...
+{Expression_Pensive}I'll be able to accomplish my immense work much more comfortably!
+{Expression_MakingAPoint}And glamourously!
+Now, I can manage most of the smaller pieces by myself.
+But the larger ones, as the desk, we'll have to manufacture ourselves!
+Once I have received some designs from collaborators, I'll give them over to you.
+{Expression_MakingAPoint}I'm sure you'll be, as usual, perfectly competent in executing them.
+
+key: owl/conversations.owlconversation-buildforgevalidation._independenttextbubbleloc 157732334804440070 v1 Revised
+Grandiose!
+
+key: owl/conversations.owlconversation-buildforgevalidation.loctext -5575276935706442199 v2 Revised
+As uncouth as it would be of me to pose as a true specialist, I can assure you this machine you built is perfect!
+{Expression_Positive}Be proud of yourself skipper!
+Now you can with the greatest ease craft the most elaborate materials!
+{Expression_MakingAPoint}Art can finally move forward!
+{Expression_Pensive|Expression_Idle_Neutral}There are... of course... technicalities involved.
+{Expression_Pensive|Expression_Idle_Neutral}As I said I'm far from being myself a skilled blacksmith.
+{Expression_Pensive|Expression_Idle_Neutral}All I can tell you skipper is that it is -=most probably=- rather straightforward.
+{Expression_Pensive|Expression_Idle_Neutral}My understanding is that each material has its own specific heating and hammer-shaping properties.
+{|Expression_Idle_Neutral}Some will require constant, small hammer hits.
+{|Expression_Idle_Neutral}Some will have you whack on it with the highest strength you can muster.
+{|Expression_Idle_Neutral}Watching how hot you hammer becomes will be a crucial observation skill.
+{|Expression_Idle_Neutral}But enough blathering!
+{|Expression_Idle_Neutral}Go at it!
+{|Expression_Idle_Neutral}I'll watch you from a safe distance, right over here!
+
+key: owl/conversations.owlconversation-buildofficeintroduction._independenttextbubbleloc 5477129144138742619 v2 Revised
+Now, for the real work!
+
+key: owl/conversations.owlconversation-buildofficeintroduction.loctext -8926265299366708036 v34 Revised
+{|Expression_Idle_Neutral}Now that our preparatory work is fully done, I think it is time to start working on some proper infrastructure.
+{|Expression_Pensive}Ideally, a project of this breadth would require a dedicated space to protect the more fragile pieces from the elements.
+{|Expression_Pensive}But it also requires an office desk from which the curator can work comfortably,
+{|Expression_Unhappy}As well as a waiting area, a front desk, some storage, maybe even a gift shop. Though we might manage without one...
+{|Expression_Unhappy}What? A bit much?
+{|Expression_Unhappy}On the contrary, Stella, I assure you that all of these are perfectly necessary!
+{|Expression_Idle_Neutral}Luckily, as a rational man, I realize that space might be an issue.
+{|Expression_Idle_Neutral}That's why I have thought of a multi-purpose area that would do wonderfully!
+
+key: owl/conversations.owlconversation-buildofficeintroduction_end.loctext -6875230878767059720 v3 Revised
+Well, if you insist! I'll let you get to it, then.
+
+key: owl/conversations.owlconversation-buildofficeintroduction_part2.loctext 6219264399721607117 v5 Revised
+Let's get to it, then. Grab a pencil, and listen carefully.
+{Expression_MakingAPoint|Expression_Blueprint}A gallery is a paradoxical space, for it both houses works of arts and is one.
+{Expression_MakingAPoint|Expression_Blueprint}Architecture is, after all, the first expression of humanity's mastery over nature.
+{Expression_MakingAPoint|Expression_Blueprint}[fadein]As such, like a temple, a suitable gallery would need...
+{Expression_MakingAPoint|Expression_Unhappy}[fadeout]And that is one of the many ways the Bauhaus school of Chicago integrated Etruscan architecture in its ideas.
+{|Expression_Unhappy}Alright, have you got all that written down?  I don't mind going over the finer points of the lecture again.
+{|Expression_Idle_Neutral}Do you need me to repeat?
+
+key: owl/conversations.owlconversation-buildofficevalidation._independenttextbubbleloc 2059239689215054056 v2 Revised
+Fantastic!
+
+key: owl/conversations.owlconversation-buildofficevalidation.loctext 6040049877726184240 v3 Revised
+As usual, Stella, you accomplished your end of the deal with gusto!
+{|Expression_Unhappy}And while I notice that you disregarded much of my previous indications...
+{Expression_Positive|Expression_Happy}What a great space you managed to put together!
+{|Expression_Headnod}It will be a much better working environment than that noisy guest house.
+{|Expression_Surprise}And as a plus, I can even move in, so that I can entirely focus on my work!
+{Expression_Positive|Expression_Surprise}Oh, don't act surprised. I've only ever felt at home when surrounded by my work.
+{Expression_MakingAPoint|Expression_Happy}While some might consider sleeping in their office a punishment, I'm actually looking forward to it!
+I can't wait to fill up this empty space. 
+How exciting!
+{Expression_MakingAPoint}Do carry on!
+I'll gather my things and my thoughts, and I'll tell you when we're ready for the next step.
+
+key: owl/conversations.owlconversationcall-fireflies_first._independenttextbubbleloc 2990057659185522613 v2 Revised
+What is that?
+
+key: owl/conversations.owlconversationcall-fireflies_first.loctext -2190320052367831623 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}Do you hear that, Stella?
+{|Expression_Idle_Neutral}Is that... music?
+{|Expression_Idle_Neutral}And organ? Strings?
+{|Expression_Idle_Neutral}How incredibly stirring!
+{|Expression_Idle_Neutral}How dark and mysterious!
+{|Expression_Idle_Neutral}Oh, what beauty!
+{|Expression_Idle_Neutral}Stella, would you mind letting the music in?
+{|Expression_Idle_Neutral}It would mean so much to me...
+
+key: owl/conversations.owlconversationcall-fireflies_no.loctext 7293892580441942343 v1 Revised
+{|Expression_Idle_Neutral}Oh...!
+{|Expression_Idle_Neutral}Well...
+{|Expression_Idle_Neutral}Next time, perhaps.
+
+key: owl/conversations.owlconversationcall-fireflies_yes.loctext 4159319299735634150 v1 Revised
+Let the notes flow through you, Stella!
+Let the music strike straight to your heart!
+
+key: owl/conversations.owlconversationcall-fireflies1._independenttextbubbleloc -503767408471080702 v1 Revised
+Oh, stillness?
+
+key: owl/conversations.owlconversationcall-fireflies1.loctext 4177040529986718653 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}Darkness, and silence...
+{|Expression_Idle_Neutral}Another symphony is starting!
+{|Expression_Idle_Neutral}What do you think?
+
+key: owl/conversations.owlconversationcall-fireflies2._independenttextbubbleloc -3355567475237310233 v1 Revised
+Oh, it's coming...
+
+key: owl/conversations.owlconversationcall-fireflies2.loctext 656876323159724835 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}These deep feelings...
+{|Expression_Idle_Neutral}Music will make us free from them, Stella!
+{|Expression_Idle_Neutral}Go ahead and uncork the bottled-up passions inside of you!
+
+key: owl/conversations.owlconversation-chapter1blockerintroduction.loctext -5446728008172880188 v4 Placeholder
+Actually, you know what? I might not come right away.
+Maybe later!
+
+key: owl/conversations.owlconversation-clockintroduction._independenttextbubbleloc -9021014470937551083 v2 Revised
+A new design!
+
+key: owl/conversations.owlconversation-clockintroduction.loctext 5021525320389121118 v5 Revised
+Oh, Stella, I have received the most amazing submission!
+This is a design for a clock.
+{Expression_MakingAPoint|Expression_Idle_Neutral}One of the strongest symbols of humanity's dedication to rising above its lowly station.
+{Expression_MakingAPoint|Expression_Idle_Neutral}For the measuring of time beats the path to its accounting.
+{Expression_MakingAPoint|Expression_Idle_Neutral}Which in turn allows for long-term planning!
+{Expression_Pensive|Expression_Idle_Neutral}When the first humans started this colossal and seemingly pointless task of measuring time,
+they extracted themselves from the instant. 
+{Expression_Pensive|Expression_Idle_Neutral}They stopped surviving as animals.
+{Expression_Pensive|Expression_Idle_Neutral}Instead, they started surviving as a species.
+{Expression_MakingAPoint|Expression_Idle_Neutral}Humanity was born when the apes decided they would play timekeepers.
+{Expression_Pensive|Expression_Idle_Neutral}...
+{Expression_Positive|Expression_Idle_Neutral}Oh, sorry, I was lost in my thoughts!
+Anyway, I am quite excited by this new design, and entrust it to you.
+
+key: owl/conversations.owlconversation-commentaboutplay01.loctext -9156700083878167315 v3 Revised
+Intriguing.
+
+key: owl/conversations.owlconversation-deskquestintroduction._independenttextbubbleloc -2918478158571004399 v1 Revised
+My back...
+
+key: owl/conversations.owlconversation-deskquestintroduction.loctext 3822358176704160090 v12 Revised
+{|Expression_Idle_Neutral}I've once again hit a roadblock.
+{|Expression_Idle_Neutral}As you know, much of my work requires me to communicate with my trusted correspondents.
+{|Expression_Idle_Neutral}Of course, you used to help me with that, quite a lot.
+{|Expression_Idle_Neutral}But look at me, now, back at full strength!
+{|Expression_Idle_Neutral}And even though I don't need a secretary, I still need a desk.
+{|Expression_Idle_Neutral}Now, we could use any old desk, but that would defeat our purpose, would it not?
+{|Expression_Idle_Neutral}Only the best, for the good of the exhibit.
+{|Expression_Idle_Neutral}To that end, I managed to track down a woodworker of excellent reputation.
+{|Expression_Idle_Neutral}I know he lives in ((Oxbury)), but I haven't been able to contact him.
+{Expression_MakingAPoint|Expression_Headnod}So you should go and investigate! Some good old-fashioned fieldwork!
+{Expression_MakingAPoint|Expression_Pensive}And while I do not know exactly where he might be,
+{Expression_MakingAPoint|Expression_Pensive}I do know that his concubine works in some sort of café.
+{Expression_MakingAPoint|Expression_Pensive}Maybe that could lead you on his trail?
+
+key: owl/conversations.owlconversation-deskquestintroduction_followup.loctext -7167791638575775166 v6 Revised
+{|Expression_Idle_Neutral}Oh, and on a related note, I've done some thinking.
+{|Expression_Idle_Neutral}I am not certain the vast assortment of tools you put at our disposal will yet be enough.
+{|Expression_Idle_Neutral}Since everything apparently has to be refined from raw materials,
+{|Expression_Idle_Neutral}Some finer materials will require a more specialized workshop.
+{|Expression_Headnod}You should consider building a ((smithy)) to help us with that!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction._independenttextbubbleloc -3321285633827696863 v2 Revised
+Now, where to start...
+
+key: owl/conversations.owlconversation-equiptheboatintroduction.loctext -3781257054744113932 v10 Revised
+{Expression_MakingAPoint}Before we start working on the exhibition proper, some preparations are required.
+{Expression_MakingAPoint}Namely, making sure we have access to proper installations.
+{Expression_MakingAPoint|Expression_Blueprint}Now, bear with me. Is the boat equipped with:
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_end_everythingbuilt._independenttextbubbleloc -3476241422850691528 v2 Revised
+Hey
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_end_everythingbuilt.loctext 346620878951622947 v2 Revised
+Well, seems you've crossed out everything on my checklist!
+I must say, I'm positively enthused!
+You have managed to set up quite the workshop on this boat, Skipper.
+An impressive feat, to be sure!
+{|Expression_Idle_Neutral}But!
+{|Expression_Idle_Neutral}Don't let your guard down!
+{|Expression_Idle_Neutral}You never know how Art could ambush you at the tepid corners of frivolous battlefields!
+{|Expression_Idle_Neutral}And we won't let ourselves sink in the slimy grave of ennui, or worse, poor taste!
+{|Expression_Idle_Neutral}At ease, skipper.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_end_noteverythingbuilt._independenttextbubbleloc 8975845472400194031 v1 Revised
+Hey!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_end_noteverythingbuilt.loctext 737057507947396650 v2 Revised
+{|Expression_Idle_Neutral}Well, it seems a couple of items are left unchecked.
+{|Expression_Idle_Neutral}I'll let you get to it.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_loom.loctext 7308749341776788107 v2 Revised
+{Expression_MakingAPoint|Expression_Pensive}A ((loom)) would also allow us to make clothing and canvas.
+{Expression_MakingAPoint|Expression_Pensive}Is there one aboard?
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_loomno.loctext 4930413579978197188 v2 Revised
+No? It is absolutely necessary, nonetheless.
+{|Expression_Headnod}Think seriously about equipping us with one.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_loomyes.loctext -8080237313633996986 v2 Revised
+{Expression_Positive|Expression_Happy}Fantastic!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_mailbox.loctext -869914872832032798 v4 Revised
+{Expression_MakingAPoint|Expression_Pensive}And finally, the cornerstone of any curator's work: a ((mailbox)).
+{Expression_MakingAPoint|Expression_Pensive}Correspondence with my fellow academics and collectors is essential to my work here!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_mailboxno.loctext -227383219351275774 v3 Revised
+No ((mailbox))? That's a shame.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_mailboxyes.loctext -3100073892295035649 v2 Revised
+{Expression_Positive|Expression_Headnod}You've built a ((mailbox)) already? Fantastic!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_sawmill.loctext 3176124176832633861 v6 Revised
+{Expression_MakingAPoint|Expression_Pensive}Some sort of woodworking facility, such as a ((sawmill))?
+{Expression_MakingAPoint|Expression_Pensive}It would have numerous structural applications.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_sawmillno.loctext 7306040498828381543 v2 Revised
+No? Well, we shall add it to the list.
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_sawmillyes.loctext -6136661417391587167 v2 Revised
+{Expression_Positive|Expression_Headnod} Yes? How convenient!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_smelter.loctext 4000540312915939454 v2 Revised
+{Expression_MakingAPoint|Expression_Pensive}A ((foundry)) with metalworking tools also has a number of applications.
+{Expression_MakingAPoint|Expression_Pensive}Is there anything that could fit the bill?
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_smelterno.loctext -7816288483820728784 v2 Revised
+{|Expression_Idle_Neutral}Nothing? Well, do hurry and get one.
+{|Expression_Idle_Neutral}You'll thank me for it!
+
+key: owl/conversations.owlconversation-equiptheboatintroduction_smelteryes.loctext 4932556374798301245 v3 Revised
+{Expression_Positive|Expression_Happy}There is? A fully-functioning ((foundry))?
+{Expression_Positive|Expression_Happy}You've got quite a well-furnished ship, Stella!
+
+key: owl/conversations.owlconversation-exhibitcompletedvalidation._independenttextbubbleloc 7623540603933098090 v3 Revised
+Quick, Stella!
+
+key: owl/conversations.owlconversation-exhibitcompletedvalidation.loctext -475656363573025432 v3 Revised
+There you are!
+*Ahem*
+{Expression_MakingAPoint}It is with great pride and unbridled joy that I present to you:
+{Expression_MakingAPoint|Expression_Happy}"Humanity's Legacy", my finest exhibition yet!
+{Expression_MakingAPoint|Expression_Happy}Not too bad, don't you think?
+{Expression_MakingAPoint|Expression_Happy}An official opening?
+Oh, no, no, no.
+You know how I am. The spotlight is not for me.
+And besides, vernissages are a waste of time.
+{|Expression_Pensive}Nothing but an opportunity for officials to run around,
+{|Expression_Pensive}Licking each other's...
+{|Expression_Pensive}Well, you know what I mean.
+...
+Well then, I entrust all of this to your good care.
+I know I can trust on you after I'm gone.
+Oh, don't act surprised.
+You very well know I'm not the one to hang around longer than necessary.
+And I'm pretty confident I've done all I could here!
+{|Expression_Headnod}Good old Gustav, always looking ahead!
+...
+But it was quite exhilarating, this whole endeavour, wasn't it?
+...
+Well, as soon as we pass by the ((Everdoor)), be a love, and drop me off.
+It will be appreciated!
+
+key: owl/conversations.owlconversation-fireplaceintroduction._independenttextbubbleloc 3720898094846208190 v2 Revised
+Work for you!
+
+key: owl/conversations.owlconversation-fireplaceintroduction.loctext -2593110516565382109 v3 Revised
+Great news, Stella!
+{|Expression_Pensive}I have just received a fantastic design for a fireplace!
+{Expression_MakingAPoint|Expression_Pensive}Cold? Oh, silly you, it's not for heating up the gallery!
+{Expression_MakingAPoint|Expression_Pensive}No, no, the hearth has been, since time immemorial, a central piece of any household.
+{Expression_MakingAPoint|Expression_Pensive}It assembles the tribe, represents unity, warmth, and light against the harsh nature.
+{Expression_MakingAPoint|Expression_Pensive}A symbol so fundamental that it is present in almost all cultures!
+This piece is a reinterpretation of the concept. A comment, if you wish, on the collective.
+I'm sure you will understand very clearly once it is built.
+
+key: owl/conversations.owlconversation-flagquestintroduction._independenttextbubbleloc 7743273547876286977 v2 Revised
+How drab!
+
+key: owl/conversations.owlconversation-flagquestintroduction.loctext 8913324208714881104 v6 Revised
+{Expression_Pensive|Expression_Pensive}Stella, the boat looks delightful but...
+{Expression_MakingAPoint}This prow, what a waste of space!
+Really, you should consider brightening it up a bit with a ((Figurehead))!
+{|Expression_Headnod}I'm sure any decent shipwright could help you with that...
+
+key: owl/conversations.owlconversationhungry01.loctext -8348357009420622237 v3 Revised
+{Expression_MakingAPoint|Expression_Unhappy}The lack of food on the vessel is quite depressing.
+
+key: owl/conversations.owlconversationhungry02.loctext 3174445467881578393 v3 Revised
+{Expression_MakingAPoint|Expression_Unhappy}I'm sure you could find something nutritious for me.
+
+key: owl/conversations.owlconversationhungrymaster._commenttext -582958268056673819 v2 Revised
+Oh!
+
+key: owl/conversations.owlconversation-inviteowlintroduction.loctext -4784485679085444192 v3 Revised
+{Expression_Pensive|Expression_Idle_Neutral}An experimental theater piece?
+{Expression_Pensive|Expression_Idle_Neutral}Tonight!
+{Expression_Pensive|Expression_Idle_Neutral}What a treat!
+
+key: owl/conversations.owlconversation-narrativebeat1validation._commenttext 7676995362319099367 v1 Revised
+Stella!
+
+key: owl/conversations.owlconversation-narrativebeat1validation.loctext 584780518460596758 v3 Revised
+It just occurred to me, Stella.
+This exhibition I've been feverishly toiling towards...
+I've never really delved into any detail concerning it, have I?
+Well, allow me to enlighten you.
+As my assistant, it's the least I can do!
+{Expression_MakingAPoint|Expression_Idle_Neutral}As you are well aware of,
+{|Expression_Idle_Neutral}I've organized my fair share of exhibitions throughout my life.
+{|Expression_Idle_Neutral}One might even say that it was my career,
+{|Expression_Idle_Neutral}Although I prefer to think of it as my vocation.
+{|Expression_Idle_Neutral}But every single one of them,
+{|Expression_Idle_Neutral}Museum, private or public galleries,
+{|Expression_Idle_Neutral}Festivals,
+{|Expression_Pensive}Anti-fascist rallies,
+{|Expression_Pensive}Corporate tax schemes,
+{|Expression_Pensive}Living performances.
+{|Expression_Pensive}Every single one of them has been corrupted by base,
+{|Expression_Pensive}Obtuse,
+{|Expression_Pensive}Cretinous politics.
+{|Expression_Idle_Neutral}"The public is not ready for this one, Gustav."
+{|Expression_Idle_Neutral}"This artist slept with this one, and there's some bad blood."
+{|Expression_Idle_Neutral}"The Queen has a preference for this tepid piece of art bourgeois."
+{|Expression_Idle_Neutral}I've never, not even once, been allowed free reign over an exhibition.
+{|Expression_Idle_Neutral}I often thought to myself:
+{Expression_Pensive|Expression_Idle_Neutral}"Gustav, you'll be respected when you get older.
+{|Expression_Idle_Neutral}No one would dare question your gusto!"
+{|Expression_Idle_Neutral}But then, well..
+{|Expression_Idle_Neutral}You know what happened.
+{|Expression_Idle_Neutral}When my body gave out, and my legs became obstinate as pieces of wood.
+{|Expression_Idle_Neutral}And the disease, slowly creeping up, until my features froze into a ridiculous grimace.
+{|Expression_Idle_Neutral}I didn't mind all that.
+{|Expression_Idle_Neutral}After all, the body is but a tool for the mind.
+{|Expression_Idle_Neutral}And my mind has always been as clear as fresh spring water.
+{|Expression_Idle_Neutral}No, what I loathed was this perception others had of me.
+{|Expression_Idle_Neutral}When you turn into a grotesque statue of yourself...
+{|Expression_Idle_Neutral}People start treating you as furniture.
+{|Expression_Idle_Neutral}All this work, all those years...
+{|Expression_Idle_Neutral}The sacrifices, the humiliations...
+{|Expression_Idle_Neutral}These, suddenly, lost all worth.
+{|Expression_Idle_Neutral}I tried to keep up with my work, as you remember.
+{|Expression_Idle_Neutral}And thanks to your help.
+{|Expression_Idle_Neutral}But things were never quite the same.
+{|Expression_Idle_Neutral}
+{|Expression_Idle_Neutral}...
+{|Expression_Headnod}Well, this time, it will be different.
+{Expression_MakingAPoint|Expression_Surprise}This exhibition will be pure chaos.
+{Expression_MakingAPoint|Expression_Surprise}A maelström of artistic sensitivities,
+{Expression_MakingAPoint|Expression_Surprise}Thrown together in defiance of all human laws.
+{Expression_MakingAPoint|Expression_Idle_Neutral}To enforce this greatest message of transcendence through beauty...
+{|Expression_Idle_Neutral}Yes, that is my goal, now.
+{|Expression_Idle_Neutral}And yours, too, should you choose to keep helping me!
+I'm sure you will.
+
+key: owl/conversations.owlconversation-narrativebeat2validation._independenttextbubbleloc -5354556811855389396 v1 Revised
+Outrageous!
+
+key: owl/conversations.owlconversation-narrativebeat2validation.loctext -5508193206796742868 v2 Revised
+{Expression_Negative|Expression_Idle_Neutral}Oh, the humiliation!
+{Expression_Negative|Expression_Idle_Neutral}Stella, I'm just absolutely livid!
+You wouldn't believe what just happened!
+Some no-good, foul-mouthed miscreant just had the audacity to call me...
+I can't even say it...
+{Expression_Negative|Expression_Idle_Neutral}+=An art collector!=+
+Completely, utterly unacceptable!
+Who? I won't tell you.
+I am a man of honor! Of principles! Certainly not a petty tittle-tattle!
+Art collector...
+As if I were one of these base mercantile creatures.
+What an insult!
+Narrow-minded fool. I am no art collector!
+{Expression_MakingAPoint|Expression_Idle_Neutral}I am a +=CURATOR=+!
+I do not amass, evaluate, weigh and risk!
+I do not trade!
+I protect! 
+I alone ensure the legacy of humanity's greatest achievements!
+What? Overreacting? Have you gone mad?
+{Expression_MakingAPoint|Expression_Unhappy}I thought better of you, Stella!
+{|Expression_Unhappy}...
+{|Expression_Unhappy}Then again...
+Perhaps crude sensitivities need to be cultivated.
+And perhaps that is also the essential role of the curator.
+...
+As usual, you get me thinking, skipper.
+Maybe I'll cool down, just a bit. Some good may yet come out of this.
+
+key: owl/conversations.owlconversation-owlbigmealfoodintroduction.loctext -3520053969066849798 v4 Revised
+{Expression_Pensive|Expression_Idle_Neutral}Hmmm...
+{Expression_Pensive|Expression_Idle_Neutral}That over-energized friend of yours is organizing a dinner.
+{Expression_Pensive|Expression_Idle_Neutral}Good thing you are taking care of the food, my dear.
+{Expression_Pensive|Expression_Idle_Neutral}Let's see.
+{Expression_Pensive|Expression_Idle_Neutral}Something that takes skill.
+{|Expression_Idle_Neutral}Some ((tuna tataki)), perhaps.
+{|Expression_Idle_Neutral}That sounds decent.
+
+key: owl/conversations.owlconversation-recruitowlreminder.loctext -3535884674669841151 v2 Revised
+Well, what are you waiting for?
+Get that raccoon talking!
+
+key: owl/conversations.owlconversation-releaseowlreminder._independenttextbubbleloc 875356966493042230 v1 Revised
+Let's go.
+
+key: owl/conversations.owlconversation-releaseowlreminder.loctext 3274721227833559362 v2 Revised
+I gather you're ready to take me away?
+
+key: owl/conversations.owlconversation-releaseowlreminder-noanswer_conversation.loctext -573191898832185632 v2 Revised
+Well, better hurry up!
+I have places to be!
+
+key: owl/conversations.owlconversation-releaseowlreminder-yesanswer_conversation.loctext -899597300359304746 v2 Revised
+Very well! Onwards!
+
+key: owl/conversations.owlconversationstarving01.loctext -5454846253108724355 v2 Revised
+I'm starving here.
+I'm not being dramatic.
+You're being dramatic.
+
+key: owl/conversations.owlconversationstarving02.loctext -4854031454986369958 v2 Revised
+I'm seeing visions of past meals I've had.
+That can't be a good sign.
+
+key: owl/conversations.owlconversationstarvingmaster._commenttext -5439632956015181996 v1 Revised
+Oh!
+
+key: owl/conversations.owlconversation-talktoowlabouttinyowlintroduction.loctext 3874823910952963891 v2 ReadyForRevision
+I don't recall such an exchange with my peers.
+I'm perplexed!
+
+key: owl/conversations.owlconversation-talktoowldenizen2reminder.loctext 1090109154657560326 v6 Revised
+You know what to do, Stella!
+Go ahead, and confront that horrid woman!
+
+key: owl/conversations.owlconversation-toastreminder.loctext 2443157642753344797 v1 Revised
+At least, you got my order right.
+
+key: owl/conversations.owlconversation-useforgevalidation._independenttextbubbleloc -6872196850785463962 v2 Revised
+Wonderful!
+
+key: owl/conversations.owlconversation-useforgevalidation.loctext 5045555148942863040 v3 Revised
+That was impressive skipper!
+{Expression_Positive}You did really good for a neophyte!
+{Expression_Pensive}You must have noticed that if you're hammer runs to hot, letting it cooling down and stop hitting the material is of the essence!
+{Expression_MakingAPoint}It is a game of patience, precision and vigor!
+Different materials will behave differently, of this you can be certain.
+{|Expression_Unhappy}Oh but I'm sure you must already be giddy with anticipation at the idea of forging new materials!
+{|Expression_Unhappy}Well, despair not my little grasshopper!
+{Expression_Positive|Expression_Idle_Neutral}A vast array of fine elements will be needed to build all I have in mind!
+
+key: owl/conversations.owlconversation-welcomenewspirit01.loctext 1420456446844532060 v7 Revised
+A new attendee!
+
+key: owl/conversations.owlfoodsame.loctext -5003346402781461529 v2 Revised
+I don't want to eat the same thing twice.
+
+key: owl/conversations.owl-givesushi._commenttext 4980025029904601354 v1 Revised
+I've made sushi!
+
+key: owl/conversations.owl-givesushi.loctext 7126966793799631944 v2 Revised
+I've made a delicacy.
+Have some ((sushi))!
+Feed it to the others, they'll love it.
+
+key: owl/conversations.owl-givetchotcke._commenttext -4717865174896158668 v1 Revised
+Look!
+
+key: owl/conversations.owl-givetchotcke.loctext -3568279112527761862 v3 Revised
+I found something you might like, perhaps.
+Here's a gift from my collection.
+I hope you appreciate the value of such oddities.
+
+key: owl/conversations.owlhugaccept.loctext 2681922584978773508 v2 Revised
+I do not mind a caring moment now and then.
+
+key: owl/conversations.owlhughappy01.loctext -232284916805312543 v2 Revised
+Well, good.
+Let's not make this a habit!
+
+key: owl/conversations.owlhughappy02.loctext 9013889711632979992 v2 Revised
+Good.
+Good.
+
+key: owl/conversations.owlhugrefuse.loctext -8408736175185388885 v3 Revised
+{|Expression_Idle_Neutral}That is close enough!
+
+key: owl/conversations.owlhugrefuse01.loctext 1349972961169096662 v3 Revised
+{|Expression_Idle_Neutral}I'm afraid that will do.
+
+key: owl/conversations.owlhugrefuse02.loctext -874974287585147125 v3 Revised
+{|Expression_Idle_Neutral}I'm not in the mood.
+
+key: owl/conversations.owl-verysadconversation.loctext 7927598823696179071 v1 Revised
+{Expression_Sad}I'm too sad to do anything.
+
+key: owl/conversations.owlwelcome.loctext 1378230766210309381 v4 Revised
+{|Expression_Idle_Neutral}Alright alright, I know I can do it...
+{|Expression_Idle_Neutral}Sure it might tingle a bit but...
+{|Expression_Idle_Neutral}Well, what if it hurts?
+{|Expression_Idle_Neutral}Ah, you're here, good.
+{|Expression_Idle_Neutral}You won't let it be painful, will you?
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Ok, I don't really trust you, but what choice do I have anyways.
+
+key: owl/conversations.owlwelcomeend.loctext 3217721044606462800 v17 Revised
+Ha!
+I did it! And I didn't even faint!
+It actually feels alright!
+Who knew?
+{Expression_Positive|Expression_Surprise}Well then, let's get started!
+{Expression_MakingAPoint|Expression_Pensive}What? Oh, but, of course, pardon my enthusiasm!
+{Expression_Negative|Expression_Pensive}I forgot to introduce myself!
+{Expression_Negative|Expression_Pensive}How forgetful and impolite!
+{Expression_Positive|Expression_Happy}I'm Gustav!
+{Expression_MakingAPoint|Expression_Pensive}And I don't know why, but I can't exactly shake the feeling that we've met each other already...
+{Expression_Positive|Expression_Headnod}Anyhow, I'm glad that our paths have crossed on this island!
+And I know that together, we will accomplish great things!
+This world is part wonderful and disgusting, and so is Art!
+Truly, Stella, the gods have struck us with a grand inspiration.
+It is our solemn duty to elevate souls with beauty and awe.
+My resolve is strong, Stella: I will put together the greatest exhibit of my life!
+{Expression_Positive|Expression_Happy}And you will help me! Oh, how grandiose it will be...
+{Expression_MakingAPoint}Ah, but first: payment!
+{Expression_MakingAPoint}I've been called a lot of things, but never a cheapskate.
+

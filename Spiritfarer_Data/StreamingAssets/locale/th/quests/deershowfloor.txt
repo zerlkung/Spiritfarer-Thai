@@ -1,0 +1,9 @@
+key: quests/deershowfloor.cerealfield.description -3374354409184923101 v3 Placeholder
+Go plant a seed in the ((Field))
+
+key: quests/deershowfloor.cerealfield.flavortext 1825266730195681776 v1 Placeholder
+Gwen believes in a bountiful garden. Stella, this is your time to shine!
+
+key: quests/deershowfloor.cerealfield.name 2296434912908188939 v2 Placeholder
+Field of Dreams
+

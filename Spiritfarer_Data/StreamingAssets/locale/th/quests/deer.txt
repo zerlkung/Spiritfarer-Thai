@@ -1,0 +1,261 @@
+key: quests/deer.3spiritswelcomed._descriptionloc -2582917660552668934 v5 Revised
+Find a passenger on ((Barkensheim Creek)).
+
+key: quests/deer.addloomupgrade._descriptionloc 224225114665208200 v3 Revised
+((Improve)) the ((loom)).
+
+key: quests/deer.anotherspirit._descriptionloc -378935993487568743 v4 Revised
+Find a passenger in ((Hummingberg)) .
+
+key: quests/deer.attheterrace.description -2449016347232686688 v4 Revised
+Talk to Gwen at ((Villa Maggiore)).
+
+key: quests/deer.basequest._descriptionloc -6967171146084764508 v1 Revised
+Talk to Gwen on your boat.
+
+key: quests/deer.boughtblueprints.description -7795287219548404720 v2 Revised
+Talk to Gwen.
+
+key: quests/deer.buildfield._descriptionloc 8462181991282204395 v1 Revised
+((Build)) a ((field)).
+
+key: quests/deer.buildguesthouse._descriptionloc -8901495728084428152 v3 Revised
+((Build)) the ((Guest House)) with the blueprint table.
+
+key: quests/deer.buildkitchen._descriptionloc -4402850786095191705 v2 Revised
+((Build)) the ((kitchen)).
+
+key: quests/deer.buyadecoration.description -8967012251415703037 v5 Revised
+((Improve)) ((Gwen's Lodge)) by fully decorating it.
+
+key: quests/deer.buyadecoration.flavortext -1521911661671597305 v1 Revised
+((Gwen's Lodge)) looks bare-bones. Maybe we could spice things up.
+
+key: quests/deer.buyadecoration.name 8793068963879282830 v1 Revised
+Pretty on the Inside
+
+key: quests/deer.buydeerblueprint.description -8863857024238504024 v5 Revised
+Buy some seeds for your ((field)) from the merchant.
+
+key: quests/deer.buyloom.description 1224778956608706065 v4 Revised
+Add the ((Gwen's Lodge)) to your boat.
+
+key: quests/deer.buyloom.flavortext -2070053947187092246 v2 Revised
+I remember Gwen's old condo. Everything looked so nordic. It will be a blast from the past to see it on the boat.
+
+key: quests/deer.buyloom.name 5281512076156537379 v3 Revised
+Usonia 1
+
+key: quests/deer.checkifloomisbuilt._descriptionloc 9101893911418606869 v1 Revised
+((Build)) the ((loom)).
+
+key: quests/deer.checkifloomisbuilt._flavortextloc 562394079091053719 v1 Revised
+Gwen has always loved knitting and weaving. Let's make sure she can have fun with this one.
+
+key: quests/deer.checkifloomisbuilt._namekeyloc 1033406690688671257 v1 Revised
+Cut From The Same Cloth
+
+key: quests/deer.cleartrash._descriptionloc 8122781346532846912 v2 Revised
+Clear the trash off your boat through the ((Edit)) mode.
+
+key: quests/deer.collectmaterials.description 6017524151876564550 v2 Revised
+Gwen needs materials to have her house built aboard.
+
+key: quests/deer.collectmaterials.name -2545416299046483681 v2 Revised
+Sturdy Materials
+
+key: quests/deer.compositequest._flavortextloc 8803606100611853965 v2 Revised
+I have the ability to travel the world now. How nice!
+
+key: quests/deer.compositequest._namekeyloc -8679321402312163625 v3 Revised
+Set Sail, Captain!
+
+key: quests/deer.cooksomething.description 64543114884428851 v3 Revised
+((Cook)) something in the ((kitchen)).
+
+key: quests/deer.craftthread._descriptionloc 2297129631820160922 v3 Revised
+Try the ((loom)).
+
+key: quests/deer.craftthread._flavortextloc 6217434772314153580 v1 Revised
+Apparently, there is a method to this weaving madness. Gwen will surely teach me.
+
+key: quests/deer.craftthread._namekeyloc 3868918594423297363 v1 Revised
+Basic Moves
+
+key: quests/deer.decorations.flavortext -827746193720475288 v2 Revised
+The ((loom)) needs a bit of a makeover. Let's see what we can do!
+
+key: quests/deer.decorations.name -7083413575709943188 v3 Revised
+More Than Meets the Eye
+
+key: quests/deer.deer._talktodescription 8221461176875549165 v1 Revised
+Talk to Gwen.
+
+key: quests/deer.deerhug._descriptionloc 2457159337550443817 v2 Revised
+((Hug)) Gwen.
+
+key: quests/deer.deerhug._flavortextloc 4357943236497480988 v3 Revised
+Gwen is in need some physical contact.
+
+key: quests/deer.deerhug._namekeyloc 7699692565814694187 v5 Revised
+Personal Connection
+
+key: quests/deer.deerlocked._descriptionloc 165246333000709792 v1 Revised
+Wait for Gwen to feel better.
+
+key: quests/deer.exploreblingmansion.description -3286471686775952969 v5 Revised
+Head over to the ((Villa Maggiore)).
+
+key: quests/deer.exploreblingmansionagain.description -795807237117703950 v2 Revised
+Find Gwen's whereabouts.
+
+key: quests/deer.explorecanalisland.description 1513861439625906452 v4 Revised
+Head over to ((Hummingberg)).
+
+key: quests/deer.exploreshipyard._descriptionloc 4010830692891845426 v1 Revised
+Head over to ((Albert's Shipyard)).
+
+key: quests/deer.fedgwen.description 1425620082429609699 v3 Revised
+((Feed)) Gwen anything.
+
+key: quests/deer.findbr3._descriptionloc 7547624270545134162 v2 Revised
+Head to ((Mosstein Cove)).
+
+key: quests/deer.findhouseblueprint._descriptionloc 7379494962265761044 v6 Revised
+Find the ((loom)) upgrade in ((Villa Maggiore)).
+
+key: quests/deer.getblueprintstation._descriptionloc -190272945134234155 v1 Revised
+Upgrade your ((blueprint station)).
+
+key: quests/deer.getsomewoodbr3._descriptionloc -9031403401750365448 v3 Revised
+Cut down a ((maple tree)) in ((Mosstein Cove)).
+
+key: quests/deer.givemusicbox._descriptionloc -2377215687686464173 v1 Revised
+((Give)) the ((music box)).
+
+key: quests/deer.gobacktoboat._descriptionloc -7952090127961808589 v1 Revised
+Head back to the boat.
+
+key: quests/deer.gotoportal._descriptionloc 3241535015039923098 v2 Revised
+Bring Gwen to the ((Everdoor)).
+
+key: quests/deer.gotoportal._flavortextloc -329108482711054859 v1 Revised
+Gwen wants us to go to the ((Everdoor)). This might be our last moments together.
+
+key: quests/deer.gotoportal._namekeyloc -6423602126725149839 v1 Revised
+One Last Time
+
+key: quests/deer.gotoshipyard.description -6315739498466595947 v2 Revised
+Head over to ((Albert's Shipyard)).
+
+key: quests/deer.gwenishungry.description -7555105391607714412 v2 Revised
+Gwen is hungry.
+
+key: quests/deer.gwenishungry.flavortext -4734262141404689540 v6 Revised
+Gwen is famished. I better make her something and feed it to her.
+
+key: quests/deer.gwenishungry.name -5138975935335049604 v2 Revised
+I Get Cranky When I'm Hungry
+
+key: quests/deer.gwenismissing.description 1111799520330890695 v3 Revised
+Gwen is missing!
+
+key: quests/deer.gwenismissing.flavortext 619270202599695453 v2 Revised
+Where is Gwen? I can't find her on the boat.
+
+key: quests/deer.gwenismissing.name -7550948229486616819 v3 Revised
+I Must Be Off
+
+key: quests/deer.housematerials._descriptionloc -6817083110562510491 v1 Revised
+Find the proper materials to ((build)) ((Gwen's Lodge)).
+
+key: quests/deer.hugatmansion._descriptionloc 1576284056937445124 v1 Revised
+((Hug)) Gwen.
+
+key: quests/deer.jellyfishevent._descriptionloc 3281693772097434294 v2 Revised
+Go hunt down some jellyfish.
+
+key: quests/deer.morespirits._descriptionloc -7803242395709392340 v1 Revised
+Add new passengers to your ship.
+
+key: quests/deer.morespirits._flavortextloc 5376982960058249656 v1 Revised
+Gwen is convinced that other lost souls are out there. Let's go see.
+
+key: quests/deer.morespirits._namekeyloc 167616796471763018 v2 Revised
+The More, the Merrier
+
+key: quests/deer.plantinfield._descriptionloc 888342990317219739 v2 Revised
+Plant any seed in the ((field)).
+
+key: quests/deer.purchaseloom.description 741579431165509043 v6 Revised
+((Build)) ((Gwen's Lodge)).
+
+key: quests/deer.raccoonlook.description 23635699261460258 v3 Revised
+Browse the shop's inventory.
+
+key: quests/deer.raccoonshop.description 7438744135785465787 v2 Revised
+Talk to Gwen.
+
+key: quests/deer.saddeer._flavortextloc -4167073217971509530 v1 Revised
+Gwen doesn't feel so good right now. I should let her breathe a little.
+
+key: quests/deer.saddeer._namekeyloc -7846117956305360013 v1 Revised
+Taking Time Off
+
+key: quests/deer.shrine.description -8636584074411518468 v6 Revised
+Look at the shrine in the town square.
+
+key: quests/deer.startboat._descriptionloc 2931008188035794483 v1 Revised
+Start your boat in Stella's cabin.
+
+key: quests/deer.terraceconfession.description -3747688383702030092 v5 Revised
+Talk to Gwen at ((Villa Maggiore)).
+
+key: quests/deer.transitionbetweenscene.description -5249837849290750872 v1 Revised
+Wait for Gwen to feel better.
+
+key: quests/deer.tryupgradedloom.description -1100919615979778692 v2 Revised
+Try the upgraded ((loom)).
+
+key: quests/deer.upgradetheboat._descriptionloc -7655906133460002112 v3 Revised
+Gwen wants you to upgrade your ship size.
+
+key: quests/deer.upgradetheboat._flavortextloc -7314564851686249917 v3 Revised
+Gwen would like you to create space on your boat. Apparently, Albert the Shipwright can help with that.
+
+key: quests/deer.upgradetheboat._namekeyloc 1870918235354335623 v1 Revised
+Personal Space
+
+key: quests/deer.upgradeyoureverlight._descriptionloc 3884823449137018548 v1 Revised
+Go activate the shrine in ((Hummingberg)).
+
+key: quests/deer.upgradeyoureverlight._flavortextloc 3298979474714219086 v1 Revised
+I've got two ((obols)). Let's see what happens when I activate that shrine in ((Hummingberg)).
+
+key: quests/deer.upgradeyoureverlight._namekeyloc 3136825693206266071 v1 Revised
+Spring Feet
+
+key: quests/deer.usingblueprintstation.description -6917362860483476756 v2 Revised
+Look at your ((blueprint station)) above your cabin.
+
+key: quests/deer.visitparentshouse.description -4953250244423196836 v4 Revised
+Gwen wants to visit her parent's manor.
+
+key: quests/deer.visitparentshouse.flavortext 6135861181063806063 v1 Revised
+Gwen wants to take a trip down memory lane, visiting her parent's house.
+
+key: quests/deer.visitparentshouse.name -7651400956636628269 v4 Revised
+Back to the Past
+
+key: quests/deer.visitraccoonshop.description 5701879925618078904 v8 Revised
+Follow Gwen.
+
+key: quests/deer.visitraccoonshop.flavortext -3029914466483560723 v5 Revised
+Gwen would like me to buy some seeds at a shop in ((Hummingberg)).
+
+key: quests/deer.visitraccoonshop.name 7055824005574014149 v3 Revised
+Seeds for the Future
+
+key: quests/deer.visitshipyard._descriptionloc 1419575831941743190 v1 Revised
+Go to ((Albert's Shipyard)).
+

@@ -1,0 +1,110 @@
+key: mistguardian/conversations.mistguardian01-manualconversation.loctext -6381724827308757383 v7 Revised
+{|Expression_Surprise}We finally meet,
+{|Expression_Surprise}Face to face.
+{|Expression_Surprise}For such a long time I have been watching you, Stella.
+{|Expression_Surprise}Close, yet far.
+{|Expression_Surprise}You've kept your distance,
+{|Expression_Surprise}But you knew I was there,
+{|Expression_Surprise}Hidden in every shadow,
+{|Expression_Surprise}Skulking in every silence.
+{|Expression_Surprise}Since the very beginning, I have been a part of you.
+{|Expression_Surprise}Even as my existence was but a foreign thought.
+{|Expression_Surprise}And as your loved ones surrounded you with care and affection,
+{|Expression_Surprise}I waited, silently.
+{|Expression_Surprise}Your joy, your pride, your happiness.
+{|Expression_Surprise}Moments of laughter, of bliss, of friendship.
+{|Expression_Surprise}Gone.
+{|Expression_Surprise}I know it feels just like yesterday,
+{|Expression_Surprise}But the hourglass has turned,
+{|Expression_Surprise}And, at last,
+{|Expression_Surprise}You have found me.
+{|Expression_Surprise}Go now, for I have not yet fully awoken.
+{|Expression_Surprise}Resume your duties.
+{|Expression_Surprise}Carry on your graceful dance.
+{|Expression_Surprise}We'll meet again.
+{|Expression_Surprise}Soon,
+{|Expression_Surprise}Spiritfarer.
+
+
+key: mistguardian/conversations.mistguardian02-manualconversation.loctext 5820210766828646063 v1 Revised
+{|Expression_Surprise}And so you return, Spiritfarer.
+{|Expression_Surprise}Humbled by your confusion,
+{|Expression_Surprise}Your disarray,
+{|Expression_Surprise}Your fear.
+{|Expression_Surprise}Time and again, you call me by my name.
+{|Expression_Surprise}Whisper echoes of my essence, to those too afraid to hear it.
+{|Expression_Surprise}As you stand before me,
+{|Expression_Surprise}Hesitation floods your heart.
+{|Expression_Surprise}You seek to tame, but you only serve.
+{|Expression_Surprise}And now you truly see me.
+{|Expression_Surprise}See what I inflict upon those you love.
+{|Expression_Surprise}All these paths you’ve crossed, these souls you’ve embraced.
+{|Expression_Surprise}Their lives, intertwined with yours.
+{|Expression_Surprise}Their faces etched upon your memory.
+{|Expression_Surprise}You’ve opened your heart to the suffering of others,
+{|Expression_Surprise}And, in return, their spark warms your heart and shapes your fate.
+{|Expression_Surprise}Every spirit a reminder.
+{|Expression_Surprise}Every spirit a goodbye.
+{|Expression_Surprise}What do they teach you?
+{|Expression_Surprise}Their struggles, their drama?
+{|Expression_Surprise}Their memories, your memories?
+{|Expression_Surprise}Are they saying their farewells, or are you saying yours?
+{|Expression_Surprise}But you are not yet ready, Stella,
+{|Expression_Surprise}And these souls still need you.
+{|Expression_Surprise}Carry on your task, Spiritfarer.
+{|Expression_Surprise}Soon your time will come,
+{|Expression_Surprise}And we will meet again.
+{|Expression_Surprise}For the last time.
+
+key: mistguardian/conversations.mistguardian02-manualconversation1.loctext -2767182300168376268 v1 Placeholder
+IF THIS IS DISPLAYED, THIS IS A WARNING
+
+key: mistguardian/conversations.mistguardian03-manualconversation.loctext -8230950281862793004 v1 Revised
+{|Expression_Surprise}As foretold, here we are again, Spiritfarer.
+{|Expression_Surprise}For the last time.
+{|Expression_Surprise}Feeble and helpless, a faint murmur drifting in silence.
+{|Expression_Surprise}Whispered words, a simple question:
+{|Expression_Surprise}Why did you choose this life, Stella?
+{|Expression_Surprise}Why did you spend it ushering others through their final moments?
+{|Expression_Surprise}Was your vocation an affectionate duty born of compassion?
+{|Expression_Surprise}Or a display of selfishness, of everlasting uncertainty?
+{|Expression_Surprise}Did you do it for them?
+{|Expression_Surprise}Or for yourself?
+{|Expression_Surprise}To know me, and grow accustomed to my presence?
+{|Expression_Surprise}To conquer me?
+{|Expression_Surprise}Am I less daunting to you now?
+{|Expression_Surprise}Or am I still a ghastly shadow, a deafening absence?
+{|Expression_Surprise}Remember:
+{|Expression_Surprise}When your body failed, you knew.
+{|Expression_Surprise}You’d seen it a thousand times.
+{|Expression_Surprise}You knew I would come.
+{|Expression_Surprise}You fought valiantly, yet suffered all the same.
+{|Expression_Surprise}I was deep within your heart,
+{|Expression_Surprise}As I had always been.
+{|Expression_Surprise}In your final moments,
+{|Expression_Surprise}You accept my call.
+{|Expression_Surprise}You slowly draw your last breath.
+{|Expression_Surprise}And here we are.
+{|Expression_Surprise}You know this is the end.
+{|Expression_Surprise}But you’re not alone.
+{|Expression_Surprise}Embraced by the love of your mother.
+{|Expression_Surprise}And now, your sister.
+{|Expression_Surprise}She is here, holding your hand.
+{|Expression_Surprise}Go now.
+{|Expression_Surprise}You are not alone.
+
+key: mistguardian/conversations.mistowl-demo.loctext -5220371537448993061 v4 Placeholder
+Beyond the mist you cannot venture.
+
+key: mistguardian/conversations.mistowl-requirementsmet.loctext -1590502686379309052 v2 Placeholder
+Thine task fulfilled, destiny beckons.
+Rise, Oh Luminous One!
+Rise and claim thine just reward!
+Jolly girl!
+
+key: mistguardian/conversations.mistowl-requirementsnotmet.loctext 8615803575629459214 v4 Placeholder
+Farer.
+Beyond the mist you cannot venture.
+Losts souls require the solace of your guiding light.
+Begone.
+

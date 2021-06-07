@@ -1,0 +1,12 @@
+key: quests/denizenadrift.adrift.flavortext -4335109092276034197 v1 Revised
+This lost friend at sea needs a little bit of help. We should look around in ((Furogawa)) for help.
+
+key: quests/denizenadrift.adrift.name 8414357203135598721 v2 Revised
+Driftwood
+
+key: quests/denizenadrift.sister.description -7865011763619402950 v4 Revised
+Find his sister in ((Furogawa)).
+
+key: quests/denizenadrift.talktodenizen._descriptionloc 7056895940335726626 v2 Revised
+Talk to Simon at ((58, -11)).
+

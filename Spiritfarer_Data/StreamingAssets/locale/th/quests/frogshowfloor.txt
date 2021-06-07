@@ -1,0 +1,24 @@
+key: quests/frogshowfloor.cooking.description 6816873654721004020 v2 Placeholder
+Try your hand at cooking in the kitchen
+
+key: quests/frogshowfloor.cooking.flavortext 5585049129905445587 v1 Placeholder
+Atul believes in my culinary chops. The kitchen awaits.
+
+key: quests/frogshowfloor.cooking.name 8290303100529763411 v6 Placeholder
+Master Chef
+
+key: quests/frogshowfloor.fishing.description -5548022724153989763 v2 Placeholder
+Go fish!
+
+key: quests/frogshowfloor.fishing.flavortext 6455852851448648673 v1 Placeholder
+Atul wants me to try my hand at fishing. What could go wrong?
+
+key: quests/frogshowfloor.fishing.name 5526394572278717414 v2 Placeholder
+Nice Catch!
+
+key: quests/frogshowfloor.specialfood.description -8137357209426247477 v2 Placeholder
+Have you tried giving me food?
+
+key: quests/frogshowfloor.thunderstorm.name 6853515065661100262 v2 Placeholder
+Flag Quest
+

@@ -1,0 +1,30 @@
+key: outfits/hat.dark._name -6044891019996151990 v2 Revised
+หมวกสีเข้ม
+
+key: outfits/hat.default._name -3816694438542443520 v2 Revised
+หมวกทองคำ
+
+key: outfits/hat.eshe._name 6034784492653965679 v2 Revised
+Ht'aetag'
+
+key: outfits/hat.pastel._name 7523344005447713352 v2 Revised
+หมวกวันอาทิตย์
+
+key: outfits/hat.periwinkle._name -2629855139762042985 v3 Revised
+หมวกไลแลค
+
+key: outfits/hat.purple._name 6195342989372963058 v2 Revised
+หมวกเบอร์รี่
+
+key: outfits/hat.red._name -6669136093347592794 v2 Revised
+หมวกสีแดง
+
+key: outfits/hat.specialalicehat._name 3005613033697321234 v2 Revised
+หมวกชายหาด
+
+key: outfits/hat.thora._name -2881313147872587988 v2 Revised
+หมวกของโอดิน
+
+key: outfits/hat.yellow._name 6897830496598514162 v2 Revised
+หมวกเทอร์ควอยซ์
+

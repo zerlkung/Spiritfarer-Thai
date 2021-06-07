@@ -1,0 +1,30 @@
+key: outfits/shirt.dark._name -4657966293712726350 v2 Revised
+Arctic Blouse
+
+key: outfits/shirt.default._name 9132950578150467153 v2 Revised
+Yellow Blouse
+
+key: outfits/shirt.eshe._name 6534806336066647723 v2 Revised
+Vlw'liuisheh
+
+key: outfits/shirt.pastel._name 570397564487077029 v2 Revised
+Pink Blouse
+
+key: outfits/shirt.periwinkle._name 7754551252436906347 v2 Revised
+Lavender Blouse
+
+key: outfits/shirt.purple._name 3209135047035293453 v2 Revised
+Ivory Blouse
+
+key: outfits/shirt.red._name -7521218829761340726 v2 Revised
+Sapphire Shirt
+
+key: outfits/shirt.specialalicetop._name -1988079435681005919 v2 Revised
+Cream Blouse
+
+key: outfits/shirt.thora._name 7647781325066806011 v2 Revised
+Isa's Blouse
+
+key: outfits/shirt.yellow._name 1640400258595454154 v2 Revised
+Linen Blouse
+

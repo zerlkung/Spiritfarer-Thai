@@ -1,0 +1,966 @@
+key: lion/conversations.butterfliesfoodsame.loctext 7764282675721395926 v1 Placeholder
+I'm working my way towards a snack.
+
+key: lion/conversations.foodaccept.loctext 6298341564410306083 v2 Revised
+Ha!
+{Call}Thank you bambina!
+I was hungry like a lion!
+{Eat}Thank you for this food!
+{Eat|Expression_Unhappy}-=Haha, hungry like a lion.=-
+{Eat|Expression_Unhappy}-=That was a good one.=-
+{Eat|Expression_Unhappy}-=I'm hilarious!=-
+
+key: lion/conversations.foodaccept_dislike.loctext 909505225154994781 v2 Placeholder
+{Eat}Yeah, no, This food is bad.
+
+key: lion/conversations.foodaccept_like.loctext -1213129437626256150 v2 Placeholder
+{Eat}That is some tasty food!
+
+key: lion/conversations.foodaccept_love.loctext -3512123884196145847 v2 Placeholder
+{Eat}This is my ((favourite)) food! Thank you!
+
+key: lion/conversations.foodrefuse.loctext -9175189386883723466 v1 Revised
+{|Expression_Idle_Neutral}Nah, thank you, I'm okay.
+{|Expression_Idle_Neutral}Not hungry, not thirsty, not even bored.
+{|Expression_Idle_Neutral}I'm alright.
+
+key: lion/conversations.foodrefuse_inedible.loctext 544323532684329822 v1 Revised
+Oh bambina, I can't eat this.
+
+key: lion/conversations.foodrefuse_same.loctext 8648820958451731632 v1 Revised
+{|Expression_Idle_Neutral}Look, bambina...
+{|Expression_Idle_Neutral}I'm not picky.
+{|Expression_Idle_Neutral}You know me eh!
+{|Expression_Idle_Neutral}But I've had +=EXACTLY=+ that like what... a minute ago?
+{|Expression_Idle_Neutral}Don't you have something a little different for good'ol Giovanni?
+{|Expression_Idle_Neutral}Many thanks!
+
+key: lion/conversations.foodrefuse_same_fallback01.loctext 1388915569314702118 v1 Revised
+{|Expression_Idle_Neutral}I can't imagine eating the same food twice in a row.
+{|Expression_Idle_Neutral}I can't stifle my taste buds!
+{|Expression_Idle_Neutral}They need to be free!
+
+key: lion/conversations.foodrefuse_same_fallback02.loctext 1971821397161068056 v1 Revised
+{|Expression_Idle_Neutral}You need an eclectic range of food.
+{|Expression_Idle_Neutral}You need variety.
+{|Expression_Idle_Neutral}-=I just don't want to eat that again, bambina=-
+
+key: lion/conversations.lion_favorite_beeffondue.loctext -388649534148808266 v2 Revised
+Bambina!
+{Expression_Happy}You HAVE GOT to be kidding me!
+{Expression_Happy}My ((favourite)) dish!
+{Expression_Happy}Ever!
+{Call}Tangy, sweet, salty...
+{Eat}You can't beat ((Beef fondue)).
+{Eat}My mamma used to make this to me after a night out!
+{Eat}Still tastes like home...
+{Eat}Mmmm...
+
+key: lion/conversations.lion_favorite_beeffondue_fallback01.loctext -3925875288471117129 v1 Revised
+{Expression_Happy}You know bambina, ((beef fondue)) will always taste like home.
+{Expression_Happy}It's simply my ((favourite)) meal.
+{Eat}Thank you, really.
+
+key: lion/conversations.lion_favorite_beeffondue_fallback02.loctext -5476496459976065785 v1 Revised
+{Expression_Happy}((Beef fondue))!!
+{Expression_Happy}Bambina!!
+{Eat}You know me so well!
+{Eat}You know me so well...
+
+key: lion/conversations.lion_lastvoyage_fallback1.loctext -8599096763417273639 v1 Revised
+We should go.
+
+key: lion/conversations.lion_lastvoyage_fallback2.loctext 9016890483252516795 v1 Revised
+Let's not wait around any longer.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_a.loctext 1442940213887644808 v4 Revised
+You know what, Peanut?
+The second I saw you I knew you were someone special!
+Someone who, no matter what happened, would always be there and do the right thing.
+I could see that in people.
+See the cracks in them.
+It’s easy, light shines through.
+I guess that’s why I fell in love with Astrid.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_b.loctext 7586893226449315757 v4 Revised
+Ha, Astrid.
+She was the toughest nut you could imagine.
+But she had such an intense light inside shining through, warmth and fire too...
+Her laugh made mountains tremble.
+And everyone was happy when she was around.
+I was happy.
+I've always spent so much time making sure others were having fun.
+Making jokes and being the funny guy.
+But they only came for her, really.
+Her majestic, raw, radiant soul.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_c.loctext -5666124167369626907 v3 Revised
+But YOU Bambina, YOU’ve got that look in your eyes...
+That soft, killer vibe...
+I saw so much of me in you!
+Your bravery, your sense of humor, your gusto!
+I know it’s hard doing what you do...
+Accompanying people towards their ends.
+Takes more than guts to do something like that.
+It takes a soul of steel!
+But, hey, good news! 
+You got it.
+You got it bambina.
+Even if you doubt, even if you don’t have faith in yourself.
+I have so much faith in you.
+So much faith your strength.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_d.loctext 6282560360420287585 v3 Revised
+I believe in you peanut.
+Now and forever.
+And hey, if you need anything, I won’t be far!
+I’ll be right there, standing right beside you.
+I’ll always be there.
+Always.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_e.loctext 8433279569994635720 v2 Revised
+I know I shouldn’t leave so soon.
+Believe me, I wish I could’ve stayed longer.
+Right here with you peanut.
+Promise me to take care of Astrid when I’m gone ok?
+And don’t miss me too much, will you?
+I’ve never deserved you anyway...
+But I’ve loved you, and that won’t stop even if I’m not around anymore.
+The ones who really love you never really leave you you know.
+
+key: lion/conversations.lion_lastvoyage_tendersequence_f.loctext 5090311071040273518 v2 Revised
+Life is amazing, isn’t it?
+A whirlwind, a tremor, a flickering flame!
+I’ve tried so much to live to the fullest.
+I regret nothing.
+Nothing but leaving Astrid.
+Nothing but leaving you, Stella.
+I wish I could’ve seen you grow up even more, but here we are.
+Alright, pour yourself one for me, will you?
+Ciao Bella.
+
+key: lion/conversations.lion_like_finedining.loctext -8333592308516802336 v2 Revised
+{Expression_Happy}Ah +=HA=+!
+{Call}Now +=THIS=+ is something special!
+Quite the ((fine dining)) experience bambina!
+{Call|Expression_Unhappy}I, Giovanni Leone Formidabile, am a creature of refined taste, of exquisite complexity!
+And +=THIS=+...
+{Eat}This hits the spot.
+{Eat}Delicious!
+{Eat}Grazie mille to the chef.
+{Eat}-=Yes, I know it's you=-
+
+key: lion/conversations.lion_like_finedining_fallback01.loctext -4083234627155094869 v1 Revised
+{Call}My compliments to the chef, bambina!
+I don't know if I've had better.
+{Eat}Now, this is ((fine dining)).
+
+key: lion/conversations.lion_like_finedining_fallback02.loctext 8522704373368237135 v1 Revised
+{Expression_Happy}Another glorious ((fine dining)) affair!
+{Eat}You know Bambina, it reminds me of...
+{Eat}...Wait, where was this trattoria again?
+{Eat}Well, nevermind, yours is better than theirs.
+
+key: lion/conversations.lion_like_stimulant.loctext -7664252111021987758 v2 Revised
+{Expression_Happy}Yowza!
+Haha!
+{Call}That is one helluva kicker!
+{Eat}I'm shaking!
+{Eat}((Stimulants)) all the way bambina!
+{Eat}Delicious and wakes you up for real!
+
+key: lion/conversations.lion_like_stimulant_fallback01.loctext 2493638502686141077 v1 Revised
+{Expression_Happy}That's the jolt I needed!
+{Call}((Stimulants)) will do that.
+{Eat}They get the blood flowing!
+
+key: lion/conversations.lion_like_stimulant_fallback02.loctext 8559943966205940650 v1 Revised
+{Call}Ha ha!!!
+{Eat}Now that’s a solid pick me up!
+{Eat}I can't feel my face, bambina!!!
+{Eat}Absolutely perfect!
+
+key: lion/conversations.lion_readytoleave_accept.loctext -2257015128947734072 v1 Revised
+[Start]{|Expression_Idle_Neutral}Yeah, I think it's the best decision.
+{|Expression_Idle_Neutral}Ok, let's go.
+
+key: lion/conversations.lion_readytoleave_question._independenttextbubbleloc -5651695913670437340 v3 Revised
+Well...
+
+key: lion/conversations.lion_readytoleave_question.loctext -628918729193071318 v1 Revised
+[Particles]{|Expression_Idle_Neutral}Here we are bambina.
+{Expression_Depressed|Expression_Idle_Neutral}You know I'm not exactly thrilled but...
+{Expression_Depressed|Expression_Idle_Neutral}I've got to go.
+{Expression_Depressed|Expression_Idle_Neutral}Ready to bring me there?
+
+key: lion/conversations.lion_readytoleave_refuse.loctext -4996221944505336517 v1 Revised
+{Expression_Depressed|Expression_Idle_Neutral}Alright, up to you.
+{|Expression_Headnod}I guess I can wait just a bit more, can't I?
+
+key: lion/conversations.lion_refuse_carbs.loctext 7736167807820834321 v2 Revised
+{Expression_Depressed|Expression_Idle_Neutral}Eeeesh, sorry bambina...
+{Expression_Depressed|Expression_Idle_Neutral}That thing is choke full of carbs...
+{Expression_Depressed|Expression_Idle_Neutral}I can't do carbs honey.
+{|Expression_Idle_Neutral}Hey, call me vain all you want.
+{Call|Expression_Idle_Neutral}I gotta take good care of this body!
+{|Expression_Idle_Neutral}How could my hair sparkle and my guts resist gravity otherwise eh?
+{Call|Expression_Idle_Neutral}I can't eat stuff like this.
+{|Expression_Unhappy}It would go straight to my butt.
+{|Expression_Unhappy}And we don't want that do we?
+
+key: lion/conversations.lion_refuse_carbs_fallback01.loctext -300749523445747498 v1 Revised
+{Expression_Depressed|Expression_Idle_Neutral}Oh Bambina, I don't do carbs.
+{Call|Expression_Idle_Neutral}I told you, they're bad for my glorious silhouette!
+
+key: lion/conversations.lion_refuse_carbs_fallback02.loctext 4796685679032194448 v1 Revised
+{|Expression_Idle_Neutral}Oh, come on, again with the carbs?
+{Call|Expression_Idle_Neutral}I can't, I won't!
+
+key: lion/conversations.lion_refuse_eggs.loctext 7057556848023885748 v2 Revised
+{|Expression_Idle_Neutral}Ooooh...
+{|Expression_Idle_Neutral}How to say this bambina...
+{|Expression_Idle_Neutral}That's got ((eggs)) in it right?
+{|Expression_Idle_Neutral}Yeah...
+{|Expression_Idle_Neutral}Listen, I like the little chicks.
+{|Expression_Idle_Neutral}They're so cute with their little beaks and fluffy tiny feathers!
+{|Expression_Idle_Neutral}I don't mind eating chicken.
+{|Expression_Idle_Neutral}It's meat, ok?
+{|Expression_Idle_Neutral}Meat is fine.
+{|Expression_Idle_Neutral}But ((eggs))?
+{|Expression_Idle_Neutral}Never been an ((egg)) kinda guy.
+
+key: lion/conversations.lion_refuse_eggs_fallback01.loctext 2716923752454565 v1 Revised
+{|Expression_Idle_Neutral}Wait, hold on...
+{|Expression_Idle_Neutral}I'm on the side of baby chicks here.
+{|Expression_Idle_Neutral}Sorry again, no ((eggs)) for me, bambina.
+
+key: lion/conversations.lion_refuse_eggs_fallback02.loctext 2900159021631967655 v1 Revised
+{|Expression_Idle_Neutral}You know how I feel about ((eggs))!
+{|Expression_Idle_Neutral}They could be little babies!
+{|Expression_Unhappy}-=And between you and me, they taste terrible…=-
+{|Expression_Idle_Neutral}No ((eggs)) for me bambina!
+
+key: lion/conversations.lioncall.loctext -4012914659986547125 v2 Revised
+Peanut!
+
+key: lion/conversations.lionconversation-askaboutfrogvalidation.loctext 6831362440486429371 v2 Revised
+{|Expression_Idle_Neutral}Look, bambina...
+{|Expression_Idle_Neutral}I was wondering...
+{|Expression_Idle_Neutral}Isn't Atul...gone?
+{|Expression_Idle_Neutral}Huh?
+{|Expression_Idle_Neutral}It's like a buzzing sound you know, a white noise...
+{|Expression_Idle_Neutral}After some point you don't pay attention to it anymore, you're used to it.
+{|Expression_Idle_Neutral}When it's gone, you notice it right away...
+{|Expression_Idle_Neutral}Oh well.
+
+key: lion/conversations.lionconversation-askaboutplayvalidation.loctext 6978556228013394103 v1 Revised
+{|Expression_Idle_Neutral}Pheeeew!
+{Expression_Sad|Expression_Unhappy}Peanut that was +=TERRIBLE=+!
+{Expression_Depressed|Expression_Unhappy}I've slept through better screaming matches than this one!
+{|Expression_Idle_Neutral}That being said, he is a kid.
+{|Expression_Idle_Neutral}What can you expect!
+{|Expression_Idle_Neutral}These things are always both really cute and really boring.
+{|Expression_Idle_Neutral}Stan is a funny bambino though.
+{|Expression_Idle_Neutral}Don't tell him I hated it! 
+
+key: lion/conversations.lionconversation-buildloungeintro._independenttextbubbleloc -1536381659304403633 v1 Revised
+Bambina!
+
+key: lion/conversations.lionconversation-buildloungeintro.loctext -2495817791327555188 v7 Revised
+Heeey, peanut...
+You must've noticed it by now...
+{Expression_Depressed|Expression_Idle_Neutral}But I'm not exaaaaactly welcome at Astrid's house anymore...
+{Expression_Sad|Expression_Idle_Neutral}Hey, what can I say!?
+{Expression_Happy|Expression_Unhappy}It's not my fault if I'm irresistible!
+{Call|Expression_Unhappy}I was born this way!
+{|Expression_Unhappy}The ladies like me, what can I do?
+{|Expression_Unhappy}Leave them alone?
+{Expression_Sad|Expression_Unhappy}That would be terribly rude of me!
+{Expression_Depressed|Expression_Idle_Neutral}Ah, ok, ok...
+{Expression_Sad|Expression_Idle_Neutral}You don't need to give me +=THAT=+ look...
+{Expression_Depressed|Expression_Idle_Neutral}I get it you know.
+{Expression_Depressed|Expression_Idle_Neutral}I probably would've done the same...
+{|Expression_Idle_Neutral}Ok maybe not +=EXACTLY=+ the same...
+{Expression_Depressed|Expression_Idle_Neutral}But... yeah...
+{Expression_Sad|Expression_Idle_Neutral}I KNOW!
+{Expression_Depressed|Expression_Idle_Neutral}+=I know...=+
+{Expression_Depressed|Expression_Idle_Neutral}...
+{|Expression_Pensive}Hey you know what?
+{|Expression_Unhappy}Her loss!
+{Call|Expression_Unhappy}I won't come crawling!
+{Call|Expression_Unhappy}I'm above this type of behaviour!
+{|Expression_Idle_Neutral}...
+{Expression_Depressed|Expression_Idle_Neutral}-=That being said...=-
+{Expression_Depressed|Expression_Idle_Neutral}-=The deck is a bit frisky at night though...=-
+{Expression_Depressed|Expression_Idle_Neutral}-=And I miss having at least a sofa to rest...=-
+{Expression_Depressed|Expression_Idle_Neutral}-=What to do?=-
+{Expression_Depressed|Expression_Unhappy}-=Think Giovanni, think...=-
+{Expression_Depressed|Expression_Unhappy}-=...=-
+{Expression_Depressed|Expression_Unhappy}-=Hmmmm... maybe...=-
+{|Expression_Pensive}Hey bambina...
+{|Expression_Pensive}Could I ask you a favor?
+{|Expression_Pensive}Just a teensy-weensy little thing for your favourite Giovanni?
+{|Expression_Pensive}I need a place to rest now!
+{Expression_Happy}OH!
+You know what?
+{Expression_Happy}A nice ((lounge)) would be swell!!
+{Expression_Happy}Yes, a ((lounge))!
+A funky space at the crossroads between a bar and a den!
+A place where we could all unwind, have a fun time you know...
+-=And I could even sleep in there!=-
+Come on, do it for me will you?
+{Expression_Happy}I'll be on the tab for it!
+{Expression_Happy}Thank you bambina!
+{Expression_Happy}Thank you!!
+
+key: lion/conversations.lionconversation-buildloungereminder._commenttext 1846658460750640446 v2 Revised
+Well, well...
+
+key: lion/conversations.lionconversation-buildloungereminder.loctext -7806287680427823245 v2 Revised
+{|Expression_Idle_Neutral}Hey bambina, I really don't mean to be bothersome but...
+{|Expression_Idle_Neutral}You haven't forgot about the ((lounge)) have you?
+{|Expression_Unhappy}-=I really need a place to stay=-
+{|Expression_Unhappy}Everyone will love it so much!
+
+key: lion/conversations.lionconversation-buildloungeskipconversation._independenttextbubbleloc -8353629987328711824 v2 Revised
+Oh wow!
+
+key: lion/conversations.lionconversation-buildloungeskipconversation.loctext 407558330943423793 v2 Revised
+{Expression_Happy}Would you look at that?
+{Expression_Happy}Magnifico, bambina!
+
+key: lion/conversations.lionconversation-buildloungevalidation._independenttextbubbleloc 7137022351763942391 v1 Revised
+Bambina!
+
+key: lion/conversations.lionconversation-buildloungevalidation.loctext -1390227682628961632 v3 Revised
+This...
+Is...
+{Expression_Happy}+=PERFECT!!=+
+{Expression_Happy}I couldn't even hope for such a lavish saloon!
+{|Expression_Idle_Neutral}-=can't wait to rest my feet on the sofa=-
+Hey, peanut!
+{|Expression_Surprise}Want me to fix you a drink?
+{|Expression_Unhappy}Yeaaah, come on, you know you want to!
+{|Expression_Unhappy}With just a picayune dash of vodka!
+{|Expression_Unhappy}A virgin Caesar then?
+{|Expression_Unhappy}Really?
+{|Expression_Idle_Neutral}Nothing?
+{|Expression_Idle_Neutral}Bah, OK, suit yourself.
+{|Expression_Idle_Neutral}Now if you don't mind, I'm going to pour myself a little pick-me-up alright!
+{Call|Expression_Unhappy}Catch my drift?
+{Expression_Depressed|Expression_Unhappy}-=Right, wrong crowd...=-
+{Call|Expression_Unhappy}Ciao ciao!
+
+key: lion/conversations.lionconversation-buymeatintro._independenttextbubbleloc -6647577032032120356 v1 Revised
+Alright!
+
+key: lion/conversations.lionconversation-buymeatintro.loctext 1604972153042425401 v4 Revised
+{|Expression_Headnod}They should be right over there in the park.
+{|Expression_Surprise}They grow in the corner.
+{|Expression_Surprise}Can't miss them, they're gorgeous bambina!
+{|Expression_Unhappy}The gardener here takes +=reaaaaally=+ good care of the flowers, that's good for us!
+{|Expression_Idle_Neutral}What?!
+{|Expression_Idle_Neutral}What do you mean we shouldn't?
+{Expression_Sad|Expression_Idle_Neutral}+=VANDALISM?!?=+
+{Expression_Sad|Expression_Idle_Neutral}+=WHAT DO YOU MEAN VANDALISM?!?=+
+{Expression_Sad|Expression_Idle_Neutral}Bambina!!!
+{Expression_Sad|Expression_Idle_Neutral}What are you +=TALKING about=+??
+{Expression_Sad|Expression_Unhappy}((roses)) exist so they can be picked up!
+{Call|Expression_Unhappy}And offered to mesmerizing princesses!
+{|Expression_Idle_Neutral}Don't you think she deserves it?
+{|Expression_Unhappy}Don't you?
+{|Expression_Idle_Neutral}Ok, enough with this nonsense, just go in that park and pick up the ((roses)).
+{|Expression_Idle_Neutral}Look, we only need enough for a romantic bouquet...
+{|Expression_Idle_Neutral}And you can be as delicate as you want while picking them up!
+{|Expression_Idle_Neutral}Alright, go now!
+{|Expression_Idle_Neutral}Go!
+
+key: lion/conversations.lionconversation-buymeatreminder._commenttext -6941262678214284300 v2 Revised
+Stella!
+
+key: lion/conversations.lionconversation-buymeatreminder.loctext -4946411319166761640 v3 Revised
+What are you doing?
+Those ((Roses)) grow in the park over there!
+
+key: lion/conversations.lionconversation-buymeatvalidation._independenttextbubbleloc 6348972602027841056 v1 Revised
+Beautiful!
+
+key: lion/conversations.lionconversation-buymeatvalidation.loctext 1306776258446190088 v4 Revised
+{Expression_Happy}Ha ha, that's just perfect bambina!!
+{Expression_Happy}What a nice bouquet!
+Your thumb is as green as your hat as someone once said!
+{Expression_Depressed|Expression_Idle_Neutral}And you see, no one cared!
+{Expression_Depressed|Expression_Idle_Neutral}No one noticed!
+{|Expression_Unhappy}Wasn't necessary to make such a big deal out of it now was it?
+{|Expression_Unhappy}Now, if you could just ((GIVE)) them to me.
+I'll take great care of them.
+
+key: lion/conversations.lionconversation-buyteaintro._independenttextbubbleloc -3202403522468124284 v1 Revised
+Alright!
+
+key: lion/conversations.lionconversation-buyteaintro.loctext 9151730434320197440 v2 Revised
+Go, go take a look!
+They should have it here.
+Get the nicest ((chocolate box)) you see!
+Not the cheap stuff!
+
+key: lion/conversations.lionconversation-buyteareminder._commenttext 915486445342209195 v2 Revised
+Hey!
+
+key: lion/conversations.lionconversation-buyteareminder.loctext -7555853755591177358 v3 Revised
+Don't forget to buy a fancy ((chocolate box)) at the shop.
+
+key: lion/conversations.lionconversation-buyteavalidation._independenttextbubbleloc 2268579538891635916 v1 Revised
+Beautiful bambina!
+
+key: lion/conversations.lionconversation-buyteavalidation.loctext -2315982253617599462 v1 Revised
+{Expression_Happy}Haha, I knew I could count on you!
+{Expression_Happy}You're terrific bambina, you know that?
+{Expression_Happy}Marvelous, exceptional, admirable!
+We don't deserve you.
+Nope.
+No one does.
+{Call}+=OK LET'S PACK UP GUYS, WE DON'T DESERVE STELLA ONE BIT=+!
+You wonderful little peanut!
+Alright, now ((GIVE)) it to me please...
+
+key: lion/conversations.lionconversation-chickfriendintroduction._independenttextbubbleloc -2827686476570545547 v2 Revised
+Oh!
+
+key: lion/conversations.lionconversation-chickfriendintroduction.loctext 6141806283959095398 v4 Revised
+{Expression_Happy}Look at it!
+{Expression_Happy}Just look at it bambina!!
+{Expression_Happy}It's so +=adorable=+!
+We had chicks like this on my parent's farm you know.
+I would give them all a name.
+Ha but after a day or two, I would forget all of them...
+So, I just called this one Dennis.
+{Call}Hi Dennis!
+{Call}Be the best little rapscallion you can be!
+
+key: lion/conversations.lionconversation-commentaboutplay01.loctext -6674385206894605664 v3 Revised
+Right on!
+
+key: lion/conversations.lionconversation-explorea1validation._independenttextbubbleloc 5691647752001855541 v1 Revised
+Alright.
+
+key: lion/conversations.lionconversation-explorea1validation.loctext 646814950781328260 v1 Revised
+Let's go shopping peanut!
+Hopefully the shop still has that ((chocolate box)) we're looking for!
+
+key: lion/conversations.lionconversation-exploreblvalidation._independenttextbubbleloc 3237168471747917320 v1 Revised
+Here we are!!
+
+key: lion/conversations.lionconversation-exploreblvalidation.loctext -2551928388464447445 v2 Revised
+Let's go check it out.
+Hopefully, those ((roses)) are still there!
+{|Expression_Idle_Neutral}I'm warning you though: some people might give you a weird look...
+{|Expression_Pensive}Don't worry, I'll be there for you!
+
+key: lion/conversations.lionconversation-givemeatvalidation._independenttextbubbleloc -4157501201147761065 v5 Revised
+Beautiful.
+
+key: lion/conversations.lionconversation-givemeatvalidation.loctext -4194684148076419716 v4 Revised
+{Expression_Happy}Thank you so much peanut!
+I'll hold on to this bouquet!
+
+key: lion/conversations.lionconversation-givemeatvalidation-conditionalchainconversations_notonboat_conversation.loctext -5076046967255776471 v2 Revised
+Alright, let's head back to the boat.
+
+key: lion/conversations.lionconversation-giveteareminder._commenttext 82533256399227244 v2 Revised
+Right here!
+
+key: lion/conversations.lionconversation-giveteareminder.loctext -870542844664228067 v2 Revised
+Ok now ((give)) me that ((chocolate box)) please!
+I don't want her to know we're conspiring behind her back...
+
+key: lion/conversations.lionconversation-giveteavalidation.loctext -3168408386885390436 v2 Revised
+Thank you!
+{Expression_Happy}Haha, yes, she'll love it so much!
+I'll hold on to it.
+
+key: lion/conversations.lionconversation-giveteavalidation-conditionalchainconversations_notonboat_conversation.loctext 3368670583416706383 v1 Revised
+Let's head back to the boat, bambina.
+
+key: lion/conversations.lionconversationhungry01.loctext -8902456572217410307 v2 Revised
+{|Expression_Idle_Neutral}Peanut, would you have a snack or something?
+
+key: lion/conversations.lionconversationhungry02.loctext -4315518622398579495 v2 Revised
+{|Expression_Idle_Neutral}I'm really hungry you know?
+{|Expression_Idle_Neutral}Don't you have food hidden away somewhere?
+
+key: lion/conversations.lionconversationhungrymaster._commenttext -821013233637817716 v1 Revised
+You know...
+
+key: lion/conversations.lionconversationhungrymaster._independenttextbubbleloc -3757338301231023906 v1 Revised
+Peanut...
+
+key: lion/conversations.lionconversation-idletalk01.loctext -2986981181989940371 v1 Revised
+Right.
+
+key: lion/conversations.lionconversation-idletalk02.loctext 520768373094155217 v1 Revised
+That sounds great, dear.
+
+key: lion/conversations.lionconversation-idletalk03.loctext 9123613185699376099 v1 Revised
+We could do that.
+
+key: lion/conversations.lionconversation-idletalk04.loctext -3249238208683543113 v1 Revised
+Oh, I like that.
+
+key: lion/conversations.lionconversation-invitelionintroduction.loctext -3446390892451248859 v2 Revised
+{|Expression_Headnod}A play you say bambina?
+{|Expression_Headnod}Stanley prepared everything you say?
+Alright alright, I'll be there.
+{Expression_Depressed|Expression_Unhappy}-=Heavens, this will be dreadful...=-
+{|Expression_Idle_Neutral}What?
+{Call|Expression_Unhappy}Oh, nothing.
+{Call|Expression_Idle_Neutral}Can't wait to see it!
+{Call}Bye peanut!
+
+key: lion/conversations.lionconversation-keptsecretvalidation._independenttextbubbleloc 2738944275797067881 v2 Revised
+Peanut!
+
+key: lion/conversations.lionconversation-keptsecretvalidation.loctext 8685087658824076750 v6 Revised
+Look...
+I...
+{Expression_Depressed}Thank you.
+{Expression_Depressed|Expression_Idle_Neutral}I know what I did is not exactly honest.
+{Expression_Depressed|Expression_Idle_Neutral}And I know that You could have stooled me to Astrid when you got the chance.
+{Expression_Depressed}Thank you for keeping my secret.
+{Expression_Depressed|Expression_Idle_Neutral}If it's any consolation to you, I don't know why, but I don't feel great this time.
+{Expression_Depressed|Expression_Idle_Neutral}This might have been one misstep too many...
+{|Expression_Idle_Neutral}I still love Astrid and will continue to love her forever.
+{Expression_Depressed|Expression_Idle_Neutral}I just can't seem to be decent.
+{|Expression_Idle_Neutral}I'll change, I promise.
+{|Expression_Idle_Neutral}And this time I mean it.
+
+key: lion/conversations.lionconversation-kickedoutvalidation._independenttextbubbleloc -1036501766820458171 v1 Revised
+Bambina...
+
+key: lion/conversations.lionconversation-kickedoutvalidation.loctext -4472028368268782802 v2 Revised
+{Expression_Depressed|Expression_Idle_Neutral}I...
+{Expression_Depressed|Expression_Idle_Neutral}Oh...
+{Expression_Depressed|Expression_Idle_Neutral}I don't get it...
+{Expression_Sad|Expression_Unhappy}Things were going so well!!!
+{Expression_Sad|Expression_Unhappy}I +=DON'T=+ deserve to be treated this way!
+{|Expression_Unhappy}Your Astrid, she's got such an ill temper.
+{|Expression_Idle_Neutral}What will I do now?
+{|Expression_Idle_Neutral}I'll go, I suppose.
+{Expression_Depressed|Expression_Idle_Neutral}-=But where?=-
+{|Expression_Idle_Neutral}Over there, by Atul's Workshop?
+{Expression_Depressed|Expression_Idle_Neutral}-=Nope, too chilly.=-
+{|Expression_Idle_Neutral}Up Alice's Cottage maybe?
+{Expression_Depressed|Expression_Idle_Neutral}-=Nah, that won't cut it.=-
+{|Expression_Idle_Neutral}Alright, I'll think about it.
+{|Expression_Idle_Neutral}See you around bambina...
+
+key: lion/conversations.lionconversation-lionbigmealfoodintroduction.loctext 9005868350083491615 v6 Revised
+{|Expression_Idle_Neutral}Maybe some ((bouillabaisse)) for the dinner.
+{|Expression_Idle_Neutral}Something to calm my nerves!
+
+key: lion/conversations.lionconversation-meetingloverreminder._commenttext -714868150684084033 v2 Revised
+Peanut??
+
+key: lion/conversations.lionconversation-meetingloverreminder.loctext 2486580367651602196 v2 Revised
+{Expression_Sad|Expression_Surprise}What...
+{Expression_Sad|Expression_Surprise}What are you doing here??
+{Expression_Depressed|Expression_Surprise}I...
+{Expression_Depressed|Expression_Surprise}Oh well.
+{|Expression_Surprise}+=YOU=+ got me.
+{|Expression_Unhappy}I'm not going to bullshit you.
+{|Expression_Unhappy}You're old and smart enough.
+{|Expression_Idle_Neutral}Yes.
+{|Expression_Idle_Neutral}I intend on having a romantic date with this lovely lady over there.
+{|Expression_Idle_Neutral}What can I say?
+{|Expression_Unhappy}Is it MY fault if I'm irresistible?
+{|Expression_Unhappy}Is it MY fault if ladies need me around?
+{|Expression_Idle_Neutral}And yes, she deserves to be showered with gifts!
+{|Expression_Unhappy}No one has offered her flowers since Charon moved in!
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Look, you have all rights to be mad at me.
+{|Expression_Idle_Neutral}I'll redeem myself later ok?
+{|Expression_Idle_Neutral}And I don't even care what you tell Astrid.
+{|Expression_Idle_Neutral}I'm fine with her knowing.
+{|Expression_Idle_Neutral}Ok I'll...
+{|Expression_Unhappy}It might be just a bit more comfortable if she doesn't know about this...
+{|Expression_Idle_Neutral}But alright!
+{|Expression_Idle_Neutral}I won't interfere between you and your honesty!
+{|Expression_Idle_Neutral}You do what you think is best.
+{|Expression_Idle_Neutral}I won't judge.
+{Call|Expression_Unhappy}Now if you allow me, someone is waiting for me.
+{Call|Expression_Unhappy}Later bambina!
+
+key: lion/conversations.lionconversation-meetingloverreminderdefault._commenttext 8711542894730178787 v1 Revised
+Well...
+
+key: lion/conversations.lionconversation-meetingloverreminderdefault.loctext -7023994116877706945 v2 Revised
+Good night peanut.
+
+key: lion/conversations.lionconversation-meteorno.loctext 7642025320167605285 v2 Revised
+Whatever you want peanut.
+
+key: lion/conversations.lionconversation-meteorsobligated._independenttextbubbleloc -6036860663485964496 v1 Revised
+Fabulous!
+
+key: lion/conversations.lionconversation-meteorsobligated.loctext -6059013860701444060 v8 Revised
+[CancelTimer]{Expression_Happy}I can't believe it!
+{Expression_Happy}That's marvelous!
+{Expression_Happy}Peanut, open your eyes real big!
+{Expression_Happy}This is a comet shower!
+{Expression_Happy}Doesn't it look absolutely gorgeous!
+{Expression_Happy|Expression_Idle_Neutral}And it's only mildly dangerous!
+{Expression_Depressed|Expression_Unhappy}Yes, of course, you could lose a limb or two.
+{Expression_Happy|Expression_Unhappy}But what is a wound in the face of such splendor!!
+{Expression_Happy|Expression_Unhappy}What is physical pain when you can have the thrill of your life!
+{|Expression_Surprise}In addition, you might even get some ((comet rocks)) out of it!
+Isn't this miraculous?
+{|Expression_Pensive}So what do you say bambina?
+{|Expression_Idle_Neutral}Don't worry I'll watch you from just a bit further.
+{Call|Expression_Unhappy}One can't be careful enough right!
+{|Expression_Headnod}Ha ha, have fun!
+
+key: lion/conversations.lionconversation-meteorstutorial02._independenttextbubbleloc -7222026578312948782 v4 Revised
+A comet shower!
+
+key: lion/conversations.lionconversation-meteorstutorial02.loctext 6095957966587792350 v3 Revised
+[CancelTimer]How did you like it last time?
+Ready to have some more?
+What do you say?
+
+key: lion/conversations.lionconversation-meteorsvalidation._independenttextbubbleloc -6783069873183810304 v2 Revised
+Well, well!
+
+key: lion/conversations.lionconversation-meteorsvalidation.loctext -7491742276163165649 v5 Revised
+{|Expression_Happy}You did +=GREAT=+ peanut!
+I know it sounds silly, but I've always loved a tricky situation!
+{|Expression_Happy}The lights, the sounds, the thrill!
+Gotta admit, it is pretty cool isn't it?
+{|Expression_Idle_Neutral}Running around, not knowing if you'll still be breathing the next minute?
+{Call}Ha ha, that's the spirit bambina!
+{Call}I knew you had it in you!
+{Call}You're a natural!
+{Call}I love you so much I could eat you up!
+Now run along little rascal!
+Ha ha!
+
+key: lion/conversations.lionconversation-meteoryes.loctext -3350635305063443882 v1 Revised
+It's your funeral.
+
+key: lion/conversations.lionconversation-narrativemoment-oneintroduction._commenttext 830651027309274138 v1 Revised
+Hey, Bambina!
+
+key: lion/conversations.lionconversation-narrativemoment-oneintroduction.loctext 4145212241197628841 v2 Revised
+{Call}You know you’re special, don’t you?
+{Call}Oh yes, you do!
+And if you don’t, shame on you!
+Just look at yourself running around, taking care of them, taking care of me!
+I hope they’re all grateful to you!
+Point me one of them who’s not and I will have a little discussion with him!!
+No, but really peanut, you’ve got to be proud of yourself and what you’re doing here.
+{Expression_Happy|Expression_Idle_Neutral}You’re killing it!
+{|Expression_Unhappy}-=Heavens that’s funny=-
+
+key: lion/conversations.lionconversation-narrativemoment-threeintroduction._commenttext 3699603791061640099 v1 Revised
+Bambina!
+
+key: lion/conversations.lionconversation-narrativemoment-threeintroduction.loctext 7007546764146669079 v2 Revised
+Hey, have I told you about that time I was up on the coast right before the end of the war?
+{|Expression_Idle_Neutral}Me and the other boys we were waiting on an evacuation convoy, after a long night of skirmishes.
+{|Expression_Idle_Neutral}We had been slowly but steadily going through the occupied villages of the lower mountains, as the enemy retreated.
+{|Expression_Idle_Neutral}I had joined a more “regular” corps since most of the resistance fighters could now be out in the open.
+{|Expression_Idle_Neutral}So there we were, 20 something boys aged 17 to 25, all of us tired but happy at the same time.
+{|Expression_Idle_Neutral}We were winning you know!
+{|Expression_Idle_Neutral}We decided to stop for the night in a little village that overlooked the coast.
+At night, one of the mammas comes to us with a gigantic cauldron, full of pasta with tomato sauce!
+Most of us hadn’t seen tomato sauce in years!
+{Call}At the same time, we hear Marius, our youngest combatant, rushing in towards us yelling “leave me some, guys! It smells so good!”
+He had been on scouting duty that night to check if there was anything fishy going on.
+{|Expression_Surprise}And as he runs towards us, maybe 40 meters from where we were, we hear a very loud explosion and a big puff of smoke.
+{|Expression_Surprise}A land mine. 
+{|Expression_Surprise}They were not that frequent but happened nonetheless.
+{|Expression_Idle_Neutral}Most of us ran towards him, but I was the first there.
+{|Expression_Idle_Neutral}I’ll spare you the details, but it was obvious he wouldn’t make it.
+{|Expression_Idle_Neutral}As I hold him in my arms, covered in blood, he weakly opens his mouth and tells me:
+{|Expression_Idle_Neutral}“Damn, Giovanni, I can’t believe I won’t eat this... No one gets my share ok?”
+{|Expression_Idle_NeutralExpression_Depressed}And those were his last words.
+{|Expression_Idle_Neutral}That moment will forever be imprinted in my memory.
+{|Expression_Idle_Neutral}It will always remind me that life has to be lived for the simplest of things.
+{|Expression_Idle_Neutral}A nice dish, a beautiful landscape, a gorgeous lady...
+Yep! That’s what life is lived for!
+
+key: lion/conversations.lionconversation-narrativemoment-twointroduction._commenttext -8155036665589523940 v1 Revised
+Peanut!
+
+key: lion/conversations.lionconversation-narrativemoment-twointroduction.loctext 9068879952183279572 v2 Revised
+Have I told that after the war, I opened a tavern?
+{|Expression_Pensive}Working in sales wasn’t my thing and Astrid’s mother said she wanted to help us, so I told myself “hey sure why not”
+{|Expression_Pensive}It was a reputable establishment, something fancy!
+{Expression_Depressed}Not a drinking hole in which people would come to forget about their lousy lives...
+So, one day, that client comes in.
+{|Expression_Idle_Neutral}Disheveled, obviously distraught, looking over his shoulder as if the dogs of Inferno were after him.
+{|Expression_Idle_Neutral}He runs to the bar, grabs me by the collar, and tells me in panic:
+{|Expression_Idle_Neutral}“12 shots of your finest liquor!”
+{|Expression_Idle_Neutral}Before I even have the time to come back with the bill, he’s almost through half of them.
+{|Expression_Idle_Neutral}So I ask him: “Brother, what’s going on with you? Why are you drinking so fast?
+{|Expression_Idle_Neutral}To which he answers” “If you had what I have, you would be drinking very fast too!”
+{|Expression_Idle_Neutral}Surprised and a bit scared, I flat out ask him: “What in heavens do you have?”
+{|Expression_Idle_Neutral}He then stands up right away, and tells me: 
+{|Expression_Surprise}“Only fifty cents!” and dashes through the door...
+{Call|Expression_Unhappy}Well peanut, it’s been 40 years, and I’m still laughing at this one...
+
+key: lion/conversations.lionconversation-pickadestinationvalidation._independenttextbubbleloc -8262401078399185042 v1 Revised
+Peanut!
+
+key: lion/conversations.lionconversation-pickadestinationvalidation.loctext -3731101650495746448 v6 Revised
+{|Expression_Pensive}I was thinking, and you know what?
+{Expression_Depressed|Expression_Pensive}Just a ((chocolate box)) is nearly not enough for a lady of this caliber...
+{|Expression_Pensive}But!
+{|Expression_Pensive}I know +=EXACTLY=+ what could compliment this gift!
+{Expression_Happy|Expression_Surprise}A nice bouquet of flowers!
+{Expression_Happy}Vibrant, luscious ((roses))!
+
+key: lion/conversations.lionconversation-pickadestinationvalidation-conditionalchainconversations_hasroses_conversation.loctext -5693136587622267744 v7 Revised
+Wait one second!
+You already have some ((roses)), do you?
+{Expression_Happy}Marlevous!
+
+key: lion/conversations.lionconversation-pickadestinationvalidation-conditionalchainconversations_noroses_conversation.loctext 3184455639420163216 v2 Revised
+And I know just where to pick some!
+((Ambertown Park))!!
+Don't worry, I'll show you once we're there.
+{|Expression_Headnod}It's a great idea eh?
+{|Expression_Idle_Neutral}-=It's definitely a great idea...=-
+{|Expression_Idle_Neutral}And again!
+{|Expression_Idle_Neutral}Not a word!
+{|Expression_Headnod}She will be surprised so completely!
+
+key: lion/conversations.lionconversation-rabbitsno.loctext 5714595412983986121 v2 Placeholder
+Thank goodness.
+
+key: lion/conversations.lionconversation-rabbitsvalidation._independenttextbubbleloc -3281870901452577994 v2 Placeholder
+I'm glad that's over.
+
+key: lion/conversations.lionconversation-rabbitsvalidation.loctext -2116699698723831703 v1 Placeholder
+LionConversation-RabbitsValidation
+
+key: lion/conversations.lionconversation-rabbitsyes.loctext -546776643428568890 v1 Placeholder
+It's your funeral.
+
+key: lion/conversations.lionconversation-recruitintroduction._commenttext -149412963793083552 v1 Revised
+Oh...
+
+key: lion/conversations.lionconversation-recruitintroduction._independenttextbubbleloc 2353676314073657205 v1 Revised
+Hello there!
+
+key: lion/conversations.lionconversation-recruitintroduction.loctext -646728786215823528 v4 Revised
+{|Expression_Surprise}Oh my!
+{|Expression_Idle_Neutral}Aren't you the cutie pie bambina!
+{|Expression_Idle_Neutral}I'll call you... peanut!
+{|Expression_Idle_Neutral}Like a cute little peanut pie!
+What?
+{|Expression_Headnod}You are looking for someone named Giovanni?
+{|Expression_Idle_Neutral}Ha but THAT, bambina, doesn't surprise me one bit.
+{|Expression_Pensive}I mean, who ISN'T looking for me!
+{|Expression_Happy}I'm Giovanni!
+{|Expression_Happy}Leone formidabile!
+{|Expression_Unhappy}Sorry to break it to you though but... you're a bit young for me...
+{|Expression_Idle_Neutral}WHAT?!?
+{|Expression_Headnod}Astrid you say?
+{|Expression_Headnod}She's with you on your lovely boat?
+Say no more!
+Here I come!
+
+key: lion/conversations.lionconversation-recruitnotrightnowreminder.loctext -3006425661232734645 v1 Revised
+I'm waiting for someone.
+Don't bother me.
+
+key: lion/conversations.lionconversation-releasevalidation._independenttextbubbleloc -2432519342865495968 v2 Revised
+Bambina!
+
+key: lion/conversations.lionconversation-releasevalidation.loctext -1962643754068335630 v2 Revised
+Look, peanut...
+{Expression_Depressed|Expression_Surprise}I think I've over stayed my welcome on this ship.
+{|Expression_Happy}I know, I know, I've only just joined you guys recently!
+{|Expression_Happy}But...
+{|Expression_Happy}I don't exactly have my say in this you know.
+{|Expression_Happy}I wish I had!
+{|Expression_Headnod}Don't worry, I had a jolly good time.
+{|Expression_Idle_Neutral}No regrets.
+{Expression_Depressed|Expression_Idle_Neutral}I did love that ((lounge))!
+{|Expression_Unhappy}A bit too much maybe?
+{Expression_Depressed|Expression_Unhappy}I think you might need to restock...
+{|Expression_Idle_Neutral}Ok, let's go.
+{|Expression_Idle_Neutral}You know the way bambina.
+
+key: lion/conversations.lionconversation-seetheworldintro._independenttextbubbleloc -5668326517845880390 v1 Revised
+Hey peanut!
+
+key: lion/conversations.lionconversation-seetheworldintro.loctext 5475452204134161963 v7 Revised
+I see you picked a spot on the map!
+{Expression_Happy}What a wonderful initiative bambina!
+{Call}Seeing the world, going places, meeting new faces...
+{Expression_Happy}It's all so exhilarating!
+Before we go somewhere incredible though...
+Could you do something for me?
+{Call|Expression_Surprise}Let's just go somewhere else!
+{|Expression_Pensive}Ok, I'll let you in on a little secret.
+{|Expression_Happy}I want to make someone +=reaaaaaally=+ happy!
+{|Expression_Idle_Neutral}Shhhhh, don't say it out loud!
+{|Expression_Headnod}A secret I told you!
+{|Expression_Happy}And yes, you guessed right, a very special lady!
+{|Expression_Headnod}I want to show her how much she matters to me.
+{Expression_Happy}Ha! I knew you would be on board!
+{Call}Alright, we need to go to ((Bottom Line Corp.)) to do some shopping.
+I've heard the shop there just received a new batch of fancy ((chocolate boxes))!
+{Call}And she just loves chocolate!
+{Call}The dark and expensive kind!
+{|Expression_Headnod}It's the perfect gift, don't you think?
+{|Expression_Headnod}Wonderful bambina, let's head there then!
+
+key: lion/conversations.lionconversation-seetheworldvalidation.loctext 4471934797624169185 v5 Revised
+{Expression_Happy}Haha!
+{Expression_Happy}Thanks a lot bambina!
+Now, I definitely have enough to prepare a little surprise...
+{Expression_Happy}Oooh, my beloved will jump in joy!
+{Expression_Happy}Thank you!
+{Expression_Happy}Thank you so much!
+{|Expression_Idle_Neutral}You are a killer, you know that right?
+{|Expression_Unhappy}-=No pun intended.=-
+All I have to do now is wait for the right time, put on the right perfume...
+And, voila!
+This is going to be +=wonderful!=+
+{|Expression_Pensive}Oh!
+{|Expression_Pensive}But!
+{|Expression_Pensive}Bambina!
+{|Expression_Pensive}This reminds me...
+{|Expression_Surprise}I have this shiny thing!
+{|Expression_Surprise}I should've given it to you earlier, but I was lost in my thoughts!
+{|Expression_Idle_Neutral}And, also, I kinda had forgotten about it.
+{|Expression_Headnod}Take it!
+You definitely deserve it!
+{|Expression_Idle_Neutral}-=And, I don't have the slightest clue what it does...=-
+
+key: lion/conversations.lionconversationstarving01.loctext -6668929721035207118 v3 Revised
+Funny story: I just heard a terrible sound!
+So then I told myself: Oh no! The engine is going to explode!
+{|Expression_Idle_Neutral}But no!
+{Expression_Sad|Expression_Unhappy}That gigantic, tremendous roaring sound was my +=stomach=+!!
+{|Expression_Unhappy}Come on now peanut!
+{|Expression_Unhappy}I'm starving!
+
+key: lion/conversations.lionconversationstarving02.loctext 2776389877690987226 v2 Revised
+{|Expression_Idle_Neutral}Are you mad at me peanut?
+{|Expression_Idle_Neutral}Have I done something to offend you?
+{|Expression_Idle_Neutral}No?
+{|Expression_Idle_Neutral}Good.
+{Expression_Sad|Expression_Unhappy}+=FEED ME THEN!=+
+{Call|Expression_Idle_Neutral}Pretty please bambina!
+{|Expression_Idle_Neutral}I'm starving!
+
+key: lion/conversations.lionconversationstarvingmaster._commenttext 4888942918633798654 v2 Revised
+Stella!
+
+key: lion/conversations.lionconversation-talktolionabouttinyowlintroduction.loctext 6442600424273419092 v2 ReadyForRevision
+Bambina!!!
+I'm shocked!
+I would never issult a beautiful woman like Beverly.
+Just the thought of it makes me sick!
+
+key: lion/conversations.lionconversation-toast.loctext -8681990834022061519 v1 Revised
+Great meal!!
+
+key: lion/conversations.lionconversation-toastreminder.loctext -5626591676539918663 v1 Revised
+I'm always a fan of eating other people's food!
+
+key: lion/conversations.lionconversation-welcomenewspirit01.loctext -8510326612907549745 v2 Placeholder
+Wow!
+
+key: lion/conversations.lionconversation-welcomenewspirit02.loctext -5129626951164411052 v2 Placeholder
+Beautiful!
+
+key: lion/conversations.lionconversation-welcomereminder01.loctext -1371442742672734014 v3 Revised
+Let's head out.
+
+key: lion/conversations.lionconversation-welcomereminder02.loctext 1672532329849984675 v1 Revised
+This is taking a bit longer than expected.
+
+key: lion/conversations.lion-flirty._commenttext 1363270664375988537 v2 Revised
+Hey, good looking.
+
+key: lion/conversations.lionfoodaccept.loctext 4032970717529583374 v1 Revised
+Ha!
+Thank you bambina!
+I was a bit hungry!
+
+key: lion/conversations.lionfoodrefuse.loctext -2866218152552998130 v1 Placeholder
+<spirit>FoodRefuse
+
+key: lion/conversations.lionfoodsame.loctext 4366866013105783365 v2 Revised
+{|Expression_Idle_Neutral}Look...
+{|Expression_Idle_Neutral}-=How should I put this...=-
+{|Expression_Idle_Neutral}I'm not picky.
+{|Expression_Idle_Neutral}It's true! I'm not!
+{|Expression_Idle_Neutral}Well, not usually...
+{|Expression_Idle_Neutral}But you've been giving me the same food over, and over, and over again...
+{|Expression_Idle_Neutral}Don't you have something else bambina?
+
+key: lion/conversations.lion-givejewels._commenttext -2292835001146618709 v1 Revised
+Come here!
+
+key: lion/conversations.lion-givejewels.loctext -118108504959425927 v4 Revised
+Peanut!
+Look a these jewels! 
+For you bambina!
+No no no no no...
+No need to explain how.
+Shhhhh.
+Just take them. 
+It's a gift.
+
+key: lion/conversations.lion-giveradiantspring.loctext 3513140743013298837 v4 Revised
+I caught some ((Comet Rocks)) for you!
+Some of them had been incrusted in the hull since last time.
+You're welcome, peanut!
+
+key: lion/conversations.lionhugaccept.loctext 8459662661392094647 v2 Revised
+Wasn't that amazing?
+
+key: lion/conversations.lionhughappy01.loctext 4153552341097477777 v2 Revised
+There you go.
+Feel better now!
+
+key: lion/conversations.lionhughappy02.loctext -1057198188743967038 v2 Revised
+That's the stuff.
+You sure know how to hug it out.
+
+key: lion/conversations.lionhugrefuse.loctext 4491389671856253664 v3 Revised
+{|Expression_Idle_Neutral}Nah!
+{|Expression_Idle_Neutral}I'm fine already peanut!
+
+key: lion/conversations.lionhugrefuse01.loctext -3436685920862065484 v3 Revised
+{|Expression_Idle_Neutral}Sorry, not now bambina.
+{|Expression_Idle_Neutral}Next time!
+
+key: lion/conversations.lionhugrefuse02.loctext 5364552672637562513 v3 Revised
+{|Expression_Idle_Neutral}I'm alright!
+{|Expression_Idle_Neutral}Thank you peanut!
+
+key: lion/conversations.lion-lieonsofa.loctext 5486905648835708658 v2 Revised
+Not feeling great today.
+I'm just going to chill here.
+
+key: lion/conversations.lionmedecineaccept.loctext -3052380397927507919 v1 Placeholder
+<spirit>MedecineAccept
+
+key: lion/conversations.lionmedecinebad.loctext 2256985822665263671 v1 Placeholder
+<spirit>MedecineBad
+
+key: lion/conversations.lionmedecinerefuse.loctext 1817223583320841281 v1 Placeholder
+<spirit>MedecineRefuse
+
+key: lion/conversations.lionwelcome.loctext 8541741500416975488 v1 Placeholder
+<spirit>Welcome
+
+key: lion/conversations.lionwelcomeend.loctext 1940115759857665290 v1 Placeholder
+<spirit>WelcomeEnd
+

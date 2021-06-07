@@ -1,0 +1,78 @@
+key: quests/snakeshowfloor.bringbacktreasure.description -8149490120834451214 v3 Placeholder
+((Give)) Summer her necklace
+
+key: quests/snakeshowfloor.canaltreasure._descriptionloc 7806274630341979329 v1 Placeholder
+Find Summer's lost family heirloom.
+
+key: quests/snakeshowfloor.composite.buildhouse.description 774647511436220214 v2 Placeholder
+Summer wants you to build her a new home
+
+key: quests/snakeshowfloor.composite.buildhouse.flavortext -2302484442598866995 v2 Placeholder
+Summer has been feeling out of sorts. I should head down to the ((Shipyard)) and build her a nice new home.
+
+key: quests/snakeshowfloor.composite.buildhouse.name -8807622393290669099 v2 Placeholder
+Home Is Where The Heart Is
+
+key: quests/snakeshowfloor.composite.lostheirloom.description -4724239311921175536 v2 Placeholder
+Bring back Summer's lost heirloom
+
+key: quests/snakeshowfloor.composite.lostheirloom.flavortext 4942185619490945934 v3 Placeholder
+Summer lost a family heirloom in ((Hummingberg)) ages ago. I should help her retrieve it.
+
+key: quests/snakeshowfloor.composite.lostheirloom.name 4625708112281515624 v2 Placeholder
+A Necklace of Hope
+
+key: quests/snakeshowfloor.explorecanalvillage.description 3079002530391765829 v3 Placeholder
+Check out the sights in ((Hummingberg)): the fountain, the shops, the people!
+
+key: quests/snakeshowfloor.explorecanalvillage.flavortext 625009440815389594 v2 Placeholder
+Summer had some rather interesting recommendations about ((Hummingberg)). I'm sure I can ask around if I get lost!
+
+key: quests/snakeshowfloor.explorecanalvillage.name -6939080342570233379 v2 Placeholder
+I Can Go Twice as High!
+
+key: quests/snakeshowfloor.gobacktoboatcanal.description 945890690194061326 v2 Placeholder
+Talk to Summer aboard your boat
+
+key: quests/snakeshowfloor.gobacktoboatshipyard.description 8805259152448615446 v2 Placeholder
+Meet Summer back on your ship
+
+key: quests/snakeshowfloor.gotocanalvillage.description -4233649349210286342 v3 Placeholder
+Head over to ((Hummingberg))
+
+key: quests/snakeshowfloor.intro.name 2542977465522675185 v2 Placeholder
+Flag Quest
+
+key: quests/snakeshowfloor.mistguardian.description -5577109165423265255 v2 Placeholder
+Start your boat in Stella's cabin
+
+key: quests/snakeshowfloor.mistguardiancall.description 32199174268614588 v2 Placeholder
+Reach your final destination
+
+key: quests/snakeshowfloor.queststatusquest.name 5382892801221627376 v2 Placeholder
+Quest Status Quest
+
+key: quests/snakeshowfloor.snakeshowfloorconversation-canaltreasureskipconversation._independenttextbubbleloc -8110661225262911713 v1 Placeholder
+Amazing!
+
+key: quests/snakeshowfloor.snakeshowfloorconversation-canaltreasureskipconversation.loctext -4834927053680873633 v2 Placeholder
+You already found my necklace.
+
+key: quests/snakeshowfloor.startboat.description 8610472294853776664 v2 Placeholder
+Start your boat in Stella's cabin
+
+key: quests/snakeshowfloor.summershouse.description -738177337881760966 v2 Placeholder
+Build Summer's house
+
+key: quests/snakeshowfloor.themistguardian.description -608872805323286595 v2 Placeholder
+Something out there awaits...
+
+key: quests/snakeshowfloor.themistguardian.flavortext 5081466611484803525 v1 Placeholder
+A mysterious force in Summer's necklace is calling us to the middle of the sea. Let's go retrieve it.
+
+key: quests/snakeshowfloor.themistguardian.name -8310520866456457817 v2 Placeholder
+The Mist Guardian
+
+key: quests/snakeshowfloor.visitshipyard.description -7324386145139655797 v3 Placeholder
+Go visit Albert at the ((Shipyard))
+

@@ -1,0 +1,1122 @@
+key: mushroom/conversations.foodaccept.loctext -3087390425962893756 v3 Revised
+Woah!
+Thanks!!
+{Eat}This is soooo good!!
+
+key: mushroom/conversations.foodaccept_dislike.loctext -4298963135593082720 v4 Placeholder
+{Eat}That tastes like dog food.
+
+key: mushroom/conversations.foodaccept_like.loctext -1232741231941491653 v3 Placeholder
+{Eat}That was so good. Are you a chef?
+
+key: mushroom/conversations.foodaccept_love.loctext 3360002874004364658 v3 Placeholder
+{Eat}That was incredible. Better than my grandma's!
+
+key: mushroom/conversations.foodrefuse.loctext -3915011926957008806 v2 Revised
+{|Expression_Idle_Neutral}I'm not hungry.
+{Call|Expression_Idle_Neutral}That's weird, because I'm always very hungry.
+{|Expression_Idle_Neutral}But not now, for some reason.
+{Call|Expression_Idle_Neutral}Did you give me food recently?
+{|Expression_Idle_Neutral}That might be why...
+
+key: mushroom/conversations.foodrefuse_inedible.loctext 2349882147709242885 v2 Revised
+I don't eat cat food.
+
+key: mushroom/conversations.foodrefuse_same.loctext 7686342416053325271 v2 Revised
+{Call|Expression_Idle_Neutral}I think I had that recently. 
+{|Expression_Idle_Neutral}Do you have anything else?
+
+key: mushroom/conversations.foodrefuse_same_fallback01.loctext 5850408735895407026 v2 Revised
+{|Expression_Idle_Neutral}No thanks!
+{|Expression_Idle_Neutral}I want something else.
+
+key: mushroom/conversations.foodrefuse_same_fallback02.loctext -1878004087046630522 v3 Revised
+{|Expression_Idle_Neutral}Is that the only thing you have to eat on this boat?
+
+key: mushroom/conversations.mushroom_favorite_frenchfries_fallback01.loctext 200598630842612209 v2 Revised
+{Expression_Surprise}+=Stella=+
+{Expression_Happy}These are ((french fries))!!!
+{Expression_Happy}I love these!
+{Eat}They're my ((favourite)) thing.
+
+key: mushroom/conversations.mushroom_favorite_frenchfries_fallback02.loctext -153595919983781969 v2 Revised
+{Expression_Happy}((French fries)) are REALLY my ((favourite)).
+{Eat}And so difficult to make!
+{Eat}Only the best cooks can make them!
+{Eat}You're definitely the best cook on this boat!
+
+key: mushroom/conversations.mushroom_favorite_tomatopizza.loctext 1666519366891731275 v5 Revised
+{Expression_Surprise}+=Whaaaaat!!!!!=+
+{Expression_Happy}((French fries))!!!
+{Expression_Happy}How did you +=KNOW=+!!
+{Expression_Happy}That's my ((favourite)) food in the whole world!!
+{Eat}You're amazing, big hat!
+{Eat}Wait, are you a chef?
+{Eat}Are you +=SURE+= you're not a chef?
+{Eat}'Cause that's restaurant grade good food!
+{Eat}Yum...
+
+key: mushroom/conversations.mushroom_frog_lastvoyagecomment_atlocation.loctext 7847672981807146271 v1 Placeholder
+<spirit>_Frog_LastVoyageComment_AtLocation
+
+key: mushroom/conversations.mushroom_frog_lastvoyagecomment1.loctext 7180790750877718017 v1 Placeholder
+<spirit>_Frog_LastVoyageComment1
+
+key: mushroom/conversations.mushroom_frog_lastvoyagecomment2.loctext 4926573528829050840 v1 Placeholder
+<spirit>_Frog_LastVoyageComment2
+
+key: mushroom/conversations.mushroom_lastvoyage_7_giveitem._independenttextbubbleloc -3868703336906395877 v1 Revised
+I almost forgot...
+
+key: mushroom/conversations.mushroom_lastvoyage_7_giveitem.loctext 445197693169516803 v2 Revised
+{Expression_Sad|Expression_Idle_Neutral}I liked it when it was just you and me.
+{Expression_Sad|Expression_Empathy}Doing experiments and running around chasing dust shades.
+{Expression_Sad|Expression_Empathy}Don’t forget to do that sometimes.
+{Expression_Sad|Expression_Empathy}I won’t be there, but I’m sure it will still be fun.
+
+key: mushroom/conversations.mushroom_lastvoyage_fallback1.loctext -9101986886380010090 v3 Revised
+Are we there yet?
+
+key: mushroom/conversations.mushroom_lastvoyage_fallback2.loctext 6520016247817869252 v2 Revised
+What are we waiting for?
+
+key: mushroom/conversations.mushroom_lastvoyage_intender._independenttextbubbleloc -5194861701018981750 v1 Revised
+Stella!
+
+key: mushroom/conversations.mushroom_lastvoyage_intender.loctext -1832066684298877385 v5 Revised
+Is this it?
+
+key: mushroom/conversations.mushroom_lastvoyage_intender_no.loctext 3547815189863337149 v2 Revised
+Hm...
+
+key: mushroom/conversations.mushroom_lastvoyage_intender_yes.loctext 3837118154811385846 v2 Revised
+Hm...
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_a.loctext 4832171922626477892 v2 Revised
+People can be mean.
+Really mean.
+Why do they have to be?
+My mom is mean sometimes.
+Just like your friends after my play.
+And it makes me sad when people are mean.
+And sometimes, I cry when I'm sad.
+But then I remember.
+I remember what my dad used to say.
+"Stanley, people are not really mean."
+"Sometimes, their intentions just take the wrong path."
+I don't hate your friends.
+They’re not bad people.
+That’s what my dad would say.
+They just do bad things sometimes.
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_b.loctext 1955199536512399451 v2 Revised
+I never wanted to let mom down.
+Or make people don't like me.
+I don’t want to do bad things!
+But, sometimes I do.
+And I always regret it!
+I don’t think that makes me bad.
+Do you think my mom will be disappointed in me?
+Disappointed that I had to go?
+I tried!
+I really tried!
+But I don't think I did it.
+I like it when I win!
+But I couldn't this time.
+I think it's ok.
+It's ok to lose sometimes.
+I really think it is.
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_c.loctext 2492773504993196926 v2 Revised
+I'm really trying to be brave.
+But...
+I'm...
+I’m really scared.
+I wish I would be a super hero.
+And never be afraid.
+I've hoped so much that this would be a nightmare.
+If this is a nightmare, why can’t I wake up?
+I was trying.
+Trying and trying.
+I wanted to wake up.
+I always talked to myself.
+"Stanley wants to wake up!"
+But it never worked.
+I never woke up.
+It all felt so real.
+And it made me sad.
+So sad I could not think of anything but sadness.
+You will take care of Jacob ok?
+Jacob is a good beetle.
+And he was my friend.
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_d.loctext 3244443429088999602 v3 Revised
+This is exactly like in my play!
+But this time, I am the lead actor!
+I will put on a good show, I promise!
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_e.loctext 3000117069084035724 v2 Revised
+I feel strange.
+I feel cold.
+I wish mom was here.
+And dad.
+But you are here big hat.
+I really like you.
+
+key: mushroom/conversations.mushroom_lastvoyage_tendersequence_f.loctext 710947524239279528 v4 Revised
+I hope it's like falling asleep.
+
+key: mushroom/conversations.mushroom_like_breakfast.loctext -6413774996601625581 v2 Revised
+{Expression_Surprise}Wow!!!
+{Call}Wait...
+{|Expression_Idle_Neutral}Are you a mind reader?
+{|Expression_Unhappy}Are you +=SURE=+ you're not a mind reader?
+Oh, well, ok, I believe you...
+{Eat}I love it!!!!
+{Eat}I could eat ((breakfast)) all day, every day!
+
+key: mushroom/conversations.mushroom_like_breakfast_fallback01.loctext -3907862467053249506 v2 Revised
+{Expression_Happy}((Breakfast))!
+{Eat}Exactly the same as before!
+{Eat}Awesome!
+
+key: mushroom/conversations.mushroom_like_breakfast_fallback02.loctext -3038800600213032949 v2 Revised
+{Expression_Surprise|Expression_Idle_Neutral}Am I a champion?
+{Eat}I am now gonna eat this ((breakfast))!
+
+key: mushroom/conversations.mushroom_like_dessert.loctext 3493690892863340977 v3 Revised
+{Expression_Happy}I have to do the dance!
+The ((dessert)) dance!
+I do it when I'm happy!!
+{Eat}I'll eat this delicious ((dessert)) first.
+{Eat}It's ((dessert)) time!
+{Eat}So yummy...
+
+key: mushroom/conversations.mushroom_like_dessert_fallback01.loctext 4723138197072794606 v2 Revised
+{Expression_Happy}((Dessert)) time again!
+{Eat}This is incredible!
+{Expression_Happy}I’m so happy!
+{Eat}Thank you so much, big hat!
+
+key: mushroom/conversations.mushroom_like_dessert_fallback02.loctext -3681895624318976118 v3 Revised
+{Expression_Happy}Oh wow, ((dessert)) again!
+{Eat}I could eat ((dessert)) at every meal!
+{Eat}All the time!
+{Eat}Thank you, big hat!
+
+key: mushroom/conversations.mushroom_readytoleave_accept.loctext 2177062979581226488 v3 Revised
+[Start]Thanks.
+
+key: mushroom/conversations.mushroom_readytoleave_question._independenttextbubbleloc -8140058761886380042 v3 Revised
+Big hat!
+
+key: mushroom/conversations.mushroom_readytoleave_question.loctext 6049432714914685587 v7 Revised
+[Particles]Can we go yet?
+You decide!
+
+key: mushroom/conversations.mushroom_readytoleave_refuse.loctext -6357325960500868655 v3 Revised
+Oh...
+
+key: mushroom/conversations.mushroom_refuse_finedining.loctext 48505731241880674 v2 Revised
+{Expression_Surprise|Expression_Idle_Neutral}Bwerk!
+{Expression_Surprise|Expression_Idle_Neutral}What's that?
+{|Expression_Idle_Neutral}Is that...
+{|Expression_Idle_Neutral}That thing has ((fruits)) in it, doesn't it?
+{|Expression_Idle_Neutral}((Fruits)) are yucky!
+{|Expression_Idle_Neutral}No thanks, big hat!
+
+key: mushroom/conversations.mushroom_refuse_fruits_fallback01.loctext 239294700673828318 v2 Revised
+{|Expression_Idle_Neutral}((Fruit)) is not my friend!
+{|Expression_Idle_Neutral}I don't want it around.
+
+key: mushroom/conversations.mushroom_refuse_fruits_fallback02.loctext 4162226642466341204 v2 Revised
+{|Expression_Idle_Neutral}I don't think I can do it!
+{|Expression_Idle_Neutral}I don't wanna be sick.
+{|Expression_Idle_Neutral}((Fruit)) is horrible!
+
+key: mushroom/conversations.mushroom_refuse_stimulant.loctext 2443844821836561115 v2 Revised
+{|Expression_Idle_Neutral}Well...
+{|Expression_Idle_Neutral}I don't think I can eat that...
+{|Expression_Idle_Neutral}My mother always said I couldn't...
+{|Expression_Idle_Neutral}What's a ((stimulant)) anyways?
+
+key: mushroom/conversations.mushroom_refuse_stimulant_fallback01.loctext -8760533994274631187 v2 Revised
+{|Expression_Idle_Neutral}That can't be for me.
+{|Expression_Idle_Neutral}((Stimulants)) make me extra-extra-extra rowdy!
+{|Expression_Idle_Neutral}That's what mom says...
+
+key: mushroom/conversations.mushroom_refuse_stimulant_fallback02.loctext -5363268855506457323 v2 Revised
+{|Expression_Idle_Neutral}I've been warned against ((stimulants)).
+{|Expression_Idle_Neutral}They could turn me into a monster!
+
+key: mushroom/conversations.mushroom_refuse_veggies.loctext -5055175227782471697 v2 Revised
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}That smells real odd big hat...
+{|Expression_Idle_Neutral}Are those things ((veggies))?
+{|Expression_Idle_Neutral}Cause they sure look like ((veggies))...
+{|Expression_Idle_Neutral}I don't eat ((veggies)).
+{|Expression_Idle_Neutral}((veggies)) are gross.
+
+key: mushroom/conversations.mushroom_refuse_veggies_fallback01.loctext 8397019783141300299 v1 Revised
+{|Expression_Idle_Neutral}I don't like ((veggies)).
+{|Expression_Idle_Neutral}They taste so bad!
+
+key: mushroom/conversations.mushroom_refuse_veggies_fallback02.loctext 6822367562959256916 v2 Revised
+{|Expression_Idle_Neutral}What's that smell?
+{|Expression_Idle_Neutral}Those are ((veggies))!
+{|Expression_Idle_Neutral}Yuck!
+
+key: mushroom/conversations.mushroom-breakstations._commenttext -5445820783667446659 v2 Revised
+That's broken!
+
+key: mushroom/conversations.mushroom-breakstations.loctext 7478767484731250476 v8 Revised
+{Expression_Sad|Expression_Idle_Neutral}I was feeling sad so I came to play here.
+{Call|Expression_Idle_Neutral}It broke on its own, I swear!!!
+{Expression_Sad|Expression_Idle_Neutral}...
+{Expression_Sad|Expression_Idle_Neutral}I'll fix it when I feel better...
+
+key: mushroom/conversations.mushroomcall.loctext -7209253125997566717 v2 Revised
+Hi!
+
+key: mushroom/conversations.mushroomconversation-askaboutfrogvalidation.loctext 514998683459886612 v2 Revised
+{Call|Expression_Idle_Neutral}Big hat, where is your uncle?
+{|Expression_Idle_Neutral}The big nice, funny man?
+{|Expression_Idle_Neutral}He was so nice with me!
+
+key: mushroom/conversations.mushroomconversation-askedpassengersaboutplayintroduction._independenttextbubbleloc -8782005102458141066 v2 Revised
+Ta-da!
+
+key: mushroom/conversations.mushroomconversation-askedpassengersaboutplayintroduction.loctext -3309901252400991152 v4 Revised
+{Expression_Happy}That was amazing, right?
+{Expression_Happy}I'm sure everyone liked it.
+{Expression_Happy}Please Stella go and ask around!!!
+{Call|Expression_Idle_Neutral}But wait wait wait...
+{Call|Expression_Idle_Neutral}Don't flat out +=ASK=+ about it!
+{Call|Expression_Idle_Neutral}Don't make it too obvious!
+{Call|Expression_Idle_Neutral}Be cool, big hat!
+
+key: mushroom/conversations.mushroomconversation-askedpassengersaboutplayvalidation._independenttextbubbleloc -4639111855078447632 v2 Revised
+What did they say?
+
+key: mushroom/conversations.mushroomconversation-askedpassengersaboutplayvalidation.loctext -8116372623706352689 v3 Revised
+{Expression_Surprise}Really?
+{Expression_Surprise|Expression_Headnod}+=Reaaaaaally?=+
+{Expression_Surprise|Expression_Headnod}They +=ALL=+ said they liked it?
+{|Expression_Headnod}Really really much?
+{|Expression_Headnod}Are you sure, big hat?
+I dunno...
+{|Expression_Idle_Neutral}I'm just not convinced...
+{|Expression_Idle_Neutral}...
+{Expression_Sad|Expression_Idle_Neutral}I can see it on your face.
+{Expression_Sad|Expression_Idle_Neutral}They told you they liked it, but it was not good.
+{Expression_Sad|Expression_Idle_Neutral}It was terrible and I didn't do it right.
+{Expression_Sad|Expression_Idle_Neutral}...
+{Expression_Sad|Expression_Idle_Neutral}I know it, even if you try to hide it.
+{Expression_Sad|Expression_Idle_Neutral}I just can't do nothing right.
+{Expression_Sad|Expression_Idle_Neutral}I will never make another play.
+{Expression_Sad|Expression_Idle_Neutral}I hate it.
+
+key: mushroom/conversations.mushroomconversation-borninthegardenvalidation._independenttextbubbleloc 2477888811953427306 v2 Revised
+Hi!
+
+key: mushroom/conversations.mushroomconversation-borninthegardenvalidation.loctext -8743667968312897470 v5 Revised
+{Expression_Surprise|Expression_Surprise}+=Woooooooow!!!=+
+{Expression_Surprise|Expression_Surprise}Your hat is so +=BIG=+!!
+{Expression_Surprise|Expression_Surprise}Man, look at that +=CAT=+!!
+{Expression_Surprise|Expression_Pensive}Wow...
+{Expression_Surprise|Expression_Pensive}Am I in a garden?
+{Expression_Surprise|Expression_Headnod}Is this a boat?
+{Expression_Surprise|Expression_Headnod}On water?
+{Expression_Happy}Oh... this is +=wiiiiild=+!
+{|Expression_Surprise}Catch this!
+It was in the ground with me.
+Seeya!
+
+key: mushroom/conversations.mushroomconversation-buildshelfintroduction._independenttextbubbleloc -5018872495033355908 v2 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-buildshelfintroduction.loctext 2157354247422678885 v10 Revised
+{|Expression_Idle_Neutral}I'm bored.
+{|Expression_Idle_Neutral}Stanley is bored.
+{Call|Expression_Idle_Neutral}What do you have to do around here?
+{Call|Expression_Unhappy}Do you have anything dangerous?
+{Call|Expression_Unhappy}Something that might cause explosions?
+{Call|Expression_Idle_Neutral}You are... an adult, right?
+{|Expression_Surprise}If I'm with an adult, I can do dangerous things!!
+{Expression_Happy|Expression_Idle_Neutral}I say we add a place to try some cool and possibly dangerous experiments!
+{Expression_Happy|Expression_Idle_Neutral}Oh, +=YEAH!=+
+{Expression_Happy|Expression_Idle_Neutral}Come on!!
+
+key: mushroom/conversations.mushroomconversation-buildshelfreminder._commenttext 2148569541261332308 v2 Revised
+Hey!
+
+key: mushroom/conversations.mushroomconversation-buildshelfreminder.loctext 4840063340401610812 v2 Revised
+{Call}Please Don't forget to build a ((cellar)) big hat.
+{Expression_Happy}I can't wait to see what it does!!
+
+key: mushroom/conversations.mushroomconversation-buildshelfskipconversation._independenttextbubbleloc 452563936603922071 v2 Revised
+Oh!
+
+key: mushroom/conversations.mushroomconversation-buildshelfskipconversation.loctext -6144217936442609001 v5 Revised
+{Expression_Happy}You built it already!
+
+key: mushroom/conversations.mushroomconversation-buildshelfvalidation._independenttextbubbleloc -8506495816705294526 v2 Revised
+What!
+
+key: mushroom/conversations.mushroomconversation-buildshelfvalidation.loctext -2541888248961283042 v8 Revised
+{|Expression_Idle_Neutral}What's that??
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Wait...
+{|Expression_Idle_Neutral}+=THAT'S=+ what a ((cellar)) is??
+{|Expression_Idle_Neutral}You put things in there and then...
+{|Expression_Idle_Neutral}You wait??
+{|Expression_Idle_Neutral}That's it??
+{|Expression_Unhappy}Oh man, this is so +=boooooring=+!
+{|Expression_Unhappy}+=Not+=
+{|Expression_Unhappy}+=At=+
+{|Expression_Unhappy}+=All=+ 
+{|Expression_Unhappy}What I had in mind...
+{Expression_Sad|Expression_Unhappy}I'm so disappointed!
+{Expression_Sad|Expression_Unhappy}I wanted fires and explosions!
+{Expression_Sad|Expression_Unhappy}Pfffff...
+{Expression_Sad|Expression_Unhappy}What will I do now!
+{Expression_Sad|Expression_Unhappy}This is so stupid...
+
+key: mushroom/conversations.mushroomconversation-cookpaperintroduction._independenttextbubbleloc 6987996749961384159 v2 Revised
+Hey, big hat!
+
+key: mushroom/conversations.mushroomconversation-cookpaperintroduction.loctext -400295141709623201 v6 Revised
+Ok, you found ((sawdust)) and ((glue)).
+{Expression_Sad|Expression_Unhappy}Aww,that's not how my mom would make paper though.
+{Expression_Sad|Expression_Surprise}That paper would be +="half-assed"!=+
+{|Expression_Unhappy}-=That's something my mother said sometimes...=-
+{Expression_Happy|Expression_Idle_Neutral}But you could still combine the two!
+{Expression_Happy|Expression_Idle_Neutral}It might even be better!
+{|Expression_Idle_Neutral}I don't know...
+{|Expression_Idle_Neutral}Now, you just need to find a way to actually make it.
+{|Expression_Idle_Neutral}Maybe you could heat it?
+{Expression_Happy|Expression_Idle_Neutral}Yeah, try ((cooking)) it!
+{Expression_Happy|Expression_Idle_Neutral}The best things are cooked right?
+{|Expression_Idle_Neutral}I think?
+{Expression_Sad|Expression_Idle_Neutral}I'm not allowed in the kitchen...
+{Expression_Sad|Expression_Idle_Neutral}I make mistakes...
+
+key: mushroom/conversations.mushroomconversation-crusherexperimentcomment01.loctext -2047096987360740220 v3 Revised
+Failed!
+
+key: mushroom/conversations.mushroomconversation-crusherexperimentcomment02.loctext -2236970349812571009 v4 Revised
+That doesn't work!
+
+key: mushroom/conversations.mushroomconversation-drawingintroduction._independenttextbubbleloc 7889264549909726012 v2 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-drawingintroduction.loctext 2312918073656648520 v9 Revised
+I've heard the others talk about their houses...
+{Expression_Surprise}What's that about?
+I don't get it.
+Everyone has their own treehouse?
+{Expression_Surprise}+=JUST=+ for them?
+Why go through the trouble?
+My parents would never go for it.
+{Call}One house for everyone.
+{Call}That makes more sense.
+{Call}Less cleaning.
+...
+{Expression_Surprise}Wait a second!!!
+{Call|Expression_Headnod}Could +=I=+ have a house too?
+{Expression_Surprise|Expression_Headnod}+=JUST=+ for me???
+Ok ok ok ok ok...
+I...
+I...
+{|Expression_Idle_Neutral}I need ((paper))!
+{|Expression_Idle_Neutral}Yes, ((paper))!!
+{|Expression_Idle_Neutral}You've gotta find some ((paper)).
+{|Expression_Idle_Neutral}I think I know how to make some!
+{Call}My mom would mix things together to make it!
+{|Expression_Headnod}You could do that, couldn't you?
+{Expression_Happy}Yay, thanks!
+{Expression_Happy}You're awesome big hat!
+
+key: mushroom/conversations.mushroomconversation-dustbunniesintroduction._independenttextbubbleloc -3091348383304941013 v2 Revised
+Oh, oh!
+
+key: mushroom/conversations.mushroomconversation-dustbunniesintroduction.loctext 7722757938776805409 v3 Revised
+{|Expression_Pensive}Hey, Stella, what do you think of them?
+{|Expression_Surprise}You know, the ((dust shades)) on the boat?
+{|Expression_Pensive}I mean, they're funny looking, but they're soooo gloomy all the time...
+{|Expression_Pensive}And once they're here they cling to you like chewed gum and never really leave you alone...
+{|Expression_Idle_Neutral}They bother me you know.
+{|Expression_Idle_Neutral}I wish they'd be gone...
+{|Expression_Idle_Neutral}They make me and everyone sad!
+{|Expression_Idle_Neutral}...
+{Expression_Surprise|Expression_Idle_Neutral}What??
+{Expression_Surprise|Expression_Idle_Neutral}You've never seen them??
+{Call|Expression_Idle_Neutral}Huh, that's weird...
+{|Expression_Idle_Neutral}...
+{Call|Expression_Idle_Neutral}Oh!
+{Expression_Happy|Expression_Idle_Neutral}I know!
+{Expression_Happy|Expression_Surprise}Jacob can help you!
+{Expression_Happy|Expression_Surprise}He can see them too!
+{Call|Expression_Pensive}He is a Ghost Beetle after all!
+{Call|Expression_Pensive}And you can bring him with you!
+{Call|Expression_Pensive}He loves it when we take him out of his box!
+{|Expression_Pensive}You just have to touch the glass and he'll jump out to fly with you!
+{|Expression_Pensive}And then you'll see them too!
+{Call|Expression_Pensive}But you'll have to catch them to make them go away.
+{Call|Expression_Idle_Neutral}Careful though, they're super fast!
+{|Expression_Idle_Neutral}Put on your running shoes!
+
+key: mushroom/conversations.mushroomconversation-dustbunnies-no.loctext -6932427834709741109 v2 Revised
+Nooooooo!
+
+key: mushroom/conversations.mushroomconversation-dustbunnies-obligated.loctext -6298310985971556495 v1 Revised
+[CancelTimer]The ((dust shades)) are back, and there are lots of them!
+Jacob cam show them to you!
+They won't go down without a fight.
+They are fast!
+Put on your running shoes.
+
+key: mushroom/conversations.mushroomconversation-dustbunnies-question01.loctext 1928037377664172757 v2 Revised
+[CancelTimer]You remember the gloomy ((dust shades))?
+They're everywhere!
+Are you ready to catch them?
+Just go wake Jacob in my room.
+He's taking a little nap but he won't mind...
+
+key: mushroom/conversations.mushroomconversation-dustbunniesreminder._commenttext 4494144518730982283 v2 Revised
+See.
+
+key: mushroom/conversations.mushroomconversation-dustbunniesreminder.loctext -7196019201279915076 v2 Revised
+Try touching the glass!
+
+key: mushroom/conversations.mushroomconversation-dustbunniesvalidation._independenttextbubbleloc -8127307635532420301 v2 Revised
+Did you see that?
+
+key: mushroom/conversations.mushroomconversation-dustbunniesvalidation.loctext 5059586310851476595 v5 Revised
+{Call}They were everywhere!
+{Expression_Happy}Now that they're gone I feel I can breathe again!
+These ((dust shades)) are kinda cool though.
+{Call}They glow and they run fast!
+{Call}+=Reaaaal=+ fast!
+{Expression_Sad}I don't glow.
+{Expression_Sad}I can't run that fast.
+{Expression_Sad}I wish I could.
+{Expression_Sad}One day maybe.
+Don't worry big hat.
+If the ((dust shades)) ever come back, I'll tell you right away!
+And if you want to get rid of them, you go touch the glass in my room to wake up Jacob.
+
+key: mushroom/conversations.mushroomconversation-dustbunnies-yes.loctext -4488515396923767149 v1 Revised
+Hooray!
+
+key: mushroom/conversations.mushroomconversation-eggmanualconversation.loctext -2350559421310720691 v12 Revised
+{Expression_Surprise}An... ((egg)) you say???
+{|Expression_Idle_Neutral}That doesn't sound right...
+{|Expression_Pensive}That's not an ((egg))!
+{Expression_Happy|Expression_Surprise}That's a +=fakinhage=+!
+{|Expression_Idle_Neutral}That's how my mom calls them anyways.
+{|Expression_Idle_Neutral}Anytime I would walk in the kitchen during breakfast and start playing,
+{Call|Expression_Unhappy}She would say: "Stanley, don't touch that fakinhage."
+{Expression_Sad|Expression_Idle_Neutral}She was mad sometimes.
+{Call|Expression_Idle_Neutral}It wasn't my fault, I swear!
+
+key: mushroom/conversations.mushroomconversation-eggreminder.loctext -9031731224851104156 v5 Revised
+{|Expression_Idle_Neutral}Still no luck.
+{Call|Expression_Pensive}Maybe you can find a fakinhage on an island?
+{Call|Expression_Pensive}In a shop or something?
+{|Expression_Pensive}Sometimes my mom bought some at the groceries before making breakfast...
+
+key: mushroom/conversations.mushroomconversation-fabricpleaseintroduction._independenttextbubbleloc 879885059658729553 v2 Revised
+Stella!
+
+key: mushroom/conversations.mushroomconversation-fabricpleaseintroduction.loctext -3895316071139122089 v5 Revised
+{Expression_Happy|Expression_Surprise}Look, big hat!
+{Expression_Happy|Expression_Surprise}I did what you told me!
+{Expression_Happy|Expression_Unhappy}This guest house is now +=Stanley's room=+!
+{|Expression_Idle_Neutral}But it's not entirely ready yet.
+{|Expression_Idle_Neutral}I still need to find a bunch of stuff to make it +=nice=+.
+{Expression_Surprise|Expression_Idle_Neutral}Wanna help?
+{Expression_Surprise|Expression_Headnod}Well, could you?
+{Expression_Happy}That would be great.
+{Call}I need some ((linen fabric)).
+I'm making something.
+{|Expression_Idle_Neutral}I can't tell you what it is!
+{|Expression_Idle_Neutral}-=It's a secret!=-
+
+key: mushroom/conversations.mushroomconversation-fabricpleasemanualconversation._independenttextbubbleloc 7173252730328331365 v2 Revised
+That's it!
+
+key: mushroom/conversations.mushroomconversation-fabricpleasemanualconversation.loctext -3599393674403318182 v5 Revised
+{Expression_Surprise}Oh!!
+{Expression_Surprise}And it's the soft kind!!!
+{Expression_Happy}Thank you so much big hat!!
+{Expression_Happy}You're the best!
+I can't believe I'm on this ship.
+I heard a seagull earlier, I think.
+{Expression_Happy}That is so +=coool=+!
+{|Expression_Idle_Neutral}Well... I think.
+{|Expression_Unhappy}Might have been a pigeon or a my stomach rumbling.
+{Call|Expression_Idle_Neutral}But, if it was, that's pretty awesome!!
+
+key: mushroom/conversations.mushroomconversation-fabricpleasereminder.loctext -3690771551931791850 v4 Revised
+Remember, it's ((linen fabric)) I need.
+And the good kind.
+I'm making something special.
+No peeking!
+
+key: mushroom/conversations.mushroomconversation-gameeventquest_1reminder._commenttext -6114083171936395050 v1 Placeholder
+-PH- Come here!
+
+key: mushroom/conversations.mushroomconversation-gameeventquest_1reminder.loctext 3328547463023559015 v1 Placeholder
+MushroomConversation-GameEventQuest_1Reminder
+
+key: mushroom/conversations.mushroomconversation-givepaperintroduction._independenttextbubbleloc 7040242147872866743 v2 Revised
+Thanks!
+
+key: mushroom/conversations.mushroomconversation-givepaperintroduction.loctext 4620924863964761612 v3 Revised
+{Expression_Surprise}That looks +=EXACTLY=+ like paper!
+It's even pretty cool!
+{Expression_Happy}Yes!
+{Expression_Happy}That will do it!
+Just ((give)) to me now.
+I bet I could draw some blueprints on it!
+
+key: mushroom/conversations.mushroomconversation-hoursaboardquestreminder.loctext 7500093053591238062 v3 Revised
+Don't worry about what I'm doing.
+I'm busy.
+Stanley is busy, busy.
+
+key: mushroom/conversations.mushroomconversationhungry01.loctext 7946560307362013882 v3 Revised
+{|Expression_Idle_Neutral}I'm hungry.
+{|Expression_Unhappy}It's illegal to let children go hungry!
+
+key: mushroom/conversations.mushroomconversationhungry02.loctext 3047553519670898041 v5 Revised
+{|Expression_Idle_Neutral}Do you have a snack or something?
+{|Expression_Idle_Neutral}Word of advice, big hat:
+{|Expression_Unhappy}You should always have at least a cookie on you.
+{|Expression_Unhappy}Or apple sauce.
+
+key: mushroom/conversations.mushroomconversationhungrymaster._commenttext 7876857882577200087 v2 Revised
+What's for lunch?
+
+key: mushroom/conversations.mushroomconversation-invitepassengerstoplayintroduction._independenttextbubbleloc -4762533108349747733 v2 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-invitepassengerstoplayintroduction.loctext -3844630774622020066 v8 Revised
+{|Expression_Idle_Neutral}That was soooo boring...
+{|Expression_Idle_Neutral}I almost slept the whole time!
+{Expression_Surprise}Hey!
+{|Expression_Surprise}I have an idea!
+Something that will turn it around!
+{Call|Expression_Headnod}I want to do a play!!
+{Call|Expression_Headnod}A theater play for everyone aboard!!
+I have a story I want to tell.
+It's going to be great.
+So...
+You've got to invite your favourite friends.
+You can decide how many people you want.
+{|Expression_Headnod}Find the best audience for my great play!
+
+key: mushroom/conversations.mushroomconversation-invitepassengerstoplayreminder._commenttext -6968916559699150118 v2 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-invitepassengerstoplayreminder.loctext -3010993294551895606 v2 Revised
+{Call|Expression_Idle_Neutral}Have you decided on who you wanted to invite to my play?
+
+key: mushroom/conversations.mushroomconversation-itemgiftquest_1introduction._independenttextbubbleloc -4455597080011206629 v1 Placeholder
+-PH- Spirit Call!
+
+key: mushroom/conversations.mushroomconversation-itemgiftquest_1introduction.loctext 5697585350106371790 v1 Placeholder
+MushroomConversation-ItemGiftQuest_1Introduction
+
+key: mushroom/conversations.mushroomconversation-itemgiftquestmanualconversation._independenttextbubbleloc 4034651526330806012 v1 Placeholder
+-PH- Spirit Call!
+
+key: mushroom/conversations.mushroomconversation-itemgiftquestmanualconversation.loctext -2562493609313756399 v6 Revised
+That will work!
+{Call}I have crayons in my house.
+A bunch of them are hiding in the sofa.
+{Expression_Happy}Thanks, big hat!
+{Expression_Happy}I'll start by drawing the nicest blueprints ever!!
+{Expression_Happy}The biggest and most beautiful houses!
+{Call}Maybe someday I could draw buildings for real?
+Yeah.
+Someday.
+
+key: mushroom/conversations.mushroomconversation-kidsplayintroduction._independenttextbubbleloc -3493711798600990876 v1 Revised
+Hi!
+
+key: mushroom/conversations.mushroomconversation-lastvoyageplayintroduction._independenttextbubbleloc -5601499467414215963 v2 Revised
+Hey, big hat!
+
+key: mushroom/conversations.mushroomconversation-lastvoyageplayintroduction.loctext -1696903783652764539 v4 Revised
+{Expression_Happy}I'm so excited!
+{Expression_Happy}This is going to be the best!
+{Call}Are you ready to watch my play?
+
+key: mushroom/conversations.mushroomconversation-lastvoyageplayintroduction-noanswer_conversation.loctext 4409948901727083779 v1 Revised
+Oh... that's... oh...
+
+key: mushroom/conversations.mushroomconversation-lastvoyageplayintroduction-yesanswer_conversation.loctext -4804186576865218249 v1 Revised
+Get ready!
+
+key: mushroom/conversations.mushroomconversation-lastvoyageplayreminder.loctext -3644090517207292403 v1 Revised
+Are you ready to watch my play now?
+
+key: mushroom/conversations.mushroomconversation-loomexperimentcomment01.loctext -337432792571827497 v3 Revised
+No!
+
+key: mushroom/conversations.mushroomconversation-loomexperimentcomment02.loctext -5442111403137078178 v2 Revised
+Ooooops...
+
+key: mushroom/conversations.mushroomconversation-mushroombigmealfoodintroduction.loctext 8153315686728044610 v6 Revised
+{Call|Expression_Happy}Oh!
+{Call|Expression_Happy}Stanley loves other people's food.
+{Call|Expression_Happy_to_Idle}Bring me some ((french fries))!
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_one_2introduction._commenttext -7971834275444202755 v1 Revised
+Oh...
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_one_2introduction.loctext -7244852520952105414 v1 Revised
+{|Expression_Idle_Neutral}Hey big hat, do you have a favourite passenger?
+{Call|Expression_Idle_Neutral}Wait wait wait wait...
+{Call|Expression_Idle_Neutral}Don’t tell me!!!
+{Call}It’s your secret.
+I have one too!
+It’s my secret.
+...
+{Call|Expression_Pensive}Wait!?
+{Call|Expression_Unhappy}What if it’s the same one?
+{Call|Expression_Unhappy}Oh!
+{Call|Expression_Unhappy}Oh oh...
+{Call|Expression_Unhappy}Now, I kinda have to know...
+{|Expression_Idle_Neutral}Oh no, it’s going to bug me the whole day.
+{Call|Expression_Unhappy}Please tell me!!
+{Call|Expression_Unhappy}Come on!
+{Call|Expression_Unhappy}Wait! No! Don't tell me...
+{|Expression_Idle_Neutral}Oh fudge, I shouldn’t have said anything...
+{|Expression_Idle_Neutral}Nevermind...
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_three_2introduction._commenttext 8474913640097925890 v1 Revised
+Hmm...
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_three_2introduction.loctext -4428633175069491471 v1 Revised
+{|Expression_Idle_Neutral}When I spend the day with dad, it’s because something bad happened.
+{|Expression_Idle_Neutral}We don’t see mom for a few days.
+{|Expression_Idle_Neutral}I'm all alone at home with dad.
+{|Expression_Idle_Neutral}Sometimes, I don’t even have to go to school!
+{|Expression_Idle_Neutral}Me and dad... we put on pajamas and play games all day.
+{|Expression_Idle_Neutral}We play in the snow.
+{|Expression_Idle_Neutral}We eat in front of the TV.
+{|Expression_Idle_Neutral}We take naps.
+{|Expression_Idle_Neutral}Then after a few days, mom comes back.
+{|Expression_Idle_Neutral}I like that.
+{|Expression_Idle_Neutral}Dad likes that too.
+{|Expression_Idle_Neutral}He isn't sad anymore.
+{|Expression_Idle_Neutral}I like that too.
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_two_2introduction._commenttext 4783444009625834874 v1 Revised
+Stella.
+
+key: mushroom/conversations.mushroomconversation-narrativemoment_two_2introduction.loctext -16599788498923519 v1 Revised
+{|Expression_Idle_Neutral}I don’t have bad dreams here.
+{|Expression_Idle_Neutral}I don’t think I’m even dreaming.
+{|Expression_Idle_Neutral}It’s all black when I close my eyes at night.
+{|Expression_Idle_Neutral}When I wake up, I can only think of one thing.
+Your big hat.
+And your face.
+Smiling at me.
+I didn't like to go to sleep.
+But I do now because I know I’ll wake up and you’ll be there.
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-oneintroduction._commenttext 8205626806867575837 v1 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-oneintroduction.loctext -2843855506884272409 v2 Revised
+{|Expression_PensiveCall}I don't know if there are more ghost beetles on your boat...
+{|Expression_Pensive}Jacob could have another friend to play with!
+{Expression_Happy}On the other hand, I like that he's with me.
+{|Expression_Idle_Neutral}He sees them.
+{|Expression_Idle_Neutral}They fill me up with sadness, and thanks to Jacob, I can avoid them...
+{|Expression_Surprise}One time, one of them bit me on the nose.
+{|Expression_Idle_NeutralCall}Did you know that?
+{|Expression_Idle_Neutral}I switched on the light and he got scared.
+{|Expression_Idle_Neutral}That’s the thing with ((dust shades)).
+{|Expression_Idle_NeutralCall}Light scares them big time!
+{|Expression_Idle_NeutralCall}That's why they hide in the shadows and no one can see them.
+{|Expression_Idle_NeutralCall}And that’s why they don’t like your belt buckle.
+{|Expression_Idle_Neutral}It’s bursting with light.
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-threeintroduction._commenttext 1625061638613340268 v1 Revised
+Stella!
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-threeintroduction.loctext 1453894946761470958 v1 Revised
+From my house, I could always see the snow.
+Way up in the mountains.
+Sometimes, there was snow on our house, too.
+My dad wanted me to go outside with him. 
+We played in the snow.
+Then he’d run after me.
+Suddenly, he became a monster!!
+But don’t worry.
+It was all make believe.
+I know my dad wasn’t a real monster.
+But when he put his arms up and made a funny voice, I just ran.
+He chased me!
+But he couldn't catch me up!
+Then he became my dad again when I stopped and he started laughing!
+I miss the snow sometimes...
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-twointroduction._commenttext 756565765707276897 v1 Revised
+Stella!
+
+key: mushroom/conversations.mushroomconversation-narrativemoment-twointroduction.loctext -6741946359957824171 v1 Revised
+Sometimes, I could not sleep.
+I had these nightmares.
+All the people at school were there.
+My mom and dad were there.
+Everyone kept shouting: Fall! Fall! Fall!
+Then I could only see the sky..
+There was wind in my hair.
+Then I woke up.
+{|Expression_Idle_Neutral}When I’m scared and I wake up, my bed is always wet.
+{|Expression_Idle_Neutral}Mom doesn’t like that...
+
+key: mushroom/conversations.mushroomconversation-needgluereminder._commenttext -2930679208558626824 v2 Revised
+Right.
+
+key: mushroom/conversations.mushroomconversation-needgluereminder.loctext 3356864087594157971 v4 Revised
+Have you tried putting something in the ((foundry))?
+I don't know what though!
+
+key: mushroom/conversations.mushroomconversation-needsawdustreminder._commenttext -6485301271346893889 v2 Revised
+Think about it...
+
+key: mushroom/conversations.mushroomconversation-needsawdustreminder.loctext -468968383611698516 v3 Revised
+You need little bits of dust.
+You know, the kind you get when cutting logs into planks!
+I think that would work!
+
+key: mushroom/conversations.mushroomconversation-sleepinginstellabedreminder.loctext 1836363665069770191 v5 Revised
+{Expression_Surprise}Ah!
+{Expression_Surprise|Expression_Idle_Neutral}You woke me up!
+{|Expression_Idle_Neutral}Your room is itchy...
+{|Expression_Idle_Neutral}I don't like to sleep in here.
+{|Expression_Idle_Neutral}Where should I sleep?
+{|Expression_Idle_Neutral}...
+{|Expression_Surprise}The guest house?
+{Call|Expression_Idle_Neutral}Yes!
+{Expression_Happy|Expression_Surprise}I could make it... Stanley's room!
+{Expression_Happy|Expression_Idle_Neutral}I get it!
+{Expression_Happy|Expression_Idle_Neutral}Thanks, big hat!
+
+key: mushroom/conversations.mushroomconversation-smelterexperiment_gluevalidation._independenttextbubbleloc -6183266178546376338 v2 Revised
+Yeah!
+
+key: mushroom/conversations.mushroomconversation-smelterexperiment_gluevalidation.loctext -5457726104119684055 v4 Revised
+{Expression_Happy}That was incredible big hat!!
+{|Expression_Idle_Neutral}Now let's go even wackier!!
+{|Expression_Idle_Neutral}Let's go to the ((loom))!
+{|Expression_Idle_Neutral}Let's play with the ((crusher))!
+{|Expression_Idle_Neutral}Let's experiment!
+{Call|Expression_Idle_Neutral}Oh, oh, oh!
+{Expression_Happy|Expression_Idle_Neutral}This is a soooooo wild!
+{Call|Expression_Unhappy}Please please please please please!!!
+{Call|Expression_Unhappy}Say yes!!
+{|Expression_Headnod}...
+{Expression_Happy}+=AWESOME=+!!
+{Expression_Happy}Here's a bunch of junk you can try out!
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentcomment01.loctext 8553071158530245248 v2 Revised
+Big mistake.
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentcomment02.loctext 2486988471563139559 v3 Revised
+What a mess...
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentreminder01._independenttextbubbleloc 8966052141037178270 v1 Placeholder
+That's not it!
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentreminder01.loctext 2091112101967656485 v2 Placeholder
+I should of guessed that wouldn't of worked!
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentreminder02._independenttextbubbleloc -5204738421900422576 v2 Placeholder
+Oh no!
+
+key: mushroom/conversations.mushroomconversation-smelterexperimentreminder02.loctext -3957198397510480388 v2 Placeholder
+That don't work! What a mess.
+
+key: mushroom/conversations.mushroomconversation-stanexperimentsintroduction._independenttextbubbleloc 7507462104756086383 v2 Revised
+Hey, big hat!
+
+key: mushroom/conversations.mushroomconversation-stanexperimentsintroduction.loctext 4826506519878495828 v7 Revised
+{|Expression_Idle_Neutral}I'm bored.
+{|Expression_Idle_Neutral}Bored and angry.
+{|Expression_Idle_Neutral}We never get to play around!
+{|Expression_Idle_Neutral}It's always so strict on this boat!
+{|Expression_Idle_Neutral}Why don't we have some fun?
+{|Expression_Pensive}What if you could put anything you wanted in those machines?
+{|Expression_Pensive}Like the ((foundry))!
+{Expression_Happy|Expression_Pensive}Yeah!
+{Expression_Happy|Expression_Pensive}That would be incredible!
+{|Expression_Idle_Neutral}Let's throw some ((junk)) into it!!
+{|Expression_Idle_Neutral}Maybe an ((old shoe))?
+{Expression_Happy|Expression_Idle_Neutral}Gross, but fun!
+
+key: mushroom/conversations.mushroomconversation-stanexperimentsvalidation._independenttextbubbleloc -6788462277586375883 v2 Revised
+Oh no...
+
+key: mushroom/conversations.mushroomconversation-stanexperimentsvalidation.loctext 2070181544423384105 v4 Revised
+{|Expression_Idle_Neutral}You made so many mistakes!
+{|Expression_Idle_Neutral}I wouldn't have made that many.
+{|Expression_Idle_Neutral}My dad would say, "don't worry about it too much".
+{|Expression_Idle_Neutral}That would really make my mom mad.
+
+key: mushroom/conversations.mushroomconversationstarving01.loctext -6989699228955495068 v2 Revised
+{|Expression_Idle_Neutral}+=STELLA=+!
+{|Expression_Idle_Neutral}I'm +=HUNGRY=+!
+{|Expression_Idle_Neutral}I want +=FOOD=+!
+{|Expression_Idle_Neutral}Show me what you got!
+
+key: mushroom/conversations.mushroomconversationstarving02.loctext 7498645757409211446 v2 Revised
+{|Expression_Idle_Neutral}Oh come on I'm +=sooooooooo=+ hungry...
+{Call|Expression_Idle_Neutral}I could eat a horse!
+{Call|Expression_Idle_Neutral}No! Two horses!
+{|Expression_Idle_Neutral}With katsup and soda!
+{|Expression_Idle_Neutral}Could you cook a horse?
+{|Expression_Idle_Neutral}Would it enter your oven?
+
+key: mushroom/conversations.mushroomconversationstarvingmaster._commenttext 5956529036093779418 v5 Revised
+Food time!
+
+key: mushroom/conversations.mushroomconversation-talktomushroomabouttinyowlintroduction.loctext -6899349634021020045 v3 ReadyForRevision
+...
+I don't understand.
+That nice lady.
+...
+Big hat.
+I don't like when people say lies about me.
+
+key: mushroom/conversations.mushroomconversation-tchotchkepleaseintroduction._independenttextbubbleloc -8625387418821640169 v2 Revised
+Hi there!
+
+key: mushroom/conversations.mushroomconversation-tchotchkepleaseintroduction.loctext 3834859831482454406 v5 Revised
+This place is missing something...
+{Call}Oh!
+{Call}I know!
+{Call}It needs to have a fancy decoration!
+{Expression_Happy}I need something awesome!
+{|Expression_Idle_NeutralExpression_Happy}A +=treasure=+!
+{|Expression_Idle_Neutral}Something that looks shiny and valuable!
+{|Expression_Idle_Neutral}A ((tchotchke)) maybe?
+{|Expression_Idle_Neutral}Anything.
+{|Expression_Idle_Neutral}A gift!
+{|Expression_Idle_Neutral}Please big hat!
+
+key: mushroom/conversations.mushroomconversation-tchotchkepleasemanualconversation._independenttextbubbleloc -8744108594798271480 v1 Revised
+Hey big hat!
+
+key: mushroom/conversations.mushroomconversation-tchotchkepleasemanualconversation.loctext -547072987211408427 v3 Revised
+{Expression_Happy}Wow!
+{Expression_Happy}So cool!!
+{Expression_Happy}That's +=PERFECT=+!!
+{Expression_Happy}This is the last finishing touch to my +=MASTERPIECE=+!
+{Expression_Happy}My super special awesome secret room!
+{Expression_Happy}It might look odd, but it hides many secret passages and other types of cool stuff!
+{Expression_Happy|Expression_Surprise}It's my home now!
+{|Expression_Idle_Neutral}Don't worry, I'll clean all this stuff on the windows.
+{|Expression_Pensive}Which reminds me, you had a ghost beetle in there, hiding in your sofa.
+{|Expression_Pensive}You probably didn't notice him.
+{|Expression_Pensive}Ghost beetles are very good at hiding.
+But he's my friend now and his name is Jacob.
+He told me he could see things no one else can.
+Jacob is cool!
+He's got superpowers.
+{|Expression_Headnod}Maybe I'll let you play with him someday!
+
+key: mushroom/conversations.mushroomconversation-tchotchkepleasereminder.loctext 418830801682982800 v3 Revised
+{|Expression_Idle_Neutral}Found a treasure yet for me?
+{|Expression_Idle_Neutral}That'd be cool.
+{|Expression_Idle_Neutral}Thanks big hat!
+
+key: mushroom/conversations.mushroomconversation-toast.loctext 3808218065036778004 v1 Revised
+Food!!!!
+
+key: mushroom/conversations.mushroomconversation-toastreminder.loctext 5941555656752651152 v1 Revised
+Being out of the boat is amazing!
+Let's do it more often!
+
+key: mushroom/conversations.mushroomconversation-useshelfreminder._commenttext 5235934864699495542 v2 Revised
+Yeah.
+
+key: mushroom/conversations.mushroomconversation-useshelfreminder.loctext -7601619431378289422 v2 Revised
+{|Expression_Idle_Neutral}You can try that ((shelf)) and let something ferment.
+{|Expression_Idle_Neutral}Not for me.
+{|Expression_Idle_Neutral}I don't care about it.
+{|Expression_Unhappy}It is dumb.
+
+key: mushroom/conversations.mushroomconversation-vistc1introduction._independenttextbubbleloc -2949722228348738727 v2 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-vistc1introduction.loctext 1907331846988499643 v4 Revised
+{Call}I've got a great idea!
+Now that you've found some volunteers.
+We just need to find a place for the play.
+I was thinking that big city, ((Oxbury)).
+{Call}All those lights!
+{Call}All those buildings!
+{Expression_Happy}It will be +=AWESOME=+!!.
+
+key: mushroom/conversations.mushroomconversation-waitafterplay01.loctext 552096868985421639 v3 Revised
+{Expression_Sad}Hmm...
+{Expression_Sad}I don't like hearing so many bad things.
+{Expression_Sad}...About me.
+{Expression_Sad}Why were people mean?
+
+key: mushroom/conversations.mushroomconversation-waitafterplay02.loctext 8739910991266021689 v3 Revised
+{|Expression_Idle_Neutral}I don't get it.
+{|Expression_Idle_Neutral}People usually like my plays!
+{|Expression_Idle_Neutral}And I like doing them.
+{Expression_Sad|Expression_Empathy}Now, I don't really feel like doing them anymore.
+{Expression_Sad|Expression_Empathy}Hm...
+
+key: mushroom/conversations.mushroomconversation-waitafterplay03.loctext -3668677149152223494 v3 Revised
+{|Expression_Idle_Neutral}My mom sometimes yells at me.
+{|Expression_Idle_Neutral}I don't know why she does it.
+{|Expression_Idle_Neutral}I kinda feel the same now.
+{|Expression_Idle_Neutral}Bad.
+
+key: mushroom/conversations.mushroomconversation-waitafterplay04.loctext 4819108122580982326 v2 Revised
+{Expression_Sad|Expression_Empathy}I don't feel so great.
+{Expression_Sad|Expression_Empathy}I think I should be alone.
+
+key: mushroom/conversations.mushroomconversation-waitafterplayvalidation._independenttextbubbleloc 4109857307593647314 v1 Revised
+Stella...
+
+key: mushroom/conversations.mushroomconversation-waitafterplayvalidation.loctext -4574768433223897155 v2 Revised
+{|Expression_Idle_Neutral}I've been thinking about my play.
+{|Expression_Idle_Neutral}And how people didn't like it.
+{|Expression_Idle_Neutral}It's okay.
+{|Expression_Idle_Neutral}As mom says, they are entitled to their hope onion.
+{|Expression_Idle_Neutral}I'm not angry or sad anymore because of it.
+{|Expression_Idle_Neutral}I guess there are things in life you can't really control can you?
+{|Expression_Idle_Neutral}Like...
+{|Expression_EmpathyExpression_Sad}Big hat...
+{|Expression_EmpathyExpression_Sad}...
+{|Expression_EmpathyExpression_Sad}I don't think I can be here anymore.
+{|Expression_Empathy}We should go to the ((Everdoor)).
+{|Expression_Headnod}Will you come with me?
+{|Expression_EmpathyExpression_Sad}I think I'm scared.
+{|Expression_Headnod}I don't think I like new places that much, but if you're with me, I think it will be alright.
+
+key: mushroom/conversations.mushroomconversation-waitatguesthousereminder.loctext 4575255975398129413 v6 Revised
+{Expression_Happy}This is +=NICE=+!
+{Expression_Happy}There's +=soooooo=+ much room!!!
+I can get used to this!
+{Expression_Happy}Stanley's room is going to be great!
+
+key: mushroom/conversations.mushroomconversation-welcomenewspirit01.loctext 6168801654322760777 v3 Placeholder
+Shiny!
+
+key: mushroom/conversations.mushroomconversation-welcomenewspirit02.loctext 4023936124161383708 v3 Placeholder
+Woah!
+
+key: mushroom/conversations.mushroomconversation-whatintroduction._independenttextbubbleloc 2484827689496668039 v2 Revised
+Big Hat!
+
+key: mushroom/conversations.mushroomconversation-whatintroduction.loctext 8427908593832946317 v12 Revised
+Ok, I need a ((fakinhage)).
+{|Expression_Idle_Neutral}You know!!
+{|Expression_Idle_Neutral}A ((fakinhage))!
+{|Expression_Idle_Neutral}...
+{Call|Expression_Idle_Neutral}What?
+{Call|Expression_Idle_Neutral}You don't know what that is?
+{|Expression_Idle_Neutral}-=How could it be?=-
+{Call|Expression_Pensive}It's super popular and normal!
+{Call|Expression_Pensive}Everyone has them always lying around in the kitchen!
+{|Expression_Pensive}...
+{Call|Expression_Pensive}Everyone loves them!
+{Call|Expression_Pensive}Oh come on...
+{Expression_Surprise|Expression_Idle_Neutral}Are you making fun of me?
+{|Expression_Idle_Neutral}I don't like it when people make fun of me!
+{|Expression_Pensive}Look, I've been dreaming about it.
+{|Expression_Pensive}I need a ((fakinhage))!
+
+key: mushroom/conversations.mushroomconversation-wonderreminder._commenttext -3360574235645059207 v2 Revised
+Hey!
+
+key: mushroom/conversations.mushroomconversation-wonderreminder._independenttextbubbleloc -7144073884977675221 v1 Revised
+Big hat!
+
+key: mushroom/conversations.mushroomconversation-wonderreminder.loctext -8586529147372296693 v4 Revised
+{Expression_Surprise|Expression_Idle_Neutral}You don't have a fakinhage yet?
+{Call|Expression_Pensive}It's usually white and round and hard!
+{Call|Expression_Pensive}We have it at breakfast all the time!
+{Call|Expression_Pensive}I love it with toast!
+{Call|Expression_Pensive}And they always come in dozens!
+
+key: mushroom/conversations.mushroom-following.loctext 3501615779483308781 v5 Revised
+What are you doing? 
+{|Expression_Idle_Neutral}Where are you going?
+{Expression_Happy|Expression_Idle_Neutral}I want to learn how to be a captain so I'm following you!
+
+key: mushroom/conversations.mushroomfoodaccept.loctext 3252836855268668537 v1 Placeholder
+<spirit>FoodAccept
+
+key: mushroom/conversations.mushroomfoodrefuse.loctext -472092818398260448 v1 Placeholder
+<spirit>FoodRefuse
+
+key: mushroom/conversations.mushroomfoodsame.loctext -4014029013711840185 v2 Revised
+{|Expression_Idle_Neutral}I think you've already given me this a few minutes ago.
+{|Expression_Idle_Neutral}Hours maybe?
+{|Expression_Idle_Neutral}Anyway, I don't want to eat it again.
+
+key: mushroom/conversations.mushroom-givedrawings._commenttext 7147207886064365591 v1 Revised
+Look what I drew!
+
+key: mushroom/conversations.mushroom-givedrawings.loctext -9102944246861777797 v4 Revised
+I did this drawing for you.
+
+key: mushroom/conversations.mushroom-givegarbage._commenttext 3431792631764250096 v1 Revised
+I have a present for you!
+
+key: mushroom/conversations.mushroom-givegarbage.loctext 8559405035465176355 v2 Revised
+I found this in my room and thought you might need it.
+
+key: mushroom/conversations.mushroomhugaccept.loctext -4595031025558643440 v2 Revised
+That feels nice!
+
+key: mushroom/conversations.mushroomhughappy01.loctext -6812359003012024505 v2 Revised
+Oh wow, you're good at this!
+
+key: mushroom/conversations.mushroomhughappy02.loctext 8264577919194089483 v2 Revised
+This is great!
+
+key: mushroom/conversations.mushroomhugrefuse.loctext -2154278859513414615 v3 Revised
+{|Expression_Idle_Neutral}Not right now...
+
+key: mushroom/conversations.mushroomhugrefuse01.loctext 8443838747661212461 v3 Revised
+{|Expression_Idle_Neutral}Sorry big hat, I'm busy...
+
+key: mushroom/conversations.mushroomhugrefuse02.loctext 9155511053647141534 v3 Revised
+{|Expression_Idle_Neutral}I don't know... later, maybe?
+
+key: mushroom/conversations.mushroommedecineaccept.loctext 5521050128632501974 v1 Placeholder
+<spirit>MedecineAccept
+
+key: mushroom/conversations.mushroommedecinebad.loctext -4681546347664195666 v1 Placeholder
+<spirit>MedecineBad
+
+key: mushroom/conversations.mushroommedecinerefuse.loctext 6855501725108471170 v1 Placeholder
+<spirit>MedecineRefuse
+
+key: mushroom/conversations.mushroom-verysadconversation.loctext 8118799477718197633 v5 Revised
+{Expression_Sad|Expression_Idle_Neutral}I'm sad, but I don't know why...
+{Expression_Sad|Expression_Idle_Neutral}I miss my mom...
+{Expression_Sad|Expression_Idle_Neutral}And my dad too...
+
+key: mushroom/conversations.mushroomwelcome.loctext 5793145188338844904 v1 Placeholder
+<spirit>Welcome
+
+key: mushroom/conversations.mushroomwelcomeend.loctext -2709318918428788976 v3 Placeholder
+<spirit>WelcomeEnd
+

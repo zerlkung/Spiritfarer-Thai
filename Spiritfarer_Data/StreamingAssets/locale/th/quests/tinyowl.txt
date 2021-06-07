@@ -1,0 +1,123 @@
+key: quests/tinyowl.addtinyowldecorations._descriptionloc 4511985916700784900 v1 ReadyForRevision
+((Improve)) completly ((Beverly's Clocktower)).
+
+key: quests/tinyowl.archive._flavortextloc -1436432726541635415 v1 ReadyForRevision
+An ((Archive Room))? For what? I suppose Beverly wants a visual support to tell me a story.
+
+key: quests/tinyowl.archive._namekeyloc -2767776346902650538 v3 ReadyForRevision
+The Beginning and the End
+
+key: quests/tinyowl.buildarchiveroom._descriptionloc -8706520401260083107 v1 ReadyForRevision
+((Build)) the ((Archive Room)).
+
+key: quests/tinyowl.buildhyenahouse._descriptionloc -2316847870727724962 v1 ReadyForRevision
+((Build)) the ((Beverly's Clocktower)).
+
+key: quests/tinyowl.buyarchiveroomblueprint._descriptionloc -2570229994130403347 v1 ReadyForRevision
+((Buy)) the ((Archive Room)) blueprint on ((Edgeborough Lane)).
+
+key: quests/tinyowl.cookfavouritefood._descriptionloc 2771533311934050227 v1 ReadyForRevision
+((Cook)) a ((laksa)) for Beverly.
+
+key: quests/tinyowl.cookfood._flavortextloc 697284458658539169 v1 ReadyForRevision
+I remember Beverly loving food with some kick, but this seems out of control. I don't think my stomach could handle it.
+
+key: quests/tinyowl.cookfood._namekeyloc -1010752100686659190 v1 ReadyForRevision
+Cooking With Fire
+
+key: quests/tinyowl.findacetatethree._descriptionloc -3985001150458245055 v2 ReadyForRevision
+Find an ((acetate)) in ((Nordweiller)).
+
+key: quests/tinyowl.findacetatetwo._descriptionloc -2674629221073126784 v1 ReadyForRevision
+Find an ((acetate)) in ((Old-Central District)).
+
+key: quests/tinyowl.findhyenablueprint._descriptionloc 6400580786640763478 v1 ReadyForRevision
+Ask around for the missing blueprint in ((Hummingberg)).
+
+key: quests/tinyowl.firefliesevent._descriptionloc -7576685787813705836 v1 ReadyForRevision
+Find some fresh ((fireglow)) inside a swarn of fireflies.
+
+key: quests/tinyowl.givefavouritefood._descriptionloc -9163852398692370983 v1 ReadyForRevision
+((Give)) Beverly a ((laksa)).
+
+key: quests/tinyowl.gotob1._descriptionloc 5421183228429298186 v1 ReadyForRevision
+Head to ((Hummingberg)).
+
+key: quests/tinyowl.gotoc1._descriptionloc -1051366493335399204 v1 ReadyForRevision
+Head to ((Oxbury)).
+
+key: quests/tinyowl.gotoc3._descriptionloc -5211813886175183664 v1 ReadyForRevision
+Head to ((Edgeborough Lane)).
+
+key: quests/tinyowl.itemcraftingquest._descriptionloc 1469731110307755085 v1 ReadyForRevision
+((Plant)) a ((fireglow seed)) in the ((garden)).
+
+key: quests/tinyowl.morestories._flavortextloc -307911869250642108 v1 ReadyForRevision
+Beverly wants to share even more with me. Her life is full of interessting stories.
+
+key: quests/tinyowl.morestories._namekeyloc -9110914440179847706 v1 ReadyForRevision
+Slow Decay
+
+key: quests/tinyowl.multispiritprogressquest._descriptionloc -3309609992001962873 v1 ReadyForRevision
+Talk to the other passenger aboard
+
+key: quests/tinyowl.multispiritprogressquest._flavortextloc -7322185892860923061 v1 ReadyForRevision
+Beverly believes all the passengers are talking behind her back. Saying nasty things. Let's get to the bottom of this.
+
+key: quests/tinyowl.multispiritprogressquest._namekeyloc -8095747641404409843 v1 ReadyForRevision
+Dish The Dirt
+
+key: quests/tinyowl.openedprojector._descriptionloc -864863210315764122 v1 ReadyForRevision
+Try the ((Archive Room)) projector.
+
+key: quests/tinyowl.releasetinyowl._descriptionloc 149641677186943898 v1 ReadyForRevision
+Bring Beverly to the ((Everdoor)).
+
+key: quests/tinyowl.releasetinyowl._flavortextloc 2750264636383084407 v1 ReadyForRevision
+I can see and feel that Beverly is hurting. She can barely talk. I don't want her last words to me to be "bring me to the ((Everdoor))".
+
+key: quests/tinyowl.releasetinyowl._namekeyloc -8878743322801538459 v1 ReadyForRevision
+Dusting Off Old Ghosts
+
+key: quests/tinyowl.rewelcometinyowl._descriptionloc 6891806414603883863 v1 ReadyForRevision
+Re-Welcome Beverly on the ship.
+
+key: quests/tinyowl.talktotinyowl._descriptionloc -8859853473700050542 v1 ReadyForRevision
+Talk to Beverly on ((Oxbury)).
+
+key: quests/tinyowl.talktotinyowlagain._descriptionloc 1643615972827188481 v1 ReadyForRevision
+Talk to Bervely on ((Oxbury)).
+
+key: quests/tinyowl.tinyowl._talktodescription 6148910533145142290 v3 ReadyForRevision
+Talk to Beverly.
+
+key: quests/tinyowl.tinyowlcomplains._descriptionloc -3719743125313484884 v1 ReadyForRevision
+Talk to Beverly.
+
+key: quests/tinyowl.tinyowlstoryone._descriptionloc 5724338552354073785 v1 ReadyForRevision
+Talk to Beverly.
+
+key: quests/tinyowl.tinyowlstorythree._descriptionloc -8725205979225151306 v1 ReadyForRevision
+Talk to Beverly.
+
+key: quests/tinyowl.tinyowlstorytwo._descriptionloc -5555664833875428512 v1 ReadyForRevision
+Talk to Beverly.
+
+key: quests/tinyowl.viewacetateone._descriptionloc 4008252339300098709 v1 ReadyForRevision
+View the ((acetate)) in the ((Archive Room)).
+
+key: quests/tinyowl.viewacetatethree._descriptionloc -2459451705958034561 v1 ReadyForRevision
+View the ((acetate)) in the ((Archive Room)).
+
+key: quests/tinyowl.viewacetatetwo._descriptionloc 3173077338986105570 v1 ReadyForRevision
+View the ((acetate)) in the ((Archive Room)).
+
+key: quests/tinyowl.welcome._flavortextloc -8541167940815925424 v1 ReadyForRevision
+This person sounds oddly familiar. I just can't put my finger on it. Let's see where this takes us.
+
+key: quests/tinyowl.welcome._namekeyloc -3088572859809586467 v2 ReadyForRevision
+The One from Downstairs
+
+key: quests/tinyowl.welcometinyowl._descriptionloc -5069519726231666240 v2 ReadyForRevision
+Welcome your new passenger on the boat.
+

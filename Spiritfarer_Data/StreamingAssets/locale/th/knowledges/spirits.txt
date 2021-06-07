@@ -1,0 +1,21 @@
+key: knowledges/spirits.knowledge_bull_allergic_to_fish._textloc -262080209944103788 v1 Placeholder
+Mickey is allergic to fish.
+
+key: knowledges/spirits.knowledge_deer_childhood_friend._textloc -7638723001974941002 v1 Placeholder
+Gwen is Stella's <color=#ffcf2a>childhood friend</color>
+
+key: knowledges/spirits.knowledge_first_movingobject._textloc -8371128951760162706 v1 Placeholder
+Mickey sure seems like the violent type. The ocean could eat us alive.
+
+key: knowledges/spirits.snakebelievesincrystalenergy._textloc 2449159703929580498 v1 Placeholder
+Believes in the power of crystals
+
+key: knowledges/spirits.snakeisvegan._textloc -3241544639575162087 v1 Placeholder
+Is completely vegan
+
+key: knowledges/spirits.snakeknowsalotaboutgardening._textloc -8354330548037068363 v1 Placeholder
+Very knowledgeable when it comes to gardening
+
+key: knowledges/spirits.snakelikesfruitsandlovesfruitsalad._textloc 797231721497473816 v1 Placeholder
+Likes ripe fruits, especially in a fruit salad
+

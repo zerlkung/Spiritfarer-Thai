@@ -1,0 +1,39 @@
+key: knowledges/events.knowledge_denizen_adrift._textloc 6573348126633856775 v1 Placeholder
+The cries of help can be heard over the waves crashing on your boat.
+
+key: knowledges/events.knowledge_dragon_showfloor._textloc -1617666830880689965 v1 Placeholder
+A mysterious presence is disturbing the waters.
+
+key: knowledges/events.knowledge_first_movingobject._textloc -8585766404375111228 v1 Placeholder
+Mickey sure seems like the violent type. The ocean could eat us alive.
+
+key: knowledges/events.knowledge_floatingcrates._textloc 3916544900406376230 v1 Placeholder
+Wreckage of past vessels.
+
+key: knowledges/events.knowledge_jellyfish._textloc 3531448172793681275 v1 Placeholder
+Jellyfish are the source of wind and the light in these parts.
+
+key: knowledges/events.knowledge_jellyfish_showfloor._textloc 6876850698687144027 v1 Placeholder
+The wind and the light have been unusually unstable in those parts.
+
+key: knowledges/events.knowledge_onionmonkey_shipyard._textloc 2398612821466218323 v1 Placeholder
+A vendor wanders near ((Albert's Shipyard)) selling little odds and ends.
+
+key: knowledges/events.knowledge_onionmonkey_showfloor._textloc -5146260201688995927 v1 Placeholder
+A vendor wanders the ocean selling little odds and ends.
+
+key: knowledges/events.knowledge_storm._textloc 6130462511967986701 v1 Placeholder
+There is trouble on the water. Maybe a lightning storm?
+
+key: knowledges/events.knowledge_turtle_sisterone._textloc -3148987831816416124 v2 Placeholder
+Olga, the middle of the three sisters. Investing your logs and ore. A bit short tempered.
+
+key: knowledges/events.knowledge_turtle_sisterthree._textloc -4239594528263463718 v2 Placeholder
+Masha, the oldest of the three sisters. Investing your minerals and wood. Reminders you of mom.
+
+key: knowledges/events.knowledge_turtle_sistertwo._textloc 3002021481662737262 v2 Placeholder
+Irina, the youngest of the three sisters. Investing your hard earn logs and ore. Naive and kind.
+
+key: knowledges/events.snakelikesfruitsandlovesfruitsalad._textloc -2043400050519522398 v1 Placeholder
+Likes ripe fruits, especially in a fruit salad
+

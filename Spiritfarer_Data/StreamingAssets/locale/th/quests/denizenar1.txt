@@ -1,0 +1,9 @@
+key: quests/denizenar1.tourguide.description 752891356035835192 v3 Revised
+Follow your tour guide
+
+key: quests/denizenar1.tourguide.flavortext 5183994418181089128 v3 Revised
+A tour on an island this small. Odd.
+
+key: quests/denizenar1.tourguide.name 8825787031717654859 v2 Revised
+Greetings from Furogawa!
+
