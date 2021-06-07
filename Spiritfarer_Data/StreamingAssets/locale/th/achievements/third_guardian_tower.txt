@@ -1,0 +1,6 @@
+key: achievements/third_guardian_tower.description -6680328331286198543 v2 Revised
+Have your final conversation with Hades.
+
+key: achievements/third_guardian_tower.name -7127543156147725519 v1 Revised
+Third Encounter
+

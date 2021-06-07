@@ -1,0 +1,6 @@
+key: achievements/all_decorations_deer.description 4474617794910805289 v2 Revised
+ปรับปรุง กระท่อมของเกวน ทั้งหมด
+
+key: achievements/all_decorations_deer.name -8552407243464121247 v1 Revised
+Fully Improved: Gwen
+

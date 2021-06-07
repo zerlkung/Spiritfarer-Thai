@@ -1,0 +1,6 @@
+key: achievements/all_spirits_released.description -7800670086661595822 v2 Revised
+นำวิญญาณที่ปลดปล่อยไม่ได้มาสู่เอเวอร์ดอร์.
+
+key: achievements/all_spirits_released.name 5446149183691119836 v1 Revised
+Spiritfared
+

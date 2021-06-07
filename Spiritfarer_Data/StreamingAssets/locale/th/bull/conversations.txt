@@ -1,0 +1,985 @@
+key: bull/conversations.bull_favorite_friedchicken.loctext 1249675526410713239 v6 Revised
+Okay, okay.
+A little bit of ((garlic bread)).
+Let me get reacquainted with my ((favourite)) food.
+{Eat|Expression_Happy}Don't mind if I do.
+
+key: bull/conversations.bull_favorite_garlicbread_fallback01.loctext -5272490113379751537 v2 Revised
+There is no denying it.
+I just love ((garlic bread)).
+{Eat|Expression_Happy}Let's dig in.
+
+key: bull/conversations.bull_favorite_garlicbread_fallback02.loctext 1184190254798148308 v4 Revised
+{Eat}I'll never turn down some ((garlic bread)).
+
+key: bull/conversations.bull_lastvoyage_7_heirloom._independenttextbubbleloc 1065672283151152445 v1 Revised
+I almost forgot...
+
+key: bull/conversations.bull_lastvoyage_7_heirloom.loctext 3898537530369441469 v3 Revised
+Listen.
+Let’s just get on.
+I can't do this job without my brother.
+Let's just get on and talk it through.
+
+key: bull/conversations.bull_lastvoyage_fallback1.loctext 3050124535325760011 v2 Revised
+Listen, we should wait a second.
+
+key: bull/conversations.bull_lastvoyage_fallback2.loctext 4169471978254169513 v2 Revised
+I'll explain soon.
+
+key: bull/conversations.bull_lastvoyage_intender._independenttextbubbleloc 4487895638161295560 v1 Revised
+Scout
+
+key: bull/conversations.bull_lastvoyage_intender.loctext 5656263531968401374 v2 Revised
+Let's move it along?
+
+key: bull/conversations.bull_lastvoyage_intender_no.loctext -6921106679284575599 v2 Revised
+Sure.
+
+key: bull/conversations.bull_lastvoyage_intender_yes.loctext 5518600657683513699 v2 Revised
+Good.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_a.loctext 8395719455994834690 v5 Revised
+I didn’t plan this life for me and my brother.
+They used to call me the Talker.
+I could talk your ear off.
+I would never shut up.
+However, right now... I don’t want to talk.
+I should just do like my brother and take a moment.
+Pause and listen.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_b.loctext -6561690583877223737 v5 Revised
+Yeah.
+And think for a change.
+Fat chance.
+At my age, nothing is possible.
+Nobody changes.
+Anybody that tells you otherwise is lying.
+Or trying to sell you something.
+The only thing I’d rather be is true to myself.
+That might make me an asshole in the end.
+That might make me a loyal brother to this man here.
+None of this shit matters.
+None of it.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_c.loctext -4791734263139433604 v2 Revised
+Do you know why we're here?
+It’s because I have a small imagination.
+I can’t see beyond my back streets, my town, my friends, my family.
+More importantly, I can’t see a life beyond my brother.
+If he goes I go.
+...
+Funny thing is...
+He went a long time ago.
+I just didn’t want to admit it to myself.
+I was holding on to something from the past.
+My reputation.
+My house.
+My car.
+Whatever it was.
+It was nice while it lasted.
+It just doesn’t change anything.
+Anyway you slice it, we’re still Maria kids from South Broad.
+Nothing’s ever gonna change.
+Not even in the end.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_d.loctext 4557446828837265460 v5 Revised
+Alright, Mickey.
+Deep breaths.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_e.loctext -8378072508972945281 v2 Revised
+Let’s go see what everyone has been raving about.
+
+key: bull/conversations.bull_lastvoyage_tendersequence_f.loctext -7520648432107390853 v2 Revised
+I’ll send you a postcard, kid.
+
+key: bull/conversations.bull_like_pub.loctext -7285331446447971115 v2 Revised
+Now we're talking!
+That's one good chow, Scout!
+{|Expression_Happy}((pub)) food is the best when you get the munchies.
+{Eat}Mickey here is psyched.
+
+key: bull/conversations.bull_like_pub_fallback01.loctext 6011448844760989309 v2 Revised
+Mickey could never pass up some ((pub)) food.
+{Eat}He'll always find some space.
+
+key: bull/conversations.bull_like_pub_fallback02.loctext -1642932868292025436 v2 Revised
+{Eat|Expression_Happy}Good stuff, more ((pub)) food. 
+
+key: bull/conversations.bull_readytoleave_accept.loctext -8259605969918744902 v2 Revised
+[Start]Alright.
+
+key: bull/conversations.bull_readytoleave_question._independenttextbubbleloc 1222015975050142267 v1 Revised
+Alright, Scout.
+
+key: bull/conversations.bull_readytoleave_question.loctext -4105099049272923125 v2 Revised
+We need to talk.
+I’ve been...
+You know how I’ve been.
+[Particles]Wanna go somewhere?
+
+key: bull/conversations.bull_readytoleave_refuse.loctext -7197097162433965720 v2 Revised
+Think it over.
+
+key: bull/conversations.bull_refuse_crayfish.loctext 4820605003666253028 v1 Revised
+{|Expression_Surprise}What?
+{|Expression_Surprise}What do you think you're doing kid?
+{|Expression_Surprise}My brother here is allergic to this ((crayfish)) junk!
+{|Expression_Unhappy}Never give us that crap again!
+{|Expression_Unhappy}Now scram.
+
+key: bull/conversations.bull_refuse_crayfish_fallback01.loctext -4729071387716547218 v2 Revised
+{|Expression_Surprise}What are you trying to pull?
+{|Expression_Surprise}Mickey is allergic to ((crayfish))!
+{|Expression_Unhappy}Are you trying to take a shot at the king?
+
+key: bull/conversations.bull_refuse_crayfish_fallback02.loctext 9151571605215083197 v2 Revised
+{|Expression_Surprise}Get out of here with this ((crayfish)) shit!
+{|Expression_Unhappy}Stick with the non-lethal stuff, kid!
+
+key: bull/conversations.bull_refuse_simple.loctext 1891510029200815410 v2 Revised
+Hey so let me tell you something.
+{|Expression_Surprise}This shit is just too ((simple))!
+{|Expression_Surprise}One damn ingredient?
+{|Expression_Unhappy}Who do you think we are?
+{|Expression_Unhappy}Dumb peasants?
+{|Expression_Unhappy}Goddamn low-lives?
+{|Expression_Unhappy}My brother here has standards!
+{|Expression_Unhappy}We won't accept this crap.
+
+key: bull/conversations.bull_refuse_simple_fallback01.loctext 5657720050044634444 v2 Revised
+I won't say this again!
+{|Expression_Surprise}This ((simple)) shit won't cut it!
+{|Expression_Unhappy}We ain't playing around.
+
+key: bull/conversations.bull_refuse_simple_fallback02.loctext 8019195862053378769 v2 Revised
+Let me dumb it down for you.
+{|Expression_Unhappy}((Simple)) equals bad!
+
+key: bull/conversations.bullconversation-askaboutfrogvalidation.loctext 7613198724812494758 v3 Revised
+If you see your uncle, tell him that was an okay meal.
+I've seen better in my day.
+{|Expression_Unhappy}Still.
+It was pretty good.
+
+key: bull/conversations.bullconversation-askaboutplayvalidation.loctext 1414357896611402991 v1 Revised
+{|Expression_Idle_Neutral}You know, it ain't no professional theater.
+{|Expression_Idle_Neutral}But, hey, it ain't bad.
+{|Expression_Idle_Neutral}We kinda liked it.
+{|Expression_Idle_Neutral}But it serioulsy lacked snappy action moments.
+{|Expression_Idle_Neutral}At least someone dies at the end, so there is that.
+
+key: bull/conversations.bullconversation-atshrineintro._independenttextbubbleloc -3747620396078314686 v1 Revised
+Would you look at that?
+
+key: bull/conversations.bullconversation-atshrineintro.loctext 6026705455595093522 v5 Revised
+This is what I'm talking about.
+{|Expression_Idle_Neutral}The open air.
+{|Expression_Idle_Neutral}Breathe it in, Scout!
+That's the good stuff.
+...
+This reminds me.
+{|Expression_Surprise}You should have these.
+Mickey says he doesn't want his.
+{|Expression_Headnod}You can have mine too.
+We don't need them anymore.
+...
+Listen.
+{|Expression_Pensive}I think we need to rethink your role in our organization.
+{|Expression_Pensive}If Mickey doesn't mind, I'm gonna need you to run point some things.
+{|Expression_Pensive}You would have a more involved role, if you know what I mean.
+{|Expression_Headnod}I'll fill you in when we get that to the boat.
+Go do your thing.
+You've earned it.
+We'll hang back.
+
+key: bull/conversations.bullconversation-buildbullbuildingreminder.loctext 4077834031408080636 v1 Revised
+You should build our house.
+Just make sure you have enough materials.
+
+key: bull/conversations.bullconversation-buildbullbuildingvalidation._independenttextbubbleloc 5846053274735503319 v1 Revised
+Jeez!
+
+key: bull/conversations.bullconversation-buildbullbuildingvalidation.loctext -6120749370656202282 v2 Revised
+This is what I'm talking about!
+You don't mess around.
+We need to give you a proper nickname.
+{|Expression_Pensive}Mickey, what do you think?
+{|Expression_Pensive}...
+{|Expression_Pensive}Right?
+{|Expression_Pensive}...
+{|Expression_Pensive}I don't like that.
+{|Expression_Pensive}...
+{|Expression_Pensive}That's already taken.
+{|Expression_Pensive}...
+{|Expression_Pensive}Phantom Terror?
+{|Expression_Pensive}That's no good.
+{|Expression_Headnod}Give him a minute.
+
+key: bull/conversations.bullconversation-buildcrusherintroduction._independenttextbubbleloc 561748770339613821 v2 Revised
+Alright!
+
+key: bull/conversations.bullconversation-buildcrusherintroduction.loctext 8831409844111568140 v5 Revised
+{|Expression_Pensive}What do you see here?
+{|Expression_Pensive}...
+{|Expression_Idle_Neutral}Nothing!
+{|Expression_Idle_Neutral}You've got nothing on this boat.
+{|Expression_Surprise}It makes Mickey sick!
+{|Expression_Unhappy}You need to shape up, you hear?
+{|Expression_Idle_Neutral}Let's ((build)) something that will really make a mark on this ship.
+{|Expression_Idle_Neutral}+=What is it?=+
+{|Expression_Idle_Neutral}Good idea, Mickey!
+{|Expression_Idle_Neutral}You need a ((crusher)).
+{|Expression_Idle_Neutral}You need to smash some ((rocks)) into oblivion.
+{|Expression_Idle_Neutral}Yeah.
+{|Expression_Idle_Neutral}Don't worry.
+{|Expression_Unhappy}Even a chump like you can do it.
+{|Expression_Idle_Neutral}Go.
+{|Expression_Unhappy}What are you waiting for?
+
+key: bull/conversations.bullconversation-buildcrusherreminder._commenttext -1216882961936436051 v2 Revised
+Hey!
+
+key: bull/conversations.bullconversation-buildcrusherreminder.loctext -794175771184619765 v2 Revised
+Don't forget to build a ((crusher)).
+
+key: bull/conversations.bullconversation-buildcrusherskipconversation._independenttextbubbleloc 8318091085180545696 v2 Revised
+Wow!
+
+key: bull/conversations.bullconversation-buildcrusherskipconversation.loctext -1215673112831114275 v2 Revised
+Scout is pretty quick on her feet.
+
+key: bull/conversations.bullconversation-buildcrushervalidation._independenttextbubbleloc 569419890108599928 v2 Revised
+Look at it!
+
+key: bull/conversations.bullconversation-buildcrushervalidation.loctext -3201622709236266566 v5 Revised
+That's beautiful.
+{|Expression_Happy}Mickey can already hear the smashing sounds coming from inside.
+{|Expression_Happy}I'm sure she's a beaut!
+Try ((crushing)) something.
+It will make you feel good.
+{|Expression_Idle_Neutral}Let some of that rage out!
+{|Expression_Headnod}...
+{|Expression_Idle_Neutral}What?
+{|Expression_Unhappy}I'm not going explain it.
+{|Expression_Unhappy}A child can do this.
+{|Expression_Idle_Neutral}You make the machine go smash.
+{|Expression_Idle_Neutral}It's a pie of cake!
+{|Expression_Idle_Neutral}Here a few ((rocks)) to get you started.
+{|Expression_Idle_Neutral}Let it roar!
+{|Expression_Idle_Neutral}I'll wait here and listen to the sound of crushing!
+
+key: bull/conversations.bullconversation-bullbigmealfoodintro._independenttextbubbleloc 5810637773769544593 v1 Revised
+Scout!
+
+key: bull/conversations.bullconversation-bullbigmealfoodintro.loctext 2978405283288168375 v3 Revised
+A dinner?
+{|Expression_Headnod}Atul-who?
+I like food so I'll be there.
+{|Expression_Unhappy}But, I won't talk to anyone there.
+Maybe you can get something fried.
+A ((corn dog)).
+{|Expression_Headnod}Make it happen, Scout.
+
+key: bull/conversations.bullconversation-bulldecorationsintroduction._independenttextbubbleloc 4148840607521327247 v2 Revised
+Scout!
+
+key: bull/conversations.bullconversation-bulldecorationsintroduction.loctext 7690809420278359380 v2 Revised
+We've got another errand for you to run.
+{|Expression_Pensive}This one is fixing a problem you created.
+{|Expression_Pensive}You gave us a house, which is nice and all.
+{|Expression_Pensive}However, it's empty.
+{|Expression_Unhappy}It's got nothing.
+{|Expression_Unhappy}You need to add some pizzazz to it.
+Mickey has always had a certain lavish lifestyle.
+However, I can't tell you what he want.
+{|Expression_Pensive}You'll just have to figure that out.
+{|Expression_Pensive}We're not interior designers.
+Word of advice, Scout.
+{|Expression_Unhappy}Just get whatever's expensive and loud.
+
+key: bull/conversations.bullconversation-bulldecorationsreminder._commenttext -1984110101949807114 v1 Revised
+Scout!
+
+key: bull/conversations.bullconversation-bulldecorationsreminder.loctext -673775409533649121 v3 Revised
+Mickey wants decorations for our new place.
+This will cost you big money.
+
+key: bull/conversations.bullconversation-bullyintroduction._commenttext -2273179728325145428 v1 Revised
+Hey kid!
+
+key: bull/conversations.bullconversation-bullyintroduction.loctext -5867662079541448380 v16 Revised
+{|Expression_Idle_Neutral}Help me out over here.
+{|Expression_Idle_Neutral}There's this guy over there.
+{|Expression_Idle_Neutral}Don't look at him.
+{|Expression_Idle_Neutral}Look at me.
+Y{|Expression_Idle_Neutral}Yeah, so that guy...
+{|Expression_Pensive}He's been giving us a hard time.
+{|Expression_Pensive}He's been making life difficult for us.
+{|Expression_Pensive}He’s been screwing up our whole operation.
+{|Expression_Pensive}I can't get into any details with you.
+{|Expression_Surprise}Let's just say it would be great if he could take a permanent vacation.
+{|Expression_Idle_Neutral}You know?
+{|Expression_Unhappy}I just need you to... take care of him.
+{|Expression_Unhappy}Got it?
+{|Expression_Idle_Neutral}Do it nice and quiet.
+{|Expression_Idle_Neutral}You don't look like much, but I can see it.
+{|Expression_Unhappy}You've got the eyes of a damn killer.
+{|Expression_Idle_Neutral}Let's see what you can do!
+
+key: bull/conversations.bullconversation-bullyvalidation._independenttextbubbleloc -6445866554582610968 v1 Revised
+Look at that!
+
+key: bull/conversations.bullconversation-bullyvalidation.loctext 2229362302951035847 v9 Revised
+{|Expression_Idle_Neutral}He's shaking in his boots.
+{|Expression_Idle_Neutral}What a coward!
+{|Expression_Idle_Neutral}I couldn't see from over here.
+{|Expression_Idle_Neutral}What did you use?
+{|Expression_Unhappy}The backwards tangerine?
+{|Expression_Unhappy}The old tightrope shuffle?
+{|Expression_Idle_Neutral}It doesn't matter.
+{|Expression_Idle_Neutral}He looks broken.
+{|Expression_Unhappy}You broke that man, kid!
+{|Expression_Unhappy}For that, you get the privilege of giving us a ride.
+{|Expression_Unhappy}Let's go to your boat.
+
+key: bull/conversations.bullconversation-buybullhousereminder._commenttext -481468152566844382 v1 Revised
+Hey!
+
+key: bull/conversations.bullconversation-buybullhousereminder.loctext -9111695347662329128 v1 Revised
+Just build it.
+And make sure you have enough materials.
+
+key: bull/conversations.bullconversation-call.loctext 5418186023286769287 v1 Revised
+Hey you!
+
+key: bull/conversations.bullconversation-commentaboutplay01.loctext -4854150259607599775 v1 Revised
+Woohoo!
+
+key: bull/conversations.bullconversation-crusherintroduction._independenttextbubbleloc 5966323194216494891 v2 Revised
+Scout!
+
+key: bull/conversations.bullconversation-crusherintroduction.loctext -5325436448954358087 v2 Revised
+Take a walk with us.
+
+key: bull/conversations.bullconversation-crushsomethingreminder._commenttext -8523236025841601200 v2 Revised
+Remember.
+
+key: bull/conversations.bullconversation-crushsomethingreminder.loctext 1161852307549424508 v2 Revised
+((Crush)) ((rocks)) all day every day!
+
+key: bull/conversations.bullconversation-crushsomethingvalidation._independenttextbubbleloc -3732740009733413084 v2 Revised
+Woah!
+
+key: bull/conversations.bullconversation-crushsomethingvalidation.loctext 3251280677687444 v6 Revised
+{|Expression_Idle_Neutral}You ((crushed)) that rock like there was no tomorrow.
+{|Expression_Idle_Neutral}I could hear it beg for mercy!
+{|Expression_Idle_Neutral}That was pretty amazing.
+That felt good.
+You got some chops, Scout.
+{|Expression_Idle_Neutral}I know you'll be able to do this next job.
+{|Expression_Idle_Neutral}Look, Mickey needs a house.
+{|Expression_Idle_Neutral}Not just any house.
+{|Expression_Blueprint}He needs a goddamn palace.
+{|Expression_Blueprint}Marble, gold mirrors, indoor palm trees.
+{|Expression_Unhappy}The whole nine-yards.
+{|Expression_Unhappy}Something that would make our neighbours back home furious.
+{|Expression_Unhappy}Get it done.
+
+key: bull/conversations.bullconversation-decorationsvalidation._independenttextbubbleloc 653923416773166343 v1 Revised
+Scout! Get in here.
+
+key: bull/conversations.bullconversation-decorationsvalidation.loctext 5072319605156701072 v1 Revised
+{|Expression_Happy}Mickey loves it.
+{|Expression_Happy}This is exactly up his alley.
+Don't tell him this.
+But he wanted to upstage Romeo.
+{|Expression_Pensive}You wouldn't know him.
+{|Expression_Pensive}He's this guy from the South Shore.
+{|Expression_Headnod}He has expensive taste.
+He has this awful mansion.
+He would boast around town about his house.
+{|Expression_Headnod}Mickey hated him.
+Listen, you've been doing enough running around.
+We should go somewhere.
+Take you out and relax a bit.
+{|Expression_Headnod}Let me ask Mickey and think of something.
+
+key: bull/conversations.bullconversation-fallingstarshard01._independenttextbubbleloc -4286396255581832713 v2 Revised
+My brother is not doing this!
+
+key: bull/conversations.bullconversation-fallingstarshard01.loctext -1979205293076695707 v1 Revised
+{|Expression_Surprise}Who would ever do this?
+My brother has seen some fights in his days, but this is too bloody.
+You're not ready for this.
+
+key: bull/conversations.bullconversation-fallingstarshard02._independenttextbubbleloc -9037867014476539925 v2 Revised
+Woah!
+
+key: bull/conversations.bullconversation-fallingstarshard02.loctext 1575788998130737616 v2 Revised
+I'm not in the mood for a beatdown.
+Let's get out of here.
+
+key: bull/conversations.bullconversation-fallingstarsintroduction._independenttextbubbleloc -6015122764630099278 v2 Revised
+Kid!
+
+key: bull/conversations.bullconversation-fallingstarsintroduction.loctext -3162534142502655401 v2 Revised
+{|Expression_Idle_Neutral}You gotta show us what you're made of.
+{|Expression_Idle_Neutral}You gotta...
+{|Expression_Idle_Neutral}Hmm...
+{Expression_Excited|Expression_Surprise}You gotta go fight some ((pulsar rays)).
+{Expression_Excited|Expression_Surprise}Yeah!
+{|Expression_Idle_Neutral}Good idea, Mickey!
+{|Expression_Idle_Neutral}He want to see you get in a fight.
+{|Expression_Idle_Neutral}There should be some around here.
+{|Expression_Idle_Neutral}Make it happen.
+
+key: bull/conversations.bullconversation-fallingstarsreminder._commenttext -5336398539921818990 v2 Revised
+Kid!
+
+key: bull/conversations.bullconversation-fallingstarsreminder.loctext -8843272242408749073 v3 Revised
+There should be pulsar rays roaming around the seas.
+Go take a look.
+
+key: bull/conversations.bullconversation-fancyfoodintro._independenttextbubbleloc -8884596048605604716 v1 Revised
+Over here, Scout.
+
+key: bull/conversations.bullconversation-fancyfoodintro.loctext -2600630961418221713 v5 Revised
+{|Expression_Headnod}Me and my brother, we're practical people.
+We ask for something and you deliver it.
+Simple.
+But, there's something we shouldn't even have to ask for.
+{|Expression_Pensive}Do you know what that is?
+{|Expression_Unhappy}Food.
+{|Expression_Unhappy}People eat.
+Usually like thrice a day.
+We can't leave this boat and go to the deli.
+Now, it might seem like I'm pissed off here.
+{|Expression_Unhappy}That's because I am.
+{|Expression_Unhappy}You don't feed me, sure, okay.
+But, my brother...
+That just doesn't fly, Scout.
+{|Expression_Headnod}Just go out and get us a goddamn ((lobster roll)).
+
+key: bull/conversations.bullconversation-fancyfoodreminder._commenttext -3021065635289966431 v1 Revised
+Hmmm...
+
+key: bull/conversations.bullconversation-fancyfoodreminder.loctext -7566622940284128287 v3 Revised
+Just thinking about that ((lobster roll)).
+Go get some!
+
+key: bull/conversations.bullconversation-fancyfoodvalidation._independenttextbubbleloc -5748863695690360873 v1 Revised
+Alright!
+
+key: bull/conversations.bullconversation-fancyfoodvalidation.loctext -7815505007214877160 v8 Revised
+Well, you took your sweet time.
+{|Expression_Surprise}Wait... what's this?
+{|Expression_Surprise}There's ((fish)) in a ((lobster roll)).
+{|Expression_Unhappy}Mickey can't eat that.
+{|Expression_Unhappy}He's allergic!
+{|Expression_Unhappy}We might be starving, but we ain't eating this.
+Mickey won't eat something that might kill him, Scout.
+He wants something a little more traditional.
+None of that fancy garbage.
+You know what?
+There was this place in Woodbridge.
+They had an amazing slogan.
+What was it?
+It doesn't matter.
+{|Expression_Pensive}They had the absolute best ((fried chicken)).
+{|Expression_Pensive}So...
+{|Expression_Headnod}Bring him some ((fried chicken)).
+Don't just wait around.
+Go.
+
+key: bull/conversations.bullconversation-findexocetreminder.loctext -7507364964212172235 v1 Revised
+There should be some good old fighting out in the sea.
+Go out and find us a fight.
+
+key: bull/conversations.bullconversation-findobjectvalidation._independenttextbubbleloc 3151377528435853724 v1 Revised
+What a thrill!
+
+key: bull/conversations.bullconversation-findobjectvalidation.loctext 3177471585551118463 v15 Revised
+Did you see that, Mickey?
+{|Expression_Surprise}You kicked major butt out there.
+...
+You know what?
+He finally found a good nickname for you.
+{|Expression_Surprise}So, you're getting promoted.
+{|Expression_Happy}You are going from Kid to Scout.
+{|Expression_Happy}Do you like it?
+{|Expression_Happy}Of course, you do.
+Who doesn't like Scout?
+No one, that's who!
+{|Expression_Unhappy}That's doesn't mean you can slack off.
+{|Expression_Unhappy}You're still under us in the hierarchy of life.
+{|Expression_Unhappy}Now scram.
+We've got things to do!
+
+key: bull/conversations.bullconversation-gathermoresheepreminder._commenttext 171598361663596276 v1 Revised
+Right.
+
+key: bull/conversations.bullconversation-homyfoodreminder._commenttext 8214582715854117465 v1 Revised
+Okay...
+
+key: bull/conversations.bullconversation-homyfoodreminder.loctext -3556668738491282574 v3 Revised
+That last dish was garbage.
+If you are going to give me something, make it special.
+We need some ((fried chicken)).
+
+key: bull/conversations.bullconversation-homyfoodvalidation._independenttextbubbleloc -9053989506927051704 v1 Revised
+Alright!
+
+key: bull/conversations.bullconversation-homyfoodvalidation.loctext -6246472488278891158 v2 Revised
+That's more like it.
+{|Expression_Happy}This tastes exactly like that place's.
+{|Expression_Happy}What was the name?
+Mickey doesn't know either.
+Still, it really hit the right spot.
+That's what a Scout is for: scouting us good food.
+{|Expression_Headnod}Keep 'em coming!
+Hopefully, we won't have to ask next time.
+
+key: bull/conversations.bullconversationhungry01.loctext -1777919404848302759 v2 Revised
+My brother has been asking when are we gonna get fed already.
+
+key: bull/conversations.bullconversationhungry02.loctext 5293018569885415347 v1 Revised
+What's this I hear about a kitchen on board?
+
+key: bull/conversations.bullconversationhungry03.loctext -7216909162745242796 v1 Revised
+I don't beg for food.
+Just keep that in mind.
+
+key: bull/conversations.bullconversationhungrymaster._commenttext -5331023311818397927 v1 Revised
+Kid!
+
+key: bull/conversations.bullconversationhungrymaster._independenttextbubbleloc 7917296279102105113 v1 Revised
+Could we get takeout?
+
+key: bull/conversations.bullconversationhungrymaster-01._commenttext 2764337180425566504 v2 Revised
+Kid!
+
+key: bull/conversations.bullconversation-impossiblefruitreminder._commenttext 796535401662452991 v1 Revised
+Again...
+
+key: bull/conversations.bullconversation-impossiblefruitreminder.loctext -7759885881765202879 v3 Revised
+You really messed up.
+It's ((peaches)).
+Got it?
+
+key: bull/conversations.bullconversation-impossiblevalidation._independenttextbubbleloc -7747863207941291945 v1 Revised
+Scout!
+
+key: bull/conversations.bullconversation-impossiblevalidation.loctext -1455065912285412036 v5 Revised
+{|Expression_Surprise}What is your problem?
+{|Expression_Surprise}You ruined this whole operation!
+{|Expression_Pensive}The buyer is very specific about his cargo.
+{|Expression_Pensive}What am I gonna do with ((carrots)) or ((peaches))?
+{|Expression_Pensive}You're the +=worst=+ partner I've ever had.
+{|Expression_Idle_Neutral}You can't even get a simple order straight!
+{|Expression_Idle_Neutral}My brother would never mess up like that!
+{|Expression_Idle_Neutral}I think this isn't going to work out.
+{|Expression_Idle_Neutral}Let's go.
+{|Expression_Idle_Neutral}You weren't ready to step up.
+{|Expression_Idle_Neutral}I shouldn't have trusted you.
+{|Expression_Idle_Neutral}Ah shit.
+{|Expression_Idle_Neutral}Listen, let's go.
+{|Expression_Idle_Neutral}I know a place.
+{|Expression_Empathy}...
+{|Expression_Empathy}It's called the ((Everdoor)).
+{|Expression_Empathy}We should go now.
+
+key: bull/conversations.bullconversation-impossibleveggiereminder._commenttext 1799082928240837360 v1 Revised
+You need to get on with this.
+
+key: bull/conversations.bullconversation-impossibleveggiereminder.loctext -57773554238554208 v6 Revised
+You got to get your act together.
+We need those ((carrots)).
+
+key: bull/conversations.bullconversation-impossibleveggievalidation._independenttextbubbleloc 8107252890842485579 v1 Revised
+What is this!?
+
+key: bull/conversations.bullconversation-impossibleveggievalidation.loctext -6964030459494368548 v2 Revised
+{|Expression_Surprise}Oh come on, the job wasn't for ((carrots))!
+{|Expression_Surprise}It was for ((peaches))!
+{|Expression_Unhappy}Who wants stupid ((carrots))?
+{|Expression_Unhappy}Like I would use ((carrots)) for this job.
+{|Expression_Unhappy}That's stupid.
+{|Expression_Surprise}You got to fix this mistake.
+{|Expression_Surprise}Quickly.
+This job depends on ((peaches)).
+{|Expression_Headnod}Lots of them.
+{|Expression_Headnod}Go now.
+
+key: bull/conversations.bullconversation-invitebullintroduction.loctext -4741375456592625302 v5 Revised
+What?
+{|Expression_Unhappy}No, thank you.
+{|Expression_Unhappy_to_Idle}Well, we'll see if we have time.
+
+key: bull/conversations.bullconversation-madwhensheepeatsfieldvalidation._independenttextbubbleloc 8530494516965996511 v1 Revised
+The nerve!
+
+key: bull/conversations.bullconversation-madwhensheepeatsfieldvalidation.loctext 4096544497639070889 v3 Revised
+{|Expression_Surprise}Your ((field)) is getting destroyed.
+{|Expression_Surprise}You need a ((sheep corral)) and you need to ((fed)) them!
+{|Expression_Pensive}Everyone knows that.
+These stupid ((sheep)) will always eat your crops.
+Ridiculous!
+
+key: bull/conversations.bullconversation-madwhensheepeatsgardenvalidation._independenttextbubbleloc 2596373045543890330 v2 Revised
+The nerve!
+
+key: bull/conversations.bullconversation-madwhensheepeatsgardenvalidation.loctext 4571920424445369380 v4 Revised
+{|Expression_Surprise}Your ((garden)) is getting wrecked.
+{|Expression_Surprise}Has it even crossed your mind to add a ((sheep corral)) to the boat?
+{|Expression_Pensive}These goddamn ((sheep)) will continue to eat your crops.
+{|Expression_Pensive}Kid, they just need a place to hangout.
+Plus, you need to ((feed)) them.
+The reason is... ((sheep)) are so stupid.
+Get it done!
+
+key: bull/conversations.bullconversation-movingobjects01._independenttextbubbleloc 1489468285019132739 v2 Revised
+Alright.
+
+key: bull/conversations.bullconversation-movingobjects01.loctext 706187674310614223 v4 Revised
+[CancelTimer]You've got this.
+We are counting on you here.
+Show us what you've got.
+Ready?
+
+key: bull/conversations.bullconversation-movingobjectsobligated._independenttextbubbleloc -4355250310809823324 v1 Revised
+Let's do this!
+
+key: bull/conversations.bullconversation-movingobjectsobligated.loctext -6760524190049073162 v2 Revised
+[CancelTimer]Are you ready for a real fight?
+
+They'll be coming from all directions.
+
+So, get your head in the game.
+
+Don't chicken out.
+
+Just charge at them!
+
+Don't be a coward.
+
+key: bull/conversations.bullconversation-movingobjecttutorialno._independenttextbubbleloc -3761449101938424528 v1 Revised
+Stella! Quick, come here!
+
+key: bull/conversations.bullconversation-movingobjecttutorialno.loctext 441415296718519702 v1 Revised
+What gives...
+
+key: bull/conversations.bullconversation-movingobjecttutorialyes._independenttextbubbleloc 3297522024221423837 v1 Revised
+Stella! Quick, come here!
+
+key: bull/conversations.bullconversation-movingobjecttutorialyes.loctext -3266926390878885812 v1 Revised
+Let's do this.
+Look at this, Mickey!
+
+key: bull/conversations.bullconversation-narrativemoment_three_2introduction._commenttext 8172962009822877066 v1 Revised
+Hmm...
+
+key: bull/conversations.bullconversation-narrativemoment_three_2introduction.loctext 7579360787581256860 v3 Revised
+{|Expression_Idle_Neutral}When you think about hospitals, you think about the sounds.
+{|Expression_Idle_Neutral}The beeping of the machines.
+{|Expression_Idle_Neutral}Blip... Blip... Blip...
+{|Expression_Idle_Neutral}Like a goddamn Funtendo.
+{|Expression_Idle_Neutral}Even with all those machines hooked up to him, my brother’s room was silent.
+{|Expression_Idle_Neutral}And there were flowers.
+{|Expression_Idle_Neutral}From the boys, from our family, from our new family.
+{|Expression_Empathy}It was like a wake.
+{|Expression_Empathy}Shit, it felt like a wake.
+{|Expression_Empathy}Mom was there +=every single=+ day and night.
+{|Expression_Idle_Neutral}She got so exhausted that the doctors told her to go home at night.
+{|Expression_Idle_Neutral}I tried telling her “ma, you’re tired. Go home!” 
+{|Expression_Idle_Neutral}I couldn’t get her to move.
+{|Expression_Idle_Neutral}It took the doctor to give her permission to leave the hospital.
+{|Expression_Idle_Neutral}You know what kid?
+{|Expression_Idle_Neutral}I think that's not hearing him laugh that really killed me.
+{|Expression_Idle_Neutral}More than a gun in my mouth.
+{|Expression_Idle_Neutral}I was the only one who could calm him down for shit's sake.
+{|Expression_Idle_Neutral}Get him to see reason.
+{|Expression_Empathy}Even when he got a boiling-red tomato face.
+{|Expression_Empathy}And now I couldn’t even do that anymore.
+
+key: bull/conversations.bullconversation-narrativemoment_threeintroduction._commenttext 1739391722959213179 v2 Revised
+Mickey...
+
+key: bull/conversations.bullconversation-narrativemoment_threeintroduction.loctext 172345044638443696 v7 Revised
+{|Expression_Idle_Neutral}Mickey wouldn’t get done up by anyone.
+{|Expression_Idle_Neutral}He was untouchable.
+{|Expression_Idle_Neutral}Nobody could get him.
+{|Expression_Idle_Neutral}One night, he just got in his car.
+{|Expression_Idle_Neutral}He probably had a few too many.
+{|Expression_Idle_Neutral}And he drove that car over the overpass.
+{|Expression_Idle_Neutral}Straight into the lake.
+{|Expression_Idle_Neutral}He didn’t wake up.
+{|Expression_Idle_Neutral}Winded up in a hospital bed for six months.
+{|Expression_Idle_Neutral}Not moving.
+{|Expression_Idle_Neutral}It still felt like him.
+{|Expression_Idle_Neutral}Silent, but dangerous.
+{|Expression_Idle_Neutral}You could still see the rage in his face.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}He didn’t want to be in that bed.
+{|Expression_Idle_Neutral}At least not that long.
+
+key: bull/conversations.bullconversation-narrativemoment_two_2introduction._commenttext 3989495766521549180 v1 Revised
+There was one thing.
+
+key: bull/conversations.bullconversation-narrativemoment_two_2introduction.loctext -5567255481767045708 v3 Revised
+{|Expression_Idle_Neutral}I can see it so vividly.
+{|Expression_Idle_Neutral}Mickey was a kid.
+{|Expression_Idle_Neutral}Young.
+{|Expression_Idle_Neutral}Too young.
+{|Expression_Idle_Neutral}Some piece of shit comes out of nowhere and hits me with a baseball bat.
+{|Expression_Idle_Neutral}Didn’t even see the shit stain.
+{|Expression_Idle_Neutral}My body goes limp and hits the ground.
+{|Expression_Idle_Neutral}Mickey is red.
+{|Expression_Idle_Neutral}Like a tomato.
+{|Expression_Idle_Neutral}He grabs the guy, who’s still hitting me with the bat, by the way.
+{|Expression_Idle_Neutral}He throws that asshole in the side of a car.
+{|Expression_Idle_Neutral}The windows shatter.
+{|Expression_Idle_Neutral}That guy has glass all over him.
+{|Expression_Idle_Neutral}He’s screaming repeatedly “it’s in my eyes, it’s in my eyes!”
+{|Expression_Idle_Neutral}Blood is coming out of his eyes and Mickey, well.. He’s just laughing.
+{|Expression_Idle_Neutral}What a laugh!
+{|Expression_Idle_Neutral}That thing could nurse me to sleep.
+
+key: bull/conversations.bullconversation-narrativemoment_twointroduction._commenttext 8497799369752482718 v1 Revised
+It was wild.
+
+key: bull/conversations.bullconversation-narrativemoment_twointroduction.loctext 7295483152040433754 v8 Revised
+{|Expression_Idle_Neutral}We had such a blast.
+{|Expression_Idle_Neutral}Mickey making so much money.
+{|Expression_Idle_Neutral}+=The money=+.
+{|Expression_Idle_Neutral}There was nothing we couldn’t buy.
+{|Expression_Idle_Neutral}Our mom had never seen so much dough.
+{|Expression_Idle_Neutral}She was a great lady.
+{|Expression_Idle_Neutral}Stuck in her old ways.
+{|Expression_Idle_Neutral}She knew Mickey was putting himself in danger.
+{|Expression_Idle_Neutral}But she didn’t say anything since the house was paid twice over.
+
+key: bull/conversations.bullconversation-narrativemoment-oneintroduction._commenttext 2285535226987572944 v1 Revised
+Hey kid!
+
+key: bull/conversations.bullconversation-narrativemoment-oneintroduction.loctext 5458176239976375182 v4 Revised
+{|Expression_Idle_Neutral}Bossing you around reminds me of being bossed around, back in the days.
+{|Expression_Idle_Neutral}I know... me!
+{|Expression_Idle_Neutral}If you can believe it.
+{|Expression_Idle_Neutral}It reminds me of my last job.
+{|Expression_Idle_Neutral}My brother doesn’t like me mentioning it too often.
+{|Expression_Idle_Neutral}We were enforcers for Mr. Carmino.
+{|Expression_Idle_Neutral}Any orders, we would do them.
+{|Expression_Idle_Neutral}Nothing was too small a request.
+{|Expression_Idle_Neutral}And we were efficient.
+{|Expression_Idle_Neutral}We would always get the job done.
+{|Expression_Idle_Neutral}No one could stop us.
+{|Expression_Idle_Neutral}Not even the Feds.
+{|Expression_Idle_Neutral}If you play your cards right, you might even be on our level pretty soon.
+
+key: bull/conversations.bullconversationstarving01.loctext 8981184262909215657 v2 Revised
+My brother is dying over here.
+We need food.
+The time was 30 minutes ago
+
+key: bull/conversations.bullconversationstarving02.loctext -1428902702765879081 v1 Revised
+Food in my belly!
+Now!
+
+key: bull/conversations.bullconversationstarving03.loctext 323824958185683736 v1 Revised
+What are you doing all day?
+This operation needs a dedicated cook.
+
+key: bull/conversations.bullconversationstarvingmaster-01._commenttext 8790119841912085169 v1 Revised
+Kid!
+
+key: bull/conversations.bullconversationstarvingmaster-02._commenttext 2083238212163996789 v1 Revised
+Scout!
+
+key: bull/conversations.bullconversation-talktobullabouttinyowlintroduction.loctext 5848257921624633093 v2 ReadyForRevision
+Never say nothing about nobody.
+Especially that lady.
+You gotta treat your elders with respect.
+Family is everything.
+
+key: bull/conversations.bullconversation-toastreminder.loctext 5278489769772679867 v1 Revised
+We are hungry.
+Let's go.
+
+key: bull/conversations.bullconversation-unclegonereminder.loctext -898182326107866659 v1 Revised
+If you see your uncle, tell him that was an okay meal.
+{|Expression_Unhappy}I've seen better in my day.
+{|Expression_Unhappy}Still.
+{|Expression_Unhappy}It was pretty good.
+
+key: bull/conversations.bullconversation-vacationintro._independenttextbubbleloc -1747768922881092034 v1 Revised
+Mickey had an idea.
+
+key: bull/conversations.bullconversation-vacationintro.loctext 679258186895622728 v9 Revised
+Apparently, there's this place called ((Greymist Peaks)).
+It shouldn't be far from here.
+{|Expression_Pensive}Mickey thinks you're...
+{|Expression_Pensive}Well...
+{|Expression_Happy}We both think you're doing a decent job.
+Listen.
+We've been asking a lot from you.
+...
+Consider this our treat.
+{|Expression_Happy}A little camping trip for your efforts.
+Some reconizion for your discretion in affairs.
+We've never actually been camping.
+{|Expression_Headnod}But we would do as a gift for you.
+Let go take a look at some rocks and trees and shit.
+
+key: bull/conversations.bullconversation-vacationreminder.loctext -4798269286650160211 v1 Revised
+I want to see this place.
+You need to take us there.
+
+key: bull/conversations.bullconversation-vacationvalidation._independenttextbubbleloc 1758284048889321723 v1 Revised
+Scout.
+
+key: bull/conversations.bullconversation-vacationvalidation.loctext 6553137417255502132 v3 Revised
+Like I was saying...
+{|Expression_Headnod}You're gonna need to step up in our organization.
+{|Expression_Pensive}If this operation is ever going to survive we'll need to pull a big one.
+{|Expression_Pensive}A big score.
+{|Expression_Pensive}I've was planning this job with my brother for a while.
+{|Expression_Pensive}He doesn't want to do it now.
+{|Expression_Headnod}I need you to step in and help out.
+So listen, here's the take.
+{|Expression_Surprise}I need you to stock up on ((carrots)).
+{|Expression_Surprise}Yeah, that's right.
+You heard me!
+{|Expression_Pensive}((Carrots)).
+{|Expression_Pensive}I'm not talking about a few.
+{|Expression_Pensive}I'm talking about a shit load of ((carrots)).
+{|Expression_Pensive}That's the thing we need for this job.
+{|Expression_Pensive}If that doesn't make sense to you, that's too bad.
+You don't need to know everything.
+That's why I call the shots.
+
+key: bull/conversations.bullconversation-visith2reminder._commenttext 5427393585300000832 v2 Revised
+Over here!
+
+key: bull/conversations.bullconversation-visith2reminder.loctext -7209384974107023332 v2 Revised
+Let's go take that vacation in ((Greymist Peaks)).
+
+key: bull/conversations.bullconversation-welcome.loctext -8090788530038718017 v1 Revised
+What are you looking at?
+
+key: bull/conversations.bullconversation-welcomebullreminder01.loctext -3436758514214804089 v1 Revised
+Come on, let's not wait around for nothing.
+
+key: bull/conversations.bullconversation-welcomebullreminder02.loctext 8261570725537121247 v1 Revised
+Let's get out of here.
+
+key: bull/conversations.bullconversation-welcomeend.loctext 6081783452287317371 v2 Revised
+{|Expression_Surprise}Oh right...
+{|Expression_Surprise}You don't look at him.
+{|Expression_Idle_Neutral}I do the talking.
+{|Expression_Idle_Neutral}My brother Mickey is the silent type.
+{|Expression_Idle_Neutral}If you have a question, you gotta go through me.
+{|Expression_Idle_Neutral}Kapish?
+{|Expression_Idle_Neutral}Right.
+{|Expression_Idle_Neutral}You did a pretty good job with bullying that idiot.
+{|Expression_Idle_Neutral}Easy stuff.
+{|Expression_Idle_Neutral}My brother doesn't think you've got the chops to run this boat.
+{|Expression_Idle_Neutral}We might just take it from you.
+{|Expression_Idle_Neutral}Yeah!
+{|Expression_Idle_Neutral}Let that sink in!
+{|Expression_Idle_Neutral}See you around.
+
+key: bull/conversations.bullconversation-welcomenewspirit01.loctext -7297124971373110202 v2 Revised
+Too crowded.
+
+key: bull/conversations.bullconversation-welcomenewspirit02.loctext -1063352632704506993 v2 Revised
+Enough.
+
+key: bull/conversations.bullfoodaccept.loctext 7230005099542129065 v4 Revised
+{Eat}Free grub. Finally.
+
+key: bull/conversations.bullfoodsame.loctext 5619562796648821050 v2 Revised
+I don't want to eat the same thing twice.
+
+key: bull/conversations.bull-givepulsarore.loctext -17115862790896108 v2 Revised
+I thought I'd help you during those pulsar rays.
+You looked like you needed help!
+Here's some ((plusar ore)).
+Try harder next time.
+
+key: bull/conversations.bull-gossipmean1._commenttext -4879200521278683152 v1 Revised
+Move it, stupid!
+
+key: bull/conversations.bullhug.loctext -1855132420791970892 v1 Revised
+Alright, alright. Don't tell anyone.
+
+key: bull/conversations.bullhugrefuse01.loctext -1739253751534073860 v2 Revised
+{|Expression_Idle_Neutral}No.
+
+key: bull/conversations.bullhugrefuse02.loctext 6338958266029697875 v2 Revised
+{|Expression_Idle_Neutral}The big guy is good.
+
+key: bull/conversations.bullhugrefuse03.loctext -5908752387772392696 v2 Revised
+{|Expression_Idle_Neutral}Don’t you have better things to do?
+
+key: bull/conversations.bull-letsheepout._commenttext 6034595222213810369 v1 Revised
+Here come the sheep!
+
+key: bull/conversations.bull-letsheepout.loctext -2806378472839010143 v3 Revised
+I was feeling neglected so I let your ((sheep)) out.
+Maybe that will get your attention.
+
+key: bull/conversations.bull-verysadconversation.loctext -2250605063543681066 v2 Revised
+{Expression_Sad}I'm feeling too down to do anything.
+
+key: bull/conversations.deerfoodsamefood.loctext -1924801387915014352 v1 Revised
+Please... I can't eat the same thing twice.
+I do hate myself that much.
+
+key: bull/conversations.dogconversation-fallingstarstutorialno._independenttextbubbleloc 7982857135678145360 v1 Revised
+Stella! Quick, come here!
+
+key: bull/conversations.dogconversation-fallingstarstutorialno.loctext 7648127127242675011 v2 Revised
+That's disappointing.
+
+key: bull/conversations.dogconversation-fallingstarstutorialyes._independenttextbubbleloc -9134010576960540442 v1 Revised
+Stella! Quick, come here!
+
+key: bull/conversations.dogconversation-fallingstarstutorialyes.loctext 5124199938119542012 v2 Revised
+Perfect.
+
+key: bull/conversations.foodaccept_dislike.loctext -1199865578719123770 v3 Revised
+{Eat}This tastes like crap.
+
+key: bull/conversations.foodaccept_like.loctext 6306313434567878060 v3 Revised
+{Eat}I've had better, but this will do.
+
+key: bull/conversations.foodaccept_love.loctext -7400957735649406399 v2 Revised
+{Eat}I've been dreaming of this meal.
+I'll remember this.
+
+key: bull/conversations.foodrefuse.loctext -1083416814692560117 v2 Revised
+I'm good.
+You keep it.
+
+key: bull/conversations.foodrefuse_inedible.loctext 604539263956929471 v2 Revised
+This is barely passable.
+Don't be a jerk.
+
+key: bull/conversations.foodrefuse_same.loctext -8577899608554271121 v3 Revised
+You can't give me this again.
+
+key: bull/conversations.foodrefuse_same_fallback01.loctext -5438017531161426899 v2 Revised
+{|Expression_Idle_Neutral}I'm warning you.
+{|Expression_Idle_Neutral}Don't come back with this garbage a second time.
+
+key: bull/conversations.foodrefuse_same_fallback02.loctext -5478532626906956125 v2 Revised
+{|Expression_Idle_Neutral}Let's drop the charade.
+{|Expression_Idle_Neutral}Get out of my face.
+{|Expression_Idle_Neutral}I won't eat the same thing all day, every day.
+
+key: bull/conversations.frog_lynx_lastvoyagecomment_atlocation.loctext -2544133036338285870 v1 Revised
+Your grandmother is a fighting one.
+I'm even scared of her at times.
+She needs you now.
+

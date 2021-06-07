@@ -1,0 +1,6 @@
+key: achievements/all_decorations_hedgehog.description 1399776167354008291 v2 Revised
+ปรับปรุง กระท่อมของอลิซ ทั้งหมด.
+
+key: achievements/all_decorations_hedgehog.name -1457307832141358028 v1 Revised
+Fully Improved: Alice
+

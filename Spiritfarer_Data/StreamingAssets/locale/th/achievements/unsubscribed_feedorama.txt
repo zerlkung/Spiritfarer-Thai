@@ -1,0 +1,6 @@
+key: achievements/unsubscribed_feedorama.description 2898270952552153885 v2 Revised
+ยกเลิกการสมัครฟีโดรามา
+
+key: achievements/unsubscribed_feedorama.name -1130136385796035844 v1 Revised
+Unsubscribe
+

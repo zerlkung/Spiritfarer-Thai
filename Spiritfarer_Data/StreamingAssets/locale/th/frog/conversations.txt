@@ -1,0 +1,1257 @@
+key: frog/conversations.askcancelworkbench.loctext -4797975017805328428 v3 Revised
+Should I stop?
+
+key: frog/conversations.askcancelworkbench-noanswer_conversation.loctext -7064138447361053130 v3 Revised
+I'll keep on sawing!
+
+key: frog/conversations.askcancelworkbench-yesanswer_conversation.loctext 8727324957418159425 v3 Revised
+Guess I'll go do something else then!
+
+key: frog/conversations.doingupbuildingsconversation.loctext 7858718324547529903 v6 Revised
+This building needed some work done on it.
+I'm always ready for some DIY action!
+I just hope the others appreciate it.
+
+key: frog/conversations.foodrefuse_inedible.loctext -242103175812491193 v3 Revised
+This is hot garbage. Ewww...
+
+key: frog/conversations.frog_d1_industry_conversation.loctext 7368428642853103648 v54 Revised
+Look at that fuse box, Stella!
+The glass is all busted up!
+That's not up to code.
+If I was their union leader, believe you me.
+I'd make that greedy boss eat his own shoes.
+
+key: frog/conversations.frog_d1_industry_conversation_loop.loctext -4832378955839634861 v2 Revised
+Damn, this place sure is a mess.
+
+key: frog/conversations.frog_favorite_porkchops.loctext 312963901362623023 v1 Revised
+{Expression_Panic|Expression_Idle_Neutral}((Pork chops))!!!
+{Expression_Panic|Expression_Idle_Neutral}Those are ((pork chops))!!!
+{Expression_Panic|Expression_Idle_Neutral}Stella!!
+{Expression_Panic|Expression_Happy}This is amazing!
+Amazingly good!
+{Expression_VeryHappy}I can't believe it!
+{Expression_VeryHappy}This is my ((favourite)) dish!
+{Eat}Thank you captain!
+Thank you!
+
+key: frog/conversations.frog_favorite_porkchops_fallback01.loctext 2095307831562940640 v1 Revised
+{Expression_VeryHappy}((Pork chops)), my ((favourite))!
+{Eat}What a treat!
+
+key: frog/conversations.frog_favorite_porkchops_fallback02.loctext 6400604819703586675 v1 Revised
+{Eat}Can’t get enough ((pork chops))!
+
+key: frog/conversations.frog_like_edible.loctext -4959767199327304344 v1 Revised
+{Expression_Panic}Oh boy!
+{Conversation}I just love food!
+{Conversation}Keep'em coming!
+{Eat}I can't get enough of it!
+
+key: frog/conversations.frog_like_edible_fallback01.loctext -4056342819508168717 v1 Revised
+{Eat}Delicious! I had a hankering for this.
+
+key: frog/conversations.frog_like_edible_fallback02.loctext 2076493125008428412 v1 Revised
+{Eat}The service on this ship is incredible.
+
+key: frog/conversations.frogconversation-askaboutplayvalidation.loctext -4158165465510277999 v4 Revised
+Yeah, it was fun!
+That reminds me of what my kids put on each year.
+{|Expression_Idle_Neutral}It's never good.
+But still, those younglings are always fun to watch!
+
+key: frog/conversations.frogconversation-basiliskfoodmanualconversation.loctext 3843432181506151487 v2 Revised
+{Expression_Happy|Expression_Idle_Neutral}I'm sure Buck will love this.
+Probably too much!
+
+key: frog/conversations.frogconversation-batfoodmanualconversation.loctext -2615662708487759064 v2 Placeholder
+This is perfect.
+{Expression_Happy|Expression_Idle_Neutral}Daria is going to be so happy.
+
+key: frog/conversations.frogconversation-bigmealintro._independenttextbubbleloc 4360979216390423313 v1 Revised
+Stella!
+
+key: frog/conversations.frogconversation-bigmealintro.loctext 7664222907451760316 v12 Revised
+I think we should organise a big dinner for everyone aboard.
+I'm not kidding around.
+Well, not everyone!
+Just a few people, maybe.
+I think it would bring spirits up!
+You should invite everyone and ask them what they want for dinner.
+Let's say three of your favourite dinner companions!
+What do you think?
+
+key: frog/conversations.frogconversation-bigmealreminder._commenttext 5846979091223599983 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-bigmealreminder.loctext 3050086601623398114 v5 Revised
+{|Expression_Idle_Neutral}Have you talked to everyone you want to invite to our dinner?
+
+key: frog/conversations.frogconversation-buildbuildingintro._independenttextbubbleloc 6351624141651096534 v1 Revised
+I’m going bananas on this ship.
+
+key: frog/conversations.frogconversation-buildbuildingintro.loctext -2328533300062092338 v12 Revised
+{Expression_Panic|Expression_Idle_Neutral}I don’t have anything to do.
+{|Expression_Idle_Neutral}I've got this surplus of energy.
+{Conversation|Expression_Idle_Neutral}I need to get my hands busy.
+{Expression_Happy|}Can you do me a solid?
+{Expression_Happy|Expression_Headnod}You've always been my favourite niece, you know that.
+{|Expression_Idle_Neutral}I think I need a place to focus that energy.
+{|Expression_Idle_Neutral}In a ((sawmill)).
+{|Expression_Idle_Neutral}Yeah.
+{|Expression_Idle_Neutral}You're just missing some of the key components.
+{|Expression_Idle_Neutral}Materials!
+{|Expression_Pensive}Which I’m sure you can find on nearby islands.
+{|Expression_Headnod}I’m counting on you to help me out.
+{Conversation|Expression_Unhappy}I'm sure you don't want your old uncle to sleep on the deck.
+{Expression_Happy|Expression_Unhappy}Right?
+
+key: frog/conversations.frogconversation-buildingbuildingvalidation._independenttextbubbleloc 3726634373276905610 v1 Revised
+Wow!
+
+key: frog/conversations.frogconversation-buildingbuildingvalidation.loctext 7853445389991771490 v6 Revised
+{|Expression_Happy}This looks amazing.
+{|Expression_Headnod}Thank you for helping me out, Stella.
+{Expression_Panic|}This ((sawmill)) is so big!
+What a beauty!
+{|Expression_Idle_Neutral}There's just one problem.
+{|Expression_Idle_Neutral}Now, don't get mad.
+{|Expression_Surprise}I don’t have any money to repay you.
+I guess that’s why they call it a favour.
+{Expression_Happy|}You see what I did there?
+{|Expression_Headnod}Thanks again, Sprout.
+
+key: frog/conversations.frogconversation-bullfoodmanualconversation.loctext -6891696625690452437 v5 Revised
+Wow, a ((corn dog))!
+{Expression_Happy|Expression_Idle_Neutral}Good choice, boys.
+
+key: frog/conversations.frogconversation-butterfliesfoodmanualconversation.loctext -244754067846166943 v2 Placeholder
+I didn't know your sister liked ((grilled chicken)).
+Good to know.
+
+key: frog/conversations.frogconversation-buyadecoration-showerreminder._commenttext 4605938231830402209 v2 Revised
+Hmm...
+
+key: frog/conversations.frogconversation-buyadecoration-showerreminder.loctext 3086818247400179448 v2 Revised
+A new shower would be nice.
+
+key: frog/conversations.frogconversation-buyadecoration-showerskipconversation._independenttextbubbleloc 7415813192629547252 v2 Revised
+Look at that!
+
+key: frog/conversations.frogconversation-buyadecoration-showerskipconversation.loctext -1494275438885323255 v3 Revised
+You've already started with the ((improvements)).
+Carry on.
+
+key: frog/conversations.frogconversation-buyatulhouseintroduction._independenttextbubbleloc -6368601618437864148 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-buyatulhouseintroduction.loctext 2282523449814636315 v6 Revised
+{Expression_Panic}You've been chopping it up in the ((sawmill))!
+I like it.
+Getting the work done!
+Learn a new skill!
+Now, that you've got some materials.
+Maybe you could build me a house.
+{|Expression_Pensive}Let me sketch something real quick.
+{Architecting|Expression_Pensive}Look, it’s nothing fancy.
+{Architecting|Expression_Pensive}It's pretty basic, with just a few hinges here...
+{Architecting|Expression_Pensive}And a few nails in there...
+{Idle}Oh!
+You've already got some materials to build me something nice.
+I'm asking not only for me, but for the crew.
+{|Expression_Idle_Neutral}Apparently, I snore at night.
+{|Expression_Unhappy}Loudly, according to your friend Gwen.
+
+key: frog/conversations.frogconversation-buyatulhousereminder._commenttext 8790862338567130020 v2 Revised
+Don't forget!
+
+key: frog/conversations.frogconversation-buyatulhousereminder.loctext -1414260486859131340 v4 Revised
+So... about my house?
+That guest house just doesn't cut it anymore.
+
+key: frog/conversations.frogconversation-buyatulhouseskipconversation._independenttextbubbleloc 893558269719413593 v2 Revised
+Oh!
+
+key: frog/conversations.frogconversation-buyatulhouseskipconversation.loctext -629279687112693407 v3 Revised
+You read my mind.
+
+key: frog/conversations.frogconversation-buyatulhousevalidation._independenttextbubbleloc 6145092067510607291 v2 Revised
+Would you look at that?
+
+key: frog/conversations.frogconversation-buyatulhousevalidation.loctext -8862553457362173677 v3 Revised
+It's perfect, Sprout.
+It's massive.
+All this room for little one me.
+I can't wait to catch some shut-eye.
+This is really great.
+Thank you so much.
+I won't forget this.
+
+key: frog/conversations.frogconversation-buyworkbenchreminder._commenttext -6950083223235340435 v2 Revised
+Oh!
+
+key: frog/conversations.frogconversation-buyworkbenchreminder.loctext 562710964118955791 v4 Revised
+There's a serious lack of power tools in here.
+Maybe that ((sawmill)) I was talking about?
+Yeah, that would work.
+
+key: frog/conversations.frogconversation-call.loctext 8419013922279257942 v2 Revised
+Stella!
+
+key: frog/conversations.frogconversationcall-stormobligated._independenttextbubbleloc -2119475080061871605 v1 Revised
+Stella! Quick, come here!
+
+key: frog/conversations.frogconversationcall-stormobligated.loctext 8615352095684685956 v3 Revised
+[CancelTimer]{Expression_Panic|Expression_Surprise}This is what I call a storm!
+{|Expression_Idle_Neutral}Any respectable person would never let their friend get hit by lightning.
+{Expression_Happy|Expression_Surprise}But I think you should try!
+{|Expression_Pensive}You have the Everlight; it will protect you.
+{|Expression_Idle_Neutral}The lightning bolts will cast sparkles where they're about to hit, rush toward those!
+{|Expression_Pensive}Ah, I almost forgot: have you got any empty bottle?
+{|Expression_Pensive}If you're hit by a lightning with an empty bottle, you get a ((lightning in a bottle))!
+{Expression_Panic|Expression_Unhappy}Isn't that bananas?
+{Expression_Panic|Expression_Unhappy}This world!
+Lightnings in bottles are a pretty handy resource, so come here equipped.
+As a head start, here are a few bottles for you.
+But don't worry, they're pretty easy to come by.
+{|Expression_Headnod}Get ready for the thrill of your life!
+
+key: frog/conversations.frogconversationcall-stormtutorial01._independenttextbubbleloc 4469423476356678686 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversationcall-stormtutorial01.loctext -627376058660930541 v3 Revised
+[CancelTimer]{Expression_Happy|Expression_Idle_Neutral}A storm!
+{Expression_Happy|Expression_Idle_Neutral}Let's try and catch some lightning.
+{Expression_Happy|Expression_Idle_Neutral}Remember: your Everlight will protect you.
+What do you say?
+
+key: frog/conversations.frogconversationcall-stormtutorial02._independenttextbubbleloc 3130360396193371160 v1 Revised
+Stella!
+
+key: frog/conversations.frogconversationcall-stormtutorial02.loctext 7802413001533655727 v1 Revised
+[CancelTimer]{Expression_Happy|Expression_Idle_Neutral}Look at that.
+{Expression_Happy|Expression_Idle_Neutral}A thunderstorm is here.
+{Expression_Happy|Expression_Idle_Neutral}Normally I’d tell you to run inside, but your Everlight will catch those jolts of light.
+Up for a challenge?
+
+key: frog/conversations.frogconversationcall-stormtutorial03._independenttextbubbleloc 2328414299501132131 v1 Revised
+Quick!
+
+key: frog/conversations.frogconversationcall-stormtutorial03.loctext -3753572606001209098 v1 Revised
+[CancelTimer]{Expression_Happy|Expression_Idle_Neutral}A lightning storm!
+{Expression_Happy|Expression_Idle_Neutral}Don’t be scared.
+Want to catch as many bolts as you can?
+
+key: frog/conversations.frogconversationcall-stormtutorialno.loctext -4970958670000952021 v1 Revised
+That's too bad, Sprout.
+Maybe next time.
+
+key: frog/conversations.frogconversationcall-stormtutorialyes.loctext 162123783048618972 v1 Revised
+That's the spirit.
+Just stand below each hit.
+
+key: frog/conversations.frogconversation-commentaboutplay01.loctext -9094384800020339674 v1 Revised
+Amazing!
+
+key: frog/conversations.frogconversation-cookingbad._independenttextbubbleloc -3678253514741501993 v1 Placeholder
+Stella!
+
+key: frog/conversations.frogconversation-cookingbad.loctext -1630020036177082816 v1 Placeholder
+What are you doing in there?
+Please don't feed me that garbage.
+I have some standards, even for the advancement of science.
+
+key: frog/conversations.frogconversation-cookingintro._independenttextbubbleloc 749645310518248732 v1 Placeholder
+Oh, yeah!
+
+key: frog/conversations.frogconversation-cookingintro.loctext 5917470471354075312 v1 Placeholder
+Now that I think about it...
+You've probably gotten the hang of fishing by now.
+That means you can grill those bad boys up and start feeding me.
+There should even be a kitchen on this boat somewhere.
+I'm just saying.
+I might be getting hungry.
+In the coming minutes.
+
+key: frog/conversations.frogconversation-cookingreminder.loctext -4996329643668085814 v1 Placeholder
+The kitchen is the perfect place to cook your freshly caught fish.
+
+key: frog/conversations.frogconversation-cookingvalidation._independenttextbubbleloc -6058009931535880824 v1 Placeholder
+Wow!
+
+key: frog/conversations.frogconversation-cookingvalidation.loctext 1283595196436150383 v4 Placeholder
+Smells delicious!
+You could always try and ((feed)) me your cooking experiment.
+I can be your guinea pig.
+Anything for the science of food!
+
+key: frog/conversations.frogconversation-decorationdeskintro._independenttextbubbleloc -6147527677653513642 v1 Revised
+Alright!
+
+key: frog/conversations.frogconversation-decorationdeskintro.loctext 4429720832641402586 v4 Revised
+Do you know what my house needs?
+{Expression_Happy|Expression_Idle_Neutral}A desk!
+{Expression_Happy|Expression_Idle_Neutral}And some tools!
+Yeah, that's it.
+I know we don't have a lot of space on this boat...
+This is kinda becoming a dream scenario of mine.
+My bed next to my tools.
+{Expression_Panic}It would be like I'm living a fantasy!
+I could work on my own projects.
+Maybe build something for my daughter, Ashley.
+{Expression_Sad|Expression_Empathy}...
+{Expression_Sad|Expression_Empathy}Yeah, what's the use, right?
+{Expression_Sad|Expression_Empathy}It's not like I'm !ever going to see her again.
+{Expression_Sad|Expression_Empathy}I should stop daydreaming about it.
+{Expression_Sad|Expression_Empathy}I'm just trapped here.
+{Expression_Sad|Expression_Empathy}You know what's not funny?
+{Expression_Sad|Expression_Empathy}I can't even remember her face.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}So, let's just get that desk and I'll figure out what to make later.
+
+key: frog/conversations.frogconversation-decorationframeintro._independenttextbubbleloc -3507462499698497432 v1 Revised
+Stella.
+
+key: frog/conversations.frogconversation-decorationframeintro.loctext -4241002873097561970 v3 Revised
+{Expression_Sad|Expression_Empathy}I'm not feeling so hot right now.
+{Expression_Sad|Expression_Empathy}I've got a lot on my mind.
+I keep thinking about my friend Zazie.
+{|Expression_Idle_Neutral}Did you ever meet her?
+{|Expression_Idle_Neutral}We used to organise rallies when we were younger.
+{|Expression_Idle_Neutral}This picture of her and me is the only picture I have in my wallet.
+{|Expression_Idle_Neutral}I’ve had it for over forty years.
+{|Expression_Idle_Neutral}Damn.
+{|Expression_Idle_Neutral}Your aunt Viv would murder me if she knew I didn't at least have one picture of our kids.
+{|Expression_Idle_Neutral}And she adored Zaz.
+{|Expression_Idle_Neutral}Everyone did.
+Maybe we should hang it in my house.
+It won't get rid of the folds, but at least I won't get water all over it.
+
+key: frog/conversations.frogconversation-decorationshowerintro._independenttextbubbleloc 7035389317518406396 v1 Revised
+Hey, Sprout!
+
+key: frog/conversations.frogconversation-decorationshowerintro.loctext -5953627924644708912 v5 Revised
+I've been thinking that my house is nice and all.
+I was thinking of adding a shower in the corner there.
+{|Expression_Idle_Neutral}All the sawdust from the sawmill is making me itchy.
+{|Expression_Unhappy}I still love sawdust.
+{|Expression_Unhappy}Don't tell sawdust I said anything bad about her.
+
+key: frog/conversations.frogconversation-decorationsintro._independenttextbubbleloc -5682102585457684574 v1 Revised
+I have an idea, Sprout.
+
+key: frog/conversations.frogconversation-decorationsintro.loctext 6277148639368839484 v4 Revised
+I've been looking at my house.
+{|Expression_Idle_Neutral}It's a little bare-bones.
+{|Expression_Idle_Neutral}As an amateur handyman, this doesn't work at all.
+{|Expression_Headnod}Maybe we should ((improve)) it.
+{|Expression_Headnod}Add a few bells and whistles!
+I don't know what exactly.
+Let me have a look.
+{Conversation}Follow me!
+
+key: frog/conversations.frogconversation-decorationsreminder.loctext -6117223124692786024 v1 Revised
+You should really ((improve)) my house with some decorations.
+Something was could brighten both of our days.
+
+key: frog/conversations.frogconversation-decorationsskipconversation._independenttextbubbleloc 6479421177228217352 v2 Revised
+Would you look at that?
+
+key: frog/conversations.frogconversation-decorationsskipconversation.loctext 751037294697107302 v2 Revised
+{Expression_Panic}You went all out for me!!
+
+key: frog/conversations.frogconversation-decorationsvalidation._independenttextbubbleloc -4733480652727432444 v2 Revised
+Way to go, Sprout!
+
+key: frog/conversations.frogconversation-decorationsvalidation.loctext -1276391483163996740 v3 Revised
+{Conversation}This all looks amazing!
+{Expression_Panic}You got it all!
+My house has never looked better.
+{|Expression_Idle_Neutral}I'm sure the other passengers are already jealous.
+{Conversation|Expression_Unhappy}But, let's not rub it in their faces.
+
+key: frog/conversations.frogconversation-deerfoodmanualconversation.loctext -6450270044475211174 v3 Revised
+{Expression_Happy|Expression_Idle_Neutral}((Black coffee)) sounds about right for Gwen.
+
+key: frog/conversations.frogconversation-dinnertimeintroduction._independenttextbubbleloc 5585673514938235193 v2 Revised
+Good work!
+
+key: frog/conversations.frogconversation-dinnertimeintroduction.loctext -6588272499200645743 v4 Revised
+We just need a place to eat now.
+I don't think the deck is the right place for a five-course meal.
+What about the big city: ((Hummingberg))?
+{|Expression_Headnod}That island with the shrine and the nice tables.
+{|Expression_Idle_Neutral}Nothing too fancy, but still a night on the town.
+{|Expression_Idle_Neutral}I'll make us a nice spot.
+Let's head over there.
+
+key: frog/conversations.frogconversation-dogfoodmanualconversation.loctext -3955228831812441772 v2 Revised
+What an odd choice for Elena!
+Hope she likes it.
+
+key: frog/conversations.frogconversation-everyonefedvalidation._independenttextbubbleloc 7351671740765607523 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-everyonefedvalidation.loctext -6885487463202342280 v5 Revised
+{|Expression_Idle_Neutral}You've got everyone's meal.
+{|Expression_Idle_Neutral}Let's head to ((Hummingberg)).
+{|Expression_Idle_Neutral}That big village.
+It will make for a nice dinner spot.
+
+key: frog/conversations.frogconversation-fedatulintro._independenttextbubbleloc 2475881619300476002 v1 Revised
+Hey, Stella.
+
+key: frog/conversations.frogconversation-fedatulintro.loctext -3830202810791416785 v3 Revised
+As you know, I tend to get hungry.
+{|Expression_Headnod}That's just a fact of life.
+{Conversation|Expression_Pensive}Sometimes, when I do, I get hungry for really specific things.
+{Conversation|Expression_Pensive}Your aunt Viv would call it "laser focus tummy".
+{|Expression_Pensive}Don't get me wrong.
+{|Expression_Pensive}I'll still eat pretty much whatever you put in front of me.
+{|Expression_Pensive}I'd just like for you to do an effort on this one.
+I'll give you a shout when I get a craving.
+{|Expression_Unhappy}Hopefully, I won't ask for anything too extreme.
+{|Expression_Unhappy}You know never with this appetite.
+{|Expression_Unhappy}Fair warning, Sprout.
+
+key: frog/conversations.frogconversation-fedspiritsintroduction._independenttextbubbleloc -433921878613212342 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-fedspiritsintroduction.loctext 7123328949033849554 v6 Revised
+Now here comes the hard-part.
+{|Expression_Headnod}I need a sous-chef.
+{|Expression_Headnod}Someone to help me prepare all of the meals.
+A good chef always has a good team behind them.
+{|Expression_Idle_Neutral}Believe you me, Stella.
+{|Expression_Headnod}We make a great team.
+I'll just write down what everyone wanted.
+{|Expression_Unhappy}You just need to prepare it all.
+{|Expression_Unhappy}The heavy lifting, you know!
+
+key: frog/conversations.frogconversation-fedspiritsreminder._commenttext -5651054942994821236 v2 Revised
+Don't forget!
+
+key: frog/conversations.frogconversation-fedspiritsreminder.loctext 5337172671200218007 v2 Revised
+{|Expression_Unhappy}You need to prepare and give me everyone's meal.
+{|Expression_Unhappy_to_Idle}Then, we can start our dinner.
+
+key: frog/conversations.frogconversation-findathunderstormreminder.loctext 6363517973249012051 v1 Placeholder
+I'm sure some thunderstorms are lurking not far from here.
+
+key: frog/conversations.frogconversation-findlemonreminder._commenttext -5417232538991789057 v2 Revised
+Look in that pond!
+
+key: frog/conversations.frogconversation-findlemonreminder.loctext 5703094841114894408 v4 Revised
+My lemon should be down there!
+
+key: frog/conversations.frogconversation-findlemonskipconversation._independenttextbubbleloc -937482582408602124 v2 Revised
+My lemon!
+
+key: frog/conversations.frogconversation-findlemonskipconversation.loctext -8548606217816975220 v4 Revised
+You've found it!
+
+key: frog/conversations.frogconversation-fishingintro._independenttextbubbleloc -3605870827002966287 v1 Placeholder
+Hi there, Sprout!
+
+key: frog/conversations.frogconversation-fishingintro.loctext 676050918867384125 v1 Placeholder
+If you feel like it, you can always try fishing at the edge of the boat.
+Maybe catch us a few fish?
+That would start your day right!
+
+key: frog/conversations.frogconversation-fishingreminder.loctext 5492387094041566478 v1 Placeholder
+If you feel like it, you can always try that fishing chair at the edge of the boat.
+Maybe catch us a few fish.
+The day looks perfect!
+
+key: frog/conversations.frogconversation-fishingreminderintroduction._independenttextbubbleloc 7218689676955323033 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-fishingreminderintroduction.loctext 4058535283276321307 v4 Revised
+{|Expression_Pensive}Why don't you fish anymore?
+It's really calming.
+You just cast the line and you wait.
+So relaxing... Then it's the fight of your life!
+You give it all your heart.
+{Expression_Panic}What's not to love about it!
+
+key: frog/conversations.frogconversation-fishingtimeintro._independenttextbubbleloc -50985154118722356 v1 Revised
+I knew it!
+
+key: frog/conversations.frogconversation-fishingtimeintro.loctext -1562990080305987532 v14 Revised
+{Expression_Panic|Expression_Surprise}That's a Sea Master 2000!
+{Panic_To_Idle|Expression_Pensive}I've actually never seen it in action.
+{|Expression_Pensive}I've only heard the rumors.
+{|Expression_Idle_Neutral}Apparently, you can catch the biggest and brightest fish out there.
+{|Expression_Idle_Neutral}Wow, Stella.
+{Expression_Happy}You sure know how to treat yourself.
+{Expression_Panic}Wait a darn second!
+{|Expression_Surprise}You're missing a few bolts.
+{|Expression_Pensive}Let me guess?
+{|Expression_Surprise}You've been fishing out mostly garbage.
+{Build|Expression_Happy}[Wait]Well, not anymore.
+{Idle|Expression_Happy}You'll see the difference immediately.
+{|Expression_Headnod}Give it a go for a fan.
+
+key: frog/conversations.frogconversation-fishingtimereminder._commenttext -4453207560122955823 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-fishingtimereminder.loctext -8270464939267489112 v4 Revised
+Try out this fishing chair.
+It will blow your mind now!
+
+key: frog/conversations.frogconversation-fishingtimevalidation._independenttextbubbleloc 6490036611827935393 v1 Revised
+Great job, Sprout!
+
+key: frog/conversations.frogconversation-fishingtimevalidation.loctext -617658827997741328 v9 Revised
+They never stood a chance.
+You sure don't mess around.
+That's what makes you a pro.
+All this ace level fishing has gotten me all rattled up.
+Which reminds me.
+{|Expression_Surprise}I had this shiny thing in my pockets on the island.
+I have no idea was it does.
+{|Expression_Headnod}Maybe you can hold on to it.
+For safe keeping, I suppose.
+{|Expression_Idle_Neutral}Oh brother...
+{|Expression_Idle_Neutral}I need to take a breather.
+{|Expression_Idle_Neutral}Oh and by the way...
+{|Expression_Unhappy}You might be curious and might have already tried, but yes, the water is very salty.
+{|Expression_Idle_Neutral}Well, I'll take go and take a look around.
+{|Expression_Headnod}You can fish to your heart's content, if you want!
+
+key: frog/conversations.frogconversation-fishingtripintro._independenttextbubbleloc 7561318275114358569 v1 Revised
+I'm so hungry.
+
+key: frog/conversations.frogconversation-fishingtripintro.loctext 5242830999068940637 v8 Revised
+I know I’ve been asking a lot lately.
+{Conversation}I’ve got a big appetite.
+{Conversation}It goes well with my love of food!
+But you know what I would go for?
+A bucket of ((fried chicken))!
+That would bring me back.
+Because the best kind of food comes in buckets.
+Cooking sounds hard sometimes.
+In this case, it's pretty easy.
+
+key: frog/conversations.frogconversation-fishingtripreminder._commenttext 1260409073478972911 v2 Revised
+Don't forget!
+
+key: frog/conversations.frogconversation-fishingtripreminder.loctext 1139208145686353745 v5 Revised
+{Conversation}I think I need a bucket of ((fried chicken)) right in front of me.
+
+key: frog/conversations.frogconversation-fishingtripvalidation._independenttextbubbleloc -3153420927322014667 v1 Revised
+Wow!
+
+key: frog/conversations.frogconversation-fishingtripvalidation.loctext -664206165624064149 v10 Revised
+{Eat}This always makes me think of my dad.
+{Eat}He loved preparing food.
+He was an absolute genius in the kitchen.
+His meals would always turn out perfectly.
+But... while he was making them...
+He was angry.
+You couldn't take his focus away from making food.
+It was like he was trying to tame the kitchen or something.
+It was a fight to the death.
+He would always win.
+A meal could take him hours to prepare just right.
+It took him so long. 
+I remember being a kid and, when it was ready, I didn't care what food was in front of me.
+It could have been cereal for all I care.
+{Expression_Sad|Expression_Empathy}I just hated watching him make food back then.
+{Expression_Sad|Expression_Empathy}Waiting for hours.
+{Expression_Sad|Expression_Empathy}For meal I didn't care about.
+{Expression_Sad|Expression_Empathy_to_Idle}But, every time, I eat this...
+It doesn’t seem that bad anymore.
+...
+Well...
+Thanks, Sprout.
+
+key: frog/conversations.frogconversation-fishingvalidation._independenttextbubbleloc -4440431665450645613 v1 Revised
+Great job, Sprout!
+
+key: frog/conversations.frogconversation-fishingvalidation.loctext 5104476155988695160 v1 Revised
+I'm so proud of you!
+Now, you can fish to your heart's content!
+
+key: frog/conversations.frogconversation-floatingcratesvalidation._independenttextbubbleloc -4743932644227223071 v1 Revised
+Perfect... sea trash!
+
+key: frog/conversations.frogconversation-floatingcratesvalidation.loctext -2737014890793757276 v1 Revised
+Quick, jump in the water.
+There's wreckage.
+I'm sure you'll find some helpful materials in there.
+
+key: frog/conversations.frogconversation-gotob1reminder._commenttext 5967253211726354913 v2 Revised
+Are we there yet?
+
+key: frog/conversations.frogconversation-gotob1reminder.loctext -281808485113610904 v3 Revised
+((Hummingberg)) sounds like the perfect place for our family meal.
+
+key: frog/conversations.frogconversation-gwenismissingreminder.loctext -5389295857208287931 v2 Revised
+{|Expression_Pensive}Hmm...
+{|Expression_Pensive}Gwen was here one second ago and then she was missing.
+{|Expression_Pensive}I wonder where she could be.
+{|Expression_Pensive}Maybe she took a trip to clear her head?
+{|Expression_Pensive}You should look for your friend, Stella.
+
+key: frog/conversations.frogconversation-hedgehogfoodmanualconversation.loctext -4315254026902441812 v5 Revised
+A ((veggie pot pie)) for Alice.
+{Expression_Happy|Expression_Idle_Neutral}I'm sure she'll be over the moon.
+
+key: frog/conversations.frogconversationhungry01.loctext 524566480630106591 v1 Revised
+{Conversation}My stomach is trying to say something.
+
+key: frog/conversations.frogconversationhungry02.loctext -5838820834759342438 v1 Revised
+{Conversation}Any delicious food would work on me right about now.
+
+key: frog/conversations.frogconversationhungry03.loctext 2454543479217202826 v1 Revised
+{Conversation}I'm dreaming about a delicious meal!
+
+key: frog/conversations.frogconversationhungrymaster._commenttext -5642872097280062039 v1 Revised
+I need food!
+
+key: frog/conversations.frogconversation-hyenafoodmanualconversation.loctext -4831284277563805278 v3 Placeholder
+((Garlic bread)) isn't a meal.
+{Expression_Happy|Expression_Idle_Neutral}But, it should be!
+
+key: frog/conversations.frogconversation-icezonevalidation._independenttextbubbleloc 1364214351144874157 v2 Revised
+That's a big one!
+
+key: frog/conversations.frogconversation-icezonevalidation.loctext 1402050874910646869 v3 Revised
+{|Expression_Idle_Neutral}Oh wow.
+{Expression_Panic|Expression_Idle_Neutral}There's no way our boat is getting through that!
+{|Expression_Pensive}Maybe Albert has something in his arsenal.
+{Expression_Panic|Expression_Unhappy}Some dynamite or something!
+
+key: frog/conversations.frogconversationindenpendant-fishing.loctext 1627486160812849352 v1 Placeholder
+Look at all the little fishies!
+
+key: frog/conversations.frogconversation-invitefrogintroduction.loctext -6258828018788218764 v8 Revised
+{|Expression_Idle_Neutral}A kid's play?
+{|Expression_Idle_Neutral}Here!
+{|Expression_Happy}Sure, I'll be there!
+
+key: frog/conversations.frogconversation-lemonintro._commenttext -22680612627878849 v2 Revised
+Hey!
+
+key: frog/conversations.frogconversation-lemonintro.loctext 709521515331897783 v7 Revised
+{|Expression_Surprise}Oh! 
+{|Expression_Surprise}Great!
+{|Expression_Surprise}You're here!
+{|Expression_Pensive}Listen.
+{|Expression_Pensive}I just dropped a lemon in that pond.
+{|Expression_Pensive}My fingers were all sticky.
+It just sorta slipped.
+Why?
+Good question!
+{|Expression_Unhappy}I've been eating delicious berries all day.
+{|Expression_Unhappy}Look at my hands, I swear.
+{|Expression_Unhappy}I've been experimenting.
+I wanted to squeeze a little bit of citrus on these wild fruit.
+Now, it's just berries with no twist.
+Unless.
+It's just down there.
+In the water.
+I'd do it myself, but I have these pulpy fruits to take care of.
+
+key: frog/conversations.frogconversation-lemonreminder.loctext 6917870656668701405 v1 Revised
+It should be in that pond down there.
+
+key: frog/conversations.frogconversation-lemonvalidation._independenttextbubbleloc 8382083486513023958 v1 Revised
+That's the one!
+
+key: frog/conversations.frogconversation-lemonvalidation.loctext 7365307288062635886 v4 Revised
+{|Expression_Idle_Neutral}I just need to find a tissue or something.
+{|Expression_Idle_Neutral}I don't want to get berry juice all over it.
+{|Expression_Idle_Neutral}Nevermind.
+{|Expression_Headnod}Just hold on to that lemon for me.
+{|Expression_Idle_Neutral}Don't go and squeeze it.
+{|Expression_Idle_Neutral}Wait a minute...
+{|Expression_Pensive}Maybe you could help me?
+{|Expression_Pensive}This island is fresh out of food.
+{|Expression_Pensive}My stomach always feels empty.
+{|Expression_Happy}Maybe I could even help out aboard your ship
+{|Expression_Happy}With cooking, fishing, and building.
+I don't have my spices and tools, but I'll make it work.
+Don't think about it so much!
+{|Expression_Happy}Let's just go to your boat.
+
+key: frog/conversations.frogconversation-lightninghard01._independenttextbubbleloc -2773277961260465971 v1 Revised
+What is this!!!!
+
+key: frog/conversations.frogconversation-lightninghard01.loctext -7943605238717097358 v3 Revised
+{Expression_Panic|Expression_Idle_Neutral}This isn't a thunderstorm.
+{Expression_Panic|Expression_Idle_Neutral}This is too intense for me and for you.
+{Expression_Panic|Expression_Idle_Neutral}Let's get out of here.
+{Expression_Panic|Expression_Idle_Neutral}Quickly.
+{Expression_Panic_to_Idle|Expression_Idle_Neutral}No niece of mine is going through this.
+
+key: frog/conversations.frogconversation-lightninghard02._independenttextbubbleloc -1790796830752304482 v2 Revised
+Ahhh!
+
+key: frog/conversations.frogconversation-lightninghard02.loctext 4161925432438583299 v2 Revised
+{Expression_Panic|Expression_Idle_Neutral}Let's get out of here.
+{Expression_Panic_to_Idle|Expression_Idle_Neutral}This thunderstorm is too much.
+
+key: frog/conversations.frogconversation-lionfoodmanualconversation.loctext -6375649834919486680 v5 Revised
+{Expression_Happy|Expression_Idle_Neutral}Thank you for the ((bouillabaisse)).
+What a potluck!
+
+key: frog/conversations.frogconversation-localunionintro._independenttextbubbleloc 275141305910279076 v1 Revised
+What’s for dinner?
+
+key: frog/conversations.frogconversation-localunionintro.loctext -7460588583681686491 v2 Revised
+{|Expression_Idle_Neutral}My stomach is rumbling.
+I see you've got some new equipment in your kitchen.
+You've got the tools to feed an army.
+{|Expression_Headnod}I need a little pick me up.
+Something that would keep them going for hours.
+Some pork chops, maybe?
+If I had access to my kitchen, my spices and the market back home, I could whip up something.
+I just don't know what's possible over here.
+You'll just have to make it up as you go along.
+{|Expression_Idle_Neutral}That's what cooking is: lying that doesn't come back to haunt you.
+{|Expression_Idle_Neutral}Wise words that your great-grandma once told me.
+{|Expression_Idle_Neutral}What a lady.
+
+key: frog/conversations.frogconversation-localunionreminder._commenttext 5004316530236019004 v2 Revised
+I'm thinking...
+
+key: frog/conversations.frogconversation-localunionreminder.loctext 7564838339047569987 v3 Revised
+((Pork chops)) are the way into my heart.
+
+key: frog/conversations.frogconversation-localunionvalidation._independenttextbubbleloc -3887751785399799486 v1 Revised
+I'm so full!
+
+key: frog/conversations.frogconversation-localunionvalidation.loctext -845813451571732443 v2 Revised
+{Expression_Panic}WHAT!?!?
+{Expression_Panic}((Pork chops))!?!?
+{Expression_VeryHappy}Oh boy, oh boy, oh boy!!!
+{Expression_VeryHappy}I am +=SO EXCITED=+!
+{Conversation}They look so damn tasty!
+{Eat}And they are!
+{Eat}Sprout, you're a miracle, you know that?
+{Eat}Oh, this is just so good...
+{Eat}...
+Ha, now I feel just a bit guilty.
+And I’m sorry you’re running all these culinary errands for me.
+...
+Look, there was this kid at work.
+Craig.
+{|Expression_Idle_Neutral}We used to have these long and tight union negotiations.
+{|Expression_Idle_Neutral}All-nighters.
+{|Expression_Idle_Neutral}Everyone would be at a stand-still.
+{|Expression_Idle_Neutral}Everyone was so hungry and every restaurant was closed.
+{|Expression_Idle_Neutral}I would send Craig on these endless 24-hour grocery store crawls for me.
+{|Expression_Idle_Neutral}I would ask for these impossible gets: saffron, sumac, or even anise.
+{|Expression_Idle_Neutral}It was something like two o'clock in the morning.
+Our goal was to make the tastiest chops in the world.
+A meal for everyone.
+On both sides of the table.
+To calm heads and to appease stomachs.
+The first part didn't always work, but everyone was always well fed.
+{|Expression_Pensive}I don’t know how he did it, but Craig would always find everything on my list.
+{|Expression_Pensive}I would joke with him that he would have to break in to people's houses to get this stuff.
+{|Expression_Pensive_to_Idle}Jeez, maybe he did.
+I don’t know how you did it, Sprout.
+You made it taste like home.
+Here's to you and Craig.
+
+key: frog/conversations.frogconversation-lynxfoodmanualconversation.loctext -4158475707996845724 v5 Revised
+Soup!
+{Expression_Happy|Expression_Idle_Neutral}Way to go, Astrid.
+
+key: frog/conversations.frogconversation-movienightintro._independenttextbubbleloc -6931906353530550705 v1 Revised
+Hey, Stella.
+
+key: frog/conversations.frogconversation-movienightintro.loctext 1261700825344199284 v1 Revised
+You know me.
+{Conversation}I could always go for a little snack.
+{|Expression_Pensive}Something salty.
+{|Expression_Pensive}Something buttery.
+{|Expression_Pensive}Something with flavour.
+Oh jeez.
+{|Expression_Pensive}You know what would be just perfect?
+{Expression_Panic}A big old bag of popcorn all to myself!
+{Expression_Happy|Expression_Headnod}Just go ahead and heat up some corn.
+
+key: frog/conversations.frogconversation-movienightreminder._commenttext -8570056923024245001 v2 Revised
+Remember...
+
+key: frog/conversations.frogconversation-movienightreminder.loctext 7503529704343458396 v4 Revised
+{Conversation}I'm craving popcorn, right about now!
+
+key: frog/conversations.frogconversation-movienightvalidation._independenttextbubbleloc -5493915973909398826 v1 Revised
+Oh...
+
+key: frog/conversations.frogconversation-movienightvalidation.loctext -2141532809986619521 v3 Revised
+{Eat}Hmm...
+{Eat}That really didn’t fill me up.
+However, it did make me miss my kids a whole lot.
+I use to make bags of popcorn on movie night for them.
+Even with the TV turned up, you couldn’t even hear the actors talking.
+The crunching was so loud.
+It was the only way to calm those little monsters down.
+Watching these terrible kids movies.
+{Expression_Sad|Expression_Empathy}I wish I was still there.
+{Expression_Sad|Expression_Empathy}To see them laughing.
+{Expression_Sad|Expression_Empathy}For them to falling asleep on me.
+Thank you for this popcorn.
+I was looking at your kitchen yesterday.
+It's fine.
+{|Expression_Idle_Neutral}Nothing special.
+{|Expression_Idle_Neutral}It reminds me of my first kitcken.
+{|Expression_Idle_Neutral}In my terrible apartment.
+{|Expression_Idle_Neutral}I don't know what I was doing in there.
+{|Expression_Idle_Neutral}I was so careless with the spices.
+{|Expression_Idle_Neutral}Not enough salt.
+{|Expression_Happy}Anyways, here's a little something to brighten this mess up.
+{|Expression_Idle_Neutral}Don't worry, it's not a spice rack.
+{|Expression_Idle_Neutral}You'll need to actually work for it, but it will be worth it.
+{|Expression_Idle_Neutral}Just ((improve)) your kitchen with some extra oven space.
+{|Expression_Happy}Your kitchen will be looking just right in no time!
+
+key: frog/conversations.frogconversation-mushroomfoodmanualconversation.loctext -6510391797284465224 v4 Revised
+{Expression_Happy|Expression_Idle_Neutral}Of course, Stanley loves some ((french fries)).
+
+key: frog/conversations.frogconversation-narrativemoment_one_2introduction._commenttext 4397090534388137704 v1 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-narrativemoment_one_2introduction.loctext -6368406733055929753 v6 Revised
+There seems to be quite a few new faces aboard.
+I like it, don’t get me wrong.
+{|Expression_Idle_Neutral}I just don’t want you to forget about your old uncle Atul.
+{Conversation|Expression_Idle_Neutral}You know me, I’m "Mr. Personality".
+I can get along with anyone, anywhere, all the time.
+I just didn't think I'd have to make new friends at my age.
+You don’t have to worry.
+{Expression_Happy}I’ll be alright.
+{|Expression_Idle_Neutral}Sorry I even brought it up.
+{|Expression_Idle_Neutral}I'll just go stand on the edge of the boat and take in this splendor... you know?
+{Expression_Sad|Expression_Unhappy}Hopefully, no bugs will fly in my mouth... that’s no fun.
+
+key: frog/conversations.frogconversation-narrativemoment_two_2introduction._commenttext -3108159666658960089 v1 Revised
+Stella.
+
+key: frog/conversations.frogconversation-narrativemoment_two_2introduction.loctext 5140695084728674892 v6 Revised
+I’ve been mulling it over.
+It took me awhile to figure it out.
+{Expression_Sad|Expression_Idle_Neutral}I don’t think I’m happy here.
+{Expression_Sad|Expression_Idle_Neutral}I miss my family.
+{Expression_Sad|Expression_Idle_Neutral}I miss the way the house smells before a big dinner.
+{Expression_Sad|Expression_Idle_Neutral}I know I can’t go back home.
+{Expression_Sad|Expression_Idle_Neutral}That’s just not possible.
+{Expression_Sad|Expression_Idle_Neutral}But, I don’t want to be here anymore.
+{Expression_Sad|Expression_Idle_Neutral}I know that would mean not being with you.
+{Expression_Sad|Expression_Idle_Neutral}But, I want to be alone for a bit.
+{Expression_Sad|Expression_Idle_Neutral}Take some time for myself.
+{Expression_Sad|Expression_Idle_Neutral}Maybe enjoy some quiet, if that’s even possible.
+{Expression_Sad|Expression_Headnod}Thanks for listening, Sprout.
+I do tend to get intense, but I don’t want to put pressure on you.
+Hopefully that wasn't too much.
+
+key: frog/conversations.frogconversation-narrativemoment_twointroduction._commenttext -8939946124452601154 v1 Revised
+Hey you.
+
+key: frog/conversations.frogconversation-narrativemoment_twointroduction.loctext 9157274010576404831 v5 Revised
+Have you picked a first mate yet?
+{Conversation|Expression_Headnod}If not, I’d like to volunteer!
+{Conversation}Obviously, I have excellent credentials.
+It runs in this family.
+{Expression_Sad|Expression_Unhappy}To be honest, I just don’t want to take orders from the cat.
+...
+Stella, you're running around all the time!
+You’ve been doing all these errands for everyone.
+Putting others in front of your needs.
+When I look at you, I see a little bit of myself.
+Did you know that?
+{Expression_Happy}But, I want to let you in on a little secret!
+You might love to run around and help all these people.
+But, you need to take some time for yourself.
+Do something that’s only for you.
+{|Expression_Idle_Neutral}That’s something I never got to do myself.
+{|Expression_Idle_Neutral}I suppose that’s why I’m here.
+{|Expression_Empathy}In this world, on this boat.
+{|Expression_Empathy}That’s why Viv and my daughters don’t have me around anymore.
+Well...
+At least, we got each other, Sprout.
+
+key: frog/conversations.frogconversation-narrativemoment-oneintroduction._commenttext -7867439248892365095 v1 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-narrativemoment-oneintroduction.loctext -1483938404215598716 v9 Revised
+{Expression_Happy|Expression_Idle_Neutral}Jeez, you gotta love the sights here!
+{Expression_Happy|Expression_Idle_Neutral}The sea, the sun, the breeze on my skin!
+{Expression_Happy|Expression_Idle_Neutral}It just feels so right!
+I'm happy to be aboard this ship.
+With you, my niece.
+I wish your aunt Viv would see you, right now.
+Running your own ship.
+Helping out these stranded souls.
+It really warms the heart.
+I'm glad you picked me up on that island.
+I'll try and make myself the less cumbersome passenger on this boat.
+{Expression_Happy|Expression_Unhappy}Except for food.
+{Expression_Happy|Expression_Unhappy}I'll never stop asking for delicious meals.
+
+key: frog/conversations.frogconversation-openbottleintroduction._independenttextbubbleloc -7192579163398500397 v3 Revised
+Nice catch, Spout!
+
+key: frog/conversations.frogconversation-openbottleintroduction.loctext 4778356006379724129 v3 Revised
+{|Expression_Surprise}You just fished out a bottle from the sea.
+{|Expression_Pensive}That's not trash.
+{|Expression_Pensive}It could be anything in there.
+{|Expression_Idle_Neutral}A tiny ship, old wine, a baby crab...
+{|Expression_Unhappy}Yes, yes... it could even be trash.
+{Conversation|Expression_Headnod}Go ahead and crack it open.
+
+key: frog/conversations.frogconversation-openbottlereminder._commenttext -6295914968115038712 v2 Revised
+Still uncorked?
+
+key: frog/conversations.frogconversation-openbottlereminder.loctext 5707572359561799155 v3 Revised
+You really need to open up that bottle, Sprout.
+I'm sure you won't be disappointed.
+
+key: frog/conversations.frogconversation-owlfoodmanualconversation.loctext -581815439157789041 v2 Revised
+{Expression_Happy|Expression_Idle_Neutral}The finer tastes of Gustav always shine in his food choices.
+
+key: frog/conversations.frogconversation-rain01.loctext -4578973675063141278 v2 Revised
+Oh Sprout, I love rain so much!
+I could stay under it for days!
+
+key: frog/conversations.frogconversation-rain02.loctext 5873833881553800181 v4 Revised
+{Eat}I’m trying to catch raindrops with my tongue.
+
+key: frog/conversations.frogconversation-rain03.loctext 7808828335124831458 v1 Revised
+Did you know you can catch different fish when it rains?
+Maybe they like to come up to drink the fresh water that's dripping down?
+Pretty neat, right?
+
+key: frog/conversations.frogconversation-rainingintro._independenttextbubbleloc -2434019766012647204 v1 Revised
+Did you know?
+
+key: frog/conversations.frogconversation-rainingintro.loctext 6867064320366773480 v1 Revised
+You can catch different fish when it rains.
+Maybe they like to come up to drink the fresh water that's dripping down?
+Pretty neat, right?
+
+key: frog/conversations.frogconversation-showfloor-thunderstormvalidation._independenttextbubbleloc -1853797146047301052 v1 Revised
+What a rush!
+
+key: frog/conversations.frogconversation-showfloor-thunderstormvalidation.loctext 7515027245352372179 v1 Placeholder
+That was something else.
+The sounds! The lights!
+Great job, Sprout!
+
+key: frog/conversations.frogconversation-snakefoodmanualconversation.loctext 7231120114400302185 v3 Revised
+Some ((sweet tea)).
+{Expression_Happy|Expression_Idle_Neutral}How delightful.
+
+key: frog/conversations.frogconversation-specialfoodreminder.loctext -7633495771887509755 v2 Revised
+I'm just waiting for a little snack.
+A freshly cooked snack!
+
+key: frog/conversations.frogconversation-specialfoodvalidation._independenttextbubbleloc 3767910360846600144 v1 Revised
+Wow!
+
+key: frog/conversations.frogconversation-specialfoodvalidation.loctext 1675734729700201451 v1 Revised
+Oh, mama!
+This tastes great.
+I knew you would pull through.
+Thanks, Sprout!
+
+key: frog/conversations.frogconversationstarving01.loctext -2985115920937537580 v4 Revised
+{Expression_Panic|Expression_Idle_Neutral}My insides is howling!
+{Expression_Panic|Expression_Idle_Neutral}Anything... gimme, gimme!
+
+key: frog/conversations.frogconversationstarving02.loctext 6646232074170213946 v1 Revised
+{|Expression_Idle_Neutral}Don’t you have a snack for your favourite Atul?
+{|Expression_Idle_Neutral}You know me.
+{|Expression_Idle_Neutral}I'm not picky when it comes to delicious food.
+
+key: frog/conversations.frogconversationstarving03.loctext -3704997846135085055 v1 Revised
+I’ve been trying to train Daffodil to catch fish.
+But someone doesn’t listen to me.
+Maybe you can convince your feline friend to throw some my way.
+{Expression_Sad|Expression_Idle_Neutral}I'm pretty hungry.
+
+key: frog/conversations.frogconversationstarvingmaster._commenttext -7653427176812664170 v3 Revised
+My stomach!
+
+key: frog/conversations.frogconversation-talktofrogabouttinyowlintroduction.loctext -4037567698927924610 v2 ReadyForRevision
+Sprout!
+How could you think that?
+I love Bev!
+She's great.
+She's got stories.
+She loves food.
+She's the whole package!
+You send her my love.
+I might pop by her house to say it myself.
+Cheer her up!
+
+key: frog/conversations.frogconversation-thunderstormvalidation._independenttextbubbleloc 4665042528261713185 v1 Revised
+Oh, thank goodness!
+
+key: frog/conversations.frogconversation-thunderstormvalidation.loctext 6745196781950665144 v1 Revised
+{|Expression_Idle_Neutral}I wasn't sure if you were going to make it for a second there.
+{|Expression_Idle_Neutral}You gave your old uncle quite a scare.
+{|Expression_Headnod}Did you feel that rumble?
+{Expression_Panic}What a rush!
+You looked pretty awesome catching those jolts of lightning all over the boat.
+{Expression_Happy}Thanks for being the best captain I could ever have hoped for!
+
+key: frog/conversations.frogconversation-tinyowlfoodmanualconversation.loctext 3507513636948559762 v3 Placeholder
+Wow.
+((Dark coffee)).
+What a rush.
+
+key: frog/conversations.frogconversation-toastintro._independenttextbubbleloc -4691303140624179955 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-toastintro.loctext 6403198865876234746 v2 Revised
+This looks great.
+{Expression_Happy|Expression_Happy}I knew you would pull through.
+And everyone made it.
+Are you ready to eat?
+
+key: frog/conversations.frogconversation-toast-no.loctext -4958059952569570259 v1 Revised
+I'll wait until you're ready.
+
+key: frog/conversations.frogconversation-toastreminder.loctext 4774293240147795462 v1 Revised
+So, are you ready now?
+
+key: frog/conversations.frogconversation-toast-yes.loctext 1957698582354159333 v1 Revised
+Alright.
+
+key: frog/conversations.frogconversation-trybenchoncereminder._commenttext -178916858620439395 v2 Revised
+Hey Sprout!
+
+key: frog/conversations.frogconversation-trybenchoncereminder.loctext 653874410843100586 v3 Revised
+Remember that ((sawmill)).
+You should give it a try.
+Safety first!
+
+key: frog/conversations.frogconversation-upgradekitchenreminder._commenttext -8485907198238057441 v2 Revised
+Hey!
+
+key: frog/conversations.frogconversation-upgradekitchenreminder.loctext -7963858397702608377 v2 Revised
+Did you forget about that kitchen?
+It really needs to be ((improved))!
+
+key: frog/conversations.frogconversation-upgradekitchenvalidation._independenttextbubbleloc 1845479349125637211 v2 Revised
+Looking good!
+
+key: frog/conversations.frogconversation-upgradekitchenvalidation.loctext 3413195598346140072 v5 Revised
+{Expression_Happy}You got that done quick, Sprout!
+Thanks for taking the time.
+{|Expression_Headnod}A good ((kitchen)) is a good investment.
+You'll see.
+You won't regret it.
+I promise.
+{Expression_Happy|Expression_Headnod}Well, my stomach either.
+{Expression_Happy}Thanks.
+
+key: frog/conversations.frogconversation-upgradeyourblueprintstationintroduction._independenttextbubbleloc -3883461439874669508 v2 Revised
+Sprout!
+
+key: frog/conversations.frogconversation-upgradeyourblueprintstationintroduction.loctext -210748040437051209 v2 Revised
+{|Expression_Headnod}I took a look at your blueprint station.
+{|Expression_Unhappy}It's nice, I suppose.
+{|Expression_Pensive}But, you know what would make it even greater.
+{Expression_Panic|Expression_Surprise}More plans! Bigger buildings! Better pencils!
+I'm just saying.
+{|Expression_Headnod}I'm sure Albert at ((Albert's Shipyard)) could help you out.
+
+key: frog/conversations.frogconversation-welcomefrogreminder01.loctext 1165458083674571901 v1 Revised
+I'm sure you'll need someone who could make repairs on your boat at some point.
+
+key: frog/conversations.frogconversation-welcomefrogreminder02.loctext 7552174298858465468 v2 Revised
+I'll be your favourite new passenger.
+Just you wait.
+
+key: frog/conversations.frogconversation-welcomenewspirit01.loctext 1718755275851951297 v1 Revised
+Welcome aboard.
+
+key: frog/conversations.frogconversation-welcomenewspirit02.loctext -1245132106750416411 v1 Revised
+The more, the merrier.
+
+key: frog/conversations.frogconversation-welcomenewspirit03.loctext 9126024691720346346 v2 Revised
+A new friend!
+
+key: frog/conversations.frogconversation-workbenchingintro._independenttextbubbleloc 7417915891219739171 v1 Revised
+You're doing it all wrong!
+
+key: frog/conversations.frogconversation-workbenchingintro.loctext 3014123391847555918 v5 Revised
+{|Expression_Idle_Neutral}Let me give you a hand.
+{|Expression_Pensive}When you’re cutting logs, you need to make sure your measurements are accurate.
+{|Expression_Pensive}Then, you cut.
+{|Expression_Pensive}Measure twice, and, cut.
+{|Expression_Headnod}You just need to keep your saw blade steady and on the cutting line.
+{|Expression_Unhappy}If you don’t do it properly, you’ll end up losing a pinky or an arm.
+{|Expression_Unhappy}Or something worse.
+{Build|Expression_Headnod}[Wait](Sawmill_Repair)And a hit from the old hammer for good luck.
+{Idle|Expression_Headnod}Give it a try now, you rascal.
+
+key: frog/conversations.frogconversation-workbenchingvalidation._independenttextbubbleloc 1750009776968008369 v1 Revised
+Would you look at that?
+
+key: frog/conversations.frogconversation-workbenchingvalidation.loctext 2995709277639191882 v3 Revised
+You did great.
+You’re ready to start cutting wood like a champ.
+{|Expression_Idle_Neutral}Just remember to be careful with this ((sawmill)).
+{|Expression_Idle_Neutral}Don’t go and mess around with dangerous saw blades.
+{|Expression_Unhappy}Just because you’ve got leftover wood, doesn’t mean you should cut your hand off.
+
+key: frog/conversations.frogconversation-workbenchinreminder._commenttext 7353424213076522178 v2 Revised
+Hurry!
+
+key: frog/conversations.frogconversation-workbenchinreminder.loctext 8038863928619868729 v3 Revised
+I want to see our newly renovated ((sawmill)).
+
+key: frog/conversations.frogfoodaccept01.loctext -2440825305893026440 v2 Revised
+{Eat}Thank you so much, Sprout.
+This tastes great!
+
+key: frog/conversations.frogfoodaccept02.loctext 102960949891007031 v1 Revised
+{Eat}Delicious! I had a hankering for this.
+
+key: frog/conversations.frogfoodaccepthappy01.loctext 6355662560013578417 v1 Revised
+{Eat}This brings back so many memories.
+
+key: frog/conversations.frogfoodaccepthappy02.loctext 1485079856276003593 v2 Revised
+{Eat}Wow! This is out of control.
+I’ve never tasted something so good.
+
+key: frog/conversations.frogfoodacceptsame.loctext 5982378072155527074 v3 Revised
+{Eat}I don't want to this, but it's not like a have a choice.
+
+key: frog/conversations.frogfooddislikes01.loctext 4880179490086399671 v1 Revised
+Please Stella, I need something better than scraps.
+
+key: frog/conversations.frogfooddislikes02.loctext -1869414281768120317 v1 Revised
+Ugh... definitely doesn’t taste like chicken.
+
+key: frog/conversations.frogfooddislikes03.loctext 6726723822013337668 v1 Revised
+Why do you insist on giving me this garbage?
+
+key: frog/conversations.frogfoodrefuse01.loctext -6616359918375874802 v1 Revised
+I'm working my way towards a snack.
+
+key: frog/conversations.frogfoodrefuse02.loctext -4487259940232904103 v1 Revised
+My stomach isn't rumbling.
+...
+Yet.
+
+key: frog/conversations.frogfoodsame.loctext 3883140307907089070 v2 Revised
+What's this?
+Something else, please.
+
+key: frog/conversations.frogfoodsame_fallback01.loctext 7515532166224746855 v2 Revised
+{|Expression_Idle_Neutral}As a rule, I don't eat the same dish twice in a row!
+{|Expression_Idle_Neutral}There's too much food out there for that.
+
+key: frog/conversations.frogfoodsame_fallback02.loctext -3632322835965679284 v2 Revised
+{|Expression_Idle_Neutral}Hard pass, Sprout.
+{|Expression_Idle_Neutral}You can think of something else.
+
+key: frog/conversations.froghug.loctext -4112560151064156267 v1 Revised
+A little hug always brightens my day.
+
+key: frog/conversations.froghughappy.loctext -6528282968952134172 v1 Revised
+Wasn't that great, favourite niece of mine!
+
+key: frog/conversations.froghugrefuse.loctext -153044432578635492 v2 Revised
+{|Expression_Idle_Neutral}I don't really feel like it, right now.
+
+key: frog/conversations.froghugrefuse1.loctext 403515806247571909 v2 Revised
+{|Expression_Idle_Neutral}Now is not the best of time for a hug.
+
+key: frog/conversations.froghugrefuse2.loctext -8298400023766370420 v2 Revised
+{|Expression_Idle_Neutral}I’ve got something on my mind.
+{|Expression_Idle_Neutral}Give me a minute.
+
+key: frog/conversations.frogrefusedefault01.loctext 4696494665401314682 v1 Revised
+No, thanks.
+
+key: frog/conversations.frogrefusedefault02.loctext -7514215341059196441 v1 Revised
+I'm alright without that.
+
+key: frog/conversations.frogrefusedefault03.loctext -769398216146090937 v1 Revised
+That's okay, Stella.
+
+key: frog/conversations.frogshowfloorconversation-cookingskipconversation._independenttextbubbleloc -6724424603727005679 v1 Revised
+Great!
+
+key: frog/conversations.frogshowfloorconversation-cookingskipconversation.loctext 2427962856492737284 v1 Revised
+You're already a grill master!
+
+key: frog/conversations.frogshowfloorconversation-fishingskipconversation._independenttextbubbleloc -2657989265101486631 v1 Revised
+Wonderful!
+
+key: frog/conversations.frogshowfloorconversation-fishingskipconversation.loctext 4905336538329944924 v1 Revised
+I see you've already tried your hand at fishing.
+
+key: frog/conversations.frogwelcome.loctext -18140150376563295 v3 Revised
+Oh, wow.
+This boat is amazing.
+Here comes the real kicker, you little rascal.
+Get ready for a family reunion!
+
+key: frog/conversations.frogwelcomeend.loctext 4979107317607228371 v5 Revised
+It's me, Stella!
+{|Expression_Surprise}Your uncle Atul.
+{|Expression_Surprise}Surprised?
+{|Expression_Happy}Happily, I hope!
+I've been on that island for awhile now.
+I can't wait to see the sights, the sea with you.
+It was lonely with my thoughts.
+{|Expression_Headnod}Now, I got you Sprout!
+{|Expression_Headnod}Let's set sail for a great adventure.
+Onwards.
+{|Expression_Pensive}Wait a second!
+{Expression_Panic|Expression_Pensive}Is...
+{Expression_Panic|Expression_Pensive}that...
+{Expression_Panic|Expression_Pensive}a...
+
+key: frog/conversations.giveallberriestostella._commenttext -8275536406833933958 v2 Revised
+I've got a surprise!
+
+key: frog/conversations.giveallberriestostella.loctext -8904179556980442146 v5 Revised
+I was hungry, as usual.
+So I did something about it.
+I went outside the boat and gathered some berries.
+But, I went a little overboard.
+I have too much.
+Here you go.
+{Expression_Happy}Have a berry day!
+
+key: frog/conversations.giveallplankstostella._commenttext -4926955994724396733 v2 Revised
+I got planks!
+
+key: frog/conversations.giveallplankstostella.loctext -429760811129204690 v1 Revised
+{|Expression_Surprise}+=Planks! Get your planks!=+
+{|Expression_Surprise}I made some planks for you, Stella.
+{|Expression_Surprise_to_Idle}Enjoy!
+
+key: frog/conversations.harvestingberries._commenttext -5000102522388407558 v1 Revised
+Wow, berries!
+
+key: frog/conversations.harvestingberries.loctext 725087068038975199 v3 Revised
+These look incredible.
+I was just dreaming about these.
+
+key: frog/conversations.harvestingwood._commenttext 4796116915189740802 v2 Revised
+Look at all these trees!
+
+key: frog/conversations.harvestingwood.loctext 7527430183436035226 v6 Revised
+{Expression_Happy}I'll be picking up some wood!
+{Idle}Hoping to do some work on these later.
+
+key: frog/conversations.lionfoodsame.loctext -7131529063016688789 v1 Revised
+I'm working my way towards a snack.
+
+key: frog/conversations.verysadconversation.loctext -8102296615794480210 v6 Revised
+{Expression_Sad}I'm too sad to do anything at the moment.
+

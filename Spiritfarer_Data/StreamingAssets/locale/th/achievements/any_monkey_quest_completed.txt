@@ -1,0 +1,6 @@
+key: achievements/any_monkey_quest_completed.description -1886168749190839558 v2 Revised
+ทำธุระให้ฟรานซิสเสร็จหนึ่งอย่าง.
+
+key: achievements/any_monkey_quest_completed.name -4491472883822696317 v1 Revised
+Monkey 101
+

@@ -1,0 +1,6 @@
+key: achievements/many_items_bought.description 3199366097053089664 v2 Revised
+Buy at least 100 items from Raccoon Inc.
+
+key: achievements/many_items_bought.name 1766710804219423391 v1 Revised
+Big Spender
+

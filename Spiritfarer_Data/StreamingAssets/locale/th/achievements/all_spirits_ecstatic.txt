@@ -1,0 +1,6 @@
+key: achievements/all_spirits_ecstatic.description 7275087405589750213 v2 Revised
+ทำให้วิญญาณทั้งหมดเข้าถึงอารมณ์ที่เป็นสุขอย่างน้อยหนึ่งครั้ง
+
+key: achievements/all_spirits_ecstatic.name -4636937284585015871 v4 Revised
+Stoked
+

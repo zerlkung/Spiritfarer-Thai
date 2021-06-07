@@ -1,0 +1,640 @@
+key: items/documents.basilisk_document_treasuremap01._locdocumenttext 2058480542788101267 v2 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap01.description -2999296142924922231 v2 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap01.displayname -980121047925704196 v2 Placeholder
+Looter’s Literary Review
+
+key: items/documents.basilisk_document_treasuremap02._locdocumenttext 7438496392691345908 v1 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap02.description 1661186012965438978 v1 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap02.displayname -3625962416606086502 v1 Placeholder
+Looter’s Literary Review
+
+key: items/documents.basilisk_document_treasuremap03._locdocumenttext -5908648084308578930 v1 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap03.description 3187744614119231552 v1 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap03.displayname 3242081776460523145 v1 Placeholder
+Looter’s Literary Review
+
+key: items/documents.basilisk_document_treasuremap04._locdocumenttext -1636463534506802361 v1 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap04.description -3303871963956005964 v1 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap04.displayname 6176668433121895514 v1 Placeholder
+Looter’s Literary Review
+
+key: items/documents.basilisk_document_treasuremap05._locdocumenttext -2950132184729910239 v1 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap05.description -6596098531928659081 v1 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap05.displayname 2268784455522192867 v1 Placeholder
+Looter’s Literary Review
+
+key: items/documents.basilisk_document_treasuremap06._locdocumenttext -4002508744617010271 v1 Placeholder
+Looter’s Literary Review presents this current lost bounty. Located in...
+
+key: items/documents.basilisk_document_treasuremap06.description 7564219762392060058 v1 Placeholder
+The front reads To Adventurer First Order: Buck
+
+key: items/documents.basilisk_document_treasuremap06.displayname -6270725636576057822 v1 Placeholder
+Looter’s Literary Review
+
+key: items/documents.bottle_adriftmessage._locdocumentopeneddescription 8951470770182514250 v2 Revised
+Help!
+
+key: items/documents.bottle_adriftmessage._locdocumentopenedtitle 8488440313716840038 v2 Revised
+Help!
+
+key: items/documents.bottle_adriftmessage._locdocumenttext 4766018157423591275 v5 Revised
+Help me!
+I'm lost at the sea.
+Hopefully, this bottle reaches your friend.
+Here is my location on the map:
+((58, -11))
+
+key: items/documents.bottle_brochure01._locdocumentopeneddescription -5328329842990820565 v1 Revised
+A brochure for Furogawa Tours
+
+key: items/documents.bottle_brochure01._locdocumentopenedtitle 2789156615894211763 v1 Revised
+Brochure for Furogawa Tours
+
+key: items/documents.bottle_brochure01._locdocumenttext 8823881716109838190 v7 Revised
+Greetings from Furogawa!
+Experience the wonders of the great ((oak)) forest and the serenity of the magnificent rice fields!
+Available now in ((Gurenu Fields))!
+
+key: items/documents.bottle_denizenbr2_poetry._locdocumentopeneddescription -7778635184356115804 v2 Revised
+A poem
+
+key: items/documents.bottle_denizenbr2_poetry._locdocumentopenedtitle 6876007975940747678 v3 Revised
+Ode to an Axe
+
+key: items/documents.bottle_denizenbr2_poetry._locdocumenttext 2180010882964272951 v3 Revised
+A lumberjack without an axe.
+Crying and sobbing.
+Old trees aren't feeling the cutting.
+We'll grow old they said laughing.
+
+key: items/documents.bulkitems_field.description -4107342710410323527 v2 Revised
+A sampler pack of all your favourite ((field seeds))
+
+key: items/documents.bulkitems_field.displayname 6159288638053514427 v2 Revised
+Field Seeds Sampler Pack
+
+key: items/documents.bulkitems_garden.description 2968952538315521566 v2 Revised
+A sampler pack of all your favourite ((garden seeds))
+
+key: items/documents.bulkitems_garden.displayname 1187516959644972450 v3 Revised
+Garden Seeds Sampler Pack
+
+key: items/documents.bulkitems_orchard.description -5388930043918711312 v2 Revised
+A sampler pack of all your favourite ((orchard seeds))
+
+key: items/documents.bulkitems_orchard.displayname -7111885115454160618 v2 Revised
+Orchard Seeds Sampler Pack
+
+key: items/documents.denizena1_document_letter01._locdocumenttext 49283051607422473 v1 Revised
+Simon,
+This young lady told me of your misfortunes.
+You must either the most unlucky person in the world or you truly don't want to see your family.
+Inclosed is my address.
+Don't get lost this time.
+
+Your sister,
+
+-Agatha
+
+key: items/documents.denizena1_document_letter01.description -1321870276381470302 v2 Revised
+The front reads To Simon, you idiot
+
+key: items/documents.denizena1_document_letter01.displayname -3465929824888282460 v1 Revised
+A Letter from Your Sister
+
+key: items/documents.denizenar1_document_brochure01._locdocumenttext -2654836359183543652 v6 Revised
+Greetings from Furogawa!
+Experience the wonders of the great outdoors.
+You can now take a tour of the city.
+See the shops
+Visit our shrine.
+Take in the sights.
+Available now in ((Furogawa)).
+
+key: items/documents.denizenar1_document_brochure01.description -723454916869501180 v1 Revised
+A brochure for an island in Furogawa
+
+key: items/documents.denizenar1_document_brochure01.displayname 8729626457202394246 v1 Revised
+Furogawa Tours
+
+key: items/documents.denizenb1_document_fooddelivery_ceo._locdocumenttext 3658268748050885087 v2 Revised
+Dear Feedorama customer,
+Here at Feedorama, we strive to reach new heights in food preparation.
+That’s why we have renewed your subscription to our delivery service.
+We will be sending you premade meals every week.
+The joy of food lives on!
+We wish you the best and hope you will enjoy our new marketing strategy,
+
+-Allen Shiplee, CEO of Feedorama
+
+key: items/documents.denizenb1_document_fooddelivery_ceo.description 4101541442355884581 v2 Revised
+From Feedorama CEO Allen Shiplee
+
+key: items/documents.denizenb1_document_fooddelivery_ceo.displayname -4259268570609116940 v2 Revised
+A Letter from Feedorama
+
+key: items/documents.denizenb1_document_fooddelivery_generic01._locdocumenttext -4030211087539984135 v2 Revised
+Dear Feedorama customer,
+Here is your package.
+
+Feedorama Employee Number 2322
+
+key: items/documents.denizenb1_document_fooddelivery_generic01.description -8317200106028571138 v2 Revised
+From Feedorama headquarters
+
+key: items/documents.denizenb1_document_fooddelivery_generic01.displayname -9022496761285301417 v2 Revised
+Feedorama Delivery Package
+
+key: items/documents.denizenb1_document_fooddelivery_generic02._locdocumenttext -9163446140181210622 v2 Revised
+Dear Feedorama customer,
+Here is your package.
+
+Feedorama Employee Number 2322
+
+key: items/documents.denizenb1_document_fooddelivery_generic02.description -1686862783800165114 v2 Revised
+From Feedorama headquarters
+
+key: items/documents.denizenb1_document_fooddelivery_generic02.displayname 485413056951236044 v2 Revised
+Feedorama Delivery Package
+
+key: items/documents.denizenb1_document_fooddelivery_generic03._locdocumenttext -3183622582418749572 v2 Revised
+Dear Feedorama customer,
+Here is your package.
+
+Feedorama Employee Number 2322
+
+key: items/documents.denizenb1_document_fooddelivery_generic03.description 6670936204620358643 v2 Revised
+From Feedorama headquarters
+
+key: items/documents.denizenb1_document_fooddelivery_generic03.displayname -5266013238300291412 v2 Revised
+Feedorama Delivery Package
+
+key: items/documents.denizenb1_document_fooddelivery1._locdocumenttext -7849123486487337201 v3 Revised
+Welcome Stella,
+This is Madison at Feedorama.
+This week brings love and caring to all things sweet.
+We are giving you an exclusive view into the world of desserts.
+With the help of some ((flour)) and ((raspberries)), you’ll be sent to the heavens.
+A berry pie for the sweet of heart.
+Have a berry day.
+
+key: items/documents.denizenb1_document_fooddelivery1.description 6413364442920450702 v3 Revised
+From Madison at Feedorama.
+
+key: items/documents.denizenb1_document_fooddelivery1.displayname 1194917978621877395 v2 Revised
+Feedorama Delivery Package #1
+
+key: items/documents.denizenb1_document_fooddelivery2._locdocumenttext -933539583585137733 v3 Revised
+Madison from Feedorama.
+Back for another week with a delicacy from the ocean.
+The perfect harmony between taste and flavour.
+Dive deep into our new ((lobster rolls)).
+A perfect combination of ((flour)) and ((lobster)).
+Talk to you soon, food lovers.
+
+key: items/documents.denizenb1_document_fooddelivery2.description -4815027298298246982 v2 Revised
+From Madison at Feedorama.
+
+key: items/documents.denizenb1_document_fooddelivery2.displayname 2269323148979759701 v2 Revised
+Feedorama Delivery Package #2
+
+key: items/documents.denizenb1_document_fooddelivery3._locdocumenttext 5320667273688102863 v2 Revised
+Another week, another package from Madison at Feedorama.
+This week we decided to start your day right.
+A little bit of ((pork)) to go with some ((eggs)).
+An old fashioned breakfast with some bite.
+Enjoy the week!
+
+key: items/documents.denizenb1_document_fooddelivery3.description -1973820732394477005 v2 Revised
+From Madison at Feedorama.
+
+key: items/documents.denizenb1_document_fooddelivery3.displayname 1706232586105463765 v2 Revised
+Feedorama Delivery Package #3
+
+key: items/documents.denizenb1_document_fooddelivery4._locdocumenttext -2626809940025025024 v2 Revised
+Madison here, y’all.
+We are mixing it up this week at Feedorama.
+We’ve got the perfect meal for lovers.
+We’ve provided you with ((milk)) and ((rice)).
+The combo makes the most delectable ((rice pudding)).
+Make this your treat of the day.
+
+key: items/documents.denizenb1_document_fooddelivery4.description -3697810433892823449 v2 Revised
+From Madison at Feedorama.
+
+key: items/documents.denizenb1_document_fooddelivery4.displayname 1554587060002435436 v2 Revised
+Feedorama Delivery Package #4
+
+key: items/documents.denizenb1_document_fooddelivery5._locdocumenttext -4222497252305324072 v3 Revised
+It’s your friend Madison!
+As today is my last day, I will be signing off forever.
+However, I am leaving you in good hands.
+The people at Feedorama are trying something completely off of walls
+I was promised that this mystery box was all the rage.
+Try it for yourself.
+What a great goodbye present.
+
+key: items/documents.denizenb1_document_fooddelivery5.description -6154442084358285665 v2 Revised
+From Madison at Feedorama.
+
+key: items/documents.denizenb1_document_fooddelivery5.displayname 2052254648368672027 v2 Revised
+Feedorama Delivery Package #5
+
+key: items/documents.denizenb1_document_fooddeliveryreminder._locdocumenttext -1098250894793363915 v2 Revised
+Dear future customer,
+This is Madison at Feedorama.
+We are currently running a promotion for our new food delivery service.
+Stop on by ((Hummingberg)) to hear all about it.
+A sales rep is waiting for you.
+
+Cheers,
+
+Madison
+
+key: items/documents.denizenb1_document_fooddeliveryreminder.description 3950075794321804532 v2 Revised
+From the fine folks at Feedorama.
+
+key: items/documents.denizenb1_document_fooddeliveryreminder.displayname 8378238782105996195 v2 Revised
+Feedorama Flyer
+
+key: items/documents.dog_document_letter01._locdocumenttext 3952048335530994994 v2 Revised
+Stella,
+I think you've had enough time off.
+I've marked a few errands for you to do.
+Francis will provide you with the details.
+
+-Elena
+
+key: items/documents.dog_document_letter01.description 1777522557446182595 v2 Revised
+The front reads To Stella
+
+key: items/documents.dog_document_letter01.displayname -5389169840618893864 v1 Revised
+A Letter from Elena
+
+key: items/documents.dog_document_letter02._locdocumenttext -8632229589800898082 v2 Revised
+Stella,
+You have a bit more to go.
+I think you can upgrade your stations.
+
+-Elena
+
+key: items/documents.dog_document_letter02.description 2172691297280553474 v2 Revised
+The front reads To Stella
+
+key: items/documents.dog_document_letter02.displayname -5696506522063163217 v1 Revised
+A Letter from Elena
+
+key: items/documents.lion_document_letter01._locdocumenttext 2441833026686624595 v1 Revised
+Giovanni my dear,
+I lust for your roar.
+Every day without you is torture.
+Meet me at twilight.
+I will be waiting for you at my house in ((Oxbury)).
+
+-Your one and only, Jennyfer
+
+key: items/documents.lion_document_letter01.description 182901765617975601 v2 Revised
+The front reads To Giovanni
+
+key: items/documents.lion_document_letter01.displayname -6123849183065052989 v1 Revised
+A Letter from Jennyfer
+
+key: items/documents.lynx_document_letter01._locdocumenttext 1299827168243794184 v6 Revised
+“Workers, unite!
+You are done being paid unfair wages!
+You are done being exploited for the benefits of the upper class!
+Say no to capitalist abuse!
+Rally to our cause, at ((Bottom Line Corp.))!
+Union for Working Denizens”
+
+key: items/documents.lynx_document_letter01.description 2577588226469436594 v4 Revised
+A pamphlet written in an intense red font.
+
+key: items/documents.lynx_document_letter01.displayname -1691862095201517674 v2 Revised
+Protest Flyer
+
+key: items/documents.lynx_document_letter02._locdocumenttext 2192453156651305333 v5 Revised
+Dear Customer,
+Due to an unforeseen supplies shortage at our ((Bottom Line Corp.)) depot,  Raccoon Inc. will no longer be able to apply our special rebate program for recurring customers.
+Please know that it is with great regret that we have to inform you of this situation, and rest assured, valued customer, of our continuous efforts to improve it.
+
+Raccoon Inc,  trade is our family name!
+
+key: items/documents.lynx_document_letter02.description 4117663264703687283 v4 Revised
+It seems to be an announcement flyer from Raccoon Inc.
+
+key: items/documents.lynx_document_letter02.displayname 224094573569818206 v2 Revised
+Raccoon Inc. Flyer
+
+key: items/documents.shark_document_blocker_fog._locdocumenttext 1910200001658607547 v2 Revised
+Dear customer,
+You can now add a new priced accessories to the front of your boat.
+This one will lift the fog and continue your travels effortlessly.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blocker_fog.description -6309516106951126961 v1 Revised
+The front reads Boat Accessories Extravaganza.
+
+key: items/documents.shark_document_blocker_fog.displayname 4752124368359427821 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blocker_heat._locdocumenttext -1272148012156731465 v2 Revised
+Hello customer,
+You can now add another accessories to the front of your boat.
+
+This one will fight off heat forever. Lucky you.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blocker_heat.description -7085498240769843632 v1 Revised
+The front reads Boat Accessories Extravaganza.
+
+key: items/documents.shark_document_blocker_heat.displayname -6626123832981454334 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blocker_ice._locdocumenttext -6557243997850555524 v2 Revised
+Dear customer,
+Due to a breakthrough in ship technology,
+You can now add prized accessories to the front of your boat.
+Which, in true pro-sailor lingo, is called a bow.
+This one will break ice along your travels.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blocker_ice.description -3223250447409264671 v1 Revised
+The front reads Boat Accessories Extravaganza.
+
+key: items/documents.shark_document_blocker_ice.displayname -5321782717738113555 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blueprint_airdraft._locdocumenttext 6870199220137542000 v3 Revised
+Dear valued customer,
+We are running a special promotion.
+Enclosed is a new type of building.
+All part of our new Fun-ta-cu-lar Series.
+A ((air draft)) device.
+We hope you enjoy your time soaring through the air.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blueprint_airdraft.description 5074879064020317335 v1 Revised
+The front reads Special Giveaway.
+
+key: items/documents.shark_document_blueprint_airdraft.displayname -2091994011368595586 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blueprint_bounce._locdocumenttext -3232646062801653203 v7 Revised
+Dear valued customer,
+We are running a special promotion.
+Enclosed is one of our a new building.
+All part of our new Fun-ta-cu-lar Series.
+A ((bouncy)) platform.
+We hope you enjoy your time in the air.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blueprint_bounce.description 3345518814226409894 v2 Revised
+The front reads Special Giveaway.
+
+key: items/documents.shark_document_blueprint_bounce.displayname -1644611551001453713 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blueprint_zipline._locdocumenttext 8831395910723824645 v3 Revised
+Dear valued customer,
+For a special time, we are running a special promotion.
+Enclosed is a special ((blueprint)).
+All part of our new Fun-ta-cu-lar Series.
+A ((zipline)) post.
+Zip through the air like a majestic bird.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blueprint_zipline.description -1051589839597234135 v2 Revised
+The front reads Special Fun-ta-cu-lar Giveaway.
+
+key: items/documents.shark_document_blueprint_zipline.displayname 6464323662453143040 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blueprintstation_tier3._locdocumenttext -7818458778591348972 v3 Revised
+Tired of your old blueprint station?
+Well, come on down to ((Albert's Shipyard))!
+We've got a new blueprint station model waiting for you!
+The Expert is sure to thrill ya.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blueprintstation_tier3.description 2311919617901571427 v3 Revised
+The front reads Blueprint Station Upgrade!
+
+key: items/documents.shark_document_blueprintstation_tier3.displayname -8193427336518664624 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_blueprintstation_tier4._locdocumenttext -6074272373781207864 v2 Revised
+Come down to ((Albert's Shipyard)).
+We've got a new blueprint station in.
+The Master is fully equipped.
+The Master won't let you down.
+The Master is you.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_blueprintstation_tier4.description -3402259214181598602 v1 Revised
+The front reads Blueprint Station Upgrade!
+
+key: items/documents.shark_document_blueprintstation_tier4.displayname -4651659329776792641 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_letter01._locdocumenttext -8436837803659443851 v2 Revised
+Stella,
+Make sure you change your address permanently.
+You'll have more letters coming shortly.
+Make sure you keep up with your writing.
+Pen pals are the best pals.
+Everyone knows that.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_letter01.description 2771559323801793713 v2 Revised
+The front reads To Stella
+
+key: items/documents.shark_document_letter01.displayname 8375140400986075265 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_upgrade_boathuge._locdocumenttext -2432617925713678554 v2 Revised
+Dear valued customer,
+You'll be glad to hear that our expertise has grown.
+We are now able to upgrade your ship's size for a ridiculously small fee!
+Stop suffocating in your tiny aquarium!
+Expand your horizons!
+Expand your ship square footage!
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_upgrade_boathuge.description -7424666261697746852 v1 Revised
+The front reads Special Boat Promotion.
+
+key: items/documents.shark_document_upgrade_boathuge.displayname 376803553933306889 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_upgrade_boathuger._locdocumenttext 2370937829520955898 v6 Revised
+Valued customer,
+More exciting news at your ((Albert's Shipyard)).
+Upgrade your ship again for a fee.
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_upgrade_boathuger.description -635870180387323501 v3 Revised
+The front reads Special Boat Promotion.
+
+key: items/documents.shark_document_upgrade_boathuger.displayname -3517132865183624839 v1 Revised
+A Letter from Albert
+
+key: items/documents.shark_document_upgrade_sawmill._locdocumenttext 7242973541006958952 v12 Revised
+Stella,
+I had the pleasure of meeting your uncle Atul. Quite the fella.
+He gave me a few tips for the yard.
+I thought I'd return the favour.
+My boys found this in our docks.
+There might be something useful out there.
+Anyway, you tell your uncle I say "Hi"!
+
+-Albert, your local Shipwright
+
+key: items/documents.shark_document_upgrade_sawmill.description 3810228638410770951 v1 Revised
+The front reads To Stella
+
+key: items/documents.shark_document_upgrade_sawmill.displayname -185332548878011157 v1 Revised
+A Letter from Albert
+
+key: items/documents.shop_bulkseeds._locdocumentopeneddescription -7216030354726292120 v1 Revised
+A brochure for Furogawa Tours
+
+key: items/documents.shop_bulkseeds._locdocumentopenedtitle -4887646695406393954 v1 Revised
+Brochure for Furogawa Tours
+
+key: items/documents.stan_drawing_01.description 6288063583230961424 v4 Revised
+He looks severe! I guess he did not make a good impression.
+
+key: items/documents.stan_drawing_01.displayname 1048368504404508271 v3 Revised
+A Drawing of Gustav
+
+key: items/documents.stan_drawing_02.description 6206820534030240083 v6 Revised
+It's me! With a... pickaxe? Now, if only we had a fridge...
+
+key: items/documents.stan_drawing_02.displayname -2353804646770076837 v3 Revised
+A Drawing of Stella
+
+key: items/documents.stan_drawing_03.description 1240980062701723614 v2 Revised
+Atul always had a way with children.
+
+key: items/documents.stan_drawing_03.displayname 5132783699361984880 v2 Revised
+A Drawing of Atul
+
+key: items/documents.stan_drawing_04.description 6733439957509141048 v2 Revised
+What? Stanley never met Gwen... How did he draw this?
+
+key: items/documents.stan_drawing_04.displayname -6966969423001159432 v2 Revised
+A Drawing of Gwen
+
+key: items/documents.stan_drawing_05.description 6373371444984898267 v2 Revised
+He looks much nicer, playing the violin! I guess he grew on Stanley.
+
+key: items/documents.stan_drawing_05.displayname -917238778299005221 v2 Revised
+Another Drawing of Gustav
+
+key: items/documents.treasuremap_coincollection._locdocumenttext -9050115971977327142 v4 Revised
+Map location: 40, -50
+
+key: items/documents.treasuremap_coincollection.description -1751253085901397392 v1 Revised
+A treasure map for a lost bounty.
+
+key: items/documents.treasuremap_coincollection.displayname -5154586171119140784 v1 Revised
+Treasure Map
+
+key: items/documents.treasuremap_h1position._locdocumenttext -6460609275392798857 v3 Revised
+Map location: 220, 167
+
+key: items/documents.treasuremap_orchardupgrade._locdocumentopeneddescription 5301565108893389106 v1 Revised
+A treasure map for a lost bounty.
+
+key: items/documents.treasuremap_orchardupgrade._locdocumentopenedtitle -7640054105652456164 v1 Revised
+Treasure Map
+
+key: items/documents.treasuremap_ring._locdocumenttext 8274419387748609712 v3 Revised
+Map location: 34, 69
+
+key: items/documents.treasuremap_ring.description -2757262382609425315 v3 Revised
+A treasure map for a lost bounty.
+
+key: items/documents.treasuremap_ring.displayname 122266859040350263 v2 Revised
+Treasure Map
+
+key: items/documents.treasuremap_sawmillupgrade._locdocumentopeneddescription -6495953548366145899 v1 Revised
+A treasure map for a lost bounty.
+
+key: items/documents.treasuremap_sawmillupgrade._locdocumentopenedtitle -3231306013009942815 v1 Revised
+Treasure Map
+
+key: items/documents.treasuremap_sawmillupgrade._locdocumenttext 2504975072695458274 v4 Revised
+Map location: 85, 165
+
+key: items/documents.treasuremap_smelterupgrade._locdocumenttext 7001940462488931223 v5 Revised
+Map location: -58, -52
+
+key: items/documents.turtle_document_letter01._locdocumenttext 3465812036397304821 v5 Revised
+Astrid,
+While the two of us caught up on the latest gossip, I forgot to give you something.
+I found this while flipping the magazines.
+And it made me think of you!
+It definitely fits your style and panache!
+Also, I heard a rumour your husband could be in ((Iwashima Countryside)).
+It might be worth checking it out.
+I'll keep asking around, just in case.
+
+Your old friend,
+
+-Olga
+
+key: items/documents.turtle_document_letter01.description 3168596498340649873 v2 Revised
+The front reads To Astrid
+
+key: items/documents.turtle_document_letter01.displayname -2012702820426902181 v2 Revised
+A Letter from Olga
+
+key: items/documents.turtle_document_letter02._locdocumenttext -4579884319234706091 v5 Revised
+Astrid,
+Big news!
+You'll be glad to know that my sources have finally panned out.
+I heard my sister, Masha, might know something about your husband's whereabouts. 
+You should go and drop in on her.
+
+-Olga
+
+key: items/documents.turtle_document_letter02.description 4423081625052361675 v1 Revised
+The front reads To Astrid
+
+key: items/documents.turtle_document_letter02.displayname 864625562754805337 v2 Revised
+A Letter from Olga
+

@@ -1,0 +1,9 @@
+key: items/glimspickup.largeglimbag.displayname 6684892919912753538 v1 Revised
+Large Glim Bag
+
+key: items/glimspickup.mediumglimbag.displayname 7830433200242416413 v1 Revised
+Medium Glim Bag
+
+key: items/glimspickup.smallglimbag.displayname -7339676031362123889 v1 Revised
+Small Glim Bag
+

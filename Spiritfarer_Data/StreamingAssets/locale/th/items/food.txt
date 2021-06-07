@@ -1,0 +1,1141 @@
+key: items/food.aloogobi.description 6973651163000969203 v2 ReadyForRevision
+A vegetable delight with flavour to boot.
+
+key: items/food.aloogobi.displayname -4552770754966693537 v2 ReadyForRevision
+Aloo Gobi
+
+key: items/food.applepie.description -842009920699021852 v1 Revised
+The most popular of all pies.
+
+key: items/food.applepie.displayname -4067165914509437594 v1 Revised
+Apple Pie
+
+key: items/food.baconandeggs.description 9001598188437194533 v2 Revised
+The breakfast of champions.
+
+key: items/food.baconandeggs.displayname 3623255801847296203 v1 Revised
+Bacon and Eggs
+
+key: items/food.balancedmeal.displayname 2962299416016777661 v1 Revised
+Balanced Meal
+
+key: items/food.beeffondue.description 1759229302471932206 v1 Revised
+Who knew you could fry beef?
+
+key: items/food.beeffondue.displayname 8357114494230634854 v1 Revised
+Beef Fondue
+
+key: items/food.berrypie.description -7385185338106538325 v2 Revised
+A diner's favourite.
+
+key: items/food.berrypie.displayname -3948594340261759235 v1 Revised
+Berry Pie
+
+key: items/food.bisque.description -4682539277551174342 v7 Revised
+The fanciest sea-tasting soup.
+
+key: items/food.bisque.displayname -7207105882031523230 v1 Revised
+Bisque
+
+key: items/food.blackcoffee.description -2247689942021605363 v1 Revised
+Black as midnight on a moonless night.
+
+key: items/food.blackcoffee.displayname 1565857982426313301 v1 Revised
+Black Coffee
+
+key: items/food.bouillabaisse.description -6950225959567594978 v1 Revised
+A fun maritime delicacy. Best served with a funny accent.
+
+key: items/food.bouillabaisse.displayname -327628346139849556 v1 Revised
+Bouillabaisse
+
+key: items/food.bread.description 713298332980831943 v1 Revised
+A daily slice of fluffy goodness.
+
+key: items/food.bread.displayname -762721410865069801 v1 Revised
+Bread
+
+key: items/food.burntfood.description 6934168554153506731 v3 Revised
+Well, at least you tried your best.
+
+key: items/food.burntfood.displayname 9053092382662389344 v1 Revised
+Burnt Food
+
+key: items/food.cake.description 6595713177942079368 v1 Revised
+You can eat cake for breakfast too!
+
+key: items/food.cake.displayname 8078455621787056923 v1 Revised
+Cake
+
+key: items/food.calamarirings.description -7447610629434110196 v1 Revised
+So good you can't stop eating it. It's a trap!
+
+key: items/food.calamarirings.displayname 1248041696434616196 v1 Revised
+Calamari Rings
+
+key: items/food.candy.displayname 2270206533026235680 v1 Revised
+Candy
+
+key: items/food.casserole.description 1845931172333427524 v1 Revised
+The comfiest hot pot there is.
+
+key: items/food.casserole.displayname -7270994245085799896 v1 Revised
+Casserole
+
+key: items/food.cereal_corn.description 3960613253327803534 v8 Revised
+Corn is a golden ((grain)) with tons of different uses. Sometimes corny. Can be ground into ((corn flour)) in a ((windmill)).
+
+key: items/food.cereal_corn.displayname -2366338250789006524 v1 Revised
+Corn
+
+key: items/food.cereal_cornflour.description 7360331651791400268 v2 Revised
+An easy ((flour)) to thicken any sauce.
+
+key: items/food.cereal_cornflour.displayname 2985470417805921303 v1 Revised
+Corn Flour
+
+key: items/food.cereal_rice.description -7399561273786398724 v3 Revised
+When in need, just bulk up your recipe with regular rice ((grain)). Can be ground into ((rice flour)) in a ((windmill)).
+
+key: items/food.cereal_rice.displayname -7336368747075826306 v1 Revised
+Rice
+
+key: items/food.cereal_riceflour.description -916902327589102505 v2 Revised
+This ((flour)) used to be rice. Now, it's still rice, but tiny.
+
+key: items/food.cereal_riceflour.displayname 4661074242293129819 v1 Revised
+Rice Flour
+
+key: items/food.cereal_wheat.description -1285141545063029938 v2 Revised
+Wheat is the ((grain)) that goes into pretty much everything. Can be ground into ((wheat flour)) in a ((windmill)).
+
+key: items/food.cereal_wheat.displayname 4120120963133377401 v1 Revised
+Wheat
+
+key: items/food.cereal_wheatflour.description 4786522920029343420 v3 Revised
+When I grind my wheat, it turns into wheat ((flour)).
+
+key: items/food.cereal_wheatflour.displayname 679566003722734735 v1 Revised
+Wheat Flour
+
+key: items/food.cerealbowl.description 6976033199312543811 v2 Revised
+There is no better way to start the day!
+
+key: items/food.cerealbowl.displayname 159040781907176177 v1 Revised
+Cereal Bowl
+
+key: items/food.cerealsalad.description 8149311115741118709 v4 Revised
+A mix of grains and veggies to make your day a better day.
+
+key: items/food.cerealsalad.displayname -4107780797840298330 v1 Revised
+Grain Salad
+
+key: items/food.chailatte.description -1105225226913860450 v2 ReadyForRevision
+A little spice for cold or hot days.
+
+key: items/food.chailatte.displayname 1102492885146580184 v2 ReadyForRevision
+Chai Latte
+
+key: items/food.cheesefondue.description 4042406947621388308 v1 Revised
+What's more comforting than hot cheese goo?
+
+key: items/food.cheesefondue.displayname -2647797512591577739 v1 Revised
+Cheese Fondue
+
+key: items/food.cheesesticks.description -7293361202587121998 v1 Revised
+Fun, salty, and chewy. Always comes in large quantities.
+
+key: items/food.cheesesticks.displayname 8349162981620670751 v1 Revised
+Cheese Sticks
+
+key: items/food.cherrypie.description -4662237098532610586 v2 Revised
+This must be where pies go when they die.
+
+key: items/food.cherrypie.displayname 4969130728078782012 v1 Revised
+Cherry Pie
+
+key: items/food.chilaquiles.description 5226496093438127545 v2 ReadyForRevision
+A ((breakfast)) classic for people in the know.
+
+key: items/food.chilaquiles.displayname 2228959657804064819 v2 ReadyForRevision
+Chilaquiles
+
+key: items/food.clamcake.description -1414403872920807152 v1 Revised
+Contrary to what its name suggests, it can contain different types of shellfish.
+
+key: items/food.clamcake.displayname -7615785461877624917 v1 Revised
+Clam Cake
+
+key: items/food.clamchowder.description 911071648537240655 v1 Revised
+A delicious and improbable mix of dairy and clams. It can be used as a password too.
+
+key: items/food.clamchowder.displayname 7642769794380788761 v1 Revised
+Clam Chowder
+
+key: items/food.cornbread.description 380557738758867644 v1 Revised
+So fluffy you could make a pillow out of it. A pillow you could eat too!
+
+key: items/food.cornbread.displayname 4695949826801701324 v1 Revised
+Corn Bread
+
+key: items/food.corndog.description 8601009542424460220 v1 Revised
+Can only be eaten on a stick. Don't ask me why.
+
+key: items/food.corndog.displayname 5344919200116486779 v1 Revised
+Corn Dog
+
+key: items/food.cow_voucher.description -6533148555231711126 v4 Revised
+Good for 1 mint-condition ((cow)).
+
+key: items/food.cow_voucher.displayname 2348092612933002841 v5 Revised
+Proof of Purchase: Cow
+
+key: items/food.crabcake.description 7959079379795037318 v1 Revised
+Is it a crab? Is it something else? Who cares! It's delicious!
+
+key: items/food.crabcake.displayname -7464878039046958468 v1 Revised
+Crab Cake
+
+key: items/food.cremebrulee.description 2615475424275258771 v1 Revised
+The upper crust has to be gently cracked with a spoon.
+
+key: items/food.cremebrulee.displayname -4909479186284078080 v1 Revised
+Creme Brulee
+
+key: items/food.crepes.description 993456175975710724 v1 Revised
+Roll it, fold it, turn it, eat it.
+
+key: items/food.crepes.displayname -5763841377811830516 v1 Revised
+Crepes
+
+key: items/food.cupoftea.description 368080767249983099 v1 Revised
+It's tea o'clock!
+
+key: items/food.cupoftea.displayname 4621377572802666842 v1 Revised
+Cup of Tea
+
+key: items/food.dairy_butter.description 3562077473442470599 v1 Revised
+Butter is better. More ((fat)), please.
+
+key: items/food.dairy_butter.displayname 5436159672073674303 v1 Revised
+Butter
+
+key: items/food.dairy_cheese.description -7964213039115685504 v1 Revised
+It could be sharp or mild, nothing says flavour like cheese.
+
+key: items/food.dairy_cheese.displayname 7793717203507124696 v1 Revised
+Cheese
+
+key: items/food.dairy_cream.description 6016315816113228838 v1 Revised
+A ((dairy)) dream.
+
+key: items/food.dairy_cream.displayname -60811580566982801 v1 Revised
+Cream
+
+key: items/food.dairy_milk.description -2844663535484173278 v1 Revised
+Cereal's best ((dairy)) friend. Can be aged into ((yoghurt)) in a ((cellar)).
+
+key: items/food.dairy_milk.displayname 3469893910021356633 v1 Revised
+Milk
+
+key: items/food.dairy_yoghurt.description 4656638245978039477 v1 Revised
+If yoghurt could speak, it would sound cultured.
+
+key: items/food.dairy_yoghurt.displayname 845176837865041166 v1 Revised
+Yoghurt
+
+key: items/food.dakgangjeong.description -5558088146031915082 v2 ReadyForRevision
+Sweet, crispy and spicy. Three delicious word!
+
+key: items/food.dakgangjeong.displayname -3434614105919941653 v2 ReadyForRevision
+Dakgangjeong
+
+key: items/food.eggsalad.description 627348955957220730 v2 Revised
+A  hearty salad. Smells funny after one night in the fridge.
+
+key: items/food.eggsalad.displayname 4174145523801043207 v1 Revised
+Egg Salad
+
+key: items/food.eggssunnysideup.description -523122339840192124 v3 Revised
+Surprisingly easy to fail.
+
+key: items/food.eggssunnysideup.displayname 5501341469339076533 v1 Revised
+Eggs Sunny Side Up
+
+key: items/food.englishtea.description 5561602475506394779 v3 Revised
+It's tea o'clock again!
+
+key: items/food.englishtea.displayname 43657273616544882 v1 Revised
+English Tea
+
+key: items/food.expiredfood.description -1098603400471843701 v3 Revised
+Food does go bad, you know?!
+
+key: items/food.expiredfood.displayname -4048941402049895462 v2 Revised
+Expired Food
+
+key: items/food.failedexperiment_crusher.description 836678726820792203 v1 Revised
+Sometimes, things don't go your way!
+
+key: items/food.failedexperiment_crusher.displayname -2487996801112815889 v1 Revised
+Failed Experiment
+
+key: items/food.failedexperiment_loom.description -997033250091728200 v2 Revised
+Sometimes, things don't go your way!
+
+key: items/food.failedexperiment_loom.displayname 6247549438182897936 v2 Revised
+Failed Experiment
+
+key: items/food.failedexperiment_smelter.description -6605564501619703982 v1 Revised
+Sometimes, things don't go your way!
+
+key: items/food.failedexperiment_smelter.displayname -3068625748192332749 v1 Revised
+Failed Experiment
+
+key: items/food.fish_albacoretuna.description -7786291026987450569 v3 Revised
+Perspective is everything. This albacore tuna is a ((huge)) beast. Small for a tuna, large for a ((fish)).
+
+key: items/food.fish_albacoretuna.displayname 4177839127823751177 v1 Revised
+Albacore Tuna
+
+key: items/food.fish_anchovy.description -729175689198598125 v3 Revised
+The anchovy might be a ((small)) ((fish)), but it sure packs a flavour punch.
+
+key: items/food.fish_anchovy.displayname 9150509604069633397 v1 Revised
+Anchovy
+
+key: items/food.fish_bayshrimp.description 5775592610792164493 v5 Revised
+The bay shrimp is a delicious ((crustacean)), albeit surprisingly combative for its ((small)) size.
+
+key: items/food.fish_bayshrimp.displayname 3938110817234247703 v1 Revised
+Bay Shrimp
+
+key: items/food.fish_blacktigershrimp.description 6563172213771133636 v4 Revised
+The black tiger shrimp is the queen of all shrimps. ((medium)) in size, this fabulous ((crustacean)) is a nasty fighter.
+
+key: items/food.fish_blacktigershrimp.displayname 8161952065256686435 v1 Revised
+Black Tiger Shrimp
+
+key: items/food.fish_bluefintuna.description 1974053128830764068 v4 Revised
+This ((huge)) bluefin tuna scares the lights out of me. I like this ((fish)) better on a plate of sushi.
+
+key: items/food.fish_bluefintuna.displayname -3318132883907631452 v1 Revised
+Bluefin Tuna
+
+key: items/food.fish_bluesalmon.description -2570504613534466743 v2 Revised
+The blue salmon is a ((medium)) sized ((fish)) that tastes better when you think of another kind of fish.
+
+key: items/food.fish_bluesalmon.displayname 5087945710439452392 v1 Revised
+Blue Salmon
+
+key: items/food.fish_char.description -8096825128022514920 v2 Revised
+A char might be a ((large)) ((fish)), but it looks so cuddly.
+
+key: items/food.fish_char.displayname 8800933968206445622 v1 Revised
+Char
+
+key: items/food.fish_clam.description -2687991826515826837 v4 Revised
+The ((small)) clam is a peculiar ((shellfish)) with a funny taste.
+
+key: items/food.fish_clam.displayname -9037476106820512291 v1 Revised
+Clam
+
+key: items/food.fish_cobia.description -6661344946889207260 v2 Revised
+A ((large)) sized ((fish)), the cobia is truly a delicacy when it's eaten fresh and raw.
+
+key: items/food.fish_cobia.displayname -1255877322812281496 v1 Revised
+Cobia
+
+key: items/food.fish_cod.description -4953143445836029939 v2 Revised
+A ((large)) ((fish)), the cod has a cute little beard.
+
+key: items/food.fish_cod.displayname -5051938557393531864 v1 Revised
+Cod
+
+key: items/food.fish_cuttlefish.description -1432388928789446598 v2 Revised
+The cuttlefish is a ((small)) ((cephalopod)) with attitude and gumption to match.
+
+key: items/food.fish_cuttlefish.displayname 6631745406672071566 v1 Revised
+Cuttlefish
+
+key: items/food.fish_eel.description 8487364650105243312 v3 Revised
+An eel is a ((medium)) sized ((fish)) that is both wavy and shiny. Also a tad cold.
+
+key: items/food.fish_eel.displayname -7240319325611195013 v1 Revised
+Eel
+
+key: items/food.fish_emptyshell.description 7313653667859598584 v2 Revised
+A rather disgusting marine concretion. Quite common on the hulls of seafaring vessels. Still smells pretty bad.
+
+key: items/food.fish_emptyshell.displayname 4598001795062540973 v2 Revised
+Empty Shell
+
+key: items/food.fish_flounder.description -5572411620686810247 v1 Revised
+The flounder is a ((medium)) sized ((fish)) that looks like he was rolled over.
+
+key: items/food.fish_flounder.displayname -6220350804650252885 v1 Revised
+Flounder
+
+key: items/food.fish_giantscallop.description 7256698550751414656 v4 Revised
+The giant scallop is a ((large)) sized ((shellfish)). I could fit my whole head in there.
+
+key: items/food.fish_giantscallop.displayname 1014908631149756021 v1 Revised
+Giant Scallop
+
+key: items/food.fish_haddock.description 6323603716890471729 v3 Revised
+The haddock is a ((large)) ((fish)). It stands as my fish 'n chips go-to.
+
+key: items/food.fish_haddock.displayname -3789149643329123075 v1 Revised
+Haddock
+
+key: items/food.fish_halibut.description 7954203605363289169 v2 Revised
+One of the flattest fish, the halibut is a ((large)) ((fish)) with a truly delicate white meat.
+
+key: items/food.fish_halibut.displayname 7487962962069741542 v1 Revised
+Halibut
+
+key: items/food.fish_hardshellclam.description -6225503824409498261 v3 Revised
+The hard shell clam is a ((small)) ((shellfish)) with a tough exterior.
+
+key: items/food.fish_hardshellclam.displayname 1473825178172369389 v1 Revised
+Hard Shell Clam
+
+key: items/food.fish_herring.description -3878748163712243230 v2 Revised
+The herring is a ((small)) and unambitious ((fish)). Some say it can be eaten fermented, as dubious as this sounds...
+
+key: items/food.fish_herring.displayname 8794643517699122246 v1 Revised
+Herring
+
+key: items/food.fish_kingsalmon.description -3976735788021609435 v1 Revised
+The king salmon has a royal sounding name for such a ((large)) ((fish)).
+
+key: items/food.fish_kingsalmon.displayname -4826947933891988929 v1 Revised
+King Salmon
+
+key: items/food.fish_lobster.description 4254155651783182601 v5 Revised
+Butter's best friend, this ((medium)) sized ((crustacean)) doesn't share that friendship.
+
+key: items/food.fish_lobster.displayname -7857211518391539692 v1 Revised
+Lobster
+
+key: items/food.fish_mackerel.description -806596366919117278 v2 Revised
+The mackerel might be a ((medium)) sized ((fish)), but it's too commercial for me.
+
+key: items/food.fish_mackerel.displayname 8716519337099958235 v1 Revised
+Mackerel
+
+key: items/food.fish_mahimahi.description -988829774968895651 v3 Revised
+The ((large)) mahi-mahi has the same first and last name. Odd for a human, not for a ((fish)).
+
+key: items/food.fish_mahimahi.displayname -2184503649000055752 v1 Revised
+Mahi-Mahi
+
+key: items/food.fish_mussel.description 4532638436075040117 v7 Revised
+The mussel is a ((small)) and delicious ((shellfish)), always good with french fries.
+
+key: items/food.fish_mussel.displayname -3172287558101891960 v1 Revised
+Common Mussel
+
+key: items/food.fish_octopus.description 2058915208884300245 v2 Revised
+The octopus is a ((medium)) ((cephalopod)) that writes beautifully. Did you know that?
+
+key: items/food.fish_octopus.displayname 2738947328555913969 v1 Revised
+Octopus
+
+key: items/food.fish_oldshoe.description 4659557849217596073 v1 Revised
+Soggy and smelly.
+
+key: items/food.fish_oldshoe.displayname 4867954266328231841 v1 Revised
+Old Shoe
+
+key: items/food.fish_oyster.description 7099489230516552422 v4 Revised
+This ((small)) oyster is a delicious ((shellfish)). Just don't think about it too much when you eat it!
+
+key: items/food.fish_oyster.displayname 7204205312265101956 v1 Revised
+Oyster
+
+key: items/food.fish_scallop.description -1467023502530506781 v8 Revised
+The scallop is a ((medium)) sized ((shellfish)). Its shell makes for a lovely ashtray.
+
+key: items/food.fish_scallop.displayname 2302754234693887752 v1 Revised
+Scallop
+
+key: items/food.fish_snowcrab.description 5761475364435522455 v4 Revised
+As a ((crustacean)), the ((large)) snow crab can endure the fiercest winters. Careful with your fingers!
+
+key: items/food.fish_snowcrab.displayname 153339796306271788 v1 Revised
+Snow Crab
+
+key: items/food.fish_sockeyesalmon.description -8623936238347685401 v3 Revised
+The ((medium)) sockeye salmon is a fearless lover. For a ((fish)), it will do anything for love.
+
+key: items/food.fish_sockeyesalmon.displayname 8133872698065967923 v1 Revised
+Sockeye Salmon
+
+key: items/food.fish_sole.description -5993651087952642642 v4 Revised
+The sole is a flat and tasty ((Medium)) sized ((Fish)).
+
+key: items/food.fish_sole.displayname -216647244237464079 v1 Revised
+Sole
+
+key: items/food.fish_squid.description 2679226595211649059 v5 Revised
+The squid is a ((small)) ((cephalopod)), known for its taste versatility and hostile big brother.
+
+key: items/food.fish_squid.displayname 1545384375819349139 v1 Revised
+Squid
+
+key: items/food.fish_urchin.description -8414363870428050562 v2 Revised
+The urchin is a ((shellfish)). It's quite pointy!
+
+key: items/food.fish_urchin.displayname 7817265075887742099 v1 Revised
+Urchin
+
+key: items/food.fish_yellowfintuna.description 2884053317729643516 v2 Revised
+The yellowfin tuna is a ((huge)) creature. A beautiful slice of ((fish)) for a wonderful piece of sashimi.
+
+key: items/food.fish_yellowfintuna.displayname 3927641542675592757 v1 Revised
+Yellowfin Tuna
+
+key: items/food.fishcurry.description 2858038459302210192 v1 Revised
+Smells absolutely wonderful. And for hours too!
+
+key: items/food.fishcurry.displayname 2046582213092843478 v1 Revised
+Fish Curry
+
+key: items/food.fishermanspie.description -3781950169560027639 v1 Revised
+Quite a traditional meal. And no, not only eaten by fishermen.
+
+key: items/food.fishermanspie.displayname -304926045746692406 v1 Revised
+Fisherman's Pie
+
+key: items/food.fishsticks.description -5424323754670790689 v1 Revised
+Simple and delicious. Wednesday is fish sticks.
+
+key: items/food.fishsticks.displayname -2737042836712406183 v1 Revised
+Fish Sticks
+
+key: items/food.focaccia.description -7725169202665176887 v1 Revised
+More than bread, less than pizza.
+
+key: items/food.focaccia.displayname -367241414498789343 v1 Revised
+Focaccia
+
+key: items/food.frenchfries.description 5562442136238173607 v1 Revised
+Potatoes, the fried kind!
+
+key: items/food.frenchfries.displayname -5208029023079202740 v1 Revised
+French Fries
+
+key: items/food.friedchicken.description -7017787128522916190 v1 Revised
+Eat by the bucket.
+
+key: items/food.friedchicken.displayname 554930226582688706 v1 Revised
+Fried Chicken
+
+key: items/food.friedcrawfish.description 2937620607553485626 v1 Revised
+Can be cooked with any type of crustacean, really. And still as delicious.
+
+key: items/food.friedcrawfish.displayname 2837691377628302543 v1 Revised
+Fried Crawfish
+
+key: items/food.friedmushroom.description -7036210220481679706 v1 Revised
+Gains in taste what it loses in healthiness.
+
+key: items/food.friedmushroom.displayname -6758410196881075830 v1 Revised
+Fried Mushrooms
+
+key: items/food.friedrice.description -2385928824001843110 v1 Revised
+The best way to spice up the simplest of dishes!
+
+key: items/food.friedrice.displayname 2715417397149872423 v1 Revised
+Fried Rice
+
+key: items/food.friedsurf.description 7962694910771566990 v1 Revised
+A classic dish in sea-front restaurants. The ones with glass balls in fishnets.
+
+key: items/food.friedsurf.displayname -3969390683789132872 v1 Revised
+Fried Surf
+
+key: items/food.fritata.description 6450072756187259867 v1 Revised
+Fried scrambled eggs with a spicy zest.
+
+key: items/food.fritata.displayname 7092185684717655809 v1 Revised
+Frittata
+
+key: items/food.fruit_apple.description 2571180182223568566 v4 Revised
+An apple a day keeps the doctor away. For cooking, apples are used as ((tree fruits)).
+
+key: items/food.fruit_apple.displayname 2911169252698529879 v2 Revised
+Apple
+
+key: items/food.fruit_blueberry.description 3773704176482638678 v8 Revised
+Blueberries can be eaten raw and fresh. In the kitchen, they're considered as ((small)) ((berries)).
+
+key: items/food.fruit_blueberry.displayname -8896676482909221206 v3 Revised
+Blueberry
+
+key: items/food.fruit_cherry.description 2012929195807486010 v4 Revised
+Cherries taste great, but their skin is odd. They're ((tree fruits)) for cooking.
+
+key: items/food.fruit_cherry.displayname 7304401542876815572 v2 Revised
+Cherry
+
+key: items/food.fruit_peach.description -5122484130844382997 v6 Revised
+So fuzzy! Peaches are considered as ((tree fruits)) in the kitchen. I've never seen peaches that big...
+
+key: items/food.fruit_peach.displayname -7873228329754501627 v2 Revised
+Peach
+
+key: items/food.fruit_pear.description -4525196633072913686 v4 Revised
+A pear is dull. But tasty nonetheless! Pears are used as ((medium)) ((tree fruits)) in cooking.
+
+key: items/food.fruit_pear.displayname 939899262645408257 v2 Revised
+Pear
+
+key: items/food.fruit_raspberry.description 2912601308332484335 v6 Revised
+I could eat raspberries all day, every day of my life. 
+For cooking, raspberries are considered ((small)) ((berries)), but can be eaten fresh.
+
+key: items/food.fruit_raspberry.displayname 4099592919994000724 v2 Revised
+Raspberry
+
+key: items/food.fruit_strawberry.description -3091939453536031880 v7 Revised
+I remember picking strawberries in the summer. For cooking, strawberries are considered as ((small)) ((berries)), but are also delicious raw and fresh.
+
+key: items/food.fruit_strawberry.displayname -7762340928848852180 v2 Revised
+Strawberry
+
+key: items/food.fruitcandy.description -3779660569063813366 v1 Revised
+I don't think it counts as fruits anymore...
+
+key: items/food.fruitcandy.displayname 6389709916006800390 v1 Revised
+Fruit Candy
+
+key: items/food.fruitsalad.displayname 1747895198485034523 v1 Revised
+Fruit Salad
+
+key: items/food.garlicbread.description 8133785306559917421 v2 Revised
+Upgraded and improved bread. Don't talk to your friends from too close after.
+
+key: items/food.garlicbread.displayname -8540755561197360050 v1 Revised
+Garlic Bread
+
+key: items/food.greensalad.description -8852612293427363782 v2 Revised
+The simplest salad there is. Perfect for healthy living.
+
+key: items/food.greensalad.displayname -2822343126070709314 v1 Revised
+Green Salad
+
+key: items/food.grilledchicken.description 666686830568254673 v2 Revised
+The healthiest meat to grill.
+
+key: items/food.grilledchicken.displayname 3669781932837080606 v1 Revised
+Grilled Chicken
+
+key: items/food.grilledfish.description -1205495916327044332 v5 Revised
+Fresh from the ocean and straight to the oven!
+
+key: items/food.grilledfish.displayname -7344780918983830246 v1 Revised
+Grilled Fish
+
+key: items/food.grilledmushrooms.description -4552342344625064793 v1 Revised
+Delicious and won't make you grow in size.
+
+key: items/food.grilledmushrooms.displayname -9206292231027308771 v1 Revised
+Grilled Mushrooms
+
+key: items/food.grilledoctopus.description -8350923718801283223 v1 Revised
+A delicious seashore delicacy.
+
+key: items/food.grilledoctopus.displayname 8675934167645433744 v1 Revised
+Grilled Octopus
+
+key: items/food.grilledsteak.description 3909722983379811895 v1 Revised
+When you're young, it's all fillet steak.
+
+key: items/food.grilledsteak.displayname -5869846865685445145 v1 Revised
+Grilled Steak
+
+key: items/food.grilledveggie.description 5411823174279368063 v5 Revised
+I don't mind a little char on my veg.
+
+key: items/food.grilledveggie.displayname 7867691409552145801 v1 Revised
+Grilled Veggie
+
+key: items/food.hardcandy.description 6241159905514947940 v1 Revised
+Don't lose a tooth on it!
+
+key: items/food.hardcandy.displayname -5364131383253426685 v1 Revised
+Candy
+
+key: items/food.heattreatedcrab.description 7602069084875782086 v1 Revised
+A delicious fine snow crab cooked with the simplest culinary treatment.
+
+key: items/food.heattreatedcrab.displayname -3264743542718626745 v1 Revised
+Heat-Treated Crab
+
+key: items/food.honeysquares.displayname 1594881350495030421 v1 Revised
+Honey Squares
+
+key: items/food.hotmilk.description -7015915803629997377 v1 Revised
+Simple, comforting, soothing.
+
+key: items/food.hotmilk.displayname -1862959027426354514 v1 Revised
+Hot Milk
+
+key: items/food.ingredient_coffeebeans.description 4475228412704581640 v2 Revised
+Smell really good when roasted. A curious ingredient, neither a ((veggie)) nor a ((grain)).
+
+key: items/food.ingredient_coffeebeans.displayname 5369348656724513833 v1 Revised
+Coffee Beans
+
+key: items/food.ingredient_egg.description 1744559826054519919 v1 Revised
+Hard shell. Soft center. It's an ((egg)) alright.
+
+key: items/food.ingredient_egg.displayname 7263899944211033709 v1 Revised
+Egg
+
+key: items/food.ingredient_honey.description -1594889108147068774 v1 Revised
+Let's protect bees because I can't go on without this ((sweetener)).
+
+key: items/food.ingredient_honey.displayname 5950697461642105494 v1 Revised
+Honey
+
+key: items/food.ingredient_maplesyrup.description 1128177529832472776 v1 Revised
+This ((sweetener)) might just be the most delicious of them all.
+
+key: items/food.ingredient_maplesyrup.displayname 7468444922648900654 v1 Revised
+Maple Syrup
+
+key: items/food.ingredient_mushroom.description -2671460829803502769 v2 Revised
+A fruity delicious fungus that goes with almost anything. Considered a ((veggie)) when used in the kitchen.
+
+key: items/food.ingredient_mushroom.displayname 7758799822338137364 v1 Revised
+Mushroom
+
+key: items/food.ingredient_oliveoil.description 1028425255024451953 v2 Revised
+A essential olive-based ((fat)).
+
+key: items/food.ingredient_oliveoil.displayname 5090976629286535454 v1 Revised
+Olive Oil
+
+key: items/food.ingredient_sugar.description -244458689948330094 v1 Revised
+A basic ((sweetener)) for any aspiring pastry chef.
+
+key: items/food.ingredient_sugar.displayname 1532350891016715520 v1 Revised
+Sugar
+
+key: items/food.ingredient_sugarcane.description -8982863897072706530 v1 Revised
+This cane will surely come in candy! Will give ((sugar)) if placed in a ((crusher)).
+
+key: items/food.ingredient_sugarcane.displayname -5014868715314690582 v1 Revised
+Sugar Cane
+
+key: items/food.ingredient_sunfloweroil.description -7036361088391392681 v1 Revised
+Poor sunflower seeds. Who would squeeze you to get your ((fat))?
+
+key: items/food.ingredient_sunfloweroil.displayname -3763557886830598767 v1 Revised
+Sunflower Oil
+
+key: items/food.ingredient_tealeaves.description -4520064307608469538 v1 Revised
+Don't let them steep together.
+
+key: items/food.ingredient_tealeaves.displayname 3167264469362103872 v1 Revised
+Tea Leaves
+
+key: items/food.laksa.description 4431708120703677157 v3 ReadyForRevision
+A delicious spicy noodle soup that will cure any cold.
+
+key: items/food.laksa.displayname -2226912458241573487 v2 ReadyForRevision
+Laksa
+
+key: items/food.latte.description -3173308524161571972 v3 Revised
+An incredible blend at the best temperature. The ultimate barista goal.
+
+key: items/food.latte.displayname -2286742578595962936 v1 Revised
+Latte
+
+key: items/food.lobstergerminal.description -3762063893212583614 v5 Revised
+Easier to make than Lobster Thermidor, and just as tasty.
+
+key: items/food.lobstergerminal.displayname 4440024631961791223 v1 Revised
+Lobster Germinal
+
+key: items/food.lobsterroll.description -932831568311397193 v1 Revised
+Both really common and really fancy.
+
+key: items/food.lobsterroll.displayname 8083231047829598174 v1 Revised
+Lobster Roll
+
+key: items/food.maplesalmon.description -2113592954302611336 v2 Revised
+You can add maple syrup to anything!
+
+key: items/food.maplesalmon.displayname -2099894188355943291 v1 Revised
+Maple Salmon
+
+key: items/food.meat_beef.description 5411206533801202463 v1 Revised
+This is not a mis-steak. It's the right kind of ((meat)) for me.
+
+key: items/food.meat_beef.displayname 4209527408957556436 v1 Revised
+Beef
+
+key: items/food.meat_chicken.description 1100136584431733390 v1 Revised
+This ((meat)) just tastes like everything. Or is it everything that tastes like chicken?
+
+key: items/food.meat_chicken.displayname 3204673778355948739 v1 Revised
+Chicken
+
+key: items/food.meat_pork.description 3558038959712800413 v1 Revised
+Pork is a rich ((meat)), it's full of bullion. 
+
+key: items/food.meat_pork.displayname 1454748824376827473 v1 Revised
+Pork
+
+key: items/food.meatpie.description 2424122661788504523 v1 Revised
+Easier than a wellington, but as tasty. Impossible not to cook too much of it.
+
+key: items/food.meatpie.displayname 5652824561409598173 v1 Revised
+Meat Pie
+
+key: items/food.meatstew.description -7164187455680570929 v1 Revised
+Can cook for hours and hours, nonetheless better when re-heated.
+
+key: items/food.meatstew.displayname -4552135705076464142 v1 Revised
+Meat Stew
+
+key: items/food.milquetoast.description -7520123035282166227 v3 ReadyForRevision
+It's just wet bread.
+
+key: items/food.milquetoast.displayname 5752087642119971218 v2 ReadyForRevision
+Milquetoast
+
+key: items/food.mixedsalad.displayname 2107964981510829637 v1 Revised
+Mixed Salad
+
+key: items/food.mockgruel.description 7604062564886636005 v2 Revised
+Very close to the real thing.
+
+key: items/food.mockgruel.displayname -3650077994473251275 v2 Revised
+Mock Gruel
+
+key: items/food.muesli.description -9188148804532917689 v1 Revised
+The best breakfast to stay in shape. Or pretend to.
+
+key: items/food.muesli.displayname 8917356074169653264 v1 Revised
+Muesli
+
+key: items/food.mushroomsalad.description -8762637564461754209 v1 Revised
+The salad of the forest.
+
+key: items/food.mushroomsalad.displayname -9209324899932953187 v1 Revised
+Mushroom Salad
+
+key: items/food.noodlesoup.description -598039841743431995 v1 Revised
+Much better fresh!
+
+key: items/food.noodlesoup.displayname 8065172753500620134 v1 Revised
+Noodle Soup
+
+key: items/food.omelette.description -2871664152137526066 v3 Revised
+You can put literally anything you want in this. But this one contains none of it.
+
+key: items/food.omelette.displayname 6488961139935931612 v1 Revised
+Omelette
+
+key: items/food.onionrings.description -3763260209534524395 v1 Revised
+Just. One. More.
+
+key: items/food.onionrings.displayname -5315878802279228894 v1 Revised
+Onion Rings
+
+key: items/food.paella.description -5063829692041862089 v1 Revised
+As savoury as it is fancy. Always a delightful golden color.
+
+key: items/food.paella.displayname -6387587257756480669 v1 Revised
+Paella
+
+key: items/food.pancakes.description 4373748195595307433 v1 Revised
+Not as fancy as crepes, but way fluffier.
+
+key: items/food.pancakes.displayname -6182632729620624328 v1 Revised
+Pancakes
+
+key: items/food.peachcobbler.description -4930890932893738195 v2 Revised
+Nothing like peaches & cream.
+
+key: items/food.peachcobbler.displayname -6136507459750620278 v2 Revised
+Peach Cobbler
+
+key: items/food.peartartlet.description 8069478088215529950 v1 Revised
+The cutest little pear pie.
+
+key: items/food.peartartlet.displayname -5427413779232488725 v1 Revised
+Pear Tartlet
+
+key: items/food.plainrice.description -2783008016829099589 v1 Revised
+An ordinary bowl of cooked rice.
+
+key: items/food.plainrice.displayname 4765386701342773718 v1 Revised
+Plain Rice
+
+key: items/food.poachedfruit.description -7984542536304445237 v3 Revised
+Slightly more filling than raw fruits, and easier to chew. The simplest dessert there is.
+
+key: items/food.poachedfruit.displayname 3545870924089911554 v1 Revised
+Poached Fruit
+
+key: items/food.popcorn.description 7133047380331335301 v3 Revised
+Pop! Corn! Pop! Corn!
+
+key: items/food.popcorn.displayname -8650226764588450140 v1 Revised
+Popcorn
+
+key: items/food.porkchops.description 7233829779227075113 v2 Revised
+Wax on, wax off.
+
+key: items/food.porkchops.displayname -5954791038871935446 v1 Revised
+Pork Chops
+
+key: items/food.questionablemeal.description 7338917388635769938 v3 Revised
+Ew.
+
+key: items/food.questionablemeal.displayname -2090552783878271258 v1 Revised
+Questionable Meal
+
+key: items/food.ricepudding.description -840355653170851322 v2 Revised
+Rice, but in sludge form.
+
+key: items/food.ricepudding.displayname -5840598049875811033 v1 Revised
+Rice Pudding
+
+key: items/food.sauerkraut.description -6841430624674644799 v1 Revised
+Tastes as funky as it smells.
+
+key: items/food.sauerkraut.displayname 7057616308927870806 v1 Revised
+Sauerkraut
+
+key: items/food.sauerkrautmeal.description -5375639336697862615 v1 Revised
+An interesting combination. For hungry people with particular tastes.
+
+key: items/food.sauerkrautmeal.displayname -390276681005044459 v1 Revised
+Sauerkraut Meal
+
+key: items/food.schnitzel.description -7444430901945572543 v1 Revised
+A slice of breaded meat heaven.
+
+key: items/food.schnitzel.displayname 9118371839929856524 v1 Revised
+Schnitzel
+
+key: items/food.scrambledeggs.description -7227743440430733353 v1 Revised
+Stir vigorously.
+
+key: items/food.scrambledeggs.displayname -1273442931223274417 v1 Revised
+Scrambled Eggs
+
+key: items/food.seafoodmeal.description 4011531132907280413 v1 Revised
+Fish and grains always make the coziest bedfellows.
+
+key: items/food.seafoodmeal.displayname 5128544349224168290 v1 Revised
+Seafood Meal
+
+key: items/food.seafoodplatter.description 4720831471341901011 v1 Revised
+I’m seeing double! So many fish!
+
+key: items/food.seafoodplatter.displayname 1111894268502228890 v1 Revised
+Seafood Platter
+
+key: items/food.shellfishstew.description 867070710557389602 v1 Revised
+Smells funny when it cooks, but tastes great.
+
+key: items/food.shellfishstew.displayname 4202122234503289468 v1 Revised
+Shellfish Stew
+
+key: items/food.shrimpcocktail.description 2625609275894373675 v9 Revised
+Classy shrimp swimming in a pool filled with fancy sauce.
+
+key: items/food.shrimpcocktail.displayname -8382836800105409016 v2 Revised
+Shrimp Cocktail
+
+key: items/food.shrimptempura.description 339142089468028240 v1 Revised
+The crunchiest shrimps around.
+
+key: items/food.shrimptempura.displayname -8627682421261775934 v1 Revised
+Shrimp Tempura
+
+key: items/food.southernboil.description -4252495159838871784 v1 Revised
+A souther crayfish extravaganza. Perfectly spiced up.
+
+key: items/food.southernboil.displayname 7577741931215705717 v1 Revised
+Southern Boil
+
+key: items/food.spaghetti.displayname -1847914435084770310 v1 Revised
+Spaghetti
+
+key: items/food.spicychips.description -6746581853111774122 v2 ReadyForRevision
+After a bag of these bad boys, you won't even feel your face.
+
+key: items/food.spicychips.displayname -9015487111230519089 v2 ReadyForRevision
+Flamin' Firebirdz
+
+key: items/food.squidskewer.description 2311659032554411052 v4 Revised
+Brochettes a-la-squid. Fancier than most maritime dishes.
+
+key: items/food.squidskewer.displayname 7147705947474669104 v3 Revised
+Squid Skewer
+
+key: items/food.steamedcrayfish.description 6556973332525391991 v1 Placeholder
+It’s like a sauna for shrimp.
+
+key: items/food.steamedcrayfish.displayname 3627426695580748861 v1 Placeholder
+Steamed Crayfish
+
+key: items/food.steamedshellfish.description 4927371775830545546 v7 Revised
+A simple yet delicious shellfish meal, for the finest palates.
+
+key: items/food.steamedshellfish.displayname -6235737018868732620 v1 Revised
+Steamed Shellfish
+
+key: items/food.surfandturf.description 7808794777152154268 v1 Revised
+A fancy wording for Earth and Ocean. But surely better than "Mud and Foam".
+
+key: items/food.surfandturf.displayname 21514979101109034 v1 Revised
+Surf and Turf
+
+key: items/food.surstromming.description 6660534692937858642 v1 Revised
+A holiday delicacy. No one is really sure if this is actually edible.
+
+key: items/food.surstromming.displayname 6511337131239998501 v1 Revised
+Surstromming
+
+key: items/food.sushi.description -5789615756736376314 v1 Revised
+Everyone likes sushi.
+
+key: items/food.sushi.displayname -5801123587516208312 v2 Revised
+Sushi
+
+key: items/food.sweetcoffee.description -3826868183844651571 v1 Revised
+A cozier, comfier coffee for the soft-hearted.
+
+key: items/food.sweetcoffee.displayname 682121427474245844 v1 Revised
+Sweet Coffee
+
+key: items/food.sweettea.description 10616234454659749 v1 Revised
+Not really for the purists, but tastes delicious nonetheless.
+
+key: items/food.sweettea.displayname 3956041752457987877 v1 Revised
+Sweet Tea
+
+key: items/food.sweetyoghurt.description 1947822372041649480 v1 Revised
+Some say they have the best yoghurts! Can be aged into ((cheese)) if delicately placed in a ((cellar)).
+
+key: items/food.sweetyoghurt.displayname -5907463686052160919 v1 Revised
+Sweet Yoghurt
+
+key: items/food.toffee.description -6196196099833387241 v1 Revised
+Such a simple yet timeless candy.
+
+key: items/food.toffee.displayname 2974938483407044517 v3 Revised
+Toffee
+
+key: items/food.tomatopizza.description 340231832410955856 v1 Revised
+A simple oven-baked pizza, with a delicious tomato sauce.
+
+key: items/food.tomatopizza.displayname 4989331713724318396 v1 Revised
+Tomato Pizza
+
+key: items/food.tunatataki.description 7204963014146202465 v1 Revised
+A rare delicacy that is quite hard to execute properly.
+
+key: items/food.tunatataki.displayname 5805434708483557729 v1 Revised
+Tuna Tataki
+
+key: items/food.vegetablestirfry.description 500805303957035879 v1 Revised
+A colorful veggies carnival that can only bring joy and satisfaction.
+
+key: items/food.vegetablestirfry.displayname -932175035607352388 v1 Revised
+Vegetables Stir Fry
+
+key: items/food.veggie_cabbage.description 6075785264238302436 v2 Revised
+The cabbage is an incredible ((leaf veggie)). So many layers! Can be become piclked ((Sauerkraut)) in the ((Cellar))
+
+key: items/food.veggie_cabbage.displayname 1180166227670122527 v1 Revised
+Cabbage
+
+key: items/food.veggie_carrot.description 1834948519651593408 v2 Revised
+Carrots are ((root)) ((veggies)) which are great chopped and cooked in a soup, amongst many other uses.
+
+key: items/food.veggie_carrot.displayname 3002830592988016980 v1 Revised
+Carrot
+
+key: items/food.veggie_celery.description -1524877011803582358 v2 Revised
+As a ((leaf veggie)), the celery really sticks out of the bunch.
+
+key: items/food.veggie_celery.displayname -2515256507246350450 v1 Revised
+Celery
+
+key: items/food.veggie_fireglow.description 7933946045737480727 v5 Revised
+I shouldn't eat this ((veggie)). It looks dangerous.
+
+key: items/food.veggie_fireglow.displayname -5105634731116167954 v2 Revised
+Fireglow
+
+key: items/food.veggie_garlic.description 379277957348378985 v3 Revised
+Garlic is a ((savoury veggie)), a must in almost every meal. Also defend you against vampires.
+
+key: items/food.veggie_garlic.displayname -6753616114902897154 v1 Revised
+Garlic
+
+key: items/food.veggie_leek.description 7833490806295627384 v1 Revised
+The leek is a tasty ((root veggie)). Spinning a leek is a classic, and can last for hours. 
+
+key: items/food.veggie_leek.displayname -8005039713707659513 v1 Revised
+Leek
+
+key: items/food.veggie_lettuce.description 8850918671106937812 v2 Revised
+Lettuce might be a common ((leaf veggie)), but it always adds an extra crisp to a meal. 
+
+key: items/food.veggie_lettuce.displayname 8050350983361507666 v1 Revised
+Lettuce
+
+key: items/food.veggie_olive.description 1000126684724369271 v3 Revised
+Olives are amazing ((savoury veggies)). Add a pepper in the middle and you've got yourself a party. Can produce ((olive oil)) if placed in a ((crusher)).
+
+key: items/food.veggie_olive.displayname -5128460344189114073 v1 Revised
+Olive
+
+key: items/food.veggie_onion.description -8526131133252480928 v3 Revised
+This ((savoury veggie)) might make you cry. Sensitive types beware.
+
+key: items/food.veggie_onion.displayname -6311857128299351715 v1 Revised
+Onion
+
+key: items/food.veggie_potato.description 5968510987113333200 v2 Revised
+The potato is a classic addition to any occasion. A ((root veggie)) that doesn't need an invitation.
+
+key: items/food.veggie_potato.displayname -4607854037579355833 v1 Revised
+Potato
+
+key: items/food.veggie_tomato.description 5000081267846662153 v3 Revised
+A tomato might say it's a ((savoury veggie)), but we know it's just a fruit.
+
+key: items/food.veggie_tomato.displayname -3178438936835771390 v1 Revised
+Tomato
+
+key: items/food.veggie_turnip.description 4139427550481683005 v2 Revised
+Turnips are the most essential ((root veggies)) of the day.
+
+key: items/food.veggie_turnip.displayname -1820205806765415324 v1 Revised
+Turnip
+
+key: items/food.veggiepotpie.description 7225321813745265292 v1 Revised
+The kind of pie in which you can drop everything and anything.
+
+key: items/food.veggiepotpie.displayname -2992899342339043111 v1 Revised
+Veggie-pot pie
+
+key: items/food.wontonsoup.description -8149336890964520172 v1 Revised
+It's always a challenge to grasp the slippery wontons with chopsticks.
+
+key: items/food.wontonsoup.displayname 3576844283527338758 v1 Revised
+Wonton Soup
+

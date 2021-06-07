@@ -1,0 +1,6 @@
+key: achievements/all_decorations_dog.description -5977677187689779650 v2 Revised
+ปรับปรุง ห้องเล็ก ๆ ของเอเลน่า ทั้งหมด
+
+key: achievements/all_decorations_dog.name 3781959744136928594 v1 Revised
+Fully Improved: Elena
+

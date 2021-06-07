@@ -1,0 +1,6 @@
+key: achievements/second_guardian_tower.description -9140682722053962202 v2 Revised
+Have your second conversation with Hades.
+
+key: achievements/second_guardian_tower.name 5779948064544171504 v1 Revised
+Second Encounter
+

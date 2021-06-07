@@ -1,0 +1,232 @@
+key: hyena/conversations.butterfliesfoodsame.loctext -5548811404045918204 v1 Placeholder
+I'm working my way towards a snack.
+
+key: hyena/conversations.foodaccept.loctext -6914652092742348405 v2 Placeholder
+{Eat}Thank you for this food!
+
+key: hyena/conversations.foodaccept_dislike.loctext -7135188819626306503 v2 Placeholder
+{Eat}This food is bad.
+
+key: hyena/conversations.foodaccept_like.loctext -3793580312178192384 v2 Placeholder
+{Eat}That is some tasty food!
+
+key: hyena/conversations.foodaccept_love.loctext 1052210223724310892 v2 Placeholder
+{Eat}This is my favorite food! Thank you!
+
+key: hyena/conversations.foodrefuse.loctext -18179852890179879 v1 Placeholder
+I'm not hungry.
+
+key: hyena/conversations.foodrefuse_inedible._independenttextbubbleloc 6927243148244731815 v1 Placeholder
+hedgehog/conversations.foodrefuse_inedible._independenttextbubbleloc has not yet been translated
+
+key: hyena/conversations.foodrefuse_inedible.loctext 8607872339793355606 v1 Placeholder
+This is not edible.
+
+key: hyena/conversations.foodrefuse_same.loctext -4582430675685786194 v1 Placeholder
+I've already had this recently. Do you have anything else?
+
+key: hyena/conversations.hyena_frog_lastvoyagecomment_atlocation._independenttextbubbleloc 3044317776350260366 v1 Placeholder
+Atul!
+
+key: hyena/conversations.hyena_frog_lastvoyagecomment_atlocation.loctext -3481483712027740463 v1 Placeholder
+<spirit>_Frog_LastVoyageComment_AtLocation
+
+key: hyena/conversations.hyena_frog_lastvoyagecomment1.loctext 8997247380373960093 v1 Placeholder
+<spirit>_Frog_LastVoyageComment1
+
+key: hyena/conversations.hyena_frog_lastvoyagecomment2.loctext 4229162161681947230 v1 Placeholder
+<spirit>_Frog_LastVoyageComment2
+
+key: hyena/conversations.hyena_lastvoyage_1_lynxhouse._independenttextbubbleloc -5295221538107413065 v1 Placeholder
+This house...
+
+key: hyena/conversations.hyena_lastvoyage_1_lynxhouse.loctext 4518644791414607585 v1 Placeholder
+<spirit>_LastVoyage_1_LynxHouse
+
+key: hyena/conversations.hyena_lastvoyage_2_talk_gwen._independenttextbubbleloc -8239231995735076521 v1 Placeholder
+Hmmmm....
+
+key: hyena/conversations.hyena_lastvoyage_2_talk_gwen.loctext -2452389730170258055 v1 Placeholder
+<spirit>_LastVoyage_2_Talk_Gwen
+
+key: hyena/conversations.hyena_lastvoyage_3_mailbox._independenttextbubbleloc 4022257710914416818 v1 Placeholder
+Hmmmm....
+
+key: hyena/conversations.hyena_lastvoyage_3_mailbox.loctext 2397721770273422952 v1 Placeholder
+<spirit>_LastVoyage_3_Mailbox
+
+key: hyena/conversations.hyena_lastvoyage_4_smelter._independenttextbubbleloc -6195256341320462480 v1 Placeholder
+Hmmmm....
+
+key: hyena/conversations.hyena_lastvoyage_4_smelter.loctext 6220254777092537758 v1 Placeholder
+<spirit>_LastVoyage_4_Smelter
+
+key: hyena/conversations.hyena_lastvoyage_5_atul._independenttextbubbleloc 784425762056088651 v1 Placeholder
+Hmmmm....
+
+key: hyena/conversations.hyena_lastvoyage_5_atul.loctext -7281386302509135620 v1 Placeholder
+<spirit>_LastVoyage_5_Atul
+
+key: hyena/conversations.hyena_lastvoyage_6_guesthouse._independenttextbubbleloc 4509037049490619626 v1 Placeholder
+Hmmmm....
+
+key: hyena/conversations.hyena_lastvoyage_6_guesthouse.loctext -3941198216800863039 v1 Placeholder
+<spirit>_LastVoyage_6_GuestHouse
+
+key: hyena/conversations.hyena_lastvoyage_7_giveitem._independenttextbubbleloc -952929824272113623 v1 Placeholder
+I almost forgot...
+
+key: hyena/conversations.hyena_lastvoyage_7_giveitem.loctext 6799125974201013161 v1 Placeholder
+Hyena_LastVoyage_7_GiveItem
+[GiveItem]
+
+key: hyena/conversations.hyena_lastvoyage_fallback1.loctext 529733712822481320 v1 Placeholder
+<spirit>_LastVoyage_Fallback1
+
+key: hyena/conversations.hyena_lastvoyage_fallback2.loctext 2700211665410838805 v1 Placeholder
+<spirit>_LastVoyage_Fallback2
+
+key: hyena/conversations.hyena_lastvoyage_intender._independenttextbubbleloc -8394346649680800847 v1 Placeholder
+Stella!
+
+key: hyena/conversations.hyena_lastvoyage_intender.loctext 75770350087980587 v1 Placeholder
+Hyena_LastVoyage_InTender
+Ready?
+
+key: hyena/conversations.hyena_lastvoyage_intender_no.loctext 8607911666860254970 v1 Placeholder
+Hyena_LastVoyage_InTender_No
+
+key: hyena/conversations.hyena_lastvoyage_intender_yes.loctext 70588306141799532 v1 Placeholder
+Hyena_LastVoyage_InTender_Yes
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_a._independenttextbubbleloc 1879625856907419617 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_a.loctext -1198975548807326740 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_b._independenttextbubbleloc 6083264396562832882 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_b.loctext -5658327552857457422 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_c._independenttextbubbleloc -2304728956507581639 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_c.loctext -6028962731448217578 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_d._independenttextbubbleloc 2208055392135620732 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_d.loctext -4414336578397202655 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_e._independenttextbubbleloc -368395550575872578 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_e.loctext 1620091341757924252 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_f._independenttextbubbleloc -8298428491577953140 v1 Placeholder
+Sssstella!
+
+key: hyena/conversations.hyena_lastvoyage_tendersequence_f.loctext -2518686186970547668 v1 Placeholder
+Hyena_LastVoyage_TenderSequence
+
+key: hyena/conversations.hyena_readytoleave_accept.loctext -6013242233508962851 v1 Placeholder
+[Start]Hyena_ReadyToLeave_Accept
+
+key: hyena/conversations.hyena_readytoleave_question._independenttextbubbleloc -7080209921583753937 v1 Placeholder
+<Spirit>ReadyToLeave_Question
+
+key: hyena/conversations.hyena_readytoleave_question.loctext -3167018935115076651 v1 Placeholder
+[Particles]Hyena_ReadyToLeave_Question
+
+key: hyena/conversations.hyena_readytoleave_refuse.loctext -1967187423988725329 v1 Placeholder
+Hyena_ReadyToLeave_Refuse
+
+key: hyena/conversations.hyenacall.loctext 769492864896997353 v1 Placeholder
+<spirit>Call
+
+key: hyena/conversations.hyenaconversation-askaboutfrogvalidation._independenttextbubbleloc 3040291294145090124 v1 Placeholder
+-PH- Spirit Call!
+
+key: hyena/conversations.hyenaconversation-askaboutfrogvalidation.loctext -2086511382637135380 v1 Placeholder
+HyenaConversation-AskAboutFrogValidation
+
+key: hyena/conversations.hyenaconversation-commentaboutplay01.loctext -2825980337207161815 v1 Placeholder
+Damn!
+
+key: hyena/conversations.hyenaconversationhungry01.loctext -8941147839619072777 v1 Placeholder
+<Spirit>ConversationHungry01
+
+key: hyena/conversations.hyenaconversationhungry02.loctext 4364613896564750629 v1 Placeholder
+<Spirit>ConversationHungry02
+
+key: hyena/conversations.hyenaconversation-hyenabigmealfoodintroduction.loctext 6596139054676611134 v1 Placeholder
+HyenaConversation-HyenaBigMealFoodIntroduction
+
+key: hyena/conversations.hyenaconversationstarving01.loctext -4232296185975147295 v1 Placeholder
+<spirit>ConversationStarving01
+
+key: hyena/conversations.hyenaconversationstarving02.loctext 6829287199743643493 v1 Placeholder
+<spirit>ConversationStarving02
+
+key: hyena/conversations.hyenaconversation-toastreminder.loctext -650766066179503809 v2 Placeholder
+What a delicious event.
+
+key: hyena/conversations.hyenaconversation-welcomenewspirit01.loctext 7212152102567276155 v1 Placeholder
+<Spirit>Conversation-WelcomeNewSpirit01
+
+key: hyena/conversations.hyenaconversation-welcomenewspirit02.loctext -9144143691450344679 v1 Placeholder
+<Spirit>Conversation-WelcomeNewSpirit02
+
+key: hyena/conversations.hyenafoodaccept.loctext 9095017269730345026 v1 Placeholder
+<spirit>FoodAccept
+
+key: hyena/conversations.hyenafoodrefuse.loctext -4132667997736728017 v1 Placeholder
+<spirit>FoodRefuse
+
+key: hyena/conversations.hyenafoodsame.loctext -8881951918510642533 v2 Placeholder
+I don't want to eat the same thing twice.
+
+key: hyena/conversations.hyenahugaccept.loctext 1493535654952885784 v1 Placeholder
+<spirit>HugAccept
+
+key: hyena/conversations.hyenahughappy01.loctext 5984212167935073740 v1 Placeholder
+<spirit>HugHappy01
+
+key: hyena/conversations.hyenahughappy02.loctext -4938628978922186617 v1 Placeholder
+<spirit>HugHappy02
+
+key: hyena/conversations.hyenahugrefuse.loctext 875409074536000596 v1 Placeholder
+<spirit>HugRefuse
+
+key: hyena/conversations.hyenahugrefuse01.loctext 5413411063319735025 v1 Placeholder
+<spirit>HugRefuse01
+
+key: hyena/conversations.hyenahugrefuse02.loctext -3074596930866759407 v1 Placeholder
+<spirit>HugRefuse02
+
+key: hyena/conversations.hyenamedecineaccept.loctext -7708137385091129247 v1 Placeholder
+<spirit>MedecineAccept
+
+key: hyena/conversations.hyenamedecinebad.loctext 1235406694661335446 v1 Placeholder
+<spirit>MedecineBad
+
+key: hyena/conversations.hyenamedecinerefuse.loctext 2609911911753762944 v1 Placeholder
+<spirit>MedecineRefuse
+
+key: hyena/conversations.hyenawelcome.loctext 5809859866451414803 v1 Placeholder
+<spirit>Welcome
+
+key: hyena/conversations.hyenawelcomeend.loctext -4503287461460121383 v1 Placeholder
+<spirit>WelcomeEnd
+
+key: hyena/conversations.temp-talktoreleasehyena.loctext 5425034120176725831 v1 Placeholder
+DO NOT LOCALIZED - Just keep talking with me if you want to release me.
+DO NOT LOCALIZED - If you continue I will be released...
+DO NOT LOCALIZED - LAST CHANCE, next, I'm going into my release sequence.
+

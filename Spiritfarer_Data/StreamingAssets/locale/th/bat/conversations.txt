@@ -1,0 +1,187 @@
+key: bat/conversations.bat_frog_lastvoyagecomment_atlocation.loctext 8633531850968189369 v1 Placeholder
+<spirit>_Frog_LastVoyageComment_AtLocation
+
+key: bat/conversations.bat_frog_lastvoyagecomment1.loctext 4487518852426428098 v1 Placeholder
+<spirit>_Frog_LastVoyageComment1
+
+key: bat/conversations.bat_frog_lastvoyagecomment2.loctext -2374856311922403402 v1 Placeholder
+<spirit>_Frog_LastVoyageComment2
+
+key: bat/conversations.bat_lastvoyage_1_lynxhouse.loctext -8216473033259957977 v1 Placeholder
+<spirit>_LastVoyage_1_LynxHouse
+
+key: bat/conversations.bat_lastvoyage_2_talk_gwen.loctext 4124704913889206635 v1 Placeholder
+<spirit>_LastVoyage_2_Talk_Gwen
+
+key: bat/conversations.bat_lastvoyage_3_mailbox.loctext 8733881262667984138 v1 Placeholder
+<spirit>_LastVoyage_3_Mailbox
+
+key: bat/conversations.bat_lastvoyage_4_smelter.loctext 4058446628721057658 v1 Placeholder
+<spirit>_LastVoyage_4_Smelter
+
+key: bat/conversations.bat_lastvoyage_5_atul.loctext -2849738227269173098 v1 Placeholder
+<spirit>_LastVoyage_5_Atul
+
+key: bat/conversations.bat_lastvoyage_6_guesthouse.loctext -6840892738366339329 v1 Placeholder
+<spirit>_LastVoyage_6_GuestHouse
+
+key: bat/conversations.bat_lastvoyage_7_giveitem.loctext -810756823188320383 v1 Placeholder
+Bat_LastVoyage_7_GiveItem
+[GiveItem]
+
+key: bat/conversations.bat_lastvoyage_fallback1.loctext -4086852497652408599 v1 Placeholder
+<spirit>_LastVoyage_Fallback1
+
+key: bat/conversations.bat_lastvoyage_fallback2.loctext -3718190683747207272 v1 Placeholder
+<spirit>_LastVoyage_Fallback2
+
+key: bat/conversations.bat_lastvoyage_intender.loctext -8812364023512597160 v1 Placeholder
+Bat_LastVoyage_InTender
+Ready?
+
+key: bat/conversations.bat_lastvoyage_intender_no.loctext -400544561079963041 v1 Placeholder
+Bat_LastVoyage_InTender_No
+
+key: bat/conversations.bat_lastvoyage_intender_yes.loctext -2283732978748578957 v1 Placeholder
+Bat_LastVoyage_InTender_Yes
+
+key: bat/conversations.bat_lastvoyage_tendersequence_a.loctext -3307690018497980858 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_lastvoyage_tendersequence_b.loctext -6208560701341309137 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_lastvoyage_tendersequence_c.loctext -6693484098985881846 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_lastvoyage_tendersequence_d.loctext 1125149734747183823 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_lastvoyage_tendersequence_e.loctext -5027774308267253801 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_lastvoyage_tendersequence_f.loctext 3813793980024321284 v1 Placeholder
+Bat_LastVoyage_TenderSequence
+
+key: bat/conversations.bat_readytoleave_accept.loctext -2491573531437429814 v1 Placeholder
+[Start]Bat_ReadyToLeave_Accept
+
+key: bat/conversations.bat_readytoleave_question._independenttextbubbleloc 6114177066861202919 v2 Placeholder
+<Spirit>ReadyToLeave_Question
+
+key: bat/conversations.bat_readytoleave_question.loctext 5107263811266965659 v1 Placeholder
+[Particles]Bat_ReadyToLeave_Question
+
+key: bat/conversations.bat_readytoleave_refuse.loctext -2065906087926581619 v1 Placeholder
+Bat_ReadyToLeave_Refuse
+
+key: bat/conversations.batcall.loctext -567570716858981954 v1 Placeholder
+<spirit>Call
+
+key: bat/conversations.batconversation-askaboutfrogvalidation.loctext 2021673988107723653 v1 Placeholder
+BatConversation-AskAboutFrogValidation
+
+key: bat/conversations.batconversation-batbigmealfoodintroduction.loctext 7684808277294776954 v1 Placeholder
+BatConversation-BatBigMealFoodIntroduction
+
+key: bat/conversations.batconversation-commentaboutplay01.loctext -5940685893170674479 v3 Placeholder
+What?
+
+key: bat/conversations.batconversationhungry01.loctext 6272665933996304786 v2 Placeholder
+<Spirit>ConversationHungry01
+
+key: bat/conversations.batconversationhungry02.loctext 3559734400217674002 v2 Placeholder
+<Spirit>ConversationHungry02
+
+key: bat/conversations.batconversationstarving01.loctext 3442279292668176210 v1 Placeholder
+<spirit>ConversationStarving01
+
+key: bat/conversations.batconversationstarving02.loctext -8969163340064371258 v1 Placeholder
+<spirit>ConversationStarving02
+
+key: bat/conversations.batconversation-toast.loctext 4325667655677864069 v1 Placeholder
+Very good.
+
+key: bat/conversations.batconversation-toastreminder.loctext 8567628049875221910 v1 Placeholder
+Oh, let's get this over with.
+
+key: bat/conversations.batconversation-welcomenewspirit01.loctext 4295235567968236079 v2 Placeholder
+<Spirit>Conversation-WelcomeNewSpirit01
+
+key: bat/conversations.batconversation-welcomenewspirit02.loctext 8717514801038836735 v2 Placeholder
+<Spirit>Conversation-WelcomeNewSpirit02
+
+key: bat/conversations.batfoodaccept.loctext -7030774440630258765 v1 Placeholder
+<spirit>FoodAccept
+
+key: bat/conversations.batfoodrefuse.loctext -4636394935781576554 v1 Placeholder
+<spirit>FoodRefuse
+
+key: bat/conversations.batfoodsame.loctext 4853463639089693066 v2 Placeholder
+I don't want to eat the same thing twice.
+
+key: bat/conversations.bathugaccept.loctext -8075985789627450197 v1 Placeholder
+<spirit>HugAccept
+
+key: bat/conversations.bathughappy01.loctext 1744688525966220687 v1 Placeholder
+<spirit>HugHappy01
+
+key: bat/conversations.bathughappy02.loctext -1263398722159614697 v1 Placeholder
+<spirit>HugHappy02
+
+key: bat/conversations.bathugrefuse.loctext 3237411149477986720 v1 Placeholder
+<spirit>HugRefuse
+
+key: bat/conversations.bathugrefuse01.loctext 690856837019285251 v1 Placeholder
+<spirit>HugRefuse01
+
+key: bat/conversations.bathugrefuse02.loctext -4573414454724467473 v1 Placeholder
+<spirit>HugRefuse02
+
+key: bat/conversations.batmedecineaccept.loctext 1020503465911094090 v1 Placeholder
+<spirit>MedecineAccept
+
+key: bat/conversations.batmedecinebad.loctext 968948330187210498 v1 Placeholder
+<spirit>MedecineBad
+
+key: bat/conversations.batmedecinerefuse.loctext -6689928701949224581 v1 Placeholder
+<spirit>MedecineRefuse
+
+key: bat/conversations.batwelcome.loctext 459705237345228796 v1 Placeholder
+<spirit>Welcome
+
+key: bat/conversations.batwelcomeend.loctext 6888205205480018855 v1 Placeholder
+<spirit>WelcomeEnd
+
+key: bat/conversations.foodaccept.loctext -5469875885206130909 v2 Placeholder
+{Eat}Thank you for this food!
+
+key: bat/conversations.foodaccept_dislike.loctext 5694149764618296216 v2 Placeholder
+{Eat}This food is bad.
+
+key: bat/conversations.foodaccept_like.loctext -7192955565520797539 v2 Placeholder
+{Eat}That is some tasty food!
+
+key: bat/conversations.foodaccept_love.loctext 7306781010917887898 v2 Placeholder
+{Eat}This is my favorite food! Thank you!
+
+key: bat/conversations.foodrefuse.loctext 3663176569936453220 v1 Placeholder
+I'm not hungry.
+
+key: bat/conversations.foodrefuse_inedible._independenttextbubbleloc -3715547523822410605 v1 Placeholder
+hedgehog/conversations.foodrefuse_inedible._independenttextbubbleloc has not yet been translated
+
+key: bat/conversations.foodrefuse_inedible.loctext -4988404786653608158 v1 Placeholder
+This is not edible.
+
+key: bat/conversations.foodrefuse_same.loctext 9044107259990452878 v1 Placeholder
+I've already had this recently. Do you have anything else?
+
+key: bat/conversations.playsequenceelement0.loctext -8665618838836349201 v1 Placeholder
+PlaySequenceElement0
+
+key: bat/conversations.temp-talktoreleasebat.loctext -6567169413573801496 v1 Placeholder
+DO NOT LOCALIZED - Just keep talking with me if you want to release me.
+DO NOT LOCALIZED - If you continue I will be released...
+DO NOT LOCALIZED - LAST CHANCE, next, I'm going into my release sequence.
+

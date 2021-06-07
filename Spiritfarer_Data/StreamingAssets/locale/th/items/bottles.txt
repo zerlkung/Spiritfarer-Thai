@@ -1,0 +1,75 @@
+key: items/bottles.bottle_adriftmessage.description 5549915538050445940 v1 Revised
+ขวดที่มีข้อความอยู่ข้างใน มันคืออะไร?
+
+key: items/bottles.bottle_adriftmessage.displayname 5544717503987497920 v2 Revised
+ข้อความในขวด
+
+key: items/bottles.bottle_brochure01.description 5121024795096154989 v1 Revised
+ขวดที่มีข้อความอยู่ข้างใน มันคืออะไร??
+
+key: items/bottles.bottle_brochure01.displayname 4763345540426819516 v2 Revised
+ข้อความในขวด
+
+key: items/bottles.bottle_denizenbr2_poetry.description -2342333414131938989 v1 Revised
+ขวดที่มีข้อความอยู่ข้างใน มันคืออะไร??
+
+key: items/bottles.bottle_denizenbr2_poetry.displayname -7713041268440971669 v2 Revised
+ข้อความในขวด
+
+key: items/bottles.bottle_glims_large.description 6424087145519936599 v1 Revised
+ขวดที่เต็มไปด้วยกลิมส์ โชดดีจริงๆ!
+
+key: items/bottles.bottle_glims_large.displayname 2796453103362386624 v2 Revised
+ขวดกลิมส์ขนาดใหญ่
+
+key: items/bottles.bottle_glims_medium.description 144791146233080902 v1 Revised
+ขวดที่เต็มไปด้วยกลิมส์จำนวนนึง.
+
+key: items/bottles.bottle_glims_medium.displayname -8098897084083264621 v2 Revised
+ขวดกลิมส์ขนาดกลาง
+
+key: items/bottles.bottle_glims_small.description 2596832424156105701 v1 Revised
+ขวดที่เต็มไปด้วยกลิมส์นิดหน่อย.
+
+key: items/bottles.bottle_glims_small.displayname -3010195886396316115 v2 Revised
+ขวดกลิมส์ขนาดเล็ก
+
+key: items/bottles.empty_bottle.description -8868576864133803137 v3 Revised
+ขวดแก้วเปล่า สามารถหลอมเป็น ((แก้ว)) ใน ((โรงหล่อ)) หรือใช้สำหรับกิจกรรมบางอย่าง.
+
+key: items/bottles.empty_bottle.displayname -4782101098512960719 v1 Revised
+ขวดเปล่า
+
+key: items/bottles.shop_bulkfieldseeds.description -5150794480275627131 v3 Revised
+ซื้อ ((เมล็ดพันธุ์พืช)) ของคุณจำนวนมาก.
+
+key: items/bottles.shop_bulkfieldseeds.displayname -7466309273476425942 v3 Revised
+ห้างแรคคูน. เมล็ดพันธุ์พืชแพคใหญ่
+
+key: items/bottles.treasuremap_h1position.description -8464949447937899759 v1 Revised
+แผนที่ขุมทรัพย์สำหรับเงินรางวัลที่หายไป.
+
+key: items/bottles.treasuremap_h1position.displayname -4069751027474320403 v1 Revised
+แผนที่สมบัติ
+
+key: items/bottles.treasuremap_orchardupgrade.description -1288007220554011724 v2 Revised
+แผนที่ขุมทรัพย์สำหรับเงินรางวัลที่หายไป.
+
+key: items/bottles.treasuremap_orchardupgrade.displayname -8871576816510106001 v2 Revised
+แผนที่สมบัติ
+
+key: items/bottles.treasuremap_sawmillupgrade.description -5843186753397371968 v1 Revised
+แผนที่ขุมทรัพย์สำหรับเงินรางวัลที่หายไป.
+
+key: items/bottles.treasuremap_sawmillupgrade.displayname -7025463390277429357 v1 Revised
+แผนที่สมบัติ
+
+key: items/bottles.treasuremap_smelterupgrade._locdocumenttext 1140504366553755603 v1 Revised
+ที่อยู่แผนที่: 180, 100
+
+key: items/bottles.treasuremap_smelterupgrade.description 6134608563724079158 v1 Revised
+แผนที่ขุมทรัพย์สำหรับเงินรางวัลที่หายไป.
+
+key: items/bottles.treasuremap_smelterupgrade.displayname 8871514297379138917 v1 Revised
+แผนที่สมบัติ
+

@@ -1,0 +1,6 @@
+key: achievements/all_abilities_acquired.description 9151282959756854874 v2 Revised
+เปิดใช้งานศาลเจ้าทั้งหมด.
+
+key: achievements/all_abilities_acquired.name 8350101500235015594 v1 Revised
+The Acrobat
+

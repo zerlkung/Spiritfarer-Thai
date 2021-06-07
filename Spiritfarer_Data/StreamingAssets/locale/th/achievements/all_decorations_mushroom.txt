@@ -1,0 +1,6 @@
+key: achievements/all_decorations_mushroom.description 9196411867259403042 v2 Revised
+ปรับปรุง ห้องเด็กเล่นของสแตนลีย์ ทั้งหมด.
+
+key: achievements/all_decorations_mushroom.name 6787612176322015348 v1 Revised
+Fully Improved: Stanley
+

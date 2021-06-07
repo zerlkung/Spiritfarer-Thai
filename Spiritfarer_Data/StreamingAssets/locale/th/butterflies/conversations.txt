@@ -1,0 +1,247 @@
+key: butterflies/conversations.butterflies_memory1.loctext 6843582555244348638 v3 Revised
+Oh, right!
+It's our annual Colmar visit at Atul’s house.
+Wow, the whole family is there.
+Except me.
+Look at uncle Atul.
+At the grill, obviously.
+Look at your face!
+You are covered from head to toe in barbecue sauce.
+And... it’s adorable.
+Mom is beaming.
+She’s so young, but so tired.
+Look at her eyes.
+Those are the eyes of someone who’s not sleeping.
+Nice job, Stella.
+Keeping mom awake all night with your baby tears.
+...
+I’m actually happy mom’s sleeping right now.
+She needs the rest.
+Plus, I get to talk to you all alone.
+And have a drink.
+Alright, let’s turn to another page.
+Something from the middle.
+[showNextMemory]Another picture when we were living in France.
+Gwen is in this one.
+We're riding our bikes together.
+You and Gwen would always outpace me.
+Leaving me behind.
+I guess no one wants their friend’s little sister running around them.
+When I was young, I admired her so much.
+Remember, she would disappear for months on end and show up out of nowhere.
+I thought she was so bold and amazing.
+Mom and Dad loved her.
+She was some kind of parent whisperer.
+I guess our home felt like her home.
+...
+Oh... there’s a postcard on the next page.
+It’s from Japan!
+
+key: butterflies/conversations.butterflies_memory2.loctext -467380119532535874 v3 ReadyForRevision
+This photo album sure makes you look well-traveled, sis.
+Listen up because I’m going to read your embarrassing postcard.
+-=Ah! Ah! Let me find my famous Stella voice, one second.=-
+Dear Mom & Dad & Lily,
+My trip has been amazing so far.
+I’m even making friends.
+-=What a boring thing to say!=-
+At this rate, the summer vacation will be gone in a flash.
+Last weekend, I went to Shirakawa-go in the Toyama Prefecture.
+I took a tour to visit these beautiful rice paddies.
+It was an impressive sight.
+Next to these incredible houses at the bottom of the mountains.
+It was especially beautiful at night with the glow of the moon.
+()I met a man on our tour (but not like that, Mom!)
+-=Oh, Stella! You perv!=-
+He’s an art curator from Germany.
+He's creating an art exhibition in Nagasaki.
+The tour was in Japanese, so he helped me with some of the nuances.
+He gave me his address and invited me to his show.
+I miss you all.
+And I can’t wait for you to visit me in a few months.
+-Stella
+p.s. Stay out of my room, Lily!
+-=I didn’t!=-
+...
+Wow.
+You were so outgoing.
+I don’t remember ever being like that.
+So full of life.
+I was always a bit… dramatic, let’s say. 
+I wonder if you went to see Gustav’s exhibition?
+That was his name, right?
+We never got to go on that trip to see you.
+Dad got sick around that time.
+He had trouble walking.
+His body was swelling and everything hurt him.
+I never understood why they kept it from you.
+They probably knew you’d come back as soon as they told you.
+To take care of him.
+I got to see dad get sicker and sicker.
+I wasn’t able to do anything to help.
+I still remember your face when you got home.
+For a second, it was like you didn’t recognize him.
+…
+Let’s keep going.
+It’s not like you’ve ever shied away from death.
+You basically made it your whole world.
+I’m sure you've got some pictures of when you moved to Montreal.
+Let’s take a look.
+
+key: butterflies/conversations.butterflies_memory3.loctext -476938003294975584 v1 Revised
+That’s your first Montreal apartment, isn’t it?
+When you moved out of the house to the big city.
+My big sister striking out on her own.
+Yeah, that place was such a dump.
+Sorry, sis.
+It was.
+You could decorate it all you wanted.
+It would always smell whatever your neighbours were cooking.
+And you could hear them yelling at each other.
+Your rent was probably so cheap.
+Plus, you were all alone.
+No roommates.
+Well, not quite alone… with Daffodil.
+Speaking of which, I’m still mad at you for taking the family cat.
+I don’t remember us talking that much during that time.
+You were busy with work.
+I was still in high school, not paying much attention.
+I don’t think we had much in common.
+Except death, maybe.
+For me, after dad, I had to do something about it.
+I was trying to shut it out, but it kept coming anyways.
+I don’t know how you can deal with it constantly.
+Working at the hospital with people at the end of their lives.
+Around you, all the time.
+Helping those people who are suffering in front of your eyes.
+[showNextMemory]There was Summer.
+She did not go quick.
+That cancer stayed inside her and took its time.
+It even gave her some hope.
+But it came back harsher.
+Mom was devastated.
+It’s probably for the best that Rose wasn’t around to see it.
+Rose was so kind-spirited and fragile.
+Losing her dear Summer would have broken her heart.
+I remember going to Summer’s house with mom, with all those plants and that heat.
+It was like a sauna.
+She said something about the body being like all living things.
+Especially plants.
+I just remember being mad and sweating a lot.
+[showNextMemory]Then, there were the friends you made along the way.
+That Giovanni and his wife Astrid.
+To hear you talk about them, they were basically your adoptive grandparents.
+And the stories that would come out of their mouths!
+The cheating, the lies, the heartbreak.
+All those headaches.
+Can you imagine what Giovanni put Astrid through?
+But she was right at his side at the end.
+Even if she had moved on.
+Even if she had found someone else.
+He was her one and only Gio.
+Forever.
+They both knew that they only had each other in the end.
+That’s how I wanna go out, sis.
+Holding the hand of the one I adore.
+…
+I think I need a refill.
+Maybe stretch my legs a bit.
+I’ll be back in a minute.
+Don’t you go anywhere.
+
+key: butterflies/conversations.butterflies_memory4.loctext 3894284516350183132 v2 Revised
+Hey, I’m back.
+I’m sad to report that there were no cute doctors wandering the halls.
+Look at you...you look so frail.
+But, even on your hospital bed, you're still gorgeous.
+Well, this whiskey bottle is half-empty.
+Let’s just go ahead and say you drank the rest.
+...
+Do you remember that phone call you gave me last year?
+You had taken a sabbatical from work.
+I had to call the center to learn about it.
+“Yeah, she took a few months off. She got some bad news.”
+What a weird way to learn that your sister isn’t doing well.
+So, you call me two weeks or something after.
+It’s maybe two in the morning here.
+Your voice was shaking.
+I could hear you breathing heavily.
+You start talking about the trees around you and the air.
+No “Hi Lily!”
+No “I’m not doing well.”
+Nothing, just talking about the trees and the air.
+You said it was cold.
+That it felt like death, even over here.
+I didn’t even know where "here" was.
+It went silent and then you said you’d be home in a few days.
+I didn’t know what to make of it.
+Were you sleepwalking?
+Was that whole thing just a dream?
+I was scared.
+You came back and told mom and me of your diagnosis.
+[showNextMemory]And now, we’re here together.
+Mom is awake.
+And I’m awake and I’m holding your hand.
+If you can hear me...
+I love you so much, sis.
+…
+[darken]You’re not alone in the woods anymore.
+We’re here, Stella.
+You’ll never be alone.
+You’ve never been alone.
+
+key: butterflies/conversations.butterflies_reveal.loctext -6601724813307235609 v0 Revised
+I know, I know...
+I’m late!
+I couldn’t get off work earlier.
+Parking in this part of town is a mess.
+And this place… it’s a maze.
+…
+Listen to me.
+I’m going on about the parking.
+And, look at you…
+Are you awake?
+How are you holding on?
+Can you hear me, sis?
+Can you say “Lily is my favourite sister” for me?
+…
+Well, it’s true.
+I’m your only sister, so you don’t have a choice there.
+I wish I could hear your voice.
+I’d rather have you screaming “Lily, get out of my room!”
+I’d rather have you laughing.
+I’d even rather have you snoring.
+…
+Let me come a bit closer.
+Mom’s asleep.
+It’s late, I know.
+Jeez, I’m two hours late.
+Sorry again.
+No wonder mom’s passed out.
+Oh!
+I have a surprise for you.
+I swung by the house yesterday and got some things.
+Well, two things.
+First…
+Where is it?
+There we are.
+Voilà.
+A bottle of single malt from mom’s “secret” stash.
+Don’t worry, I’ll do the drinking and the talking for both of us.
+And this…
+Your photo album.
+It’s got some good ones.
+Cute baby pictures!
+Big family gatherings!
+Embarrassing college parties!
+The works!
+Let’s start at the beginning.
+Stella: the adorable baby.
+Jeez, being this cute should be illegal.
+Give me a second, I’ll pour myself a drink.
+Oh, look at this one.
+You’re so tiny.
+Where was this taken?
+What does it say on the back of the picture?
+Colmar, Alsace. 1973.
+

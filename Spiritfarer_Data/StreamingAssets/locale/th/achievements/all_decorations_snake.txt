@@ -1,0 +1,6 @@
+key: achievements/all_decorations_snake.description -1995664034730708753 v1 Revised
+ปรับปรุง โบสถ์ของซัมเมอร์ทั้งหมด
+
+key: achievements/all_decorations_snake.name -3478783374409565052 v1 Revised
+Fully Improved: Summer
+

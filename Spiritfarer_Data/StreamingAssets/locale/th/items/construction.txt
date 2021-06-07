@@ -1,0 +1,396 @@
+key: items/construction.alloy_brass.description 258581739210789985 v2 Revised
+แผ่นทองเหลือง โลหะผสมนั่นเอง!
+
+key: items/construction.alloy_brass.displayname 5033015715425559354 v2 Revised
+แผ่นทองเหลือง
+
+key: items/construction.alloy_bronze.description -7193741478776353353 v2 Revised
+A sheet that arrived third.
+
+key: items/construction.alloy_bronze.displayname -5230788704464558937 v2 Revised
+แผ่นบรอนซ์
+
+key: items/construction.alloy_celestial.description -107199959604188679 v2 Revised
+The cosmos, flattened.
+
+key: items/construction.alloy_celestial.displayname 6980618922287221986 v3 Revised
+Celestial Sheet
+
+key: items/construction.alloy_copper.description -3028000071080408463 v1 Revised
+ชิ้นทองแดงที่แบนและซับซ้อน.
+
+key: items/construction.alloy_copper.displayname -325422937352559571 v1 Revised
+แผ่นทองแดง
+
+key: items/construction.alloy_crystalglass.description -3707858990955127134 v1 Revised
+ระวังด้วย ไม่ใช่แค่แก้ว แต่เป็นแก้วคริสตัล.
+
+key: items/construction.alloy_crystalglass.displayname 5156971409103853992 v2 Revised
+แผ่นแก้วคริสตัล
+
+key: items/construction.alloy_electrum.description 3209738973364774490 v1 Revised
+Electrum เป็นส่วนผสมของโลหะผสม.
+
+key: items/construction.alloy_electrum.displayname 6801884478620082550 v2 Revised
+แผ่น Electrum
+
+key: items/construction.alloy_rosegold.description -4056529325581867569 v2 Revised
+มันไม่ได้ทำมาเพื่อเตียงของคุณ แต่มันก็ยังดูสวย.
+
+key: items/construction.alloy_rosegold.displayname -8240946909441337555 v2 Revised
+แผ่นโรสโกลด์
+
+key: items/construction.alloy_sheetglass.description 3359855838479746115 v1 Revised
+โลหะผสมที่สามารถใช้กับมุกตลกเจ็บตัวที่เป็นที่นิยมอย่างมาก.
+
+key: items/construction.alloy_sheetglass.displayname -8949585100045366672 v4 Revised
+แผ่นกระจกใส
+
+key: items/construction.alloy_steel.description 3442931192633288264 v1 Revised
+เหล็กในแนวนอน!
+
+key: items/construction.alloy_steel.displayname 7379713277480727063 v2 Revised
+เหล็กแผ่น
+
+key: items/construction.crystal_amethyst.description 6204551812814880102 v2 Revised
+อัญมณีสีม่วงที่แทงมือคุณทุกครั้งที่ถือมัน.
+
+key: items/construction.crystal_amethyst.displayname -3136678966376511173 v1 Revised
+อเมทิสต์
+
+key: items/construction.crystal_diamond.description -3293384025459752534 v1 Revised
+ใสและแวววาวจนน่าแปลกใจว่ามันคุ้มค่าไหม!
+
+key: items/construction.crystal_diamond.displayname 468150458432548424 v1 Revised
+เพชร
+
+key: items/construction.crystal_hematite.description -716082631406933742 v1 Revised
+เฮมาไทต์ขัดเงาทำให้กระจกเปลี่ยนรูปทรงได้ดี.
+
+key: items/construction.crystal_hematite.displayname -3878848524684353863 v1 Revised
+เฮมาไทต์
+
+key: items/construction.crystal_opal.description -7864494600448751231 v2 Revised
+เกิดขึ้นในช่วงการมัดย้อมของเสื้อคลุม.
+
+key: items/construction.crystal_opal.displayname 4108612216293387342 v1 Revised
+โอปอล
+
+key: items/construction.crystal_quartz.description -8337141214325732000 v3 Revised
+สิ่งที่สวยไม่จำเป็นต้องแพงเสมอไป.
+
+key: items/construction.crystal_quartz.displayname -5142535228035439042 v3 Revised
+ซิทริน
+
+key: items/construction.fabric_cotton.description 2506819633285142425 v2 Revised
+วัสดุที่ทนทาน แต่ระบายอากาศได้ดี.
+
+key: items/construction.fabric_cotton.displayname 5582997996136104333 v2 Revised
+ผ้าฝ้าย
+
+key: items/construction.fabric_linen.description -2964471119583851744 v2 Revised
+เนื้อผ้าที่แข็งแรงและมีน้ำหนักมาก.
+
+key: items/construction.fabric_linen.displayname -3239952197053987852 v2 Revised
+ผ้าลินิน
+
+key: items/construction.fabric_nebula.description 5647313492666053160 v4 Revised
+หมอนของทางช้างเผือกทำจากสิ่งนี้.
+
+key: items/construction.fabric_nebula.displayname -6886778937492273304 v2 Revised
+ผ้าเนบิวลา
+
+key: items/construction.fabric_silk.description -3396051602013518983 v2 Revised
+ทออย่างพิถีพิถัน ทนทานต่อความเสียหาย.
+
+key: items/construction.fabric_silk.displayname 4015303965973129657 v2 Revised
+ผ้าไหม
+
+key: items/construction.fabric_wool.description -7311422537883675467 v2 Revised
+ผ้าที่อบอุ่นและคลุมเครือที่สุด.
+
+key: items/construction.fabric_wool.displayname 4170306814705360374 v2 Revised
+ผ้าวูล
+
+key: items/construction.fiber_cotton.description 3811447423168322059 v6 Revised
+ขนมสายไหมจากธรรมชาติที่ดูน่ารับประทาน ห้ามกิน. เอาไว้สานแทน.
+
+key: items/construction.fiber_cotton.displayname 2418653332936462029 v1 Revised
+ใยฝ้าย
+
+key: items/construction.fiber_linen.description -8829687785332074167 v6 Revised
+มัดก้านหยาบจากการปลูกปอ ที่จะทอเป็น ((ด้ายลินิน)) ใน ((เครื่องทอ)).
+
+key: items/construction.fiber_linen.displayname 593288694035968809 v1 Revised
+ผ้าลินินไฟเบอร์
+
+key: items/construction.fiber_nebula.description -5455849519353204030 v9 Revised
+สาระสำคัญของ raw cosmic ที่สามารถทำให้ละเอียดอ่อนที่สุด ((ผ้า)).
+
+key: items/construction.fiber_nebula.displayname -406163241774236382 v2 Revised
+เนบิวลาไฟเบอร์
+
+key: items/construction.fiber_silk.description -2596019546312195081 v6 Revised
+รังไหมที่ทิ้งแล้วของมอดไหม ขอให้โชคดี เฮ้พวก! ฉันจะสานอะไรที่นุ่ม ๆ ให้คุณ.
+
+key: items/construction.fiber_silk.displayname -268271808787939415 v1 Revised
+ใยไหม
+
+key: items/construction.fiber_wool.description -7187866898501039870 v3 Revised
+แกะบางตัวลืมสิ่งนี้ไว้ ฉันควรสานด้วย ((เครื่องทอ)).
+
+key: items/construction.fiber_wool.displayname 4377424397998558924 v1 Revised
+เส้นใยขนสัตว์
+
+key: items/construction.glue_household.description 16415607651991094 v1 Revised
+เหนียว!
+
+key: items/construction.glue_household.displayname 7342411280561320984 v2 Revised
+กาวในครัวเรือน
+
+key: items/construction.log_ash.description 7773019365086223507 v6 Revised
+แอชเป็นไม้ที่ใช้งานได้ยาก แต่เป็นไม้เอนกประสงค์ ลองให้ ((โรงเลื่อย)).
+
+key: items/construction.log_ash.displayname 1743803874124139498 v1 Revised
+ไม้แอช
+
+key: items/construction.log_ebony.displayname 5404334720683133524 v1 Placeholder
+ไม้มะเกลือ
+
+key: items/construction.log_maple.description -7632322509463268868 v2 Revised
+ท่อนซุงหนักจากต้นเมเปิ้ล เป็นวัสดุก่อสร้างที่มีประโยชน์มาก มาดูกันว่า ((โรงเลื่อย)) จะทำได้หรือไม่.
+
+key: items/construction.log_maple.displayname 7934158793370119772 v1 Revised
+ไม้เมเปิ้ล
+
+key: items/construction.log_oak.description 119557590939872682 v3 Revised
+ต้นโอ๊กเป็นต้นไม้ที่มีขนาดค่อนข้างใหญ่และมีเนื้อไม้ที่แข็งแรงและทนทานมาก มาดูกันว่า ((โรงเลื่อย)) จะทำได้หรือไม่.
+
+key: items/construction.log_oak.displayname -9191753851885056577 v1 Revised
+ไม้โอ๊ค
+
+key: items/construction.log_pine.description -1335315821563845518 v6 Revised
+ไม้สนจึงเป็นไม้ที่มีการตกแต่งที่ดี ((โรงเลื่อย)) ดูเหมือนจะเป็นสถานที่ที่สมบูรณ์แบบสำหรับงานนี้.
+
+key: items/construction.log_pine.displayname 7644813600730232425 v3 Revised
+ท่อนไม้สน
+
+key: items/construction.metal_copperrope.description 7934081333884095708 v2 Revised
+มันสามารถแขวนระหว่างสองข้าง.
+
+key: items/construction.metal_copperrope.displayname 8408688597117161505 v1 Revised
+เชือกโลหะ
+
+key: items/construction.metal_rope.displayname 5065172004159886129 v1 Revised
+เชือกโลหะ
+
+key: items/construction.metalingot_aluminium.description -9061608846643159788 v1 Revised
+ฉันสามารถเห็นใบหน้าของฉันในแท่งโลหะนี้!
+
+key: items/construction.metalingot_aluminium.displayname 7067217943141661950 v1 Revised
+แท่งอลูมิเนียม
+
+key: items/construction.metalingot_copper.description -6609017274682228962 v1 Revised
+ทองแดงอาจเป็นสนิม แต่ฉันชอบสีนี้!
+
+key: items/construction.metalingot_copper.displayname 1489921512864739056 v1 Revised
+แท่งทองแดง
+
+key: items/construction.metalingot_glass.description 768032661327528876 v1 Revised
+คุณรู้ไหมว่าพวกเขาพูดว่าอะไร? เจ็ดปีแห่งความโชคร้ายถ้าคุณทำลายสิ่งนั้น
+
+key: items/construction.metalingot_glass.displayname -5484421104731503387 v1 Revised
+กระจก
+
+key: items/construction.metalingot_gold.description 7230983685329394468 v1 Revised
+As far as pure metal goes, gold sure is the weakest.
+
+key: items/construction.metalingot_gold.displayname -1120645319171518352 v1 Revised
+แท่งทอง
+
+key: items/construction.metalingot_iron.description -2328597997709364787 v1 Revised
+แท่งเหล็กบริสุทธิ์ ไม่มีอะไรผิดปกติ
+
+key: items/construction.metalingot_iron.displayname 5694162794051671603 v1 Revised
+แท่งเหล็ก
+
+key: items/construction.metalingot_pulsar.description 4401758383793955797 v3 Revised
+การถลุงแร่ ทำให้แร่เปล่งปลั่งสดใสขึ้นมาก!
+
+key: items/construction.metalingot_pulsar.displayname -4326059095837901875 v2 Revised
+แท่งพัลซาร์
+
+key: items/construction.metalingot_silver.description -8300473066538864210 v2 Revised
+เงินอาจหมายถึงอันดับสอง แต่เป็นอันดับหนึ่งในใจฉัน
+
+key: items/construction.metalingot_silver.displayname 3106477305548283132 v1 Revised
+แท่งเงิน
+
+key: items/construction.metalingot_zinc.description 3573120909112944844 v1 Revised
+มันคือโลกแห่งสังกะสี!
+
+key: items/construction.metalingot_zinc.displayname 160493898190982985 v1 Revised
+แท่งสังกะสี
+
+key: items/construction.ore_aluminium.description 6544855236889828596 v5 Revised
+อะลูมิเนียมที่ไม่ผ่านการขัดสี ลองโยนสิ่งนี้เข้าไปใน ((โรงหล่อ)) เพื่อสร้าง ((แท่งอลูมิเนียม))
+
+key: items/construction.ore_aluminium.displayname -3410754037271864057 v1 Revised
+แร่อลูมิเนียม
+
+key: items/construction.ore_copper.description 8194831378748796510 v1 Revised
+หินมาลาไคต์ที่ไม่ผ่านการกลั่น ((โรงหล่อ)) สามารถเปลี่ยนเป็นโลหะที่ใช้งานได้ ((แท่งทองแดง))
+
+key: items/construction.ore_copper.displayname -3026134214180081003 v1 Revised
+แร่ทองแดง
+
+key: items/construction.ore_gold.description -8666241307858768342 v4 Revised
+ทองหยาบ ((โรงหล่อ)) สามารถเปลี่ยนมันให้เป็น ((แท่งทอง)) ที่มีค่า
+
+key: items/construction.ore_gold.displayname -5432422948064632626 v1 Revised
+แร่ทองคำ
+
+key: items/construction.ore_iron.description -1966708234575669887 v2 Revised
+ก้อนเหล็กเก่าแก่ขนาดใหญ่ ((โรงหล่อ)) สามารถเปลี่ยนมันให้เป็นของที่ใช้งานได้ ((แท่งเหล็ก))
+
+key: items/construction.ore_iron.displayname -5272011092824510998 v1 Revised
+แร่เหล็ก
+
+key: items/construction.ore_pulsar.description -8084964379005824576 v4 Revised
+ชิ้นส่วนโลหะนิรันดร์จากจักรวาล สามารถใช้ ((โรงหล่อ)) เพื่อสร้าง ((แท่งพัลซาร์)) ได้หรือไม่?
+
+key: items/construction.ore_pulsar.displayname 7108189703930975661 v2 Revised
+แร่พัลซาร์
+
+key: items/construction.ore_silver.description 5847499502807709271 v2 Revised
+แร่เงิน ((โรงหล่อ)) สามารถหลอมเป็น ((แท่งเงิน))
+
+key: items/construction.ore_silver.displayname 4102987057325482563 v1 Revised
+แร่เงิน
+
+key: items/construction.ore_zinc.description -67184936864641863 v4 Revised
+สฟาเลอไรต์ชิ้นใหญ่เก่า ๆ ((โรงหล่อ)) สามารถเปลี่ยนเป็น ((แท่งสังกะสี))
+
+key: items/construction.ore_zinc.displayname 1568179790800041577 v1 Revised
+แร่สังกะสี
+
+key: items/construction.plank_ash.description -3131911073355405308 v5 Revised
+แผ่นขี้เถ้าที่แข็งมาก เหมาะสำหรับงานโครงสร้าง
+
+key: items/construction.plank_ash.displayname 4833332608443514478 v2 Revised
+ไม้กระดานแอช
+
+key: items/construction.plank_maple.description 4212272619657327394 v1 Revised
+ไม้กระดานขนาดใหญ่ของเมเปิ้ล มีโครงสร้างที่ดีมาก
+
+key: items/construction.plank_maple.displayname -6892184906629181993 v1 Revised
+ไม้กระดานเมเปิ้ล
+
+key: items/construction.plank_oak.description -6898808078557784313 v1 Revised
+ไม้โอ๊ค แข็งแรงและทนทานเสมอ
+
+key: items/construction.plank_oak.displayname 8380294133711674672 v1 Revised
+ไม้โอ๊ค
+
+key: items/construction.plank_pine.description -5023748077956203999 v1 Revised
+ไม้สนหอมเพื่อผิวสวยหรูหรา
+
+key: items/construction.plank_pine.displayname -896590711983476339 v3 Revised
+ไม้สน
+
+key: items/construction.plank_sawdust.description 4158114475544256969 v1 Revised
+มันหยาบและระคายเคืองและเกิดขึ้นได้ทุกที่
+
+key: items/construction.plank_sawdust.displayname -8152038683256283455 v1 Revised
+ขี้เลื่อย
+
+key: items/construction.rock_coal.description -278991690729057199 v2 Revised
+ดูเหมือนคุณจะซน แร่ธาตุที่มีประโยชน์มากซึ่งสามารถเติมเชื้อเพลิงให้กับ ((โรงหล่อ)) และใช้ใน ((เครื่องบด)) ให้กลายเป็น ((ผงคาร์บอน))
+
+key: items/construction.rock_coal.displayname -5074500664085913731 v1 Revised
+ถ่านหิน
+
+key: items/construction.rock_comet.description 7452330119255622881 v5 Revised
+ของขวัญจากดวงดาว! แม้ว่าการจัดส่งจะนุ่มนวลกว่านี้ มาแยกมันใน ((เครื่องบด))
+
+key: items/construction.rock_comet.displayname 5337416964883438933 v4 Revised
+หินดาวหาง
+
+key: items/construction.rock_limestone.description 3516573075838760678 v2 Revised
+ความนุ่มนวลของหินปูนอาจบ่งบอกว่ามันเปราะบาง แต่จริงๆแล้วมันค่อนข้างทนทาน สามารถแยกย่อยออกเป็น ((ผงมะนาว)) ด้วยเครื่องมือพิเศษ ((เครื่องบด))
+
+key: items/construction.rock_limestone.displayname -9183388646708396367 v1 Revised
+หินปูน
+
+key: items/construction.rock_marble.description 1541886611105605438 v2 Revised
+แร่ธาตุที่โดดเด่น ความบ้าคลั่งที่บริสุทธิ์
+
+key: items/construction.rock_marble.displayname 7971017150067649724 v1 Revised
+หินอ่อน
+
+key: items/construction.rock_quartz.description -3125741871678704238 v6 Revised
+ทนทานและเงางาม สามารถแตกออกเป็น ((ผงซิลิก้า)) ได้ใน ((เครื่องบด))
+
+key: items/construction.rock_quartz.displayname -7167385470573998816 v1 Revised
+ควอตซ์
+
+key: items/construction.rock_slate.description -3442602829166245228 v4 Revised
+สวยและสะดวก ให้ห่างจากชอล์ก
+
+key: items/construction.rock_slate.displayname 4950331526493834425 v1 Revised
+กระดานชนวน
+
+key: items/construction.sand_carbon.description -5881660465399363013 v2 Revised
+คาร์บอนได้รับความอับอาย ไม่ใช่เหล็กไร้ยางอาย
+
+key: items/construction.sand_carbon.displayname 1633550195939013709 v4 Revised
+ผงคาร์บอน
+
+key: items/construction.sand_comet.description -4435690155768533584 v3 Revised
+การทำหินล้ำค่าเหล่านี้ให้กลายเป็นฝุ่นละอองทำให้พวกมันเปล่งประกายมากยิ่งขึ้น
+
+key: items/construction.sand_comet.displayname 6860442416611483829 v2 Revised
+ผงดาวหาง
+
+key: items/construction.sand_limesand.description -7303548810686452747 v2 Revised
+มะนาวเป็นผงที่มีความเอร็ดอร่อยที่สุด!
+
+key: items/construction.sand_limesand.displayname -2092192835760330901 v2 Revised
+ผงมะนาว
+
+key: items/construction.sand_silicia.description -4865055933291939832 v2 Revised
+พันธะไอออนิกอีกอันถูกบดขยี้
+
+key: items/construction.sand_silicia.displayname -9021631866166168736 v2 Revised
+ผงซิลิก้า
+
+key: items/construction.thread_cotton.description -4998638817859576857 v2 Revised
+เส้นใยฝ้ายผสมทำให้เป็นด้ายที่หลากหลายมาก
+
+key: items/construction.thread_cotton.displayname 4467476337714535555 v1 Revised
+ใยฝ้าย
+
+key: items/construction.thread_linen.description 1602755644456093404 v1 Revised
+ความแข็งแรงของผ้าลินินทำให้เหมาะสำหรับการใช้งานที่ต้องการมากขึ้น
+
+key: items/construction.thread_linen.displayname 6542184718656337725 v1 Revised
+ด้ายลินิน
+
+key: items/construction.thread_nebula.description 2595028352035021297 v4 Revised
+นี่คือสิ่งที่เชื่อมโยงเรากับจักรวาลหรือไม่?
+
+key: items/construction.thread_nebula.displayname 808344366269944635 v2 Revised
+ด้ายเนบิวลา
+
+key: items/construction.thread_silk.description 5254184443577712881 v2 Revised
+หากคุณต้องการชีวิตที่หรูหรา ผ้าไหมคือเส้นด้ายสำหรับคุณ
+
+key: items/construction.thread_silk.displayname -1882006633357581774 v1 Revised
+เส้นไหม
+
+key: items/construction.thread_wool.description 7996174701823915474 v1 Revised
+แดฟโฟดิลช่วยคลายสิ่งนี้
+
+key: items/construction.thread_wool.displayname 9118533307557291996 v1 Revised
+ด้ายขนสัตว์
+

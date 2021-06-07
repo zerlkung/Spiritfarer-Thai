@@ -1,0 +1,6 @@
+key: achievements/gave_tour_guide_tip.description -3158983539754023988 v2 Revised
+Give Furogawa Tour's guide a tip.
+
+key: achievements/gave_tour_guide_tip.name 4224504915057780083 v1 Revised
+More Than 15%
+

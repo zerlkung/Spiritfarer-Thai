@@ -1,0 +1,6 @@
+key: achievements/many_sheep_sheared.description 8370261031796829597 v2 Revised
+Shear the sheeps at least 50 times.
+
+key: achievements/many_sheep_sheared.name 287811424051939857 v1 Revised
+Sheep Cleaner
+

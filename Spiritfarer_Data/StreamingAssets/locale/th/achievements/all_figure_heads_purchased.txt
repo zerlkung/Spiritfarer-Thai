@@ -1,0 +1,6 @@
+key: achievements/all_figure_heads_purchased.description -4236427001436319290 v2 Revised
+รวบรวมรูปปั้นแกะสลักทั้งหมด.
+
+key: achievements/all_figure_heads_purchased.name 5604857567588802472 v1 Revised
+Bow-Tastic
+

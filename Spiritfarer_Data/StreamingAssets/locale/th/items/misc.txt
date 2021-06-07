@@ -1,0 +1,363 @@
+key: items/misc.acetate_one.displayname 4784208352662568326 v2 ReadyForRevision
+Acetate One
+
+key: items/misc.acetate_three.displayname 7697416541070047309 v1 ReadyForRevision
+Acetate Three
+
+key: items/misc.acetate_two.displayname 3916579420085738237 v1 ReadyForRevision
+Acetate Two
+
+key: items/misc.eventitem_dustbunnies.description -4967374219409385047 v1 Revised
+A ghoulish phantom trapped in a bottle.
+
+key: items/misc.eventitem_dustbunnies.displayname 2254070325165668461 v2 Revised
+Bottled Ectoplasm
+
+key: items/misc.eventitem_jellyfish.description 5525678141511922339 v1 Revised
+An odd substance that doesn't go on toast.
+
+key: items/misc.eventitem_jellyfish.displayname 3001095020514466845 v1 Revised
+Bright Jelly
+
+key: items/misc.eventitem_meteors.description -2769078487052618875 v2 Revised
+The trails of the passing oddity.
+
+key: items/misc.eventitem_meteors.displayname 2816707974875860603 v2 Revised
+Comet Dust
+
+key: items/misc.eventitem_peekaboos.description -3183830860798767938 v2 Revised
+Might make you gain a level. Who knows?
+
+key: items/misc.eventitem_peekaboos.displayname 7706462080020867915 v1 Revised
+XP Potion
+
+key: items/misc.eventitem_rabbits.description 4721757822198932281 v5 Revised
+The shining coils from beyond.
+
+key: items/misc.eventitem_rabbits.displayname 7847586384526177674 v2 Revised
+Radiant Spring
+
+key: items/misc.eventitem_thunderstorm.description 6975559522901314390 v1 Revised
+Trapped a jolt from the sky.
+
+key: items/misc.eventitem_thunderstorm.displayname -3574690012164270224 v1 Revised
+Lightning in a Bottle
+
+key: items/misc.heirloom_deer.description 862063161401164829 v3 Revised
+An old lighter with barely any fluid left in it. Was locked in Gwen's music box.
+
+key: items/misc.heirloom_deer.displayname 6804039101682018649 v2 Revised
+Lighter
+
+key: items/misc.heirloom_deer_unknown.description -2974356845891200837 v2 Revised
+Not sure what this is, but it looks important!
+
+key: items/misc.heirloom_deer_unknown.displayname -3388305730857003722 v2 Revised
+Unknown Item
+
+key: items/misc.key_a1_sidea.description 2384741245758152822 v2 Revised
+This key opens the house of the bored miner in ((Furogawa)).
+
+key: items/misc.key_a1_sidea.displayname -9182233840094922883 v2 Revised
+Key for Furogawa House
+
+key: items/misc.key_a2_sideb.description -8113587553195206450 v2 Revised
+This key opens the door to the lonely house in ((Mount Toroyama)).
+
+key: items/misc.key_a2_sideb.displayname 8073489565744452493 v3 Revised
+Key for Mount Toroyama's House
+
+key: items/misc.key_al.description -8536137472837125414 v5 Revised
+This key opens the ((Hikarishima Lighthouse)) door.
+
+key: items/misc.key_al.displayname 947655853827311176 v5 Revised
+Key for Hikarishima Lighthouse
+
+key: items/misc.key_b1_canalcity.description 256684786783707104 v2 Revised
+This key opens the door next to the broken ladder in ((Hummingberg)).
+
+key: items/misc.key_b1_canalcity.displayname -4375968189678295868 v3 Revised
+Key for Hummingberg
+
+key: items/misc.key_b1_canalcity_tinyowl.description 399460571699235377 v1 ReadyForRevision
+This key opens the door next to the broken ladder in ((Hummingberg)).
+
+key: items/misc.key_b1_canalcity_tinyowl.displayname -5563861608970996028 v1 ReadyForRevision
+Key for Hummingberg
+
+key: items/misc.key_b1_tinyowlhouse.description -3905675016369491646 v3 ReadyForRevision
+This key opens the doors to one of the houses up top in ((Hummingberg)).
+
+key: items/misc.key_b1_tinyowlhouse.displayname 2517523417550030128 v1 ReadyForRevision
+Key for Hummingberg
+
+key: items/misc.key_br4_mine.description -6960210110918420809 v3 Revised
+This key opens the door to the abandoned mine in ((Kaltstein Mines)).
+
+key: items/misc.key_br4_mine.displayname 202294804031351265 v2 Revised
+Key for the Kaltstein Mines
+
+key: items/misc.key_c1.description 8164118134784842355 v2 Revised
+This master key opens every door in ((Oxbury)).
+
+key: items/misc.key_c1.displayname -3373492604046784547 v3 Revised
+Key for Oxbury
+
+key: items/misc.key_d1.description -7242536741403506465 v2 Revised
+This key opens the door to the CEO's office in ((Bottom Line Corp.)).
+
+key: items/misc.key_d1.displayname 4430019149501273499 v3 Revised
+Key for Bottom Line Corp.
+
+key: items/misc.key_manor.description -7953364798034810339 v2 Revised
+This key opens the door in ((Villa Maggiore))
+
+key: items/misc.key_manor.displayname -3163891411705617425 v3 Revised
+Key for Villa Maggiore
+
+key: items/misc.key_stellahouse.description 5768697792962549618 v2 Revised
+This key opens the door to Stella's cabin.
+
+key: items/misc.key_stellahouse.displayname 7864868961130955431 v2 Revised
+Key for Stella's cabin
+
+key: items/misc.necklace_summersnecklace.description 696169126844703397 v1 Revised
+Looks priceless and old.
+
+key: items/misc.necklace_summersnecklace.displayname 8029819889126224874 v1 Revised
+Summer's Lost Necklace
+
+key: items/misc.obol.description 280783536751524178 v1 Revised
+The mark of a passage paid in full.
+
+key: items/misc.obol.displayname 3836089849759773846 v1 Revised
+Obol
+
+key: items/misc.paper_warpedpaper.description -8614224619359740430 v1 Revised
+Arts 'n Craft 101
+
+key: items/misc.paper_warpedpaper.displayname -6344576883224780625 v2 Revised
+Homemade Paper
+
+key: items/misc.quest_bouquet.description 3794344997947046920 v3 Revised
+All those roses in the garden.
+
+key: items/misc.quest_bouquet.displayname 4103531718550937907 v4 Revised
+Bouquet of Roses
+
+key: items/misc.quest_chocolatebox.description 4246537537980508854 v1 Revised
+Filled with all the best kinds of chocolate delights.
+
+key: items/misc.quest_chocolatebox.displayname 6713882575388251470 v1 Revised
+Box of Chocolate
+
+key: items/misc.quest_couponbook.description -5971502874686891583 v5 ReadyForRevision
+The deals! The savings! All in one convenient place. Coupons for your favourite products at Raccoon Inc.
+
+key: items/misc.quest_couponbook.displayname 8122172165896011063 v2 ReadyForRevision
+Super Saver Discount Book
+
+key: items/misc.quest_figurine_01.description -8773533512535819239 v1 Revised
+A very "quaint" figurine.
+
+key: items/misc.quest_figurine_01.displayname 5174012042439210652 v1 Revised
+Ceramic Figurine
+
+key: items/misc.quest_figurine_02.description 513417692592804629 v1 Revised
+A very "delicate" figurine.
+
+key: items/misc.quest_figurine_02.displayname 3569809624172497943 v1 Revised
+Ceramic Figurine
+
+key: items/misc.quest_figurine_03.description -7037668913161598397 v2 Revised
+A very "grand" figurine.
+
+key: items/misc.quest_figurine_03.displayname -5285775477495117184 v1 Revised
+Ceramic Figurine
+
+key: items/misc.quest_figurine_04.description -9149988779593369511 v2 Revised
+A very "sublime" figurine.
+
+key: items/misc.quest_figurine_04.displayname -5661428571712771978 v2 Revised
+Ceramic Figurine
+
+key: items/misc.quest_japaneseprint.description -2369117647428757573 v2 Revised
+A stamped piece of paper with an... interesting design.
+
+key: items/misc.quest_japaneseprint.displayname 4077174975516059939 v3 Revised
+Woodblock Print
+
+key: items/misc.quest_lemon.description 5905706864495930405 v1 Revised
+Up close it's actually made of plastic.
+
+key: items/misc.quest_lemon.displayname -6154877797788895325 v1 Revised
+Lemon
+
+key: items/misc.quest_musicbox.description 7853706285940785 v1 Revised
+This old and dusty music box is locked.
+
+key: items/misc.quest_musicbox.displayname -712091478015094729 v1 Revised
+Music Box
+
+key: items/misc.quest_scorebook.description -4015220249974650698 v2 Revised
+Very moving if you can read the faded partition.
+
+key: items/misc.quest_scorebook.displayname -7802054697489091277 v1 Revised
+Haydinsky's Ninth Symphony
+
+key: items/misc.quest_tomato.description 2882867502612238241 v2 Revised
+This is a fake tomato. It's made of plastic.
+
+key: items/misc.quest_tomato.displayname -2988949591123436219 v2 Revised
+Tomato
+
+key: items/misc.quest_vinylrecord.description -5919642964296329200 v4 Revised
+Their new record "Warning: Sacred Dogs".
+
+key: items/misc.quest_vinylrecord.displayname 4564191074020728593 v2 Revised
+Dice Boys Vinyl Record
+
+key: items/misc.questitem_marriagering.description -3433044885144607178 v1 Revised
+Once a symbol of a promise. Now it's just lost.
+
+key: items/misc.questitem_marriagering.displayname -2003945390535330077 v1 Revised
+Marriage Ring
+
+key: items/misc.questitem_rarecoincollection.description -5205075091410043094 v2 Revised
+Rusted and rare coin collection. It must be valuable, but who knows!
+
+key: items/misc.questitem_rarecoincollection.displayname -8626333791489171642 v2 Revised
+Rare Coin Collection
+
+key: items/misc.score_fightsong.description -4898181672380973640 v2 Revised
+A score to a song that's perfect for when the leaves are falling.
+
+key: items/misc.score_fightsong.displayname -7128950424283922787 v2 Revised
+The Autumn End
+
+key: items/misc.score_gardening.description -2324632931470966833 v2 Revised
+A score for a song designed specifically to enhance plant growth.
+
+key: items/misc.score_gardening.displayname -7033734715640426770 v3 Revised
+Plantasia Fantastica
+
+key: items/misc.spirit_mushroom.displayname -4285644251415259210 v2 Revised
+Unknown Mycelium
+
+key: items/misc.spirit_stanley.displayname -5032231960769294702 v4 Revised
+Stanley
+
+key: items/misc.spiritflower.name -7665509078256678192 v3 Revised
+Spirit Flower
+
+key: items/misc.spiritflower_basilisk.description -2980745029548863743 v2 Placeholder
+This is Buck's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_bullsparrow.description 2752477040832367181 v2 Revised
+A fennel flower, Bruce's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_deer.description -4786815101181702172 v2 Revised
+A delicate asphodel, Gwen's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_dog.description 1629932451249879494 v2 Revised
+A rough piece of cypress, Elena's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_frog.description -5398745382710297585 v2 Revised
+An unpretentious white lilly, Atul's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_hedgehog.description 4408225021326006814 v2 Revised
+This is Alice's ((Spirit Flower)), a beautiful peace lilly. It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_lion.description 1580900426993536076 v2 Revised
+Giovanni's ((Spirit Flower)), a borage or starflower. It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_lynx.description 5689005814768741274 v2 Revised
+A bright mallow flower, Astrid's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_mushroom.description 4130642800175751186 v2 Revised
+This is Stanley's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_owl.description 9007026128570279376 v2 Revised
+Gustav's ((Spirit Flower)), a red poppy. It can be used to upgrade your boat.
+
+key: items/misc.spiritflower_snake.description 7010986576022347387 v2 Revised
+A simple oxeye daisy, Summer's ((Spirit Flower)). It can be used to upgrade your boat.
+
+key: items/misc.tchotchke_antiquebust.description 6550582776534849923 v1 Revised
+A marvelous classic sculpture. Its eyes may follow you as you pass by. Should be sold.
+
+key: items/misc.tchotchke_antiquebust.displayname -6384441084104404929 v1 Revised
+Antique Bust
+
+key: items/misc.tchotchke_ceramicbowl.description -9046249355084519382 v1 Revised
+A delightful bowl, way too precious to put anything in. Should be sold.
+
+key: items/misc.tchotchke_ceramicbowl.displayname 9065572729580159446 v1 Revised
+Ceramic Bowl
+
+key: items/misc.tchotchke_crystalchandelier.description 3245275181289898265 v1 Revised
+A brilliant, yet pompous piece. The mover's nightmare. Should be sold.
+
+key: items/misc.tchotchke_crystalchandelier.displayname -104441396384813356 v1 Revised
+Crystal Chandelier
+
+key: items/misc.tchotchke_fancyvase.description 8076159168123869002 v1 Revised
+A wonderful item. And It's pronounced "vAAse", not "vAYse". Should be sold.
+
+key: items/misc.tchotchke_fancyvase.displayname 2210135502149625440 v1 Revised
+Fancy Vase
+
+key: items/misc.tchotchke_miniaturediorama.description -2718951541418919225 v1 Revised
+Full of tiny details, and micro facial expressions. Should be sold.
+
+key: items/misc.tchotchke_miniaturediorama.displayname -4604709999817950018 v1 Revised
+Miniature Diorama
+
+key: items/misc.tchotchke_mintcollectiblecard.description -4785552869738634460 v1 Revised
+Sorcery: the Reunion, 1st edition. Let's hope it's a Black Thunder Lotus. Should be sold.
+
+key: items/misc.tchotchke_mintcollectiblecard.displayname -1516232301931343664 v1 Revised
+Mint Collectible Card
+
+key: items/misc.tchotchke_oldcarpet.description 8340448747952646947 v1 Revised
+Dusty but precious nonetheless. It makes you slightly dizzy if looked at for too long. Should be sold.
+
+key: items/misc.tchotchke_oldcarpet.displayname 606124102080864689 v1 Revised
+Old Carpet
+
+key: items/misc.tchotchke_oldcoincollection.description -5092010358657179851 v1 Revised
+The dream of any respectable numismatists. Yes, it's a real word. Should be sold.
+
+key: items/misc.tchotchke_oldcoincollection.displayname 5315692768889133330 v1 Revised
+Old Coin Collection
+
+key: items/misc.tchotchke_oldpainting.description -7754738644295915328 v1 Revised
+Oil on canvas, half legible signature, with a skilled display of chiaroscuro and sfumato. Should be sold.
+
+key: items/misc.tchotchke_oldpainting.displayname 7032790865898663922 v1 Revised
+Old Painting
+
+key: items/misc.tchotchke_signedvintageposter.description -7041820183255850530 v1 Revised
+Magic Mystery Parade, 1967. Classic. Should be sold.
+
+key: items/misc.tchotchke_signedvintageposter.displayname 5487183492795757775 v1 Revised
+Signed Vintage Poster
+
+key: items/misc.tchotchke_valuablenecklace.description -8915652760929775263 v1 Revised
+An exquisite jewel of the highest provenance. Should be sold.
+
+key: items/misc.tchotchke_valuablenecklace.displayname 5700995486430580816 v1 Revised
+Valuable Necklace
+
+key: items/misc.tchotchke_valuablering.description 8273926858527407489 v1 Revised
+A beautiful specimen of the one true ring. But this one doesn't rule anything, except your wallet. Should be sold.
+
+key: items/misc.tchotchke_valuablering.displayname 4112224241058692513 v1 Revised
+Valuable Ring
+
+key: items/misc.tchotchke_vibrantnecklace.description -2707134291667348454 v3 Revised
+Used to find Guardians in another life. It no longer has any use. Should be sold.
+
+key: items/misc.tchotchke_vibrantnecklace.displayname 6378627171608534270 v2 Revised
+Vibrant Necklace
+

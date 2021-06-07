@@ -1,0 +1,6 @@
+key: achievements/stella_told_cheating_lion.description 5346495397532766919 v1 Revised
+Tell Astrid about Giovanni's night excursions
+
+key: achievements/stella_told_cheating_lion.name -2753756576806647583 v1 Revised
+Loose Lips
+

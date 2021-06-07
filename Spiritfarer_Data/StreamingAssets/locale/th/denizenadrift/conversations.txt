@@ -1,0 +1,12 @@
+key: denizenadrift/conversations.denizenadriftconversation-seeadriftdenizenintroduction._independenttextbubbleloc 5697896830855527954 v1 Placeholder
+-PH- Spirit Call!
+
+key: denizenadrift/conversations.denizenadriftconversation-seeadriftdenizenintroduction.loctext -7723368529503624000 v1 Placeholder
+DenizenAdriftConversation-SeeAdriftDenizenIntroduction
+
+key: denizenadrift/conversations.denizenadriftconversation-seeadriftdenizenreminder._commenttext -6322422898001871155 v1 Placeholder
+-PH- Come here!
+
+key: denizenadrift/conversations.denizenadriftconversation-seeadriftdenizenreminder.loctext -8009296090875264423 v1 Placeholder
+DenizenAdriftConversation-SeeAdriftDenizenReminder
+

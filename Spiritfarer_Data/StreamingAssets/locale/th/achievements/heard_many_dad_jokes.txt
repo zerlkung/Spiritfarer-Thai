@@ -1,0 +1,6 @@
+key: achievements/heard_many_dad_jokes.description 3586460186435923892 v3 Revised
+Endure 10 of Albert's jokes.
+
+key: achievements/heard_many_dad_jokes.name 4839044445965056121 v1 Revised
+Dad Mode
+

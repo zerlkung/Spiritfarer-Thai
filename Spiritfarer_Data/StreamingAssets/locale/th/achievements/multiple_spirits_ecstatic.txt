@@ -1,0 +1,6 @@
+key: achievements/multiple_spirits_ecstatic.description -7338299921843030781 v3 Revised
+Make five spirits reach an ecstatic mood at least once.
+
+key: achievements/multiple_spirits_ecstatic.name 1006812278635097012 v2 Revised
+The More, The Merrier
+

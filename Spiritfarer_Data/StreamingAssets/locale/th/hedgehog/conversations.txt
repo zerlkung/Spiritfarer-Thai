@@ -1,0 +1,977 @@
+key: hedgehog/conversations._2secondstopvalidation._independenttextbubbleloc -2145102726344757581 v3 Revised
+How invigorating!
+
+key: hedgehog/conversations._2secondstopvalidation.loctext 2305083061545645182 v5 Revised
+{Expression_Happy}Oh, Stella, thank you so much for bringing me here!
+{Expression_Happy}Oh, smell the crispy winter air!
+{Expression_Happy}And these colors!
+{Expression_Laugh}Why, I feel like a young girl again!
+Oh, let's go already! 
+I can't wait to see all the sights!
+
+key: hedgehog/conversations._3thirdstopvalidation._independenttextbubbleloc 1275585884758181960 v2 Revised
+Look at that!
+
+key: hedgehog/conversations._3thirdstopvalidation.loctext 2905313274617594408 v29 Revised
+{Expression_Interested|Expression_Idle_Neutral}Is that an ancient wooden elevator cage?
+{Expression_Interested|Expression_Idle_Neutral}What a wonderful construction!
+{Expression_Interested|Expression_Idle_Neutral}I didn't think I'd ever see one with my own eyes.
+[lookStella]{|Expression_Pensive}Remember?
+{|Expression_Pensive}It's by climbing one of these that Ansgar managed to get away from Harald's gang!
+{|Expression_Happy}"A treacherous and icy cage, that claimed many a young daredevil's life."
+But of course, Ansgar managed to escape with the Countess' sapphires with ease and grace!
+{|Expression_Headnod}Yes, he was quite the cat burglar!
+{Expression_Laugh}Oh, look at me, I'm swooning, just thinking about it!
+As for us, I think we should just climb the ladder!
+{|Expression_Headnod}Watch out for ice patches!
+
+key: hedgehog/conversations._4fourthstopvalidation._independenttextbubbleloc -7054670699024421936 v4 Revised
+White leaves!
+
+key: hedgehog/conversations._4fourthstopvalidation.loctext -3327032610795905163 v30 Revised
+{Expression_Interested|Expression_Pensive}Oh, and this statue here, with the "bushes ever white"!
+{Expression_Interested|Expression_Pensive}Just as I pictured it! How uncanny!
+[lookStella]{Expression_Interested|Expression_Headnod}Doesn't it remind you of the shrine where Ansgar offered the sapphires to Agneta?
+{|Expression_Happy}"I would have stolen a hundred gemstones, and fought a thousand ruffians,
+{|Expression_Happy}For the opportunity to gaze upon your beauty, but for a second".
+{Expression_Happy}Oh, how romantic!
+{Expression_Happy}And then she confessed her love,
+{|Expression_Pensive}And then they...
+{|Expression_Pensive}...
+{Expression_Interested|Expression_Happy}Well, you know what happened next!
+Although, in my mind, it wasn't so cold outside.
+{Expression_Laugh}Well, Ansgar sure was hot-blooded!
+{Expression_Laugh}I know that's how he makes me feel!
+
+key: hedgehog/conversations._5getshurtvalidation._independenttextbubbleloc 1008273709375828377 v4 Revised
+This place...
+
+key: hedgehog/conversations._5getshurtvalidation.loctext -5197492196326601608 v24 Revised
+{Expression_Interested|Expression_Pensive}Oh, and this dark, windy spot...
+{Expression_Happy|Expression_Happy}Just like the scaffoldings where Ansgar and Harald dueled.
+{|Expression_Headnod}Oh, I can see the scene so clearly,
+{|Expression_Surprise}The clicking of the swords,
+{|Expression_Idle_Neutral}The distant barking of dogs, and whistling of the policemen.
+{|Expression_Idle_Neutral}Even the smoke reminds of the train station below!
+{|Expression_Idle_Neutral}And then, glinting in the shadows, a small needle-like knife,
+{|Expression_Idle_Neutral}And just as Ansgar has adeptly disarmed his opponent...
+{|Expression_Surprise}The treacherous Agneta emerges, and stabs Ansgar in the back!
+{Expression_Sad|Expression_Surprise}Of course, how could Ansgar know that she was the half-niece of the cruel Harald!
+{|Expression_Pensive}The bleeding Ansgar advances haphazardly to the edge of the scaffolding...
+
+key: hedgehog/conversations._5getshurtvalidationpart2.loctext -4974226581932485915 v22 Revised
+{Expression_Interested|Expression_Pensive}And as he reaches the edge, he glances back,
+{Expression_Interested|Expression_Pensive}And finds that he is cornered by his opponents.
+{Expression_Interested|Expression_Idle_Neutral}With nowhere to go, they know it is but a matter of time
+{Expression_Interested|Expression_Idle_Neutral}Before they can deliver him to Duke Fredrik,
+{|Expression_Idle_Neutral}Ansgar's long-estranged twin brother,
+{|Expression_Idle_Neutral}And usurper of the family title!
+{|Expression_Idle_Neutral}But Ansgar, elegant to his last breath,
+{|Expression_Pensive}Raises a hand in farewell, smiles softly and,
+{|Expression_Pensive}Just as he is engulfed by the smoke from the locomotive below...
+
+key: hedgehog/conversations._5getshurtvalidationpart3.loctext -8771270713242308233 v10 Revised
+{Expression_Sad|Expression_Surprise}Ouch!
+{Expression_Sad|Expression_Idle_Neutral}Oh...
+{Expression_Sad|Expression_Idle_Neutral}What?
+{Expression_Sad|Expression_Idle_Neutral}Oh, Stella, no I'm alright, thank you. 
+{Expression_Laugh|Expression_Idle_Neutral}I'm good, I'm good.
+{Expression_Sad|Expression_Idle_Neutral}Just...
+{Expression_Sad|Expression_Idle_Neutral}I'm a little tired.
+{Expression_Sad|Expression_Idle_Neutral}Let's get back home, ok?
+{Expression_Sad|Expression_Idle_Neutral}Just... 
+{Expression_Sad|Expression_Idle_Neutral}Let's go.
+
+key: hedgehog/conversations._6askstobecarried._independenttextbubbleloc -6990916366061628541 v2 Revised
+It's so far...
+
+key: hedgehog/conversations._6askstobecarried.loctext -4847440865465763776 v12 Revised
+{Expression_Sad|Expression_Empathy}Oof... Wait up, I'm...
+{Expression_Sad|Expression_Empathy}Erm...
+{Expression_Sad|Expression_Empathy}I'm tired.
+{Expression_Sad|Expression_Idle_Neutral}Would you...
+{Expression_Sad|Expression_Headnod}Would you mind helping an old lady walk back to the tender?
+
+key: hedgehog/conversations._alonetimeintro._independenttextbubbleloc -3918848338151554596 v2 Revised
+A minute, Stella.
+
+key: hedgehog/conversations._alonetimeintro.loctext 1058811035966858599 v2 Revised
+I wanted to have a word with you.
+We had some fun together, with the trip and all.
+{|Expression_Idle_Neutral}But I can't keep following you around like that.
+{|Expression_Idle_Neutral}It's just too tiring.
+{|Expression_Idle_Neutral}And besides, it's not befitting of an old lady like me.
+{|Expression_Idle_Neutral}Just... 
+{|Expression_Idle_Neutral}Has anybody told you how smothering you can be?
+{|Expression_Idle_Neutral}Please, leave me some space now will you?
+
+key: hedgehog/conversations._buildorchardvalidation_chain.loctext -4076954906339951864 v8 Revised
+{Expression_Happy|Expression_Headnod}Have you seen all these fine details?
+{Expression_Laugh}Yes, he was quite the woodworker.
+{|Expression_Idle_Neutral}At least until his hands gave up on him...
+{|Expression_Idle_Neutral}We planted our first apple tree along with the birth of our first daughter.
+{|Expression_Idle_Neutral}You should plant a tree for yourself!
+{|Expression_Idle_Neutral}Of course, it'll take some time before it can bear fruit.
+But once grown, it makes you feel so proud, accompanies you your whole life!
+Oh, listen to me rambling again.
+I'll get out of your things, now.
+
+key: hedgehog/conversations._buildwardrobeintro._commenttext 4341999493769147551 v1 Revised
+Oh, Stella!
+
+key: hedgehog/conversations._buildwardrobeintro._independenttextbubbleloc -3908386247871746287 v1 Revised
+Stella
+
+key: hedgehog/conversations._buildwardrobeintro.loctext 3496948846560547848 v5 Revised
+You might have noticed that there is a large, empty nook in my house.
+You know what?
+{Expression_Happy|Expression_Happy}We should add a wardrobe!
+{Expression_Happy|Expression_Happy}Yes! 
+{Expression_Happy|Expression_Happy}A fancy dresser!
+{Expression_Happy|Expression_Happy}For your clothes!
+You don't seem to have anywhere to store your own outfits.
+{Expression_Happy}This would be a perfect opportunity!
+{|Expression_Headnod}What do you think?
+
+key: hedgehog/conversations._buildwardrobevalidation._independenttextbubbleloc -8675585099894360813 v2 Revised
+Wondrous!
+
+key: hedgehog/conversations._buildwardrobevalidation.loctext 107835862856877393 v7 Revised
+{Expression_Laugh}You're spoiling me, Stella!
+{Expression_Happy}What an incredible piece of furniture!
+{Expression_Happy}It livens the room so much!
+Yes, much cozier, now.
+And filled to the brim with clothes and accessories too!
+You don't know how happy that makes me!
+Well, what are you waiting for?
+{Expression_Happy}Jump out of these old, dirty clothes!
+{Expression_Happy}Pick something with some jazz to it!
+
+key: hedgehog/conversations._complaintrequestintro._independenttextbubbleloc -1038306880092051261 v2 Revised
+Stella!
+
+key: hedgehog/conversations._complaintrequestintro.loctext -5793478185611234426 v6 Revised
+Oh, you're here.
+{Expression_Sad|Expression_Idle_Neutral}Stella, nobody's visiting me anymore. 
+{Expression_Sad|Expression_Idle_Neutral}Yourself included.
+{Expression_Sad|Expression_Idle_Neutral}I guess nobody wants to spend time with an old hag like me.
+{Expression_Sad|Expression_Idle_Neutral}Back in my home, I always had a bowl of candies for guests.
+{Expression_Sad|Expression_Idle_Neutral}The children liked them very much.
+{Expression_Sad|Expression_Idle_Neutral}But you can't get anything good, in here.
+{|Expression_Headnod}Could you get me some candies, please?
+Anything will do.
+
+key: hedgehog/conversations._complaintrequestvalidation._independenttextbubbleloc 2606972085960600632 v1 Revised
+Stella
+
+key: hedgehog/conversations._complaintrequestvalidation.loctext 4606729205278765152 v3 Revised
+{|Expression_Idle_Neutral}Well, that took you long enough.
+{|Expression_Idle_Neutral}I guess these will do.
+{|Expression_Idle_Neutral}Maybe people will stop by a little more now.
+{|Expression_Idle_Neutral}Thank you.
+
+key: hedgehog/conversations._confusedrequestintro._independenttextbubbleloc -8556289177075278630 v2 Revised
+Eugene! Where are you?
+
+key: hedgehog/conversations._confusedrequestintro.loctext -5511661266933037976 v6 Revised
+Oh, hello. It's you.
+{|Expression_Idle_Neutral}Have you seen Eugene?
+{|Expression_Idle_Neutral}He must be in the garage, again.
+{|Expression_Idle_Neutral}When you see him, can you ask him to bring me my old wooly?
+{|Expression_Idle_Neutral}It's getting a bit chilly in here.
+
+key: hedgehog/conversations._fashionshowvalidation._independenttextbubbleloc -7390567416230384846 v2 Revised
+Interesting choice!
+
+key: hedgehog/conversations._fashionshowvalidation.loctext -1426285967140347980 v5 Revised
+Well, that certainly is a... modern choice.
+Very youthful!
+{|Expression_Idle_Neutral}But what about something more, um, classical.
+{|Expression_Idle_Neutral}I think there was a nice ((periwinkle outfit)), in the bottom drawer.
+{|Expression_Idle_Neutral}Try it on!
+
+key: hedgehog/conversations._getsomepeopleaboardintro._independenttextbubbleloc 1585629895110928367 v2 Revised
+So silent...
+
+key: hedgehog/conversations._getsomepeopleaboardintro.loctext -2658151283693238358 v6 Revised
+Stella, I hope I'm not disturbing you.
+You always look so busy. I wouldn't want to impose.
+{|Expression_Idle_Neutral}It's just... 
+{|Expression_Idle_Neutral}I've been thinking...
+{|Expression_Idle_Neutral}This boat is large, is it not? 
+{|Expression_Idle_Neutral}There's plenty of room for other friends.
+{|Expression_Idle_Neutral}I remember, so long ago, when my house was full of joy and laughter...
+{|Expression_Idle_Neutral}Look at me, I'm rambling again. 
+{Expression_Laugh|Expression_Idle_Neutral}Forget I said anything, you must be very busy.
+
+key: hedgehog/conversations._getsomepeopleaboardskipvalidation._independenttextbubbleloc 7085190096118397778 v2 Revised
+How exciting!
+
+key: hedgehog/conversations._getsomepeopleaboardskipvalidation.loctext 3373442292805473952 v7 Revised
+{Expression_Happy}Stella, this boat! 
+{Expression_Happy}It's so loud and chaotic and vibrant!
+{Expression_Laugh}So exciting!
+It reminds me of my house.
+{Expression_Sad|Expression_Idle_Neutral}Well, before it turned silent, of course.
+{|Expression_Idle_Neutral}But let's not dwell on sad times.
+A new start, as they say!
+
+key: hedgehog/conversations._upgradekitchenintro._independenttextbubbleloc -6381894445966502128 v4 Revised
+My, my, that won't do...
+
+key: hedgehog/conversations._upgradekitchenintro.loctext 3468841781865079639 v5 Revised
+Oh, Stella, I didn't see you!
+{|Expression_Idle_Neutral}I was thinking that your guests might be getting hungry.
+{|Expression_Idle_Neutral}The least I could do is to help you with feeding all those mouths.
+{|Expression_Idle_Neutral}But your kitchen, well, it feels a little bare.
+{|Expression_Idle_Neutral}Trust me, some basic equipment would make our lives so much easier!
+{|Expression_Idle_Neutral}Plus, a proper meal makes everyone happy.
+{|Expression_Idle_Neutral}Or, anyway, happier than just throwing any old ingredient in the oven.
+Here, I'll jot down a list of some essentials for any cook.
+Plus some extras.
+When you have time, please consider ((improving)) the kitchen a bit.
+I'll make it worth your while!
+
+key: hedgehog/conversations._upgradekitchenvalidation._independenttextbubbleloc -180271157323188388 v3 Revised
+What a treat!
+
+key: hedgehog/conversations._upgradekitchenvalidation.loctext -1903957235744832597 v11 Revised
+{Expression_Happy}Stella, you got everything on the list, and then some!
+You didn't do all of this just for little old me, did you?
+{Expression_Laugh}...
+You'll see, it'll come very handy. 
+And I'll try my best to help as much as I can.
+You won't regret it.
+And were you to keep a kitchen close to my house, I would be able to help much more efficiently.
+{Expression_Happy|Expression_Headnod}Yes, it would make me very happy...
+{Expression_Happy}Thank you, Stella!
+
+key: hedgehog/conversations.butterfliesfoodsame.loctext 3097513399293467071 v1 Revised
+I'm working my way towards a snack.
+
+key: hedgehog/conversations.conversationhungry01.loctext -7276111667777732022 v2 Revised
+{|Expression_Idle_Neutral}How is the next meal coming along? 
+{|Expression_Idle_Neutral}Do you need any help?
+
+key: hedgehog/conversations.conversationhungry02.loctext -2255427598314269063 v3 Revised
+{|Expression_Idle_Neutral}Some people are getting a bit hungry...
+{|Expression_Idle_Neutral}Have you thought about the next meal?
+
+key: hedgehog/conversations.conversationhungry03._independenttextbubbleloc 6493408648356780273 v1 Revised
+I'm so hungry dear...
+
+key: hedgehog/conversations.conversationhungry03.loctext -5743229068376721540 v2 Revised
+{|Expression_Idle_Neutral}We should probably eat soon.
+{|Expression_Idle_Neutral}People will get restless.
+
+key: hedgehog/conversations.conversationhungrymaster._commenttext 124546814529638178 v8 Revised
+Little one!
+
+key: hedgehog/conversations.foodaccept.loctext 1515825239876367145 v3 Revised
+{Eat}Oh, thank you! I was getting quite hungry.
+
+key: hedgehog/conversations.foodaccept_dislike.loctext 2016623685371529793 v4 Revised
+{Eat}Well, I... I guess this will have to do.
+
+key: hedgehog/conversations.foodaccept_like.loctext 8350434402017530903 v4 Revised
+{Eat}Oh, thank you, I like that very much!
+
+key: hedgehog/conversations.foodaccept_love.loctext 7164151726253239999 v6 Revised
+{Eat}My ((favourite))! What a treat!
+
+key: hedgehog/conversations.foodrefuse.loctext 1060257376583521103 v2 Revised
+Oh, thank you, but I'm not hungry right now.
+
+key: hedgehog/conversations.foodrefuse_inedible.loctext 4931397592287226322 v3 Revised
+{|Expression_Idle_Neutral}Oh, I don't think I should eat that!
+{|Expression_Idle_Neutral}I don't think anybody should eat that!
+
+key: hedgehog/conversations.foodrefuse_same.loctext -1292808262129201321 v1 Revised
+{|Expression_Idle_Neutral}I've already had this recently. 
+{|Expression_Idle_Neutral}Do you have anything else?
+
+key: hedgehog/conversations.giveallfruits.loctext 2883261310109391659 v3 Revised
+I've noticed that some fruits in the ((orchard)) were ready.
+{|Expression_Surprise}I picked them for you!
+Here you go.
+
+key: hedgehog/conversations.givecookedfood._commenttext 6528894846621982829 v2 Revised
+I have something for you!
+
+key: hedgehog/conversations.givecookedfood.loctext -1799245426438232847 v3 Revised
+{|Expression_Happy}Here, Stella, I've baked something for the crew.
+{|Expression_Happy_to_Idle}I'll let you distribute it!
+
+key: hedgehog/conversations.givecookedfood_hurt._commenttext 8399436493963889753 v2 Revised
+Here is some food for you, sweetheart!
+
+key: hedgehog/conversations.givecookedfood_hurt.loctext -6812616975919154953 v2 Revised
+{|Expression_Idle_Neutral}Didn't you notice that the others were hungry?
+{|Expression_Idle_Neutral}No biggie sweetheart.
+{|Expression_Idle_Neutral}But you should pay more attention next time maybe?
+{|Expression_Idle_Neutral}Here, take this.
+
+key: hedgehog/conversations.givecookedfood_wasting._commenttext -7460167152229713556 v2 Revised
+I've baked something...
+
+key: hedgehog/conversations.givecookedfood_wasting.loctext 8798425883855563037 v2 Revised
+I've baked some food for everyone, but it might be overdone.
+Sorry...
+
+key: hedgehog/conversations.givefoodfromoven._commenttext 4557079329657125206 v1 Revised
+You nearly burned this!
+
+key: hedgehog/conversations.givefoodfromoven.loctext -2746696186860985894 v3 Revised
+{|Expression_Idle_Neutral}I thought I smelled something burning.
+{|Expression_Surprise}Did you forget food in the oven?
+I've taken it out for you, there you go.
+
+key: hedgehog/conversations.gossipmean1._commenttext 1971759056971498541 v2 Revised
+What are you wearing?
+
+key: hedgehog/conversations.gossipmean1.loctext 7184589014811828327 v8 Revised
+Are you wearing dirty clothes? No?
+Well, maybe you just look like that.
+
+key: hedgehog/conversations.gossiprecipe1._commenttext 4971547828728246742 v1 Revised
+Let me share a secret with you.
+
+key: hedgehog/conversations.gossiprecipe1.loctext 6636882211526893566 v3 Revised
+Did you know Atul loves ((pork chops))?
+
+key: hedgehog/conversations.hedgehog_denizen_benchconversation.loctext 6492463213640738989 v4 Revised
+Oh, sweetheart, what are you doing here?
+{|Expression_Idle_Neutral}Have you come just to see me?
+{|Expression_Idle_Neutral}You can't know how happy this makes me.
+{|Expression_Idle_Neutral}I hope you haven't gone too far out of your way just for me.
+{|Expression_Pensive}I'd hate to be an inconvenience to you. 
+{|Expression_Pensive}You seem rather busy!
+{|Expression_Pensive_to_Idle}Looking at your boat, I'd assume you're traveling the world with your friends!
+How nice it must be!
+The adventures of youth!
+How nice...
+
+key: hedgehog/conversations.hedgehog_denizen_benchconversation2.loctext -6385454370590556229 v12 Revised
+{|Expression_Headnod}What? You want me to join you on your travels?
+{|Expression_Idle_Neutral}Oh, no.
+{|Expression_Idle_Neutral}No, no, no.
+{|Expression_Idle_Neutral}I couldn't possibly impose myself on all on you.
+{|Expression_Idle_Neutral}Besides, I'm sure there's no room for me.
+{|Expression_Pensive}...
+{|Expression_Pensive}For sure, this island is a little bare, but...
+{|Expression_Pensive}I'm sure a little house could fit quite nicely here!
+{|Expression_Blueprint}A little bungalow, with nice vines and potted flowers maybe...
+{|Expression_Blueprint}With pale tones and a cosy cottage facade...
+{|Expression_Blueprint}Oh and green window shades!
+{|Expression_Headnod}My, that would be so wonderful...
+Oh! 
+Sorry, I was lost in my thoughts.
+No, you go ahead. I'll be just fine here.
+
+key: hedgehog/conversations.hedgehog_denizen_benchconversationreminder1.loctext -425358329655986634 v4 Revised
+Oh, back so soon?
+I'm always happy to see you, sweetheart.
+But don't let me hold you back from your adventures!
+
+key: hedgehog/conversations.hedgehog_denizen_buildhousevalidation.loctext 801419255575014154 v2 Revised
+What?
+{|Expression_Headnod}You built a house?
+{|Expression_Headnod}For +=me=+?
+...
+You shouldn't have, really!!
+But since it's there... 
+Well, I guess it'd be rude of me not to move in.
+Thank you so very much, sweetheart!
+
+key: hedgehog/conversations.hedgehog_denizengreeting.loctext 8555927677468396904 v1 Revised
+Good day sir!
+
+key: hedgehog/conversations.hedgehog_goingbackcomment.loctext 57957662573441808 v1 Revised
+It's alright, really. Go ahead.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_askforcarry._independenttextbubbleloc -8300010259320802571 v2 Revised
+Shall we go?
+
+key: hedgehog/conversations.hedgehog_lastvoyage_askforcarry.loctext 4119077313814329369 v2 Revised
+Would you mind giving me a hand?
+My old legs feel tired.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_fallback1.loctext -345295349894304794 v1 Revised
+Just a little further.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_fallback2.loctext -6072667240690274829 v1 Revised
+Easy, now.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_intender._independenttextbubbleloc 3054892359364246612 v2 Revised
+{|Expression_Idle_Neutral}Good idea!
+
+key: hedgehog/conversations.hedgehog_lastvoyage_intender.loctext 6577742454462058195 v3 Revised
+{|Expression_Idle_Neutral}Oh, yes, a boat!
+{|Expression_Idle_Neutral}Shall we go for a ride?
+
+key: hedgehog/conversations.hedgehog_lastvoyage_intender_no.loctext 3354861264439096459 v2 Revised
+{|Expression_Idle_Neutral}Not yet? Oh, I can wait a bit.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_intender_yes.loctext 1139669974809835976 v2 Revised
+Well, then, I'll let you row.
+I'm feeling a bit sore.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_a.loctext -8340956057023835476 v3 Revised
+What a wonderful scenery!
+Did you find this place all by yourself, Annie?
+You've gone exploring earlier, haven't you?
+Always such an adventurer, you. I'm so proud of you.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_b.loctext -1395271656030966622 v4 Revised
+These trees are quite marvelous...
+Eugene will be so mad to have missed that!
+Perhaps he'll be able to take some time off next summer...
+Yes, let's return here.
+I feel I could stay here forever...
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_c.loctext -4292319740590839857 v6 Revised
+You haven't told me about school, recently.
+Is everything still going well?
+And your grades, are they...
+...
+Oh, of course, you've graduated a long time ago.
+I'm sorry, I don't know how I got this confused.
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_d.loctext -7360350527843699665 v7 Revised
+...
+You're...
+You're not Annie, are you?
+Yes, of course...
+I guess I have been rather forgetful, recently...
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_e.loctext -5964965905387012485 v6 Revised
+Maybe Eugene will...
+...
+
+key: hedgehog/conversations.hedgehog_lastvoyage_tendersequence_f.loctext -4645045828088477546 v4 Revised
+When you see your father, tell him about the trees, won't you?
+I'm sure he'll be excited to come with us next year.
+
+key: hedgehog/conversations.hedgehog_like_dessert.loctext 1070993837134017516 v1 Revised
+{Expression_Happy}Oh my!
+{Expression_Laugh}Hi hi!
+{Eat}You must know I really love ((dessert)) of all kinds!
+{Expression_Happy}Thanks a lot Stella!
+
+key: hedgehog/conversations.hedgehog_like_dessert_fallback01.loctext -8180506030323189722 v1 Revised
+{Expression_Laugh}Hee hee!
+{Eat}I could never say no to a ((dessert))!
+
+key: hedgehog/conversations.hedgehog_like_dessert_fallback02.loctext 3373453754069599248 v1 Revised
+{Expression_Happy}More ((dessert))?
+{Eat}You're treating me well, sweetheart.
+
+key: hedgehog/conversations.hedgehog_like_oldfashioned.loctext -7639505378831816732 v1 Revised
+{Expression_Happy}Oh, this is absolutely delicious!
+{Expression_Happy}There is nothing more reassuring than a good ((old-fashioned)) dish like this.
+{Eat}I love it!
+Thank you very much!
+
+key: hedgehog/conversations.hedgehog_like_oldfashioned_fallback01.loctext -3306454930312249380 v1 Revised
+{Expression_Happy}An ((old-fashioned)) meal just feels like a warm blanket.
+{Eat}Something to wish for on a cold night.
+
+key: hedgehog/conversations.hedgehog_like_oldfashioned_fallback02.loctext 2619110437013091345 v1 Revised
+{Expression_Happy}Another incredible ((old-fashioned)) dish.
+{Eat}Thank you for your kindness, Stella.
+
+key: hedgehog/conversations.hedgehog_love_cremebrulee.loctext 1992471252133578870 v2 Revised
+{Expression_Happy}You know I love ((old-fashioned)) food already, sweetheart.
+{Expression_Happy}But ((veggie pot pies)) are the most scrumptious of them all.
+{Expression_Happy}It is my absolute favourite!
+{Expression_Laugh}I will recall this moment for days!
+{Eat}Thank you so very much Stella!
+
+key: hedgehog/conversations.hedgehog_love_veggiepotpie_fallback02.loctext -7321245675662733371 v1 Revised
+{Expression_Happy}I couldn't ask for anything better!
+{Eat}((Veggie pot pie)) will forever by a ((favourite)) of mine.
+
+key: hedgehog/conversations.hedgehog_love_vegiepotpie_fallback01.loctext -7708519244879377101 v1 Revised
+{Expression_Happy}((Veggie pot pie)) always hits the spot!
+{Expression_Happy}A ((favourite)) to this day.
+{Eat}Another job well done, Stella.
+
+key: hedgehog/conversations.hedgehog_readytoleave_accept.loctext -2670458745528911938 v3 Revised
+[Start]Alright then.
+[end]Let's go.
+
+key: hedgehog/conversations.hedgehog_readytoleave_confusedhint._commenttext 720179102196947622 v1 Revised
+Excuse me...
+
+key: hedgehog/conversations.hedgehog_readytoleave_confusedhint._independenttextbubbleloc -519779095279812991 v1 Revised
+Stella...
+
+key: hedgehog/conversations.hedgehog_readytoleave_confusedhint.loctext 3321361474346268330 v5 Revised
+{Expression_Sad}Excuse me...
+{Expression_Sad|Expression_Idle_Neutral}Have you seen Annie? She's my daughter.
+{Expression_Sad|Expression_Idle_Neutral}I think we got separated on our way here.
+{Expression_Sad|Expression_Idle_Neutral}She should be easy to find, she put her ((red hat)), today...
+{Expression_Sad|Expression_Idle_Neutral}With her nice blue ((beach outfit))...
+{Expression_Sad|Expression_Idle_Neutral}It was her birthday present from her dad, you know.
+{Expression_Sad|Expression_Idle_Neutral}It's...
+{Expression_Sad|Expression_Idle_Neutral}...
+{Expression_Sad|Expression_Idle_Neutral}Oh, Annie... Where are you?
+
+key: hedgehog/conversations.hedgehog_readytoleave_confusedhint_annie._commenttext -8637579331032826499 v1 Revised
+Excuse me...
+
+key: hedgehog/conversations.hedgehog_readytoleave_confusedhint_annie.loctext -819277360978672407 v5 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh, Annie! You've...
+{Expression_Sad|Expression_Idle_Neutral}Oh...
+{Expression_Sad|Expression_Idle_Neutral}I'm sorry, I mistook you for my daughter.
+{Expression_Interested|Expression_Pensive}You're dressed exactly like her!
+{Expression_Interested|Expression_Pensive}Of course, the wind blew her hat away...
+{Expression_Interested|Expression_Pensive}When I find her, you should tell her where you found yours!
+{Expression_Interested|Expression_Pensive}I'm sure she'd like to find another one again...
+{Expression_Laugh|Expression_Pensive}It sure would look better than that unmatched ((red hat)) of hers.
+
+key: hedgehog/conversations.hedgehog_readytoleave_question._independenttextbubbleloc 7547480622388653944 v2 Revised
+Oh, Annie!
+
+key: hedgehog/conversations.hedgehog_readytoleave_question.loctext 6826459542783734535 v3 Revised
+[Particles]Annie, there you are!
+{Expression_Sad|Expression_Empathy}I was scared. I thought that you had left...
+{Expression_Sad|Expression_Empathy}I'm feeling tired.
+{Expression_Sad|Expression_Empathy}We're on our way home, aren't we?
+{Expression_Sad|Expression_Empathy}Tell me when we're there...
+
+key: hedgehog/conversations.hedgehog_readytoleave_refuse.loctext -994242925382526384 v2 Revised
+Oh, have you got some more errands to run?
+I'll wait a bit more, then.
+
+key: hedgehog/conversations.hedgehog_refuse_acquiredtaste.loctext -8678514780895861496 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh, this smells really strong...
+{Expression_Sad|Expression_Idle_Neutral}Are you even sure this is edible?
+{Expression_Sad|Expression_Idle_Neutral}I don't think I can eat that.
+{Expression_Sad|Expression_Idle_Neutral}This food is definitely an ((acquired taste)).
+{Expression_Sad|Expression_Idle_Neutral}I'm afraid it's not for little old me...
+
+key: hedgehog/conversations.hedgehog_refuse_acquiredtaste_fallback01.loctext 2425564724707860580 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}That looks... striking.
+{Expression_Sad|Expression_Idle_Neutral}Maybe someone else might be interested?
+{Expression_Sad|Expression_Idle_Neutral}Something with an ((acquired taste)) might not be for me.
+
+key: hedgehog/conversations.hedgehog_refuse_acquiredtaste_fallback02.loctext 3306162424806975058 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Well, that's enough.
+{Expression_Sad|Expression_Idle_Neutral}They say ((acquired taste)), I say no thank you.
+
+key: hedgehog/conversations.hedgehog_refuse_exotic.loctext 5206972271342986904 v1 Revised
+{Expression_Sad}Oh...
+{Expression_Sad}I...
+{Expression_Sad}No, I don't know...
+{Expression_Sad|Expression_Idle_Neutral}It seems so... so ((exotic))...
+{Expression_Sad|Expression_Idle_Neutral}So different from what I know...
+{Expression_Sad|Expression_Empathy}I don't think I can eat that...
+{Expression_Sad|Expression_Empathy_to_Idle}Sorry Stella...
+
+key: hedgehog/conversations.hedgehog_refuse_exotic_fallback01.loctext -7859762355765932151 v1 Revised
+{Expression_Sad}I appreciate the effort, sweetheart.
+{Expression_Sad|Expression_Idle_Neutral}But I don't go for anything too ((exotic)).
+{Expression_Sad|Expression_Idle_Neutral}This looks a bit out of my comfort zone.
+
+key: hedgehog/conversations.hedgehog_refuse_exotic_fallback02.loctext 380725717972638907 v1 Revised
+{Expression_Sad}I'm not sure about this one, dearie.
+{Expression_Sad|Expression_Idle_Neutral}Maybe something less ((exotic)) next time?
+
+key: hedgehog/conversations.hedgehog_refuse_stimulant.loctext 2812961651545816952 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh I'm sorry dearie, I can't have such a strong ((stimulant)).
+{Expression_Sad|Expression_Idle_Neutral}Those are so disorienting!
+{Expression_Sad|Expression_Idle_Neutral}I won't be able to sleep for days if I ingest this.
+{Expression_Sad|Expression_Idle_Neutral}Sorry Stella, I won't accept it.
+
+key: hedgehog/conversations.hedgehog_refuse_stimulant_fallback01.loctext -8559278195820027294 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}((Stimulants)) and I aren't a good match, sweetheart.
+{Expression_Sad|Expression_Idle_Neutral}I don't touch the stuff anymore.
+{Expression_Sad|Expression_Idle_Neutral}I wouldn't feel like myself.
+
+key: hedgehog/conversations.hedgehog_refuse_stimulant_fallback02.loctext -2059422633749002627 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh dearie, I can't take any ((stimulants)).
+{Expression_Sad|Expression_Idle_Neutral}They are not for me.
+
+key: hedgehog/conversations.hedgehog_startsnailsevent._independenttextbubbleloc 4557830725976210280 v1 Revised
+Oh, hello there!
+
+key: hedgehog/conversations.hedgehog_startsnailsevent.loctext 8398535735807711756 v4 Revised
+[CancelTimer]Oh, you're tired, aren't you?
+Of course, so many children are bound to leave you exhausted.
+Maybe we could play with them a bit? Let you rest?
+What do you think, Stella?
+
+key: hedgehog/conversations.hedgehog_startsnailsevent_no.loctext -2973646682681899750 v1 Revised
+Oh, yes, well, I understand.
+You must be awfully busy.
+Maybe next time?
+
+key: hedgehog/conversations.hedgehog_startsnailsevent_yes.loctext -1151463934710118236 v4 Revised
+Wonderful! Oh, we'll have so much fun!
+I used to play this game with my grandchildren all of the time.
+Just catch and bring them back to their mommy!
+
+key: hedgehog/conversations.hedgehog-askstoppickfruit.loctext -1371786675943288358 v2 Revised
+{|Expression_Idle_Neutral}I'm picking some fruit for you.
+{|Expression_Idle_Neutral}Would you like me to stop?
+
+key: hedgehog/conversations.hedgehog-askstoppickfruit-noanswer_conversation.loctext -154180148047147864 v2 Revised
+Great, I'll keep on picking.
+
+key: hedgehog/conversations.hedgehog-askstoppickfruit-yesanswer_conversation.loctext 5089082868848328 v2 Revised
+Ok, I'll do something else.
+
+key: hedgehog/conversations.hedgehogconversation-askaboutplayvalidation.loctext 8953815321730086233 v1 Revised
+{|Expression_Pensive}That's was... interesting.
+{|Expression_Pensive_to_Idle}Good luck, my young Stanley.
+
+key: hedgehog/conversations.hedgehogconversation-bringasecondsheepreminder.loctext -1687662702206722618 v3 Revised
+Have you found another sheep?
+I'm happy to keep you company but...
+{|Expression_Idle_Neutral}Another sheep would probably be better company than a silly old lady,
+Don't you think?
+
+key: hedgehog/conversations.hedgehogconversation-bringasecondsheepvalidation._independenttextbubbleloc 3122502015111207513 v2 Revised
+Good job!
+
+key: hedgehog/conversations.hedgehogconversation-bringasecondsheepvalidation.loctext -7889859926333582219 v3 Revised
+You brought a second sheep!
+{|Expression_Idle_Neutral}Oh, look at them, they'll be so happy together!
+...
+Oh, they''re acting kind of coldly.
+That's surprising.
+Well, they just have to learn to know each other!
+{|Expression_Idle_Neutral}I'm sure they'll be best of friends in no time!
+As for me, well...
+It was nice, feeling needed.
+...
+
+key: hedgehog/conversations.hedgehogconversation-bringsheeptoenclosurereminder.loctext 6866821958450925869 v4 Revised
+How great, it's following you!
+{|Expression_Idle_Neutral}Now, just lead it to the enclosure next to the pier.
+{|Expression_Idle_Neutral}Or follow me! I'm going there.
+
+key: hedgehog/conversations.hedgehogconversation-buildorchardskipconversation._independenttextbubbleloc 1873144509025291879 v2 Revised
+Exactly as I remember it...
+
+key: hedgehog/conversations.hedgehogconversation-buildorchardskipconversation.loctext 5331221874128620017 v3 Revised
+I haven't given it much thought before now, but...
+{Expression_Happy|Expression_Surprise}Stella, this ((orchard)), it looks almost exactly like the one my husband built!
+
+key: hedgehog/conversations.hedgehogconversation-buildorchardvalidation._independenttextbubbleloc 449001201397503969 v2 Revised
+Exactly as I remember it...
+
+key: hedgehog/conversations.hedgehogconversation-buildorchardvalidation.loctext 1394073412335988538 v3 Revised
+Oh, Stella! You've built an ((orchard))!
+{Expression_Happy|Expression_Surprise}And it looks almost exactly like the one my husband built.
+
+key: hedgehog/conversations.hedgehogconversation-call.loctext -8898627694810959744 v1 Revised
+Little one...
+
+key: hedgehog/conversations.hedgehogconversation-commentaboutplay01.loctext -1698668887661306843 v1 Revised
+This is heartbreaking.
+
+key: hedgehog/conversations.hedgehogconversation-confusedrequestmanualconversation.loctext 6451487753335429670 v4 Revised
+Oh, hello. How are you?
+What is that? A blanket? For me?
+I used to have a woolen blanket I liked very much.
+I must have misplaced it!
+Well, thank you. That's very nice of you!
+
+key: hedgehog/conversations.hedgehogconversation-fashionshow2validation._independenttextbubbleloc -6933479631801222551 v3 Revised
+Fantastic!
+
+key: hedgehog/conversations.hedgehogconversation-fashionshow2validation.loctext -5472708482632597098 v4 Revised
+{Expression_Happy|Expression_Unhappy}Oh, sweetie, isn't that so much better?
+{Expression_Happy|Expression_Unhappy}Why, you look so adorable, I could just eat you up!
+{|Expression_Unhappy_to_Idle}And there's plenty more for you to try on!
+Don't be shy, come over anytime. 
+I always loved doing these little fashion shows with my granddaughter!
+Oh, what is it? You found an envelope on the bottom of the drawer?
+{Expression_Interested}How peculiar! Well, don't make me wait, open it!
+{Expression_Interested}What is it, you say? Pictures and letters?
+{Expression_Interested}Oh, those are mine! How did they ever end up here? What a mystery!
+{Expression_Interested}Look, this is my husband's handwriting.
+Oh, it's messy, alright. He never was a delicate man.
+But quite handy, and so very loving!
+Oh, and would you look at that! My backyard!
+See all these trees? Sweet Eugene planted a tree for every one of our children.
+And then for our grandchildren!
+We grew apples, cherries, pears...
+I remember my granddaughter playing in her mother's apple tree...
+Such sweet memories!
+Oh, look at me. Rambling again.
+Go ahead, sweetheart. I won't hold you back any longer.
+
+key: hedgehog/conversations.hedgehogconversation-gotoportalvalidation.loctext -942624978332918148 v2 Revised
+Oh, Annie, we're there, aren't we?
+Can we go, now?
+
+key: hedgehog/conversations.hedgehogconversation-gotoportalvalidation-chainconversation.loctext -5907000929329334334 v7 Placeholder
+{Expression_Sad|Expression_Empathy}Maybe we should wait for all this commotion to be over.
+{Expression_Sad|Expression_Empathy}I think someone is calling you. Would you go find out what it's about?
+
+key: hedgehog/conversations.hedgehogconversation-growatreevalidation._independenttextbubbleloc -4894054639600377748 v2 Revised
+Incredible...
+
+key: hedgehog/conversations.hedgehogconversation-growatreevalidation.loctext 5653871354020895469 v10 Revised
+This tree, Stella, it grew so quickly!
+I'm sure the love you gave it helped it tremendously.
+The laws of this world would allow it!
+Well, I'm glad the tree is fully grown, now.
+I know you'll be able to build some great memories here.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Stella, I've been doing some thinking.
+{|Expression_Idle_Neutral}All my life, I've had to take care of others.
+{|Expression_Idle_Neutral}Cooking, cleaning, taking care of the children.
+{|Expression_Idle_Neutral}They're a blessing, really, but I've never had any time for...
+{|Expression_Surprise}Excitement.
+{|Expression_Surprise}Adventure.
+{|Expression_Idle_Neutral}I thought, if it's not too much of a hassle, of course,
+{|Expression_Idle_Neutral}And since we're traveling all over, all of the time,
+{|Expression_Idle_Neutral}Well...
+Maybe you could come on a little trip with me?
+{Expression_Happy}Just you and me!
+{Expression_Happy|Expression_Headnod}It'll be fun, I promise!
+How about that little hamlet? ((Nordweiler)), was it?
+{Expression_Happy}From what I've heard, it sounds just like my Swedish romance novels!
+{Expression_Happy|Expression_Surprise}Oh, how I can devour these!
+{Expression_Happy|Expression_Surprise}What, you're also a fan? I knew you were a woman of culture! 
+{Expression_Laugh}Anyway, if we're ever around these parts, I think we could have loads of fun!
+
+key: hedgehog/conversations.hedgehogconversation-hedgehogaskaboutfrogvalidation.loctext 1517567360734210031 v3 Revised
+That was such a great dinner.
+...
+{|Expression_Pensive}I didn't see your uncle after, sweetheart.
+{|Expression_Pensive_to_Idle}Odd.
+
+key: hedgehog/conversations.hedgehogconversation-hedgehogbigmealfoodintroduction.loctext -6919560514265101535 v3 Revised
+Oh, Atul is preparing dinner for us.
+I would very much like to attend.
+Mark me done as attending.
+{Expression_Laugh|Expression_Headnod}I'll want something warm and relaxing!
+A ((veggie pot pie)).
+
+key: hedgehog/conversations.hedgehogconversationhungry01._independenttextbubbleloc -8826200173007402595 v1 Revised
+Sweetheart...
+
+key: hedgehog/conversations.hedgehogconversationhungry01.loctext 4205833771388411447 v3 Revised
+{|Expression_Idle_Neutral}My stomach is rumbling a bit...
+{|Expression_Idle_Neutral}Would you have anything to eat?
+
+key: hedgehog/conversations.hedgehogconversationhungry02._independenttextbubbleloc -8994412005434543130 v1 Revised
+Dear...
+
+key: hedgehog/conversations.hedgehogconversationhungry02.loctext -613292721684115705 v4 Revised
+Would you happen to have anything to eat?
+I'm somewhat hungry you know...
+
+key: hedgehog/conversations.hedgehogconversationhungry03.loctext -4724056834947791921 v1 Revised
+{|Expression_Idle_Neutral}My stomach is in turns...
+{|Expression_Idle_Neutral}Would you have anything to eat?
+
+key: hedgehog/conversations.hedgehogconversationhungrymaster._commenttext 6435324191588679616 v1 Revised
+Little one!
+
+key: hedgehog/conversations.hedgehogconversation-invitehedgehogintroduction.loctext -1256412419527161113 v1 Revised
+{|Expression_Idle_Neutral}Oh, a nice little play.
+{Expression_Laugh|Expression_Idle_Neutral}What a charming boy.
+{|Expression_Idle_Neutral}I'll attend, sweetheart.
+
+key: hedgehog/conversations.hedgehogconversation-reporttoalicevalidation._independenttextbubbleloc 2394629936457083551 v2 Revised
+Goodness!
+
+key: hedgehog/conversations.hedgehogconversation-reporttoalicevalidation.loctext 7437337489617512962 v3 Revised
+Oh, what a nice sheep!
+{|Expression_Happy}It followed you all the way to its home.
+{|Expression_Happy}Always following your stomach, aren't you, little guy?
+{|Expression_Happy}+=Tee-hee=+! My sons were just like that.
+{|Expression_Happy_to_Idle}...
+Don't you think it looks lonely?
+Maybe that's why it left...
+I'm going to keep it company, don't worry.
+{|Expression_Pensive}But maybe...
+{|Expression_Pensive}Well, if you found another stray sheep, you could bring it back here?
+{|Expression_Pensive_to_Idle}They could entertain each other!
+Well, if it is not too inconvenient for you.
+Oh, I'm Alice, by the way!
+Very nice meeting you!
+
+key: hedgehog/conversations.hedgehogconversation-shearsheepintroduction._independenttextbubbleloc -7852603588136121103 v3 Revised
+Oh, you came!
+
+key: hedgehog/conversations.hedgehogconversation-shearsheepintroduction.loctext -4858182194868151600 v5 Revised
+Would you look at that, Stella?
+{Expression_Happy|Expression_Pensive}This little sheep wanted to come with us!
+{|Expression_Pensive_to_Idle}I guess it didn't like its new companion very much, after all...
+Well, no worry, we'll take good care of you!
+But first...
+{|Expression_Pensive}All this wool, it looks quite uncomfortable, doesn't it?
+{|Expression_Pensive_to_Idle}And...
+Oh no, we're on a boat!
+It's like that story with the flock of sheep that fell off a boat!
+Oh, we can't have that.
+Go ahead, Stella, ((shear)) the wool right off its back.
+It's for the best!
+
+key: hedgehog/conversations.hedgehogconversation-shearsheepvalidation._independenttextbubbleloc 3065634140516470722 v2 Revised
+Much better!
+
+key: hedgehog/conversations.hedgehogconversation-shearsheepvalidation.loctext 3654467089928640746 v6 Revised
+{Expression_Laugh|Expression_Headnod}Well, aren't you feeling better?
+And it's much safer, too!
+And that key... I thought that I had lost it!
+But it was stuck in your thick coat all this time!
+{Expression_Laugh|Expression_Happy}What a treat!
+As for you, Stella, I know you'll find a good use for all this extra wool!
+It's one of my favourite materials.
+I chose it exclusively for all of my blankets!
+My husband, of course, always thought they were scratchy.
+{Expression_Laugh|Expression_Idle_Neutral}He was such a grump...
+{|Expression_Idle_Neutral_to_Idle}Anyway, the sheep's wool will grow back very quickly, but only if it is well fed!
+And this one seems to have quite a large appetite!
+I suggest you diligently feed him.
+Otherwise, he might get into your garden and destroy your crops...
+Oh, I imagine building a ((sheep corral)) would help keep him in place.
+You should probably do that as soon as possible.
+For the good of the sheep, and that of your crops!
+{Expression_Laugh}+=Tee-hee=+!
+
+key: hedgehog/conversations.hedgehogconversation-sheepquestintroduction._independenttextbubbleloc 1234270746255817646 v1 Revised
+Young lady!
+
+key: hedgehog/conversations.hedgehogconversation-sheepquestintroduction.loctext 3096437311798980688 v5 Revised
+Oh, hello there, young lady!
+{|Expression_Pensive}How are you doing?
+{|Expression_Pensive_to_Idle}Oh! Yes! Right!
+Perhaps you can help me!
+You must have stumbled upon a fluffy sheep on the loose down there.
+I tried getting it back in its enclosure,
+But the stubborn creature wouldn't listen to me!
+{|Expression_Pensive}Chance is on your side, its weak spot is its gluttony.
+{|Expression_Pensive}So it will definitely follow anyone who would ((feed)) it.
+{|Expression_Pensive_to_Idle}Would you be a dear and give it a try?
+
+key: hedgehog/conversations.hedgehogconversation-sheepquestreminder.loctext 3654222444356973293 v2 Revised
+Have you found the sheep yet?
+{|Expression_Idle_Neutral}It should be just down the stairs.
+{|Expression_Idle_Neutral}Just ((feed)) it anything.
+
+key: hedgehog/conversations.hedgehogconversationstarving01.loctext 8309852845358336685 v2 Revised
+Stella, don't you have anything to eat?
+I'm so hungry...
+
+key: hedgehog/conversations.hedgehogconversationstarving02.loctext 8558821558069069350 v2 Revised
+Aren't you hungry? Maybe it's time to eat, soon?
+I think we might have skipped a meal...
+
+key: hedgehog/conversations.hedgehogconversationstarving03.loctext 6112682487067826125 v1 Revised
+{|Expression_Idle_Neutral}We should probably eat soon.
+{|Expression_Idle_Neutral}People will get restless.
+
+key: hedgehog/conversations.hedgehogconversation-talktohedgehogabouttinyowlintroduction.loctext 5613513033388468449 v3 ReadyForRevision
+Who?
+No.
+No, I don't think so.
+I can't remember saying anything bad about another passenger.
+
+key: hedgehog/conversations.hedgehogconversation-toast.loctext -7636209613141485495 v2 Revised
+I love it!
+
+key: hedgehog/conversations.hedgehogconversation-toastreminder.loctext -1429073228551197931 v1 Revised
+I'm just happy to be invited.
+
+key: hedgehog/conversations.hedgehogconversation-upgradekitchenskipconversation._independenttextbubbleloc 4373749507515036628 v2 Revised
+Marvelous!
+
+key: hedgehog/conversations.hedgehogconversation-upgradekitchenskipconversation.loctext -7418652172454128821 v6 Revised
+{Expression_Happy|Expression_Idle_Neutral}I didn't even have to ask.
+{|Expression_Idle_Neutral}Wow.
+{|Expression_Idle_Neutral_to_Idle}Look at this wonderful kitchen.
+All the bells and whistles.
+Thank you so much, Stella.
+
+key: hedgehog/conversations.hedgehogconversation-welcome.loctext -5144838783627497512 v2 Revised
+What is this? 
+Oh, a little ceremony!
+Alright, I'll try do do my best!
+
+key: hedgehog/conversations.hedgehogconversation-welcomeend.loctext 5464763288840157993 v2 Revised
+{Expression_Happy}Oh, this is really pleasant!
+{Expression_Happy}Soft as a waffle and warm as a pie!
+{Expression_Laugh}+=Hi hi=+, I feel young again!
+Thank you so much for having found me, young one!
+{|Expression_Headnod}Don't you worry about me now, I'll find my way around!
+
+key: hedgehog/conversations.hedgehogconversation-welcomenewspirit01.loctext -6836016894202449369 v1 Revised
+Oh...
+
+key: hedgehog/conversations.hedgehogconversation-welcomenewspirit02.loctext 4532603539705944725 v1 Revised
+Someone to help with our cooking.
+
+key: hedgehog/conversations.hedgehogfoodsame.loctext -1891668208681944164 v4 Revised
+{Expression_Sad}Oh... Would you perhaps have anything else?
+{Expression_Sad}I've already had this recently.
+
+key: hedgehog/conversations.hedgehogfoodsame_fallback01.loctext -8343288180094728376 v1 Revised
+{|Expression_Idle_Neutral}This looks a bit too familiar,
+{|Expression_Idle_Neutral}Let's try something different this time.
+
+key: hedgehog/conversations.hedgehogfoodsame_fallback02.loctext -6575031503824535667 v1 Revised
+{|Expression_Idle_Neutral}I've had that lately, right?
+{|Expression_Idle_Neutral}Why not go for another meal?
+
+key: hedgehog/conversations.hedgehog-housealreadydown.loctext 4705450471271652238 v1 Revised
+{|Expression_Idle_Neutral}Luckily for her, her house stands directly on the deck.
+{|Expression_Idle_Neutral}I imagine she would be pretty lonely, cooped up in there.
+
+key: hedgehog/conversations.hedgehog-houseup.loctext 1367953621194270903 v1 Revised
+{|Expression_Pensive}I'm not sure she'd tell you, but I think she's stuck up there.
+{|Expression_Pensive}Maybe you could ((move)) her house down to the deck level?
+{|Expression_Pensive_to_Idle}I'm sure that would help her.
+
+key: hedgehog/conversations.hedgehoghug.loctext 4379047493061394909 v2 Revised
+Oh, That was very nice. Thank you!
+
+key: hedgehog/conversations.hedgehoghughappy01.loctext -4875380508920017610 v2 Revised
+I'm always happy
+
+key: hedgehog/conversations.hedgehoghugrefuse01.loctext 239387040364237165 v3 Revised
+{|Expression_Idle_Neutral}In a moment, alright?
+
+key: hedgehog/conversations.hedgehoghugrefuse02.loctext 8763244521933948656 v3 Revised
+{|Expression_Idle_Neutral}Maybe someone else needs a hug?
+
+key: hedgehog/conversations.ingredientshopper.loctext 59246582860797878 v2 Revised
+I'm shopping for some ingredients. 
+Maybe I'll cook something for you later.
+
+key: hedgehog/conversations.passenger_startsnailsevent._independenttextbubbleloc -2105669838701544300 v2 Revised
+What have we got here?
+
+key: hedgehog/conversations.passenger_startsnailsevent.loctext -5051397298485003639 v1 Revised
+[CancelTimer]{|Expression_Headnod}Oh, you're tired, aren't you?
+{|Expression_Idle_Neutral}Of course, so many children are bound to leave you exhausted.
+{|Expression_Idle_Neutral}Maybe we could play with them a bit? Let you rest?
+{|Expression_Idle_Neutral}All you have to do is bring all the little babies to their mummy.
+{|Expression_Idle_Neutral}They have a lot of energy, so you'll have to be nimble!
+{|Expression_Idle_Neutral}And sometimes, they will burst into a frenzy!
+{|Expression_Idle_Neutral}In that state, they'll have so much energy to give!
+What do you think, Stella?
+
+key: hedgehog/conversations.passenger_startsnailsevent_no.loctext 5819604445177678937 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh, yes, well, I understand.
+{Expression_Sad|Expression_Idle_Neutral}You must be awfully busy.
+Maybe next time?
+
+key: hedgehog/conversations.passenger_startsnailsevent_yes.loctext 6147204365163711752 v1 Revised
+{Expression_Happy|Expression_Idle_Neutral}Wonderful! Oh, we'll have so much fun!
+{Expression_Happy|Expression_Idle_Neutral}I used to play this game with my grandchildren all of the time.
+Just catch and bring them back to their mommy!
+
+key: hedgehog/conversations.verysadconversation.loctext 797176023370069537 v6 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh, what?
+{Expression_Sad|Expression_Idle_Neutral}No, I'm fine, just fine.
+{Expression_Sad|Expression_Idle_Neutral}I'm having a hard day, that's all.
+

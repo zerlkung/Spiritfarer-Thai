@@ -1,0 +1,6 @@
+key: achievements/twelve_monkey_quest_completed.description -5499844066818782432 v3 Revised
+ทำธุระให้ฟรานซิสครบ 12 ครั้ง
+
+key: achievements/twelve_monkey_quest_completed.name -5768809522437608054 v1 Revised
+Twelve Monkeys
+

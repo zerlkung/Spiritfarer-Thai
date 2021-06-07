@@ -1,0 +1,3707 @@
+key: denizens/conversations.0.loctext -6911090369108684748 v1 Revised
+Oh! Erm...Hi, erm... I... erm...
+Yes! Huh-huh. Erm...
+Well, bye!
+
+key: denizens/conversations.cafedenizen_c1_owldeskquest_talktogirlfriend.loctext -8779497182447577503 v2 Revised
+{|Expression_Idle_Neutral}Oh, hello there! Will you be having something?
+{|Expression_Idle_Neutral}You're looking for someone? A famous woodworker?
+{|Expression_Idle_Neutral}Oh, sure, of course. You're talking about my boyfriend.
+{|Expression_Idle_Neutral}Or I should say my +=ex=+ boyfriend.
+{|Expression_Idle_Neutral}I kicked him out of my house. Call it a disagreement.
+{|Expression_Idle_Neutral}We haven't talked in a while, so I'm not sure where he could be.
+{|Expression_Idle_Neutral}But as I know him, he's probably just hanging around in a park somewhere.
+{|Expression_Idle_Neutral}I know he has a favorite spot somewhere in ((Ambertown Park)).
+{|Expression_Idle_Neutral}He was never much of a doer...
+
+key: denizens/conversations.cafedenizen_c1_owldeskquest_talktogirlfriend_reminder.loctext -4948859747242821699 v1 Revised
+{|Expression_Idle_Neutral}Have you found him yet?
+{|Expression_Idle_Neutral}He's probably just wasting his time daydreaming in the park.
+
+key: denizens/conversations.cafedenizen_c1_owldeskquest_talktogirlfriendagain.loctext 2392833187275045226 v2 Revised
+{|Expression_Headnod}Found him yet?
+{|Expression_Idle_Neutral}+=What?=+
+{|Expression_Idle_Neutral}How much? 450,000 ((glims))?
+{|Expression_Idle_Neutral}Seriously, what a hack! 
+{|Expression_Idle_Neutral}That's way above what he normally charges!
+{|Expression_Idle_Neutral}Where did he even get that num...
+{|Expression_Idle_Neutral}Oh. 
+{|Expression_Idle_Neutral}I understand, now...
+{|Expression_Idle_Neutral}The apartment next to mine is currently on the market.
+{|Expression_Idle_Neutral}The asking price is 450,000 ((glims)), non negotiable.
+{|Expression_Idle_Neutral}Very subtle, man.
+{|Expression_Idle_Neutral}Also very creepy.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}You know what? I can't just let him fend on his own. He's so helpless.
+{|Expression_Idle_Neutral}It's only been three days and he's already started conning innocent bystanders.
+{|Expression_Idle_Neutral}Besides... I was already planning on letting him move back in.
+{|Expression_Idle_Neutral}I just wanted to teach him a lesson.
+{|Expression_Idle_Neutral}Just tell him he can come back, ok?
+{|Expression_Idle_Neutral}But make sure he understands: from now on, he HAS to do some chores.
+{|Expression_Idle_Neutral}I can't do everything for him! I'm not his mom!
+
+key: denizens/conversations.cafedenizen_c1_owldeskquest_talktogirlfriendagain_reminder.loctext 7276061610371491789 v1 Revised
+{|Expression_Idle_Neutral}Just tell him to come back.
+
+key: denizens/conversations.cultistdenizen_fallback.loctext 276773529315369353 v1 Revised
+{|Expression_Idle_Neutral}Oh, you're still here?
+{|Expression_Idle_Neutral}Erm...
+{|Expression_Idle_Neutral}Hi?
+{|Expression_Idle_Neutral}Good talk.
+{|Expression_Idle_Neutral}Bye now!
+
+key: denizens/conversations.cultistdenizen_intro.loctext 3503634215037237908 v4 Revised
+{|Expression_Idle_Neutral}Oh! Erm...Hi, erm... I... erm...
+{|Expression_Idle_Neutral}Yes! Huh-huh. Erm...
+{|Expression_Idle_Neutral}I'm just, huh, you know...
+{|Expression_Idle_Neutral}Erm...
+{|Expression_Idle_Neutral}Well, bye!
+
+key: denizens/conversations.cultistdenizen_intro2.loctext 5969836282339115489 v3 Revised
+{|Expression_Idle_Neutral}Huh? What I'm doing here?
+{|Expression_Idle_Neutral}I'm preparing for... erm... I mean...
+{|Expression_Idle_Neutral}I'm...
+{|Expression_Idle_Neutral}Huh.
+{|Expression_Idle_Neutral}Oh! I'm waiting on a friend!
+{|Expression_Idle_Neutral}Yes, that's it.
+{|Expression_Idle_Neutral}-=+=a Friend.=+=-
+
+key: denizens/conversations.cultistdenizen_offeringstolencomment1.loctext 7862544943143086044 v4 Revised
+{|Expression_Idle_Neutral}Oh no! My offerings! Stop that!
+
+key: denizens/conversations.cultistdenizen_offeringstolencomment2.loctext -695162286217193310 v3 Revised
+{|Expression_Idle_Neutral}She's not going to like it...
+
+key: denizens/conversations.cultistdenizen_offeringstolencomment3.loctext -322218555586598626 v3 Revised
+{|Expression_Idle_Neutral}Well, now she's really going to be angry.
+
+key: denizens/conversations.cultistdenizen_weirdcomment.loctext -4657491847588521060 v6 Revised
+{|Expression_Idle_Neutral}Say...
+{|Expression_Idle_Neutral}You wouldn't... erm... by any chance...
+{|Expression_Unhappy}You wouldn't happen to carry some live... erm... animal?
+{|Expression_Unhappy}Like a goat, maybe? Or a chicken?
+{|Expression_Unhappy}It's for my unholy sacrif...
+{|Expression_Unhappy}- erm, I mean, it's for my friend!
+{|Expression_Surprise}Oh, you have a cat? 
+{|Expression_Surprise}No, no, my friend is not really a cat person, but thanks anyway.
+{|Expression_Surprise}...
+{|Expression_Surprise}Okay, bye!
+
+key: denizens/conversations.defaultconversation.loctext -6228392100469240680 v1 Revised
+...
+
+key: denizens/conversations.denizen_balcony_call.loctext 5095998647097922392 v9 Revised
+{|Expression_Surprise}Hey! You!
+{|Expression_Surprise}Yes, you!
+{|Expression_Idle_Neutral}Your friend really gave that greedy merchant some hell.
+{|Expression_Idle_Neutral}You both look like you could possibly join the Upstairs Crew. 
+{|Expression_Idle_Neutral}You wanna come up, don't you?
+{|Expression_Idle_Neutral}I can see it in your eyes.
+{|Expression_Idle_Neutral}I'm not gonna lie, it is pretty cool, being up here.
+{|Expression_Idle_Neutral}Yeah, all the best people are up here.
+{|Expression_Idle_Neutral}Don't get too excited, though.
+{|Expression_Idle_Neutral}Some idiot broke the ladder.
+{|Expression_Idle_Neutral}You'd have to be able to ((jump)) inhumanly high to make it!
+{|Expression_Idle_Neutral}I guess you could also use the stairs in that house.
+{|Expression_Idle_Neutral}But some other idiot lost the key!
+{|Expression_Idle_Neutral}Well, anyway, see ya!
+{|Expression_Idle_Neutral}Upstairs Crew forever!
+
+key: denizens/conversations.denizen_balcony_conversation.loctext -5989398126097598065 v3 Revised
+{|Expression_Idle_Neutral}Upstairs Crew forever!
+
+key: denizens/conversations.denizen_balcony_spiritcall._independenttextbubbleloc 1600149903821373508 v2 Revised
+Good job!
+
+key: denizens/conversations.denizen_balcony_spiritcall.loctext -7848916188195695613 v8 Revised
+{|Expression_Idle_Neutral}You made it.
+{|Expression_Idle_Neutral}Wicked moves getting up here!
+
+key: denizens/conversations.denizen_balcony_spiritcall_key._independenttextbubbleloc 8519683309270831936 v1 Revised
+What the hell?
+
+key: denizens/conversations.denizen_balcony_spiritcall_key.loctext 2353848629861915250 v2 Revised
+{|Expression_Unhappy}You unlocked the door downstairs.
+{|Expression_Unhappy}Now anyone can come up here.
+{|Expression_Unhappy}I don't want these downstairs jerks up here.
+
+key: denizens/conversations.denizen_balcony_spiritcall_skip.loctext 6720272003491109578 v3 Revised
+{|Expression_Idle_Neutral}I kinda lied earlier.
+{|Expression_Unhappy}It's not so great up here.
+{|Expression_Idle_Neutral}But you're here so it might get better.
+{|Expression_Idle_Neutral}I don't have a membership card for you.
+{|Expression_Idle_Neutral}You'll be an honorary member of the Upstairs Crew.
+{|Expression_Unhappy}I'd show you the secret handshake, but I don't know where your hands have been.
+
+key: denizens/conversations.denizen-a1-adriftsister-conversation01.loctext 2166993120492116490 v5 Revised
+{|Expression_Empathy}Oh dear.
+{|Expression_Empathy}Lost at sea!!!
+{|Expression_Empathy_to_Idle}He always does this.
+{|Expression_Idle_Neutral}He always has an excuse.
+{|Expression_Idle_Neutral}Last year, it was a new girlfriend.
+{|Expression_Idle_Neutral}The year before was the bad economy.
+{|Expression_Idle_Neutral}How can I be sure you're not some strange person he paid to invent a story.
+{|Expression_Idle_Neutral}He might be relaxing in the sun somewhere.
+{|Expression_Idle_Neutral}Here give him this, if you're telling the truth.
+{|Expression_Idle_Neutral}Hopefully that snaps him out of it.
+
+key: denizens/conversations.denizen-a1-comment-tooclose01.loctext 3748096912161283962 v1 Revised
+A fair distance, please!
+
+key: denizens/conversations.denizen-a1-comment-tooclose02.loctext -2941299830582506210 v1 Revised
+I'm trying to give a tour!
+
+key: denizens/conversations.denizen-a1-comment-tooclose03.loctext -2370098149462507002 v1 Revised
+Please, stop that.
+
+key: denizens/conversations.denizen-a1-conversation-hideout01.loctext 7545375224612858526 v12 Revised
+{|Expression_Idle_Neutral}I never want to go back home.
+{|Expression_Happy}Being here is sublime.
+{|Expression_Happy_to_Idle}If you want to stay at my place, you're more than welcome.
+{|Expression_Surprise}Here's my key.
+{|Expression_Surprise_to_Idle}If the door stays jammed, you just have to give it a good tug.
+{|Expression_Idle_Neutral}It always gets stuck.
+{|Expression_Idle_Neutral}I want to enjoy this view forever.
+
+key: denizens/conversations.denizen-a1-conversation-hideout02.loctext 8852604500656275151 v1 Revised
+{|Expression_Idle_Neutral}Look at that mountain!
+{|Expression_Idle_Neutral}It's so real, it's like a drawing.
+
+key: denizens/conversations.denizen-a1-conversation-mom-boyseen.loctext -8307985075226619628 v6 Revised
+{|Expression_Empathy}My son should be home by now!
+{|Expression_Empathy_to_Idle}It all that sugar in his body.
+{|Expression_Idle_Neutral}I'm going to ask you straight.
+{|Expression_Idle_Neutral}Have you seen my son?
+
+key: denizens/conversations.denizen-a1-conversation-mom-boyunseen.loctext 9136351131473351928 v6 Revised
+{|Expression_Idle_Neutral}Where is that child!?
+{|Expression_Idle_Neutral}I've been looking for him all over.
+{|Expression_Idle_Neutral}He's been acting all sorts of strange.
+{|Expression_Idle_Neutral}I think he must have eaten a bad fruit or something.
+{|Expression_Headnod}If you see him, tell him his mother is looking for me.
+{|Expression_Idle_Neutral}Don't mention that I'm extremely mad.
+
+key: denizens/conversations.denizen-a1-conversation-mom-completed.loctext -456358516573220680 v4 Revised
+{|Expression_Unhappy}Sorry, I can't hear you.
+{|Expression_Unhappy}I can't hear liars!
+
+key: denizens/conversations.denizen-a1-conversation-mom-lampcompleted01.loctext -5241163127101427216 v2 Revised
+{|Expression_Headnod}Thank you for coming back and telling me that.
+{|Expression_Idle_Neutral}I knew he would come back eventually.
+{|Expression_Idle_Neutral}He's my good little sugar-filled boy, after all.
+
+key: denizens/conversations.denizen-a1-conversation-mom-lampcompleted02.loctext 9185126038766157241 v1 Revised
+{|Expression_Idle_Neutral}I'll just wait here patiently for my son to come back.
+
+key: denizens/conversations.denizen-a1-conversation-mom-lampvalidated01.loctext -3847569004711981840 v5 Revised
+{|Expression_Idle_Neutral}What!?
+{|Expression_Idle_Neutral}The goats!
+{|Expression_Idle_Neutral}The thin air!
+{|Expression_Idle_Neutral}My boy...
+
+key: denizens/conversations.denizen-a1-conversation-mom-lampvalidated02.loctext -4330916212338037688 v4 Revised
+{|Expression_Surprise}You've really cursed this family with all your meddling!
+{|Expression_Idle_Neutral}Why come here and terrorize us?
+{|Expression_Unhappy}I will not forget you.
+
+key: denizens/conversations.denizen-a1-conversation-mom-lampvalidated03.loctext 22634998265261282 v1 Revised
+{|Expression_Idle_Neutral}Get out of my sight.
+
+key: denizens/conversations.denizen-a1-conversation-mom-validated.loctext 3156114433607059701 v3 Revised
+{|Expression_Unhappy}The truth will always set you free.
+{|Expression_Unhappy}I wish my son would just be straight with me.
+
+key: denizens/conversations.denizen-a1-lampcompleted.loctext 5231372649567458352 v3 Revised
+{|Expression_Pensive}Don't worry, I won't run away.
+{|Expression_Pensive}I just like giving my mom a hard time.
+I'm just a sugar-filled kid, as she would say!
+
+key: denizens/conversations.denizen-a1-lampmomunseen.loctext 7087743818838912615 v4 Revised
+{|Expression_Happy}You've got some moves!
+{|Expression_Happy}I come up here to see everyone from up high.
+{|Expression_Happy}Everyone is so small.
+{|Expression_Idle_Neutral}I feel big and strong.
+{|Expression_Idle_Neutral}If you run into my mom, just don't tell her I'm here.
+{|Expression_Idle_Neutral}I want this feeling to last a little bit longer.
+
+key: denizens/conversations.denizen-a1-lamp-no.loctext -1862883339751036119 v9 Revised
+{|Expression_Surprise}Good!
+{|Expression_Surprise}She's been getting on my nerves lately.
+{|Expression_Surprise}I've been thinking of buying a goat and living where the air gets really thin.
+{|Expression_Surprise_to_Idle}I don't know why I'm telling my life's story.
+{|Expression_Headnod}Probably because you didn't rat me out to my mom.
+{|Expression_Idle_Neutral}Thanks, I guess.
+{|Expression_Idle_Neutral}I'll cool off a bit and go home in a few.
+{|Expression_Idle_Neutral}I do like it there.
+{|Expression_Idle_Neutral}I don't even know where to even buy a goat!
+
+key: denizens/conversations.denizen-a1-lampseenmom.loctext -4639068917346426726 v2 Revised
+{|Expression_Idle_Neutral}You look like you're on a mission.
+{|Expression_Idle_Neutral}Let me guess!
+{|Expression_Surprise}My mom sent you, right?
+
+key: denizens/conversations.denizen-a1-lampvalidated01.loctext 236703543658252078 v7 Revised
+{|Expression_Idle_Neutral}Thanks to you, I don't think I'll ever be going home.
+{|Expression_Idle_Neutral}I'm gonna find a nice little spot in the mountains.
+{|Expression_Idle_Neutral}It will be me and the goats from now on!
+
+key: denizens/conversations.denizen-a1-lampvalidated02.loctext 3709289352318911343 v6 Revised
+{|Expression_Idle_Neutral}You've really given me a new purpose in life.
+{|Expression_Pensive}Now where do I buy a goat?
+{|Expression_Pensive_to_Idle}Or is a sheep the same thing!
+
+key: denizens/conversations.denizen-a1-lampvalidated03.loctext 8174222120171867865 v1 Revised
+{|Expression_Idle_Neutral}I can't wait to start my new life in the mountains with my goat or sheep friend!
+
+key: denizens/conversations.denizen-a1-lamp-yes.loctext -1034086709779013158 v7 Revised
+{|Expression_Idle_Neutral}It was a matter of time.
+{|Expression_Idle_Neutral}I like being on this lamp post.
+{|Expression_Idle_Neutral}I like taking my time.
+{|Expression_Idle_Neutral}If that doesn't gel with my mom and her conception of time, well too bad!
+{|Expression_Idle_Neutral}Her house, her rules: I don't think so.
+{|Expression_Idle_Neutral}I'm gonna go live in the mountains and not bother anyone.
+{|Expression_Idle_Neutral}Let's see if she likes that.
+
+key: denizens/conversations.denizen-a1-plaque01.loctext -8601891551212541881 v8 Revised
+[Start]{|Expression_Idle_Neutral}+=I=+
+{|Expression_Idle_Neutral}+=Am=+
+{|Expression_Idle_Neutral}+=the Oracle=+
+{|Expression_Idle_Neutral}I see... visions of deception and hardship ahead.
+{|Expression_Idle_Neutral}I see... loss, sorrow, and pain.
+{|Expression_Idle_Neutral}I see... hope, love and joy.
+{|Expression_Idle_Neutral}You will return to the world, with a token of passage.
+{|Expression_Idle_Neutral}A piece of soul, already paid.
+{|Expression_Idle_Neutral}An item of immense value.
+{|Expression_Idle_Neutral}An ((obol)).
+{|Expression_Idle_Neutral}But Spiritfarer, this is not what you came here for.
+{|Expression_Idle_Neutral}You came here seeking answers.
+{|Expression_Idle_Neutral}You will find these answers in those simple numbers.
+{|Expression_Idle_Neutral}((-185)), ((-92)).
+{|Expression_Idle_Neutral}Those symbols will show you the way.
+{|Expression_Idle_Neutral}The receptacle of light awaits.
+
+key: denizens/conversations.denizen-a1-plaquedefault.loctext 6795085314126430803 v4 Revised
+A mysterious shrine awaits you ((-185)), ((-92)).
+
+key: denizens/conversations.denizen-a1-randomconversation01.loctext -7317270689860658472 v2 Revised
+{|Expression_Idle_Neutral}I live a simple life.
+
+key: denizens/conversations.denizen-a1-randomconversation02.loctext 3980184086683362015 v2 Revised
+{|Expression_Idle_Neutral}The word moist should be outlawed.
+
+key: denizens/conversations.denizen-a1-randomconversation03.loctext 501937905292147746 v4 Revised
+{|Expression_Idle_Neutral}A rice patch needs constant nurturing.
+{|Expression_Idle_Neutral}It's a full-time job.
+{|Expression_Idle_Neutral}I'd rather eat mangos and watch the sunset.
+
+key: denizens/conversations.denizen-a1-randomconversation04.loctext -3962155249268169229 v2 Revised
+{|Expression_Idle_Neutral}I should get back to it.
+
+key: denizens/conversations.denizen-a1-randomconversation05.loctext 7917034841900274987 v5 Revised
+{|Expression_Surprise}No thank you, I don't want to buy your magazine subscription or whatever you're selling.
+
+key: denizens/conversations.denizen-a1-randomconversation06.loctext -4976417547744098039 v1 Revised
+Hello to you too.
+
+key: denizens/conversations.denizen-a1-randomconversation07.loctext -105412426937873187 v1 Revised
+Hi there.
+
+key: denizens/conversations.denizen-a1-tourguide-conversation01.loctext -4133229559852481498 v2 Revised
+The tour will commence soon.
+I'll be calling out when I'm ready.
+
+key: denizens/conversations.denizen-a1-tourguide-conversationaftertour.loctext 153630545662796007 v2 Revised
+Thank you again for your time.
+
+key: denizens/conversations.denizen-a1-tourguide-conversationduringtour.loctext -3278127885326513459 v2 Revised
+I'm in the middle of a tour!
+
+key: denizens/conversations.denizen-a1-tourguide-reminder.loctext -5813335525942123593 v1 Revised
+Are you ready to start the tour now?
+
+key: denizens/conversations.denizen-a1-tourguide-starttour-no.loctext -773056924649747652 v2 Revised
+I understand.
+Take your time.
+
+key: denizens/conversations.denizen-a1-tourguide-starttour-yes.loctext 6194232802974347955 v2 Revised
+Perfect.
+Let's start right away.
+
+key: denizens/conversations.denizen-a1-tourguide-stopfourintro._independenttextbubbleloc 588920711828821338 v1 Revised
+Speaking of which...
+
+key: denizens/conversations.denizen-a1-tourguide-stopfourskip._independenttextbubbleloc -7759067539135507677 v1 Revised
+Okay...
+
+key: denizens/conversations.denizen-a1-tourguide-stoponeintro._independenttextbubbleloc 2218287974695458505 v4 Revised
+Here...
+
+key: denizens/conversations.denizen-a1-tourguide-stoponeintro.loctext 4656327472844778164 v16 Revised
+{|Expression_Idle_Neutral}This shrine was built using only the finest metals.
+{|Expression_Idle_Neutral}From the ashes of the past Guardian Tower, these shrines tell the story of our past.
+{|Expression_Idle_Neutral}And that story is...
+{|Expression_Idle_Neutral}Give me a second...
+{|Expression_Idle_Neutral}I’m not sure actually.
+{|Expression_Idle_Neutral}Which is why it’s so important.
+{|Expression_Idle_Neutral}In my forgetfulness, I remember the purpose of this shrine.
+{|Expression_Pensive}The moral being, of course, “always remember your heritage”.
+{|Expression_Pensive_to_Idle}A powerful thought.
+Let’s move on.
+
+key: denizens/conversations.denizen-a1-tourguide-stopthreeintro._independenttextbubbleloc 5520821932030765465 v2 Revised
+To begin...
+
+key: denizens/conversations.denizen-a1-tourguide-stopthreeintro.loctext -5919641757602303270 v9 Revised
+{|Expression_Idle_Neutral}A powerful symbol.
+{|Expression_Idle_Neutral}Erected to keep evil spirits away and bless this island for future generations.
+{|Expression_Idle_Neutral}You can sometimes see islanders stop by this tree in the middle of their journey home.
+{|Expression_Idle_Neutral}Maybe to remind themselves of a lost brother, their sick child, past lovers.
+{|Expression_Surprise}Legend does say that they have heard it talk sometimes.
+{|Expression_Surprise_to_Idle}Another piece of this island rich culture.
+{|Expression_Idle_Neutral}I personally have never experienced loss.
+{|Expression_Idle_Neutral}Some say I always think of my personal problems, never thinking of others.
+{|Expression_Idle_Neutral}Well, no matter, as long as I can carry on doing these tours.
+
+key: denizens/conversations.denizen-a1-tourguide-stoptwointro._independenttextbubbleloc -3730405915171741313 v2 Revised
+Ah...
+
+key: denizens/conversations.denizen-a1-tourguide-stoptwointro.loctext 5412774598978098512 v12 Revised
+{|Expression_Idle_Neutral}Since this is a vibrant city, we have a Raccoon Inc. location.
+{|Expression_Idle_Neutral}Considered by most to be the finest source of materials and wares.
+{|Expression_Idle_Neutral}It is also coincidentally the only merchant business in town.
+{|Expression_Idle_Neutral}Founded by Theodore Raccoon, these shops are a staple of a thriving economy.
+{|Expression_Surprise}A fun little fact, anyone who joins Raccoon Inc must legally change their name to Theodore.
+{|Expression_Surprise}I suppose it’s a way to honor their founder.
+{|Expression_Unhappy}Truly a sign of devotion.
+{|Expression_Idle_Neutral}I myself do not shop at this particular establishment.
+{|Expression_Idle_Neutral}I make my own clothes and furniture.
+{|Expression_Idle_Neutral}This isn't particularly noteworthy, but it is a small tidbit in your tour guide life.
+
+key: denizens/conversations.denizen-a1-tourguide-tip-no.loctext -4123004924316311815 v2 Revised
+...
+Alright, not everyone has some pocket change to spare.
+
+key: denizens/conversations.denizen-a1-tourguide-tip-yes.loctext -8592089078565041116 v6 Revised
+{|Expression_Happy}Amazing.
+{|Expression_Happy}I knew you had an educational spirit.
+{|Expression_Happy_to_Idle}Thank you for believing in my teaching aptitudes.
+
+key: denizens/conversations.denizen-a1-tourguide-tourguideintro._commenttext -347630023850197308 v1 Revised
+Oh, a visitor!
+
+key: denizens/conversations.denizen-a1-tourguide-tourguideintro.loctext 7842144716757020698 v3 Revised
+{|Expression_Idle_Neutral}Welcome to the world-renowned Furogawa Tours.
+{|Expression_Idle_Neutral}The tour will begin shortly.
+{|Expression_Idle_Neutral}It takes about five minutes and covers the rich history of this city.
+{|Expression_Idle_Neutral}After, you'll have so many anecdotes about this place.
+{|Expression_Idle_Neutral}You'll be the life of the party, if you ever attend one.
+{|Expression_Idle_Neutral}Ready?
+
+key: denizens/conversations.denizen-a1-tourguide-tourguideskip._independenttextbubbleloc -435243850053508152 v2 Revised
+Oh!
+
+key: denizens/conversations.denizen-a1-tourguide-tourguideskip.loctext 5678005528516176583 v4 Revised
+{|Expression_Idle_Neutral}A gratuity is expected if you enjoyed the tour.
+{|Expression_Idle_Neutral}Does 50 ((glims)) sound fair?
+
+key: denizens/conversations.denizen-a1-tourguide-tourguidevalidation._independenttextbubbleloc 8110673712766662009 v1 Revised
+Alright!
+
+key: denizens/conversations.denizen-a1-tourguide-tourguidevalidation.loctext 293713587717754340 v3 Revised
+{|Expression_Idle_Neutral}This concludes our tour.
+{|Expression_Idle_Neutral}Furogawa Tours is grateful for your participation.
+{|Expression_Idle_Neutral}Thank you for your ears and your patience.
+{|Expression_Idle_Neutral}Thank you again.
+
+key: denizens/conversations.denizen-a3-mineworker01-conversation01.loctext -6704077017493488833 v5 Revised
+{|Expression_Empathy}It's my first day on the job.
+{|Expression_Empathy}I have no idea what I'm doing.
+{|Expression_Empathy}No one is training me.
+{|Expression_Empathy_to_Idle}The place is falling apart.
+
+key: denizens/conversations.denizen-a3-mineworker02-conversation01.loctext 455739617663201629 v3 Revised
+{|Expression_Idle_Neutral}I think I'm supposed to train that guy over there.
+{|Expression_Unhappy}I really don't feel like it.
+{|Expression_Unhappy_to_Idle}I've been really tired over the past week or so.
+{|Expression_Idle_Neutral}I can't sleep at night.
+{|Expression_Idle_Neutral}Let's just hope he gets the hang of the job.
+{|Expression_Idle_Neutral}Without my help.
+
+key: denizens/conversations.denizen-a3-mineworker03-conversation01.loctext -8958514968195285314 v3 Revised
+{|Expression_Idle_Neutral}Management is coming today.
+{|Expression_Idle_Neutral}I better make a good impression.
+{|Expression_Idle_Neutral}I've been practicing my business face and all.
+{|Expression_Idle_Neutral}Hopefully they notice me in all this darkness.
+{|Expression_Idle_Neutral}From this mine to the boardroom.
+{|Expression_Idle_Neutral}Moving on up.
+
+key: denizens/conversations.denizen-a3-mineworker04-conversation01.loctext 4355037808995743304 v7 Revised
+{|Expression_Empathy}Alright, you got to get it together, Gregory.
+{|Expression_Empathy}This is your day.
+{|Expression_Empathy_to_Idle}Today is all about digging.
+{|Expression_Pensive}Any problems you have you leave at the door.
+{|Expression_Pensive}This is a new day.
+{|Expression_Pensive_to_Idle}Big breath.
+
+key: denizens/conversations.denizen-a3-mineworker05-conversation01.loctext 4611578393508269461 v13 Revised
+{|Expression_Surprise}Oh no!
+{|Expression_Surprise}Listen, I've been working here for ten years.
+{|Expression_Surprise}I dug this little hole to read a few months ago.
+{|Expression_Pensive_to_Idle}Don't tell anyone.
+{|Expression_Unhappy}You need to play it cool.
+{|Expression_Unhappy_to_Idle}I can't lose this job.
+{|Expression_Idle_Neutral}I also can't afford to work that hard.
+{|Expression_Idle_Neutral}My back really hurts.
+{|Expression_Unhappy}Take this.
+{|Expression_Unhappy_to_Idle}Call it a bribe, if you want.
+
+key: denizens/conversations.denizen-a3-mineworker05-conversation02.loctext 8751821580203067887 v1 Revised
+{|Expression_Idle_Neutral}Now, get out.
+{|Expression_Idle_Neutral}And remember.
+{|Expression_Idle_Neutral}No telling.
+
+key: denizens/conversations.denizen-a3-mineworker06-conversation01.loctext 2892886094570571128 v4 Revised
+{|Expression_Idle_Neutral}My manager is really stressed out.
+{|Expression_Idle_Neutral}He told me to be quiet today.
+{|Expression_Idle_Neutral}I shouldn't even be talking to you.
+
+key: denizens/conversations.denizen-a3-mineworker06-conversation02.loctext -5067943084104080739 v1 Revised
+{|Expression_Idle_Neutral}Quick.
+{|Expression_Idle_Neutral}Get out of here.
+{|Expression_Idle_Neutral}I can't be seen talking to you.
+
+key: denizens/conversations.denizen-a3-mineworker07-conversation01.loctext -7184816754249931308 v1 Revised
+{|Expression_Idle_Neutral}When you don't see the sun, you can imagine it's always noon.
+{|Expression_Idle_Neutral}That's what my boss says at meetings.
+
+key: denizens/conversations.denizen-a3-mineworker07-conversation02.loctext 5869660074386680595 v2 Revised
++=Which side are you on boys?=+
++=Which side are you on?=+
+
+key: denizens/conversations.denizen-a3-randomconversation01.loctext -6135044671280642040 v1 Revised
+{|Expression_Idle_Neutral}Back to work, I suppose.
+
+key: denizens/conversations.denizen-a3-randomconversation02.loctext -7142564756493354348 v1 Revised
+Hmm...
+
+key: denizens/conversations.denizen-a3-randomconversation03.loctext 5821221259690826101 v1 Revised
+{|Expression_Idle_Neutral}This day is going to be a long one.
+
+key: denizens/conversations.denizen-al-sitting-conversation01-afterbounce._commenttext -2749431567786842743 v1 Revised
+Oh!
+
+key: denizens/conversations.denizen-al-sitting-conversation01-afterbounce.loctext 4487280311624215772 v2 Revised
+{|Expression_Unhappy}Don't ruin my umbrella with your jumping and your bouncing.
+{|Expression_Unhappy}Let's keep it clean, please.
+
+key: denizens/conversations.denizen-al-sitting-conversation01-beforebounce.loctext -292127605288231502 v6 Revised
+{|Expression_Idle_Neutral}I like getting some sun here.
+{|Expression_Idle_Neutral}It's peaceful.
+{|Expression_Idle_Neutral}Sometimes, it isn't!
+{|Expression_Idle_Neutral}Especially, when people love to jump on this umbrella.
+{|Expression_Idle_Neutral}They jump up and down.
+{|Expression_Unhappy}Up and down.
+{|Expression_Idle_Neutral}They love to ((bounce)) on the thing.
+{|Expression_Idle_Neutral}It drives me out of my skin.
+{|Expression_Idle_Neutral}Nothing else I can do but complain, I suppose.
+
+key: denizens/conversations.denizen-al-sitting-conversation02-afterbounce.loctext -2720418211599128932 v2 Revised
+{|Expression_Idle_Neutral}Oh well, do what you want!
+{|Expression_Idle_Neutral}My poor umbrella.
+
+key: denizens/conversations.denizen-al-sitting-conversation02-beforebounce.loctext -7574775088258489471 v4 Revised
+{|Expression_Idle_Neutral}I should get back to my book.
+{|Expression_Idle_Neutral}But, I'm afraid of kids bouncing on this umbrella.
+
+key: denizens/conversations.denizen-al-sitting-talkaboutbounceintroduction._independenttextbubbleloc 3436394541416093685 v1 Revised
+Stop that!
+
+key: denizens/conversations.denizen-al-sitting-talkaboutbounceintroduction.loctext -5709022624824991154 v1 Revised
+What are you doing?
+You are ruining this very pleasant day!
+Stop that bouncing right this instant!
+
+key: denizens/conversations.denizen-al-sitting-talkaboutbounceintroduction-conditionalchainconversations_nobounce_conversation.loctext -1984338969808746545 v1 Revised
+{|Expression_Idle_Neutral}You just can't come here and ((bounce)) like some kind of overexcited youth.
+{|Expression_Idle_Neutral}You're stressing me out.
+{|Expression_Unhappy}You need to calm down!
+{|Expression_Idle_Neutral}Here's some free advice.
+{|Expression_Idle_Neutral}You'll never be able to get up there.
+{|Expression_Unhappy}I've seen people with better legs than you try.
+{|Expression_Unhappy}...
+{|Expression_Idle_Neutral}Fine!
+{|Expression_Idle_Neutral}If you really want to, you'll need two things.
+{|Expression_Idle_Neutral}First up, a good attitude.
+{|Expression_Idle_Neutral}That just applies to life in general.
+{|Expression_Idle_Neutral}Everything is in the attitude.
+{|Expression_Unhappy}Then, you need to visualise bouncing higher.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Or...
+{|Expression_Idle_Neutral}I don't know.
+{|Expression_Idle_Neutral}Learn a new skill!
+{|Expression_Idle_Neutral}I'm sure you'll figure something out.
+{|Expression_Idle_Neutral}You'll learn how to ((bounce)) someday.
+{|Expression_Idle_Neutral}I just know that you can't get up there without a combination of things.
+{|Expression_Idle_Neutral}A calm and cool attitude, and more leg power!
+
+key: denizens/conversations.denizen-al-sitting-talkaboutbounceintroduction-conditionalchainconversations_withbounce_conversation.loctext -6900275791967795946 v1 Revised
+{|Expression_Idle_Neutral}I know you can ((bounce)) on that.
+{|Expression_Idle_Neutral}That doesn't mean you should do it all day every day! 
+
+key: denizens/conversations.denizen-al-sitting-talkaboutbounceintroduction-conditionalchainconversations_withbounce_conversation-chainconversation.loctext -7851627209989115317 v1 Revised
+{|Expression_Unhappy}Now, stop it!
+{|Expression_Unhappy}I'm just a simple person who doesn't like it when people jump on my umbrella!
+
+key: denizens/conversations.denizenar1_secretarea.loctext -7261025897684557376 v9 Revised
+{|Expression_Pensive}Leaving what could have been...
+{|Expression_Pensive}...is sometimes harder than leaving what has been.
+
+key: denizens/conversations.denizen-ar1-comment-tooclose01.loctext -8147358062536731282 v1 Revised
+Don't get too close!
+
+key: denizens/conversations.denizen-ar1-comment-tooclose02.loctext -5348054754935518247 v1 Revised
+I'm giving a tour here!
+
+key: denizens/conversations.denizen-ar1-comment-tooclose03.loctext -6210276416180108580 v2 Revised
+Step off, please.
+
+key: denizens/conversations.denizen-ar1-tourguide-conversation01.loctext -472848270312042470 v1 Revised
+{|Expression_Idle_Neutral}The tour is about to start.
+{|Expression_Idle_Neutral}I'll be calling out when I'm ready.
+
+key: denizens/conversations.denizen-ar1-tourguide-conversationaftertour.loctext 8424298723750815355 v3 Revised
+Thank you for taking the tour.
+Don't forget to tell your friends.
+
+key: denizens/conversations.denizen-ar1-tourguide-conversationduringtour.loctext -7420480998647097961 v2 Revised
+I'm in the middle of a tour!
+
+key: denizens/conversations.denizen-ar1-tourguide-reminder.loctext 6644532970239580609 v2 Revised
+{|Expression_Idle_Neutral}Are you ready to start the tour now?
+
+key: denizens/conversations.denizen-ar1-tourguide-starttour-no.loctext -7008322686319298296 v1 Revised
+{|Expression_Idle_Neutral}Oh.
+{|Expression_Idle_Neutral}I understand.
+
+key: denizens/conversations.denizen-ar1-tourguide-starttour-yes.loctext -5430446933987893855 v1 Revised
+{|Expression_Idle_Neutral}Perfect.
+{|Expression_Idle_Neutral}Let's start right away.
+
+key: denizens/conversations.denizen-ar1-tourguide-stopfourintro._independenttextbubbleloc -7801860452674666588 v2 Revised
+Speaking of which...
+
+key: denizens/conversations.denizen-ar1-tourguide-stopfourintro.loctext -3536155467196746491 v1 Revised
+This fortune tree is the centerpiece of this whole island.
+{|Expression_Idle_Neutral}We are not sure when it was first planted.
+People from all around would travel here and leave little messages.
+{|Expression_Idle_Neutral}Anything to help with their lives.
+
+key: denizens/conversations.denizen-ar1-tourguide-stopfourskip._independenttextbubbleloc 5765019999634165885 v2 Revised
+Ah!
+
+key: denizens/conversations.denizen-ar1-tourguide-stopfourskip.loctext 803175232719649164 v4 Revised
+I don't know who this is?
+Don't mind her.
+
+key: denizens/conversations.denizen-ar1-tourguide-stoponeintro._independenttextbubbleloc 5742133058458641706 v2 Revised
+As you can see...
+
+key: denizens/conversations.denizen-ar1-tourguide-stoponeintro.loctext -631754554326219855 v1 Revised
+{|Expression_Idle_Neutral}This island doesn't get many visitors.
+{|Expression_Idle_Neutral}People tend to focus on big-city attractions.
+{|Expression_Idle_Neutral}Here... it's peaceful and quiet.
+{|Expression_Idle_Neutral}That's something you'll notice with the fauna.
+{|Expression_Idle_Neutral}Rice patches and a healthy forest are its main attraction.
+{|Expression_Idle_Neutral}Moving on.
+
+key: denizens/conversations.denizen-ar1-tourguide-stopthreeintro._independenttextbubbleloc 3159177740035119266 v2 Revised
+Alright.
+
+key: denizens/conversations.denizen-ar1-tourguide-stopthreeintro.loctext 5025108300924209661 v2 Revised
+{|Expression_Idle_Neutral}You can feel the humidity.
+{|Expression_Idle_Neutral}I mean... really feel it.
+{|Expression_Idle_Neutral}This oak forest really gets to me.
+{|Expression_Idle_Neutral}We have a connection.
+{|Expression_Idle_Neutral}A strange connection.
+{|Expression_Idle_Neutral}I tend to skip this part of the tour, to be honest.
+{|Expression_Idle_Neutral}If we could move along, that would be great.
+
+key: denizens/conversations.denizen-ar1-tourguide-stoptwointro._independenttextbubbleloc -2535400275240879472 v2 Revised
+Over here.
+
+key: denizens/conversations.denizen-ar1-tourguide-stoptwointro.loctext 4485049714167288872 v1 Revised
+{|Expression_Idle_Neutral}The rice production here is quite incredible.
+{|Expression_Idle_Neutral}Workers harvest around the clock to feed local families.
+{|Expression_Idle_Neutral}Right now, no one is around.
+{|Expression_Idle_Neutral}I am not sure why.
+{|Expression_Idle_Neutral}I sometimes play in them when I am off duty.
+{|Expression_Idle_Neutral}But that's beside the point.
+{|Expression_Idle_Neutral}Off to our next stop.
+
+key: denizens/conversations.denizen-ar1-tourguide-tip-no.loctext -9134023496571370423 v3 Revised
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Well, that's alright.
+{|Expression_Idle_Neutral}I'm making enough without it.
+{|Expression_Surprise}I'll go ahead and sign you up to our newsletter.
+{|Expression_Unhappy}Maybe the next guide will be luckier.
+
+key: denizens/conversations.denizen-ar1-tourguide-tip-yes.loctext -7839806392981761100 v5 Revised
+{|Expression_Happy}That's amazing.
+{|Expression_Happy_to_Idle}I knew I struck a chord with you.
+{|Expression_Idle_Neutral}I'll sign you up to our upcoming tours newsletter.
+{|Expression_Idle_Neutral}You'll have an educational great time.
+{|Expression_Idle_Neutral}Thank you for your kind spirit.
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguideintro._independenttextbubbleloc 3579309661772740937 v3 Revised
+Oh, a visitor!
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguideintro.loctext 1076255936358438132 v6 Revised
+{|Expression_Idle_Neutral}Welcome.
+{|Expression_Idle_Neutral}Are you here for our world-renowned Furogawa Tours?
+{|Expression_Idle_Neutral}Of course you are, you’re holding our brochure!
+{|Expression_Idle_Neutral}The tour is about to start.
+{|Expression_Idle_Neutral}It takes about five minutes and covers the history and flora of this island.
+{|Expression_Idle_Neutral}After, you’ll be able to tell all your friends about it.
+{|Expression_Idle_Neutral}Don’t worry there’s no gift shop after this tour!
+{|Expression_Idle_Neutral}Ready?
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguideskip._independenttextbubbleloc 6665162692554431847 v1 Revised
+Alright!
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguideskip.loctext -2797921566925427470 v4 Revised
+{|Expression_Idle_Neutral}If you’d like to leave a tip, that would be appreciated.
+{|Expression_Idle_Neutral}I recommend something along the lines of 50 ((glims)).
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguidevalidation._independenttextbubbleloc 6415088389865749835 v2 Revised
+Alright!
+
+key: denizens/conversations.denizen-ar1-tourguide-tourguidevalidation.loctext 6065776097820575632 v6 Revised
+This concludes our tour.
+Furogawa Tours is grateful for your participation.
+{|Expression_Idle_Neutral}Thank you for your ears and your patience.
+{|Expression_Idle_Neutral}Thank you again for your presence.
+
+key: denizens/conversations.denizen-ar2-giovanni-conversation01.loctext -7837515780716828612 v2 Revised
+Who?
+{|Expression_Idle_Neutral}I don't remember his name.
+{|Expression_Unhappy}That night didn't call for names if you know what I mean.
+{|Expression_Unhappy}I do remember his legs, though.
+{|Expression_Unhappy}Oh brother!!!
+{|Expression_Unhappy}...
+{|Expression_Idle_Neutral}WAIT?!
+{|Expression_Idle_Neutral}He has a wife!?
+{|Expression_Idle_Neutral}He didn't say anything about it!!
+{|Expression_Idle_Neutral}He did say that he was going to ((Furogawa)).
+{|Expression_Idle_Neutral}Well, if you ever meet up with him.
+{|Expression_Idle_Neutral}Tell him...
+{|Expression_Idle_Neutral}Tell him that Eileen misses him...
+
+key: denizens/conversations.denizen-ar2-randomconversation01.loctext -4037654553257292757 v1 Revised
+{|Expression_Idle_Neutral}I can't take my eyes off this rock.
+
+key: denizens/conversations.denizen-ar2-randomconversation02.loctext 1088737681908832998 v1 Revised
+{|Expression_Idle_Neutral}Something just screams fertility.
+
+key: denizens/conversations.denizen-ar2-randomconversation03.loctext -3610598760852201089 v1 Revised
+{|Expression_Idle_Neutral}I'm never going home.
+
+key: denizens/conversations.denizen-ar2-rocklover01-conversation01.loctext -1623580535394052434 v1 Revised
+{|Expression_Idle_Neutral}Oh wow, I've heard of this rock from a friend.
+{|Expression_Idle_Neutral}He said that if you stand next to it for like a week.
+{|Expression_Idle_Neutral}You can become a seagull or something.
+
+key: denizens/conversations.denizen-ar2-rocklover02-conversation02.loctext 7950176050289397013 v1 Revised
+{|Expression_Idle_Neutral}I don't get it!
+{|Expression_Idle_Neutral}I've been here for days.
+{|Expression_Idle_Neutral}Everyone here says that they feel something.
+{|Expression_Idle_Neutral}I don't feel anything.
+{|Expression_Idle_Neutral}What gives.
+{|Expression_Idle_Neutral}I shouldn't have quit my job.
+{|Expression_Idle_Neutral}Oh brother...
+
+key: denizens/conversations.denizen-ar2-rocklover03-conversation03.loctext -2187711826214024064 v4 Revised
+{|Expression_Idle_Neutral}When the others aren't looking, I like to lick the rock.
+{|Expression_Idle_Neutral}It helps me concentrate.
+{|Expression_Idle_Neutral}Also, it's a little bit salty.
+
+key: denizens/conversations.denizen-ar3-randomconversation01.loctext -663950513961441164 v2 Revised
+{|Expression_Idle_Neutral}I could do this all day!
+
+key: denizens/conversations.denizen-ar3-randomconversation02.loctext -5485798944519511262 v2 Revised
+{|Expression_Idle_Neutral}This is the life.
+
+key: denizens/conversations.denizen-ar3-randomconversation03.loctext -5445927918404811296 v2 Revised
+{|Expression_Idle_Neutral}This is some good stuff!
+
+key: denizens/conversations.denizen-ar3-spitter01-conversation01.loctext 345357724734799931 v3 Revised
+{|Expression_Idle_Neutral}I could spit off tall buildings forever!
+{|Expression_Unhappy}On the off chance that I might hit someone right in the head!
+{|Expression_Unhappy}I seem to never run out of spit!
+{|Expression_Idle_Neutral}This small bridge isn’t very high up.
+{|Expression_Idle_Neutral}And nobody ever swims down there.
+{|Expression_Idle_Neutral}Still, it's pretty satisfying to spit.
+{|Expression_Unhappy}I’m fully equipped.
+{|Expression_Unhappy}I’ve got my mouth.
+{|Expression_Unhappy}I've got my bottle of water.
+{|Expression_Unhappy}I'm ready and I've got the spirit to do it for years!
+
+key: denizens/conversations.denizen-ar3-spitter02-conversation02.loctext 1614611065556369031 v4 Revised
+{|Expression_Idle_Neutral}What I love about spitting is the talent you need.
+{|Expression_Idle_Neutral}You know?
+{|Expression_Unhappy}It takes real skill to find a target, aim, and hit a bullseye.
+{|Expression_Unhappy}That's skill and raw talent right there.
+{|Expression_Unhappy}I just love that I'm good at something!
+
+key: denizens/conversations.denizen-b1-canalcity01-conversation01.loctext -1064739959621842588 v4 Revised
+A stroll a day keeps the doctor away.
+{|Expression_Idle_Neutral}Which reminds me.
+{|Expression_Idle_Neutral}I haven't been to the doctor in forever.
+{|Expression_Idle_Neutral}Oh no.
+{|Expression_Unhappy}Why did I think about health all of a sudden?
+{|Expression_Unhappy}Am I suddenly starting to feel unwell?
+{|Expression_Unhappy}I am not sick!
+{|Expression_Unhappy}I am okay.
+
+key: denizens/conversations.denizen-b1-canalcity02-conversation01.loctext -2294115214248071971 v4 Revised
+I simply adore your hat.
+{|Expression_Idle_Neutral}Our local shop, Raccoon Inc., only carries garbage wares.
+{|Expression_Idle_Neutral}Seeds, logs, rocks...
+{|Expression_Idle_Neutral}All useless items!
+{|Expression_Idle_Neutral}I need me a hat like yours!
+
+key: denizens/conversations.denizen-b1-canalcity03-conversation01.loctext 3641017607066534406 v1 Revised
+{|Expression_Idle_Neutral}I’m out here looking for the right house to start a family.
+{|Expression_Idle_Neutral}My wife sent me out to find something that might fit our needs.
+{|Expression_Idle_Neutral}A garden, maybe a pool.
+{|Expression_Idle_Neutral}I’m not asking for much.
+{|Expression_Idle_Neutral}I just can't decide.
+{|Expression_Idle_Neutral}I know that you can’t help me, but it helps to say it out loud.
+{|Expression_Idle_Neutral}I might stumble on the rarest of finds.
+
+key: denizens/conversations.denizen-b1-canalcity04-conversation01.loctext -2441640434823535569 v8 Revised
+{|Expression_Surprise}Oh!
+Let me guess!
+{|Expression_Idle_Neutral}I'm a bit of a psychic you know...
+{|Expression_Idle_Neutral}Your name is Ma...ry?
+{|Expression_Idle_Neutral}Or Mar...gue...rite?
+{|Expression_Unhappy}It’s Missy!
+{|Expression_Unhappy}Wait, no.
+{|Expression_Unhappy}Eshe!
+{|Expression_Idle_Neutral}Don’t tell me it’s...
+{|Expression_Idle_Neutral}Oh, shoot.
+{|Expression_Idle_Neutral}I’ll get it.
+{|Expression_Idle_Neutral}Someday.
+
+key: denizens/conversations.denizen-b1-canalcity05-conversation01.loctext 4701037241108818079 v1 Revised
+{|Expression_Idle_Neutral}This town is bustling with busy people.
+{|Expression_Idle_Neutral}Not everyone wants to be stopped in the street.
+{|Expression_Idle_Neutral}Not everyone wants to start an impromptu conversation.
+{|Expression_Idle_Neutral}Unless you have something so important to say.
+{|Expression_Idle_Neutral}Something that would rock my world.
+{|Expression_Idle_Neutral}Life altering stuff!
+{|Expression_Idle_Neutral}No?
+{|Expression_Idle_Neutral}Last chance.
+{|Expression_Idle_Neutral}Then, step aside.
+
+key: denizens/conversations.denizen-b1-canalcity06-conversation01.loctext -1611109413020800082 v1 Revised
+{|Expression_Idle_Neutral}My sister keeps asking me for money.
+{|Expression_Idle_Neutral}How can I say no without saying no?
+{|Expression_Idle_Neutral}Maybe I should ask someone to rob me.
+{|Expression_Idle_Neutral}Hmm...
+{|Expression_Idle_Neutral}I just don’t want to loan my sister money!
+
+key: denizens/conversations.denizen-b1-canalcity-basiliskfriend01.loctext 5865769825111846312 v1 Revised
+{|Expression_Idle_Neutral}Yeah, I hope my next game will be ready soon.
+{|Expression_Idle_Neutral}I've crunched the data and spent 5 nights theory-crafting.
+{|Expression_Idle_Neutral}Clearly, if you take the Heavy Weapon proficiency from the mountain Gnome race, there is a nifty synergy with the level 3 Rogue ability Eviscerate!
+{|Expression_Idle_Neutral}It's for sure a bit weird, but hey, 5D20 and auto-crit on prone can't be defeated, am I right?
+
+key: denizens/conversations.denizen-b1-canalcity-basiliskfriend02.loctext 5930885970377494030 v2 Revised
+{|Expression_Idle_Neutral}Yeah yeah, I know what I have to do.
+{|Expression_Idle_Neutral}Which is telling my mum first.
+{|Expression_Idle_Neutral}See you there.
+
+key: denizens/conversations.denizen-b1-canalcity-basiliskfriendrecruit.loctext -3026325879504431885 v5 Revised
+Ah! Buck is finally ready?
+About time!
+{|Expression_Idle_Neutral}I've spent all of my pocket money on glittery dices!
+{|Expression_Idle_Neutral}I'm more than ready!
+{|Expression_Idle_Neutral}Ah, yeah yeah, ok...
+{|Expression_Surprise}AHEM. I AM... THE MIGHTY EMDARIL...OF THE...
+{|Expression_Unhappy}Oh, screw it.
+{|Expression_Unhappy}I'm Jerome ok?
+{|Expression_Unhappy}I know I should be in character, but whatever.
+{|Expression_Idle_Neutral}Come on, what's the riddle?
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Mmmm, I see...
+{|Expression_Idle_Neutral}This one's a doozy.
+{|Expression_Idle_Neutral}I need to think about it.
+{|Expression_Idle_Neutral}But, I'm sure I'll figure out where to go!
+{|Expression_Idle_Neutral}Thanks!
+
+key: denizens/conversations.denizen-b1-canalcity-junkmail01.loctext 5744727167563382690 v1 Revised
+{|Expression_Idle_Neutral}I’m going home.
+{|Expression_Idle_Neutral}Don’t follow me.
+{|Expression_Idle_Neutral}Please.
+{|Expression_Unhappy}I hate it when people know where I live.
+{|Expression_Unhappy}If you know my address, you’ll tell people.
+{|Expression_Unhappy}Then they’ll tell people.
+{|Expression_Idle_Neutral}Listen.
+{|Expression_Idle_Neutral}I just don’t want junk mail.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmail02.loctext 8417808629375876048 v1 Revised
+Leave me alone, you telemarketer!
+
+key: denizens/conversations.denizen-b1-canalcity-junkmail03.loctext 4818801679417577467 v1 Revised
+I'll scream if you don't stop following me.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmail04.loctext 4994151807671517909 v2 Revised
+Stop it. This is wrong.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailcomments01.loctext -5745122912757163308 v1 Revised
+Leave my door alone.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailcomments02.loctext -4547445671279731803 v1 Revised
+Stop rattling my knob.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailcomments03.loctext -3184001358747610114 v1 Revised
+We are not friends!
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailcomments04.loctext 3573949719053326553 v1 Revised
+You're starting to annoy me.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailcomments05.loctext -969243163927621904 v2 Revised
+Be gone, stranger.
+
+key: denizens/conversations.denizen-b1-canalcity-junkmailgeneric.loctext -8479049141562745809 v4 Revised
+Leave me alone.
+
+key: denizens/conversations.denizenb1conversation-checkmailbox.loctext 3073533526858005180 v1 Revised
+{|Expression_Idle_Neutral}Yes, young person!
+{|Expression_Idle_Neutral}Can I assume you are busy?
+{|Expression_Idle_Neutral}Of course, you're busy.
+...
+{|Expression_Idle_Neutral}Wait a second.
+{|Expression_Unhappy}You don't have a parcel system on your boat.
+{|Expression_Unhappy_to_Idle}Come back when you do.
+I have quite the pitch for you.
+
+key: denizens/conversations.denizenb1conversation-checkmoney.loctext 7398361138780127768 v1 Revised
+{|Expression_Idle_Neutral}Yes, young person!
+{|Expression_Idle_Neutral}Can I assume you are busy?
+{|Expression_Idle_Neutral}Of course, you're busy.
+...
+{|Expression_Idle_Neutral}Wait a second.
+{|Expression_Unhappy}You clearly don't have the money for this.
+{|Expression_Unhappy_to_Idle}Come back when you do.
+I have quite the pitch for you.
+
+key: denizens/conversations.denizenb1conversation-checkstove.loctext 369713666210652373 v2 Revised
+{|Expression_Idle_Neutral}Yes, young person!
+{|Expression_Idle_Neutral}Can I assume you are busy?
+{|Expression_Idle_Neutral}Of course, you're busy.
+...
+{|Expression_Idle_Neutral}Wait a second.
+{|Expression_Unhappy}You don't have a full serviced kitchen!
+{|Expression_Unhappy_to_Idle}Come back when you do.
+I have quite the pitch for you.
+
+key: denizens/conversations.denizenb1conversation-signupcomplete.loctext -8680878607657087759 v1 Revised
+{|Expression_Idle_Neutral}Thank you for your subscription.
+{|Expression_Idle_Neutral}You will be mailed all your food care packages once a week.
+Again, welcome to the Feedorama family.
+
+key: denizens/conversations.denizenb1conversation-signupintroduction._commenttext 1525620660115688389 v1 Revised
+Oh miss!
+
+key: denizens/conversations.denizenb1conversation-signupintroduction.loctext 302762527610475563 v13 Revised
+{|Expression_Idle_Neutral}Yes, young person!
+{|Expression_Idle_Neutral}Can I assume you are busy?
+
+key: denizens/conversations.denizenb1conversation-signupintroduction-noanswer_conversation.loctext 6414379847796707347 v3 Revised
+{|Expression_Idle_Neutral}That's too bad.
+{|Expression_Idle_Neutral}I'll be here if you change your mind.
+{|Expression_Idle_Neutral}Remember that Feedorama believes in productivity and filled bellies.
+{|Expression_Idle_Neutral}Do tell a friend.
+
+key: denizens/conversations.denizenb1conversation-signupintroductionnotenough.loctext -2980834747575263603 v4 Revised
+...
+{|Expression_Idle_Neutral}Wait a second.
+{|Expression_Unhappy}You clearly don't have the money for this.
+{|Expression_Unhappy_to_Idle}Come back when you have 5000 ((glims))!
+
+key: denizens/conversations.denizenb1conversation-signupintroductionpart2.loctext 8880110136016890372 v2 Revised
+{|Expression_Pensive}You are a modern woman.
+{|Expression_Pensive_to_Idle}You have things to do, tasks to accomplish, deadlines and whatnot.
+{|Expression_Idle_Neutral}We get it, you have a busy life.
+{|Expression_Idle_Neutral}We at Feedorama believe in productivity and filled bellies.
+{|Expression_Idle_Neutral}That's why we have created an incredible food delivery service!
+{|Expression_Pensive}Carefully crafted meals by our food gourmet artists.
+{|Expression_Pensive_to_Idle}Making meals shouldn't be a distraction.
+{|Expression_Idle_Neutral}Finding what to eat every day is a chore.
+{|Expression_Idle_Neutral}Your time matters.
+{|Expression_Idle_Neutral}But not at the expense of an empty belly.
+{|Expression_Idle_Neutral}If you believe in Feedorama, you'll enhance your palate.
+{|Expression_Idle_Neutral}You'll grow in tastes.
+{|Expression_Surprise}For the low fee of 5000 ((glims)), you'll receive a special package every week.
+{|Expression_Surprise_to_Idle}Filled with fresh produce and helpful recipes, you'll be happier and more productive.
+{|Expression_Pensive}Imagine the possibilities!
+{|Expression_Pensive_to_Idle}Feedorama believes in you.
+Would you like to subscribe now and start your nutritious journey?
+
+key: denizens/conversations.denizenb1conversation-signupintroduction-yesanswer_conversation.loctext -308040349914778173 v5 Revised
+Beautiful.
+{|Expression_Idle_Neutral}I will set up your inscription and make sure you receive your first shipment ASAP.
+{|Expression_Idle_Neutral}You can rest easy in knowing that Feedorama is committed to your food needs.
+{|Expression_Idle_Neutral}Welcome to the Feedorama family!
+
+key: denizens/conversations.denizenb1conversation-signupreminder.loctext 4596887864092709373 v1 Revised
+Have you reconsidered our services?
+{|Expression_Idle_Neutral}Feedorama is ready to serve you.
+{|Expression_Idle_Neutral}Our offer is simple: 5000 ((glims)) for an incredible food adventure.
+{|Expression_Idle_Neutral}Interested?
+
+key: denizens/conversations.denizenb1conversation-signupremindernotenough.loctext -4059442232899639574 v3 Revised
+{|Expression_Unhappy}You clearly don't have the money for our services.
+{|Expression_Unhappy_to_Idle}Come back when you have 5000 ((glims))!
+
+key: denizens/conversations.denizenb1conversation-unsubscribecomplete.loctext -5721886770306164639 v1 Revised
+{|Expression_Idle_Neutral}Feedorama may have lost you.
+{|Expression_Idle_Neutral}But Feedorama lives on.
+
+key: denizens/conversations.denizenb1conversation-unsubscribeintroduction._commenttext -7905707543512177262 v1 Revised
+Hey!
+
+key: denizens/conversations.denizenb1conversation-unsubscribeintroduction.loctext 1404798329739259820 v3 Revised
+{|Expression_Idle_Neutral}How are you enjoying our new service?
+{|Expression_Idle_Neutral}The gang in marketing really had a swell idea.
+{|Expression_Idle_Neutral}They thought...
+{|Expression_Pensive}Why spend all this time making meals in parts?
+{|Expression_Pensive_to_Idle}Why not just assemble them for our customers?
+{|Expression_Idle_Neutral}We actually took our motto to the heart.
+{|Expression_Idle_Neutral}Productivity became our main focus.
+{|Expression_Idle_Neutral}Anyway, Feedorama has been saving so much money.
+{|Expression_Idle_Neutral}No one in their right mind would have to unsubscribe to our incredible service.
+{|Expression_Idle_Neutral}Especially with our expesive cancelling fee.
+
+key: denizens/conversations.denizenb1conversation-unsubscribeintroduction-noanswer_conversation.loctext 3012174182215248040 v1 Revised
+{|Expression_Idle_Neutral}Good to hear.
+{|Expression_Idle_Neutral}Once a Feedorama member, always a Feedorama member.
+
+key: denizens/conversations.denizenb1conversation-unsubscribeintroduction-yesanswer_conversation.loctext -7305544233537810370 v1 Revised
+{|Expression_Idle_Neutral}We are sorry to see you go.
+{|Expression_Idle_Neutral}Keep Feedorama in your heart always.
+
+key: denizens/conversations.denizenb1conversation-unsubscribereminder.loctext 3806799764966440473 v1 Revised
+{|Expression_Idle_Neutral}Hey again.
+{|Expression_Surprise}What!
+{|Expression_Surprise_to_Idle}You really want to unsubscribe from our service?
+{|Expression_Idle_Neutral}Alright, then.
+{|Expression_Idle_Neutral}We do have a canceling fee that is pretty steep.
+{|Expression_Surprise}Do you want to cancel your membership for 10000 ((glims))?
+
+key: denizens/conversations.denizenb1conversation-unsubscriberemindernotenoughglims.loctext -3479228229762759053 v4 Revised
+{|Expression_Idle_Neutral}Hey again.
+{|Expression_Surprise}What!
+{|Expression_Surprise_to_Idle}You really want to unsubscribe from our amazing service?
+{|Expression_Idle_Neutral}The canceling fee is quite steep.
+{|Expression_Surprise}You are looking at about 10 000 ((glims)).
+{|Expression_Surprise}And it looks like you don't have that amount!
+{|Expression_Surprise_to_Idle}Come back when you do.
+{|Expression_Idle_Neutral}However, you'd be parting with the incredible Feedorama family, if you did.
+
+key: denizens/conversations.denizenb2conversation-afterdoorunlocked01.loctext -8457244603139220949 v3 Revised
+{|Expression_Idle_Neutral}I'm happy I have a place to sleep at night.
+{|Expression_Idle_Neutral}No more rainy night for Mr. Gardener.
+
+key: denizens/conversations.denizenb2conversation-afterdoorunlocked02.loctext -8740238251409761598 v2 Revised
+{|Expression_Idle_Neutral}What a time to be alive!
+
+key: denizens/conversations.denizenb2conversation-lockeddoorintroduction._commenttext 9084967465058632965 v2 Revised
+You!
+
+key: denizens/conversations.denizenb2conversation-lockeddoorintroduction._independenttextbubbleloc 633807282962972219 v1 Revised
+You!
+
+key: denizens/conversations.denizenb2conversation-lockeddoorintroduction.loctext 7799540584044446009 v13 Revised
+{|Expression_Surprise}I've lost my house because of you.
+{|Expression_Surprise}Your friend wasn't using it!
+{|Expression_Surprise}It should me mine.
+{|Expression_Surprise_to_Idle}I have rights, you know?
+{|Expression_Unhappy}Now, that old shrew kicked me out.
+{|Expression_Unhappy}I'm back at being the gardener.
+{|Expression_Empathy}But the biggest rub is... my house is locked.
+{|Expression_Empathy_to_Idle}I'll break that padlock and get my dignity back.
+{|Expression_Idle_Neutral}Someday!
+{|Expression_Idle_Neutral}Leave me alone for now.
+{|Expression_Idle_Neutral}I have work to do.
+
+key: denizens/conversations.denizenb2conversation-lockeddoorreminder01.loctext -3666204417695960100 v3 Revised
+{|Expression_Idle_Neutral}I have work to do.
+{|Expression_Idle_Neutral}Leave me be.
+
+key: denizens/conversations.denizenb2conversation-lockeddoorreminder02.loctext -8290915385313479153 v2 Revised
+{|Expression_Idle_Neutral}Could have some peace and quiet.
+
+key: denizens/conversations.denizenb2conversation-lockeddoorvalidation._independenttextbubbleloc 8761073994603983577 v1 Revised
+Small child!
+
+key: denizens/conversations.denizenb2conversation-lockeddoorvalidation.loctext -2444365077158190586 v12 Revised
+{|Expression_Surprise}I've cracked it.
+{|Expression_Surprise}The door is finally open.
+{|Expression_Surprise_to_Idle}I can rest easy knowing I have a place to... well... rest.
+{|Expression_Idle_Neutral}This "riches to rags story" has really shaken my core.
+{|Expression_Idle_Neutral}I just wanted to be a rich person.
+{|Expression_Idle_Neutral}But no, faith has stepped in.
+{|Expression_Idle_Neutral}My new life is more precious to me.
+{|Expression_Idle_Neutral}I will harvest this land.
+{|Expression_Idle_Neutral}I will be victorious and reign supreme on these veggies.
+{|Expression_Idle_Neutral}I AM the gardener of my own life.
+
+key: denizens/conversations.denizen-b3-giovanni-conversation01.loctext 8223070318832564298 v11 Revised
+Giovanni!
+{|Expression_Surprise}That name... don't say that name.
+{|Expression_Surprise}He almost broke up my marriage.
+{|Expression_Surprise}Came here, a month ago.
+{|Expression_Surprise}Big man!
+{|Expression_Surprise}Thinking he's the boss.
+{|Expression_Surprise}Good thing, my wife came to her senses.
+{|Expression_Surprise_to_Idle}He apparently didn't like the weather.
+Good riddance.
+
+key: denizens/conversations.denizen-b3-randomconversation01.loctext -3418067763328066971 v2 Revised
+{|Expression_Idle_Neutral}I'm freezing my feet out here.
+
+key: denizens/conversations.denizen-b3-randomconversation02.loctext -3773583734641581239 v2 Revised
+{|Expression_Idle_Neutral}Who invented winter?
+
+key: denizens/conversations.denizen-b3-randomconversation03.loctext 8257373075634850527 v2 Revised
+{|Expression_Idle_Neutral}I wish I could find my keys.
+
+key: denizens/conversations.denizen-b3-winterfriend01-conversation01.loctext 8485318297913437060 v4 Revised
+I don't think I know you.
+{|Expression_Surprise}I think my partner wouldn't like it if I was talking to a strange child.
+{|Expression_Surprise}Don't talk to me again, please.
+{|Expression_Surprise_to_Idle}Or if you do, do it discreetly.
+
+key: denizens/conversations.denizen-b3-winterfriend02-conversation01.loctext -1000981378407905206 v6 Revised
+{|Expression_Pensive}You should always move your arms when it's cold outside.
+{|Expression_Pensive}Like this.
+{|Expression_Pensive}Look.
+{|Expression_Pensive}I'm talking and moving.
+{|Expression_Pensive_to_Idle}I'm multitasking like a champ.
+No one can stop me.
+
+key: denizens/conversations.denizenbl_producerconversation-producerintroduction._commenttext -7601341505175767781 v1 Revised
+Oh, madam!
+
+key: denizens/conversations.denizenbl_producerconversation-producerintroduction.loctext 4875786282040999156 v3 Revised
+{|Expression_Surprise}You’ve got a +=THAT=+ face.
+{|Expression_Surprise_to_Idle}Larry Saltzberg knows faces.
+{|Expression_Surprise}And yours could be on a poster.
+{|Expression_Surprise}On a billboard.
+{|Expression_Surprise_to_Idle}You’re not talking, but I can imagine your voice.
+{|Expression_Unhappy}And I hate it.
+{|Expression_Unhappy_to_Idle}But, we can fix that in post.
+{|Expression_Idle_Neutral}We’ll get one of the girls to dub everything.
+{|Expression_Idle_Neutral}You’ll be perfect.
+{|Expression_Empathy}…
+{|Expression_Empathy_to_Idle}What?
+{|Expression_Headnod}You are not an actress.
+{|Expression_Idle_Neutral}You don’t do vaudeville?
+{|Expression_Idle_Neutral}You’ve never been with Ziegfeld?
+{|Expression_Idle_Neutral}Nothing for those French shepherdesses or whatever it’s called?
+{|Expression_Idle_Neutral}That’s impossible, you would have been perfect.
+But...
+{|Expression_Surprise}If that’s true, you’re pure undiscovered talent!
+{|Expression_Surprise}I must have you in my next picture.
+{|Expression_Surprise}I must.
+I don’t have a script nor a director, but that doesn't matter.
+It will be called... something like...
+“Visions of Perfection”.
+{|Expression_Surprise}A thriller!
+{|Expression_Surprise}Murder!
+{|Expression_Surprise}Suspense!
+{|Expression_Surprise_to_Idle}Something to get the blood boiling.
+Something to make the town talk.
+Talking about my young new star.
+{|Expression_Surprise}It will be a box-office smash.
+{|Expression_Surprise_to_Idle}Can’t you see it?
+
+key: denizens/conversations.denizenbl_producerconversation-producerintroduction-answers_conversation-chainconversation.loctext 5869198937867231427 v2 Revised
+{|Expression_Idle_Neutral}My casting director is on her honeymoon with her new beau.
+{|Expression_Idle_Neutral}Somewhere warm... it doesn’t matter.
+{|Expression_Idle_Neutral}What does matter is this picture I just thought about in the last five minutes!
+{|Expression_Idle_Neutral}I do need to cast this picture with stars.
+{|Expression_Surprise}Star power!
+{|Expression_Surprise_to_Idle}This town is dryer than my shirts on a clothesline in the summer!
+{|Expression_Idle_Neutral}Let’s see...
+{|Expression_Idle_Neutral}Joan is filming that daughter-mother picture.
+{|Expression_Idle_Neutral}Vivien is out of the question.
+{|Expression_Idle_Neutral}Judy is off somewhere magical.
+{|Expression_Idle_Neutral}We’ll need to find someone with gumption, gravitas.
+{|Expression_Idle_Neutral}There’s this veteran, Katherine, that would work.
+{|Expression_Idle_Neutral}Apparently, she’s been taking in nature recently.
+{|Expression_Idle_Neutral}Somewhere on ((Obscure Canopy)), I believe.
+{|Expression_Pensive}Wait one second!
+{|Expression_Pensive_to_Idle}I just had another idea.
+{|Expression_Idle_Neutral}We could also go the demure, naive route.
+{|Expression_Idle_Neutral}Someone like Ingrid.
+{|Expression_Idle_Neutral}She could also do justice to our new movie!
+{|Expression_Idle_Neutral}She just bought a new place in ((Old-Central District)).
+{|Expression_Idle_Neutral}You could go meet her there.
+{|Expression_Surprise}Ah!
+{|Expression_Surprise}Some many possibilities.
+{|Expression_Surprise}Casting movies! What a rush!
+{|Expression_Surprise_to_Idle}Alright!
+{|Expression_Headnod}I’ll leave it in your capable hands.
+Find us a match.
+Someone that you think will pop on the screen.
+
+key: denizens/conversations.denizenbl_producerconversation-producerintroduction-noanswer_conversation.loctext 8604901000173892792 v2 Revised
+{|Expression_Idle_Neutral}What a tragedy!
+{|Expression_Idle_Neutral}You would have been perfect.
+{|Expression_Idle_Neutral}Perfect, I say!
+Well then, would you do me a favour?
+This picture isn’t going to cast itself.
+
+key: denizens/conversations.denizenbl_producerconversation-producerintroduction-yesanswer_conversation.loctext 2860326850226078151 v3 Revised
+{|Expression_Idle_Neutral}I knew I could count on just walking the streets!
+{|Expression_Idle_Neutral}You’ll be a star in no time or my name isn’t Larry Saltzberg.
+{|Expression_Idle_Neutral}Now, we need to find you a co-star.
+
+key: denizens/conversations.denizenbl_producerconversation-talktolarryvalidation._commenttext 5053546378802698287 v1 Revised
+Oh!
+
+key: denizens/conversations.denizenbl_producerconversation-talktolarryvalidation.loctext 3035858014618495270 v5 Revised
+Well, well...
+{|Expression_Idle_Neutral}Who did you end up picking?
+...
+{|Expression_Surprise}That’s wonderful!
+
+key: denizens/conversations.denizenbl_producerconversation-talktolarryvalidation-conditionalchainconversations_conversation-chainconversation.loctext 187113408033737902 v4 Revised
+{|Expression_Idle_Neutral}You pulled it off.
+{|Expression_Idle_Neutral}You're a superb last-minute casting director.
+{|Expression_Idle_Neutral}My regular should go on her honeymoon more often.
+{|Expression_Idle_Neutral}We'll it is her third in 6 years!
+{|Expression_Idle_Neutral}This town.
+{|Expression_Idle_Neutral}Things move fast.
+{|Expression_Idle_Neutral}But, back to our movie...
+{|Expression_Idle_Neutral}I still couldn't find a director or a screenwriter.
+{|Expression_Idle_Neutral}Everyone is booked up!
+{|Expression_Idle_Neutral}Everyone is scared of what this picture will mean to the industry.
+{|Expression_Idle_Neutral}I'll just have to keep the spirit alive a little longer.
+{|Expression_Idle_Neutral}I'll give you a call if we ever get this project out of development hell!
+{|Expression_Unhappy}In the meantime, you know what they say about actors?
+{|Expression_Unhappy}They are cattle.
+{|Expression_Unhappy_to_Idle}Someone I know said that!
+{|Expression_Idle_Neutral}You’ll be my first call, madam!
+{|Expression_Idle_Neutral}And don't forget...
+{|Expression_Idle_Neutral}You’ve got the face of a star.
+{|Expression_Idle_Neutral}A star, I tell you!
+
+key: denizens/conversations.denizenbl_producerconversation-talktolarryvalidation-conditionalchainconversations_ingrid_conversation.loctext 1112725412796329711 v1 Revised
+{|Expression_Surprise_to_Idle}Ingrid is a born star even if she hides it.
+{|Expression_Idle_Neutral}Those eyes!
+{|Expression_Idle_Neutral}That face!
+{|Expression_Idle_Neutral}She’s perfect for this role.
+
+key: denizens/conversations.denizenbl_producerconversation-talktolarryvalidation-conditionalchainconversations_katherine_conversation.loctext -943935597303510034 v2 Revised
+{|Expression_Surprise_to_Idle}Katherine will make a great addition to the cast.
+{|Expression_Idle_Neutral}Her grit alone will give this picture so much needed validity.
+
+key: denizens/conversations.denizen-bl-producer-conversation01.loctext -3257142708793161038 v2 Revised
+{|Expression_Idle_Neutral}I'm waiting for the next big star.
+{|Expression_Idle_Neutral}Let me be.
+
+key: denizens/conversations.denizen-bl-randomconversation01.loctext -4825719504263767927 v2 Revised
+Goodbye.
+
+key: denizens/conversations.denizen-bl-randomconversation02.loctext -603342803922394193 v4 Revised
+{|Expression_Idle_Neutral}Let me do me in peace, please.
+
+key: denizens/conversations.denizen-bl-wanderer01-conversation01.loctext -3874844079180926059 v15 Revised
+{|Expression_Empathy}Some lunatic wakes me up every day.
+{|Expression_Empathy}He jumps in the water screaming.
+{|Expression_Empathy_to_Idle}He always says... Oh, what is it?
+{|Expression_Surprise}"I'm the Big Fish Man" or something like that.
+{|Expression_Surprise_to_Idle}He’s so loud.
+{|Expression_Idle_Neutral}And it’s not just the screaming.
+{|Expression_Idle_Neutral}It’s the trashing in the water.
+{|Expression_Idle_Neutral}Poor fellow doesn’t seem to know how to swim, probably.
+{|Expression_Pensive}I should close my bedroom window.
+{|Expression_Pensive_to_Idle}Maybe not.
+{|Expression_Idle_Neutral}I came here for the ocean breeze.
+{|Expression_Idle_Neutral}It came with the early bird swimmer!
+
+key: denizens/conversations.denizen-bl-wanderer02-conversation01._commenttext 9160586406013666869 v2 Revised
+Hey!
+
+key: denizens/conversations.denizen-bl-wanderer02-conversation01.loctext -3044853546007080119 v31 Revised
+{|Expression_Surprise}I swam here.
+{|Expression_Surprise_to_Idle}I've been training for weeks and weeks.
+{|Expression_Idle_Neutral}Can you believe it?
+{|Expression_Idle_Neutral}I made it here all by myself.
+{|Expression_Idle_Neutral}Just me and the water.
+{|Expression_Idle_Neutral}They told me it couldn't be done.
+{|Expression_Pensive}Well, who's laughing now?
+{|Expression_Pensive_to_Idle}Me!
+{|Expression_Idle_Neutral}I hope they find a neat nickname for me in the paper.
+{|Expression_Idle_Neutral}Something like?
+{|Expression_Idle_Neutral}...
+{|Expression_Surprise}"Sea Legs Micheal"
+{|Expression_Surprise_to_Idle}...
+{|Expression_Surprise}"Fish Man Mikey"
+{|Expression_Surprise_to_Idle}...
+{|Expression_Surprise}"Mike Fin"
+{|Expression_Surprise_to_Idle}...
+{|Expression_Idle_Neutral}I'm no good.
+{|Expression_Idle_Neutral}I'll let them make it up.
+{|Expression_Idle_Neutral}Journalists have some great ideas, sometimes.
+{|Expression_Idle_Neutral}I hope they take a good picture of me.
+{|Expression_Unhappy}One where you can really see my muscles.
+{|Expression_Happy_to_Idle}I should probably be flexing.
+{|Expression_Idle_Neutral}Oh, I can't wait.
+
+key: denizens/conversations.denizen-bl-wanderer02-conversation02._commenttext -4917682313876292464 v1 Revised
+Hey!
+
+key: denizens/conversations.denizen-bl-wanderer02-conversation02.loctext -8644287229684239429 v4 Revised
+{|Expression_Idle_Neutral}Any minute now.
+{|Expression_Idle_Neutral}The journalists will be here to interview me and take my picture.
+
+key: denizens/conversations.denizen-br4-doublejumpreminder.loctext 4579098697280148520 v1 Revised
+Also, you need to be able to ((double jump)) really high.
+
+key: denizens/conversations.denizen-br4-glidereminder.loctext 8497323502675614956 v1 Revised
+Make sure you can ((glide)) into the air.
+
+key: denizens/conversations.denizen-br4-randomconversation01.loctext -4655964148195837401 v2 Revised
+{|Expression_Idle_Neutral}I'm freezing my feet out here.
+
+key: denizens/conversations.denizen-br4-randomconversation02.loctext 795773994594489840 v2 Revised
+{|Expression_Idle_Neutral}Who invented winter?
+
+key: denizens/conversations.denizen-br4-randomconversation03.loctext -2904681254027501254 v2 Revised
+{|Expression_Idle_Neutral}I wish I could find my keys.
+
+key: denizens/conversations.denizen-br4-securityguard-conversation01.loctext 564188968987382239 v1 Revised
+{|Expression_Idle_Neutral}I'll be here.
+{|Expression_Idle_Neutral}Securing this mine.
+
+key: denizens/conversations.denizen-br4-securityguard-conversationcompleted.loctext -553960310371957351 v1 Revised
+{|Expression_Idle_Neutral}Again, welcome aboard.
+{|Expression_Idle_Neutral}Make us proud in there.
+
+key: denizens/conversations.denizen-br4-ziplinereminder.loctext -6024034546490251144 v1 Revised
+If you can ride ((ziplines)), that would surely help.
+
+key: denizens/conversations.denizenc1_diceboysconversation-diceboysintroduction._commenttext -1539622670826994968 v1 Revised
+Hey!
+
+key: denizens/conversations.denizenc1_diceboysconversation-diceboysintroduction.loctext -3888563052595236887 v3 Revised
+{|Expression_Idle_Neutral}We're the Dice Boys.
+{|Expression_Idle_Neutral}And when we roll...
+{|Expression_Surprise}[DiceComment1]We roll hard!
+{|Expression_Empathy}...
+{|Expression_Empathy_to_Idle}Nothing.
+{|Expression_Idle_Neutral}You've never heard of the Dice Boys?
+{|Expression_Idle_Neutral}That doesn't make any sense.
+{|Expression_Idle_Neutral}We've been out here, grinding and dicing, for years.
+{|Expression_Idle_Neutral}Spreading the word.
+{|Expression_Idle_Neutral}Expanding the brand.
+{|Expression_Idle_Neutral}I don't think you heard the name right!
+{|Expression_Idle_Neutral}It's +=The Dice Boys=+.
+{|Expression_Surprise}[DiceComment2]Don't get it twisted.
+{|Expression_Surprise_to_Idle}We've been out here on these streets, day and night.
+{|Expression_Idle_Neutral}Rapping.
+{|Expression_Idle_Neutral}+=Saying rhymes into the mic to make sure it chimes.=+
+{|Expression_Idle_Neutral}+=Breaking ya neck like we in big tech=+
+{|Expression_Empathy}...
+{|Expression_Empathy_to_Idle}Nada.
+{|Expression_Idle_Neutral}Wow.
+{|Expression_Idle_Neutral}You must be out of it then.
+{|Expression_Idle_Neutral}Listen, to redeem yourself from that pitiful lack of culture, you can do us a solid.
+{|Expression_Idle_Neutral}Here are a few copies of our new record, Warning: Sacred Dog.
+{|Expression_Idle_Neutral}You just need to go and deliver them to our street team members.
+{|Expression_Idle_Neutral}Don't worry, it shouldn't be that long.
+{|Expression_Idle_Neutral}Here, write this down so you don't forget!
+{|Expression_Idle_Neutral}+=The dice never stops, that's why price never drops=+
+{|Expression_Empathy}...
+{|Expression_Empathy_to_Idle}Get out of here.
+{|Expression_Idle_Neutral}And sling those records.
+
+key: denizens/conversations.denizenc1_diceboysconversation-diceboysreminder._commenttext 1851781003499375971 v1 Revised
+Remember!
+
+key: denizens/conversations.denizenc1_diceboysconversation-diceboysreminder.loctext 2595483175186688471 v3 Revised
+{|Expression_Idle_Neutral}You need to sling that record.
+{|Expression_Idle_Neutral}Come back when you're empty.
+
+key: denizens/conversations.denizenc1_diceboysconversation-talktodiceleadervalidation._commenttext -3658869347777399519 v1 Revised
+Good looking out!
+
+key: denizens/conversations.denizenc1_diceboysconversation-talktodiceleadervalidation.loctext -5355397803070499928 v1 Revised
+{|Expression_Happy}You did good.
+{|Expression_Happy_to_Idle}You got the word out about our new record.
+{|Expression_Idle_Neutral}I wouldn't be surprised we become music superstars.
+{|Expression_Idle_Neutral}[DiceComment3]Dice Boys!
+{|Expression_Idle_Neutral}We didn't really need the help since we're already popping.
+{|Expression_Idle_Neutral}But, still, it's good to have a true fan.
+{|Expression_Idle_Neutral}Slinging our record on the streets.
+{|Expression_Idle_Neutral}Thanks again.
+
+key: denizens/conversations.denizenc1_lemonadeconversation-lemonadestandintroduction._commenttext 8251127742463806340 v1 Revised
+Good day!
+
+key: denizens/conversations.denizenc1_lemonadeconversation-lemonadestandintroduction.loctext -3471376451206769792 v5 Revised
+{|Expression_Idle_Neutral}Do you like lemonade?
+{|Expression_Idle_Neutral}Of course, you do!
+{|Expression_Idle_Neutral}It's sweet, refreshing and healthy.
+{|Expression_Idle_Neutral}It's also freshly squeezed.
+{|Expression_Idle_Neutral}Pure lemons, pure lemonade goodness.
+{|Expression_Idle_Neutral}That brings me to my proposition!
+{|Expression_Pensive}Are you interested in a summer job of sorts?
+{|Expression_Pensive_to_Idle}Hear me out!
+{|Expression_Idle_Neutral}For this business to thrive.
+{|Expression_Idle_Neutral}We need more lemons.
+{|Expression_Idle_Neutral}The demand in this city is just too high.
+{|Expression_Idle_Neutral}There's this delivery man in ((Southpoint Docks)).
+{|Expression_Idle_Neutral}He's got my shipment of lemons.
+{|Expression_Idle_Neutral}So fresh!
+{|Expression_Idle_Neutral}You could hear the freshness from here.
+{|Expression_Idle_Neutral}Problem is...
+{|Expression_Idle_Neutral}The shipment has been stopped by customs.
+{|Expression_Idle_Neutral}If you could go there and take them for me.
+{|Expression_Idle_Neutral}Well... you'd be a life-saver.
+{|Expression_Idle_Neutral}Literally.
+{|Expression_Idle_Neutral}Hurry, we need to meet this demand!
+{|Expression_Idle_Neutral}I just love lemons so much.
+
+key: denizens/conversations.denizenc1_lemonadeconversation-lemonpersonvalidation._commenttext -7134939569454758151 v1 Revised
+You made it!
+
+key: denizens/conversations.denizenc1_lemonadeconversation-lemonpersonvalidation.loctext -3452130506824825312 v5 Revised
+{|Expression_Idle_Neutral}This is amazing.
+{|Expression_Idle_Neutral}You really pulled through.
+{|Expression_Pensive}I was worried for a second there.
+{|Expression_Pensive}I had some pretty bad people breathing down my neck.
+{|Expression_Pensive_to_Idle}For lemons.
+{|Expression_Idle_Neutral}I know, right?
+{|Expression_Idle_Neutral}People are hyped up on these darn lemons.
+{|Expression_Idle_Neutral}Anyway, you did good.
+{|Expression_Idle_Neutral}Thank you for the lemons and here is a little something for your troubles.
+
+key: denizens/conversations.denizenc1_lemonadeconversation-tomatopersonvalidation._commenttext 7442431130027637950 v1 Revised
+Beautiful!
+
+key: denizens/conversations.denizenc1_lemonadeconversation-tomatopersonvalidation.loctext 6155238593789728056 v5 Revised
+{|Expression_Idle_Neutral}You came back.
+{|Expression_Pensive}Jeez.
+{|Expression_Pensive}I was worried for a second there.
+{|Expression_Pensive}That look in your eyes.
+{|Expression_Pensive_to_Idle}Good thing I was wrong.
+{|Expression_Idle_Neutral}My business was depending on you.
+{|Expression_Idle_Neutral}I'm still in trouble for that lemonade fiasco.
+{|Expression_Idle_Neutral}Hopefully, this tomato craze won't stop.
+{|Expression_Idle_Neutral}People will always want to be healthy.
+{|Expression_Idle_Neutral}Well...
+{|Expression_Idle_Neutral}Thank you for this.
+{|Expression_Idle_Neutral}A promise is a promise.
+Here's a little bit extra.
+
+key: denizens/conversations.denizenc1_lemonadeconversation-tomatostandintroduction._commenttext 7263298834916478954 v2 Revised
+My friend!
+
+key: denizens/conversations.denizenc1_lemonadeconversation-tomatostandintroduction.loctext -1577246704423073536 v6 Revised
+{|Expression_Empathy}Times have been hard.
+{|Expression_Empathy}We don't sell lemonade anymore.
+{|Expression_Empathy}The people didn't crave it as much as I thought.
+{|Expression_Empathy}It's been rough for me.
+{|Expression_Empathy}I had taken on substantial debt for all those lemons.
+{|Expression_Empathy}If no one wants them then I'm shit out of luck.
+{|Expression_Empathy_to_Idle}But, I got it now.
+{|Expression_Idle_Neutral}We are heading into a new era.
+{|Expression_Pensive}The dawn of tomato juice.
+{|Expression_Pensive}Same principle: freshly squeezed and fresh.
+{|Expression_Pensive_to_Idle}If you aren't busy, maybe you could make the run for me?
+{|Expression_Idle_Neutral}I've got a courier waiting at ((Bottom Line Corp.)).
+{|Expression_Idle_Neutral}I got a good price of some tomatoes and I can't pass this opportunity up.
+{|Expression_Idle_Neutral}It will be worth it.
+{|Expression_Idle_Neutral}Same price as last time?
+{|Expression_Idle_Neutral}Good?
+{|Expression_Idle_Neutral}Good!
+
+key: denizens/conversations.denizen-c1-basiliskfriend01.loctext 1296433742819464940 v1 Revised
+{|Expression_Idle_Neutral}Shhhh!
+{|Expression_Idle_Neutral}I'm waiting for a signal!
+{|Expression_Idle_Neutral}Buck should be ready soon!
+{|Expression_Idle_Neutral}I can feel it!
+
+key: denizens/conversations.denizen-c1-basiliskfriend02.loctext -2237706177330360256 v1 Revised
+I know now where to go.
+Adventure awaits!
+
+key: denizens/conversations.denizen-c1-basiliskfriendrecruit.loctext -3612991667360152923 v4 Revised
+{|Expression_Idle_Neutral}Well, well...
+{|Expression_Idle_Neutral}-=Ahem=-
+{|Expression_Idle_Neutral}HA!
+{|Expression_Idle_Neutral}Finally!
+{|Expression_Idle_Neutral}No, I won't bow before you.
+{|Expression_Idle_Neutral}I know who you are, and although I respect your reputation, I am Elperin, Ranger of the 7th Moon.
+{|Expression_Idle_Neutral}And Rangers of the 7th Moon bow to no one!
+{|Expression_Idle_Neutral}As the leader of the glorious Silver Company, I will uphold once again the crusader's mantle.
+{|Expression_Idle_Neutral}Some preparations need to be made.
+{|Expression_Idle_Neutral}And then, yes, I will ride my noble steed and regroup with you all.
+{|Expression_Idle_Neutral}Go! Reunite the fellowship!
+{|Expression_Idle_Neutral}For the time has come, and adventure cometh once more.
+
+key: denizens/conversations.denizen-c1-whathappenedtothestand-conversation01.loctext -2795335211984384014 v5 Revised
+{|Expression_Idle_Neutral}Oh wow!
+{|Expression_Idle_Neutral}You didn't hear?
+{|Expression_Surprise}That "lemonade-tomato juice" stand is done.
+{|Expression_Idle_Neutral}Everyone could see it coming from a mile away.
+{|Expression_Idle_Neutral}It was out of the world.
+{|Expression_Surprise}Police sirens.
+{|Expression_Surprise}SWAT team.
+{|Expression_Surprise}A major bust.
+{|Expression_Surprise_to_Idle}Someone must have ratted him out!
+{|Expression_Pensive}Apparently, they had someone running the product from island to island.
+{|Expression_Pensive}They're still looking for that person.
+{|Expression_Pensive}No leads yet.
+{|Expression_Pensive_to_Idle}The island is dry as bones now.
+{|Expression_Idle_Neutral}You should have seen it!
+{|Expression_Idle_Neutral}It was intense.
+
+key: denizens/conversations.denizenc3_gangconversation-gangwarintroduction._independenttextbubbleloc 8611041713716494242 v2 Revised
+Hey!
+
+key: denizens/conversations.denizenc3_gangconversation-gangwarintroduction.loctext -823930137938933103 v13 Revised
+{|Expression_Idle_Neutral}Settle this thing for us.
+{|Expression_Idle_Neutral}These dumb, dumb idiots say that ((The Autumn End)) and ((Lovers' Myth)) are different songs.
+{|Expression_Idle_Neutral}That's just...
+{|Expression_Idle_Neutral}just..
+{|Expression_Idle_Neutral}Wrong.
+{|Expression_Pensive}Please help me prove these jerks are so wrong.
+{|Expression_Headnod}Do you play the guitar?
+{|Expression_Idle_Neutral}Of course, you do, look at those fingers!
+{|Expression_Idle_Neutral}Calluses the size of mountains!
+{|Expression_Idle_Neutral}If only you knew the song, you could ((play)) it for us.
+{|Expression_Idle_Neutral}Wait a second!
+{|Expression_Idle_Neutral}I know where you can find the partition to ((The Autumn End)).
+{|Expression_Idle_Neutral}It's literally the sport's anthem to the city I'm from.
+{|Expression_Idle_Neutral}Everyone knows it.
+{|Expression_Idle_Neutral}I'm sure you can find a shop on ((Nordweiler)) that sells it.
+{|Expression_Idle_Neutral}It's got to be there.
+{|Expression_Idle_Neutral}Here's some pocket change.
+{|Expression_Idle_Neutral}Keep it, but bring back that sheet music.
+
+key: denizens/conversations.denizenc3_gangconversation-playsongintroduction._commenttext -6117578977351903856 v1 Revised
+You got it!
+
+key: denizens/conversations.denizenc3_gangconversation-playsongintroduction.loctext -2023494530377970742 v5 Revised
+Nice.
+Good job finding the sheet music for ((The Autumn End)).
+{|Expression_Idle_Neutral}Now, let her rip.
+{|Expression_Idle_Neutral}Go ((play)) the song in the middle there.
+{|Expression_Idle_Neutral}Let's stop this madness.
+{|Expression_Idle_Neutral}Unite us!
+
+key: denizens/conversations.denizenc3_gangconversation-playsongvalidation._independenttextbubbleloc 6287177915519952803 v1 Revised
+Amazing!
+
+key: denizens/conversations.denizenc3_gangconversation-playsongvalidation.loctext -4586689316706378055 v4 Revised
+{|Expression_Idle_Neutral}You sure know how to rock.
+{|Expression_Idle_Neutral}I told you.
+{|Expression_Idle_Neutral}I told them.
+{|Expression_Idle_Neutral}It's the same song!
+{|Expression_Idle_Neutral}Thanks for settling this argument.
+{|Expression_Idle_Neutral}Now these so-called music lovers will leave us alone!
+{|Expression_Idle_Neutral}Yeah!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-badsubjectvalidation._independenttextbubbleloc 4286437569940555487 v2 Revised
+You!!!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-badsubjectvalidation.loctext 648080535732511623 v3 Revised
+{|Expression_Unhappy}I need to eat.
+{|Expression_Unhappy}My people are dying here.
+{|Expression_Unhappy}My stomach is rumbling.
+{|Expression_Unhappy}Why do you hate your land and country?
+{|Expression_Unhappy}The Lizard King will remember your betrayal.
+{|Expression_Unhappy}You are a bad peasant.
+{|Expression_Unhappy}Leave my sight, peasant.
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsintroduction._commenttext -2944578533347594491 v1 Revised
+Peasant!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsintroduction.loctext -4793516653031909839 v4 Revised
+{|Expression_Surprise}I am the great Lizard King.
+{|Expression_Surprise}First of his name.
+{|Expression_Surprise_to_Idle}Great noble of House Reptilia.
+{|Expression_Unhappy}You are my loyal subject.
+{|Expression_Unhappy_to_Idle}You must do whatever I wish.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Well, I need ((carrots)).
+{|Expression_Idle_Neutral}My town is hungry, poor peasant.
+{|Expression_Idle_Neutral}They need food.
+{|Expression_Idle_Neutral}There is a problem.
+{|Expression_Idle_Neutral}We had food, but I ate it all.
+{|Expression_Pensive}I keep eating.
+{|Expression_Pensive}All the time.
+{|Expression_Pensive}But, I am a proud monarch.
+{|Expression_Pensive_to_Idle}I cannot tell this to my people.
+{|Expression_Surprise}You!
+{|Expression_Surprise}Must!
+{|Expression_Surprise}Help me!
+{|Expression_Surprise_to_Idle}Find me some ((carrots)), so I may feed the hungry.
+{|Expression_Idle_Neutral}I have a sickness.
+{|Expression_Idle_Neutral}Think about me when you do this!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsreminder._commenttext -344013498388556580 v1 Revised
+Subject!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsreminder.loctext 6792869371058337305 v1 Revised
+Find me those ((carrots))!
+My people are hungry.
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsvalidation._independenttextbubbleloc -4678582874503362031 v2 Revised
+You!
+
+key: denizens/conversations.denizenc3_lizardkingconversation-carrotsvalidation.loctext -8084974142527466704 v6 Revised
+{|Expression_Unhappy}My loyal subject!
+{|Expression_Unhappy_to_Idle}I'm so happy.
+{|Expression_Idle_Neutral}These are some of the most beautiful ((carrots)) ever.
+{|Expression_Unhappy}I will have the greatest time eating them.
+{|Expression_Unhappy}If I'm not hungry then how can my subjects be hungry?
+{|Expression_Unhappy}It doesn't make sense!
+{|Expression_Unhappy}You did well for your King.
+{|Expression_Unhappy}Praise me.
+
+key: denizens/conversations.denizen-c3-comment-gang01.loctext -4195255160401991020 v4 Revised
+Fight! Fight!
+
+key: denizens/conversations.denizen-c3-comment-gang02.loctext 5303342573523487992 v2 Revised
+That song rules!
+
+key: denizens/conversations.denizen-c3-comment-gang2-01.loctext 6231659480080836014 v2 Revised
+Impossible!
+
+key: denizens/conversations.denizen-c3-comment-gang2-02.loctext 2954504619944930226 v2 Revised
+Liars!
+
+key: denizens/conversations.denizen-c3-gangsmallleadermanualconversation.loctext 5937098321846685457 v2 Revised
+{|Expression_Surprise}That's a bald-faced lie!
+{|Expression_Surprise_to_Idle}((Lovers' Myth)) not only the superior song, but it’s also technically more interesting.
+{|Expression_Idle_Neutral}You don't know music!
+
+key: denizens/conversations.denizen-c3-gangsmallleadermanualconversation1.loctext 3285581903268242934 v2 Revised
+{|Expression_Surprise}No, it's not!
+{|Expression_Surprise_to_Idle}You don't have good tastes and you know nothing!
+
+key: denizens/conversations.denizen-c3-gangtallleadermanualconversation.loctext -3501805913537491721 v4 Revised
+{|Expression_Surprise}Alright, you animals!
+{|Expression_Surprise_to_Idle}You should be ashamed of your lack of musical knowledge.
+{|Expression_Idle_Neutral}The best song in the world is ((The Autumn End)).
+{|Expression_Idle_Neutral}No doubt about it.
+
+key: denizens/conversations.denizen-c3-gangtallleadermanualconversation1.loctext 4091995384041122241 v2 Revised
+{|Expression_Surprise}It's the same song, you jerk!
+{|Expression_Surprise_to_Idle}The words "lovers' myth" are in the damn lyrics.
+
+key: denizens/conversations.denizen-c3-happysmallgang01.loctext 7086068962708288898 v2 Revised
+{|Expression_Idle_Neutral}Well, shit.
+{|Expression_Idle_Neutral}We were wrong.
+
+key: denizens/conversations.denizen-c3-happysmallgang02.loctext 4982715786871264592 v3 Revised
+{|Expression_Idle_Neutral}It's still a good song.
+{|Expression_Idle_Neutral}Whatever the name is.
+
+key: denizens/conversations.denizen-c3-happysmallgang03.loctext -3083219633713786588 v2 Revised
+{|Expression_Idle_Neutral}I'm still not gonna call it by its original name.
+
+key: denizens/conversations.denizen-c3-happysmallgang04.loctext -7139797057898794345 v1 Revised
+{|Expression_Idle_Neutral}I think I'm gonna start sending bootleg partition around.
+{|Expression_Idle_Neutral}With the name I like... ((Lovers' Myth)).
+
+key: denizens/conversations.denizen-c3-happytallgang01.loctext 8202581945637921981 v2 Revised
+{|Expression_Unhappy}I told them!
+{|Expression_Unhappy_to_Idle}Ahah!
+{|Expression_Idle_Neutral}We win!
+{|Expression_Idle_Neutral}((The Autumn End)) forever.
+
+key: denizens/conversations.denizen-c3-happytallgang03.loctext -1167819792362900758 v2 Revised
+{|Expression_Idle_Neutral}We got it.
+{|Expression_Idle_Neutral}This song rules even more.
+
+key: denizens/conversations.denizen-c3-happytallgang04.loctext -958982655748689827 v1 Revised
+{|Expression_Idle_Neutral}((The Autumn End)) forever and ever!
+
+key: denizens/conversations.denizen-c3-sadsmallgang01.loctext 864987959134391374 v3 Revised
+{|Expression_Idle_Neutral}((Lovers' Myth)) is a classic.
+{|Expression_Idle_Neutral}That's the name of the song.
+I swear.
+
+key: denizens/conversations.denizen-c3-sadsmallgang02.loctext -2552311973076767003 v2 Revised
+{|Expression_Idle_Neutral}I can hear the melody in my head.
+It's so clear.
+
+key: denizens/conversations.denizen-c3-sadsmallgang03.loctext 1194218604813444532 v2 Revised
+{|Expression_Idle_Neutral}I can't believe they are mistaken ((Lovers' Myth)) for another song!
+
+key: denizens/conversations.denizen-c3-sadsmallgang04.loctext 1852434018933967075 v1 Revised
+{|Expression_Idle_Neutral}It's such a good song!
+
+key: denizens/conversations.denizen-c3-sadtallgang01.loctext 2520447048632292898 v3 Revised
+{|Expression_Idle_Neutral}I remember hearing ((The Autumn End)) for the first time.
+{|Expression_Idle_Neutral}What a trip.
+
+key: denizens/conversations.denizen-c3-sadtallgang02.loctext -6651849589953217952 v3 Revised
+{|Expression_Idle_Neutral}They should know the song and the correct name!
+
+key: denizens/conversations.denizen-c3-sadtallgang03.loctext -8032571863571860332 v3 Revised
+{|Expression_Idle_Neutral}((The Autumn End)) is a classic.
+{|Expression_Idle_Neutral}They sound dumb saying another title.
+
+key: denizens/conversations.denizen-c3-sadtallgang04.loctext -2634033985401578830 v2 Revised
+{|Expression_Idle_Neutral}Let's teach them.
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook._commenttext -851100761157562841 v2 ReadyForRevision
+Hey you!
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook.loctext -6975254966105160881 v2 ReadyForRevision
+Are looking for a good deal?
+You wan to save big time, yes?
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook-noanswer_conversation.loctext 6388624978938521564 v2 ReadyForRevision
+Well, that's too bad.
+Come see me before it's too late.
+These things are flying off like little pigs in a blanket!
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook-yesanswer_conversation.loctext -2416707762594859139 v4 ReadyForRevision
+I've got a coupon book that might be right up your alley.
+It's got deals!
+It's got saving!
+It's out of control.
+-=And it's totally legal!=-
+It will enhance your shopping experience to the extreme.
+With this coupon book, you'll be keeping you hard earned ((glims))!
+These deals will keep you rich!
+I promise.
+If you want to save, you gotta get this coupon book!
+It's totally free.
+I will just take some personal information that will in no way impact your future life.
+What do you say?
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook-yesanswer_conversation-noanswer_conversation.loctext -8737086663364796968 v2 ReadyForRevision
+I get it.
+Information is power.
+
+key: denizens/conversations.denizen-c5-tinyowlcouponbook-yesanswer_conversation-yesanswer_conversation.loctext 7041097244944681104 v3 ReadyForRevision
++=Really!=+
+That's great.
+Here you go.
+You'll be able to save big time at certain Raccoon Inc. locations.
+Actually, only one.
+For now.
+We are working on it.
+Randy at ((Edenborough Lane)) is ready to slash his prices for you!
+Take care now.
+
+key: denizens/conversations.denizenconversation-a1-diceboysrecord.loctext 689729766658695762 v11 Revised
+{|Expression_Idle_Neutral}Hey you.
+{|Expression_Idle_Neutral}The name's Megan.
+{|Expression_Idle_Neutral}I run the street team for the Dice Boys here in ((Furogawa)).
+{|Expression_Idle_Neutral}We've got hungry fans.
+{|Expression_Idle_Neutral}Hungry for them bars.
+{|Expression_Surprise}I'm deadass.
+{|Expression_Surprise_to_Idle}The Dice Boys are huge here.
+{|Expression_Idle_Neutral}This new record, Warning: Sacred Dog, is really gonna push some boundaries.
+{|Expression_Idle_Neutral}Sonically and popularity-wise.
+{|Expression_Empathy}I'm just so happy for them.
+{|Expression_Empathy_to_Idle}They've been here for a minute.
+{|Expression_Idle_Neutral}It's time people started recognizing their talent.
+{|Expression_Happy}Thanks for this shipment.
+
+key: denizens/conversations.denizenconversation-a1-diceboyssinging.loctext 4942561436707781545 v3 Revised
++=Oh wow, I feel amazing.=+
++=Warning: Sacred Dog feels so brazing.=+
+
+key: denizens/conversations.denizenconversation-adrift-intro._independenttextbubbleloc -4858560477190866121 v1 Revised
+Help! Help!
+
+key: denizens/conversations.denizenconversation-adrift-intro.loctext 8444843261506521805 v9 Revised
+{|Expression_Surprise}My raft broke and I lost all my equipment.
+{|Expression_Surprise}I was going to see my sister on...
+{|Expression_Surprise_to_Idle}Wait?
+{|Expression_Empathy}I don't even remember where!
+{|Expression_Empathy_to_Idle}She lives in a nice little town, full of people.
+{|Expression_Idle_Neutral}There's rice patches, a shop, and a big monument.
+{|Expression_Idle_Neutral}Oh please, you need to help me.
+{|Expression_Headnod}My sister would be able to draw you a map or something.
+{|Expression_Idle_Neutral}Hurry, please!
+
+key: denizens/conversations.denizenconversation-adrift-validation._independenttextbubbleloc -6192491202152212478 v1 Revised
+Over here!
+
+key: denizens/conversations.denizenconversation-adrift-validation.loctext 5545442522887455340 v4 Revised
+{|Expression_Idle_Neutral}Would you look at that?
+{|Expression_Idle_Neutral}You were able to find my sister in the village?
+{|Expression_Idle_Neutral}That's incredible!
+{|Expression_Pensive}Is she mad?
+{|Expression_Pensive_to_Idle}Don't tell me.
+{|Expression_Idle_Neutral}If I make it, I'm sure that it will be worth something at least.
+{|Expression_Headnod}Thanks again.
+{|Expression_Idle_Neutral}I'd probably be at the bottom of the ocean without you or my sister's help.
+
+key: denizens/conversations.denizenconversation-afteroracle01.loctext 4083356584016746655 v2 Revised
+The Oracle always speaks the truth!
+But what did he mean exactly...
+
+key: denizens/conversations.denizenconversation-afteroracle02.loctext 6175459017215128456 v2 Revised
+The Oracle saw you for what you are!
+Incredible!
+You really are the Chosen One!
+
+key: denizens/conversations.denizenconversation-afteroracle03.loctext 4631000721855771091 v2 Revised
+{|Expression_Idle_Neutral}Oh, +=The Oracle!=+
+{|Expression_Idle_Neutral}+=Great narrative design, Buck=+
+
+key: denizens/conversations.denizenconversation-aftertavern01.loctext -3918040890333619452 v3 Revised
+Commander, you have my bow.
+I will follow you to the black mountains of ((Furogawa)).
+I will help you there find the Oracle!
+
+key: denizens/conversations.denizenconversation-aftertavern02.loctext 3859453727402254883 v2 Revised
+Wow that's so great dude!
+-=Oops, sorry again.=-
+I, Worderic, will chant your prowesses Commander.
+I can't wait to see the Oracle in person!
+
+key: denizens/conversations.denizenconversation-aftertavern03.loctext 5196933703762643992 v2 Revised
+{|Expression_Unhappy}Oh, +=GREAT=+...
+{|Expression_Unhappy}I bet it's another of those stupid puzzles...
+
+key: denizens/conversations.denizenconversation-b1-diceboysrecord.loctext 1042612211603255531 v11 Revised
+{|Expression_Surprise}What?
+{|Expression_Surprise_to_Idle}A new hip-hop record!
+{|Expression_Idle_Neutral}Straight off the press!
+{|Expression_Idle_Neutral}Wax still fresh!
+{|Expression_Idle_Neutral}It's gotta be the Dice Boys.
+{|Expression_Idle_Neutral}The name's Taylor and I manage the street team here in ((Hummingberg)).
+{|Expression_Idle_Neutral}We've been waiting for a while for a new Dice Boys single.
+{|Expression_Idle_Neutral}I've heard rumors they were breaking up.
+{|Expression_Idle_Neutral}Good to know something good came out of such a hectic time.
+{|Expression_Idle_Neutral}I'll be spreading these copies around.
+{|Expression_Headnod}Thanks for the help.
+{|Expression_Idle_Neutral}You must be a big fan to come all the way here.
+
+key: denizens/conversations.denizenconversation-b1-diceboyssinging.loctext 6649778650934453673 v1 Revised
++=Might take a chance, but shit, knowing I might get some bruises.=+ 
++=This feeling got me thinking I might find you at the right time.=+
+
+key: denizens/conversations.denizenconversation-b1-hyenabluprint.loctext 904300786418911275 v11 ReadyForRevision
+{|Expression_Surprise}Who are you calling a thief?!?
+{|Expression_Surprise_to_Idle}Oh!
+{|Expression_Idle_Neutral}I'm so sorry.
+{|Expression_Headnod}You didn't say anything.
+{|Expression_Idle_Neutral}I don't usually snap at people like that.
+{|Expression_Idle_Neutral}I've just been so high strung lately.
+{|Expression_Idle_Neutral}I've been busy stealing from my neighbours and running for the police.
+{|Expression_Idle_Neutral}I mean...
+{|Expression_Idle_Neutral}Oh brother.
+{|Expression_Idle_Neutral}Frank, get it together!
+{|Expression_Idle_Neutral}You'll never be a great thief if you can't keep your mouth shut!
+{|Expression_Idle_Neutral}Listen, so about the whole stealing and running from the cops.
+{|Expression_Idle_Neutral}Could we just forget about that and say...
+{|Expression_Idle_Neutral}Oh, I don't know.
+{|Expression_Idle_Neutral}I'm sleepwalking.
+{|Expression_Idle_Neutral}Yeah, that's good.
+{|Expression_Idle_Neutral}Old Frank here is sleepwalking.
+{|Expression_Idle_Neutral}Don't wake me up.
+{|Expression_Idle_Neutral}It's bad to wake up a sleepwalker.
+{|Expression_Idle_Neutral}Lucky for you, when I sleepwalk, I drop gifts that might resemble a bribe.
+{|Expression_Idle_Neutral}They just fall out of my pockets.
+{|Expression_Idle_Neutral}Zzz...
+{|Expression_Idle_Neutral}Zzz...
+
+key: denizens/conversations.denizenconversation-b1-random02.loctext -1323082429844299062 v4 Revised
+Yes?
+Oh, I thought you had something to say.
+
+key: denizens/conversations.denizenconversation-b1-random04.loctext -560316167738233865 v4 Revised
+{|Expression_Idle_Neutral}I'm sorry.
+{|Expression_Idle_Neutral}I'm in a bit of a rush.
+
+key: denizens/conversations.denizenconversation-b1-random05.loctext -1991682230524246784 v4 Revised
+{|Expression_Idle_Neutral}I’m busy, miss.
+
+key: denizens/conversations.denizenconversation-b1-random06.loctext -4114266384227045370 v4 Revised
+Good day to you.
+
+key: denizens/conversations.denizenconversation-beforeoracle01.loctext 1345270456313719906 v2 Revised
+Where could it be?
+The oracle is the wisest being of all Romalda!
+
+key: denizens/conversations.denizenconversation-beforeoracle02.loctext 8292089410611677672 v2 Revised
+Where's the Oracle?
+It can't be far.
+I can feel his power...
+
+key: denizens/conversations.denizenconversation-beforeoracle03.loctext -1994927991429135168 v2 Revised
+{|Expression_Idle_Neutral}I'm fed up with these stupid puzzles.
+{|Expression_Idle_Neutral}There is no roll to make.
+{|Expression_Idle_Neutral}My awesome stats are useless...
+
+key: denizens/conversations.denizenconversation-beforeparty01.loctext -3283153265298458440 v2 Revised
+Glory to the Chosen One!
+
+key: denizens/conversations.denizenconversation-beforeparty02.loctext 4880046200471960770 v2 Revised
+The Silver Company is by your side Commander
+
+key: denizens/conversations.denizenconversation-beforeparty03.loctext 8454100840489219514 v2 Revised
+Roll crits! Roll Crits!
+
+key: denizens/conversations.denizenconversation-beforeparty07.loctext -6271566606326613107 v1 Revised
+Glory to Romalda!
+
+key: denizens/conversations.denizenconversation-beforepartygeneric.loctext -4014662145941389770 v2 Revised
+May the light be!
+
+key: denizens/conversations.denizenconversation-beforetavern01.loctext -960472032723695995 v2 Revised
+I had to use cunning ruses to deceit the Witches.
+But they allowed me in their ranks!
+It's a tale I can't wait for you to hear!
+
+key: denizens/conversations.denizenconversation-beforetavern02.loctext -3154505871262290745 v2 Revised
+I, Worderic, am still sneezing because of all that dust sniffed from the ancient tomes of Walalbul.
+But it was worth it!
+I'll tell you all what I discovered!
+
+key: denizens/conversations.denizenconversation-beforetavern03.loctext -8420291331696318335 v2 Revised
+{|Expression_Idle_Neutral}Look, I know some people think overcasting is a no brainer.
+{|Expression_Unhappy}But I can tell you that any abjuration spell should ALWAYS be cast with an inferior spell slot!
+{|Expression_Unhappy}It triggers an auto proc from any proficiency skill!
+{|Expression_Unhappy}How can THAT be lesser than the granted mastery die!
+{|Expression_Unhappy}Impossible!
+
+key: denizens/conversations.denizenconversation-br4-secretmineintro.loctext -4128217802522832701 v22 Revised
+{|Expression_Surprise}Oh, wait one second there.
+{|Expression_Surprise}You can't be here.
+{|Expression_Surprise}This mine has been abandoned for 40 years.
+{|Expression_Surprise_to_Idle}You can’t just waltz in there.
+{|Expression_Idle_Neutral}You don’t have the proper credentials.
+{|Expression_Idle_Neutral}But I love the attitude.
+{|Expression_Idle_Neutral}I do see some potential in you as a future security recruit.
+{|Expression_Idle_Neutral}You just need some training.
+{|Expression_Idle_Neutral}I went to school for this job, you know.
+{|Expression_Idle_Neutral}I suppose if you went out and got that said training, I could deputize you.
+{|Expression_Idle_Neutral}That would work, actually.
+{|Expression_Idle_Neutral}A break once and while does sound nice.
+{|Expression_Idle_Neutral}Listen, go out there and train for this job.
+{|Expression_Headnod}((Double jump)), ((glide)), ((zipline)) around.
+{|Expression_Idle_Neutral}You need to be able to do all that before I make you part of the team.
+{|Expression_Idle_Neutral}I’ll see you around, future recruit.
+
+key: denizens/conversations.denizenconversation-br4-secretmineskip._independenttextbubbleloc -8229038567461289843 v1 Revised
+Well done!
+
+key: denizens/conversations.denizenconversation-br4-secretmineskip.loctext 3019976624953855423 v4 Revised
+{|Expression_Headnod}You're ready and well equipped for the job.
+{|Expression_Idle_Neutral}You did well, recruit.
+{|Expression_Happy}I'm happy to welcome you on the team.
+
+key: denizens/conversations.denizenconversation-br4-secretmineskip2._independenttextbubbleloc 5400184082744010218 v1 Revised
+Well done!
+
+key: denizens/conversations.denizenconversation-br4-secretmineskip2.loctext -583707899103991628 v2 Revised
+{|Expression_Idle_Neutral}And also, always respect the job.
+
+key: denizens/conversations.denizenconversation-br4-secretminevalidation._independenttextbubbleloc -4381920553925158862 v1 Revised
+Well done!
+
+key: denizens/conversations.denizenconversation-br4-secretminevalidation.loctext -3602283961997863855 v8 Revised
+{|Expression_Surprise}Here you go.
+{|Expression_Surprise_to_Idle}Have fun in there, maybe.
+{|Expression_Idle_Neutral}That sounds odd.
+{|Expression_Idle_Neutral}You are going into an abandoned mine, after all.
+{|Expression_Headnod}Be careful.
+
+key: denizens/conversations.denizenconversation-c2-ingrid-again.loctext -8008608300010371881 v1 Revised
+So, is this about the part?
+
+key: denizens/conversations.denizenconversation-c2-ingrid-first.loctext -237644753381351329 v1 Revised
+{|Expression_Idle_Neutral}Ah yes.
+{|Expression_Idle_Neutral}Honey!
+{|Expression_Idle_Neutral}Where is that man?
+{|Expression_Surprise}You’re the delivery person.
+{|Expression_Surprise_to_Idle}…
+{|Expression_Idle_Neutral}No.
+{|Expression_Surprise}You’re just a random paparazzi who wants my autograph?
+{|Expression_Surprise_to_Idle}…
+{|Expression_Idle_Neutral}No.
+{|Expression_Idle_Neutral}Well, who could you ever possibly be?
+{|Expression_Headnod}…
+{|Expression_Idle_Neutral}Larry Saltzberg is shooting a new suspense picture.
+{|Expression_Idle_Neutral}Oh my!
+{|Expression_Idle_Neutral}What are the odds?
+{|Expression_Idle_Neutral}I was just thinking about him the other day.
+{|Expression_Idle_Neutral}Honey, did you hear that?
+{|Expression_Idle_Neutral}Where is that one?
+{|Expression_Idle_Neutral}He was right here a second ago.
+{|Expression_Idle_Neutral}Well, if it’s for Larry, I’ll do it in a heartbeat.
+{|Expression_Idle_Neutral}He is asking me to be in the movie, is he?
+
+key: denizens/conversations.denizenconversation-c2-ingrid-first-noanswer_conversation.loctext -5648436944612979325 v2 Revised
+{|Expression_Empathy}Oh, I see.
+{|Expression_Empathy}Maybe I wasn’t right for the part after all.
+{|Expression_Empathy}If you can’t find anyone else, I'll be available for now.
+
+key: denizens/conversations.denizenconversation-c2-ingrid-first-yesanswer_conversation.loctext -1836859470761709312 v2 Revised
+{|Expression_Happy}You won’t regret this.
+{|Expression_Happy}I’ll give it my best.
+{|Expression_Happy}Good news and on my moving day!
+{|Expression_Happy_to_Idle}I should move more often.
+
+key: denizens/conversations.denizenconversation-c2-ingridgeneric.loctext -8929519007045621469 v3 Revised
+{|Expression_Idle_Neutral}No, no!
+{|Expression_Idle_Neutral}I don't have time to sign an autograph.
+{|Expression_Idle_Neutral}I'm moving in today!
+
+key: denizens/conversations.denizenconversation-c2-ingridnotepicked.loctext 5349557803852341716 v3 Revised
+{|Expression_Empathy}Well, that's too bad.
+{|Expression_Empathy}I really wanted another shot to be in a Larry Saltzberg movie.
+
+key: denizens/conversations.denizenconversation-c2-ingridpicked.loctext -1128528743275593776 v3 Revised
+{|Expression_Idle_Neutral}I can't wait to see the set!
+{|Expression_Idle_Neutral}This will be another turning point in my carrer!
+
+key: denizens/conversations.denizenconversation-c4-random01.loctext 6499212743939214499 v1 Revised
+This place is out of control.
+{|Expression_Idle_Neutral}All the lights.
+{|Expression_Idle_Neutral}I love it so much.
+
+key: denizens/conversations.denizenconversation-c4-random01-beforelit.loctext -106232557199961832 v2 Revised
+{|Expression_Idle_Neutral}This place used to be cool.
+{|Expression_Idle_Neutral}It was buzzing and off the walls.
+{|Expression_Idle_Neutral}I remember a party that was...
+{|Expression_Pensive}Wait?
+{|Expression_Pensive}Do I remember a party?
+{|Expression_Pensive}Was it just me?
+{|Expression_Pensive}I remember people.
+{|Expression_Pensive}Were there even people?
+{|Expression_Pensive_to_Idle}I'm so lost.
+
+key: denizens/conversations.denizenconversation-c4-random02.loctext 8146425717148504265 v1 Revised
+{|Expression_Idle_Neutral}I like ads, but I don't like ads.
+{|Expression_Idle_Neutral}Do you know what I mean?
+
+key: denizens/conversations.denizenconversation-c4-random02-beforelit.loctext -9037617193035658410 v2 Revised
+I'm a big fan of ads.
+{|Expression_Pensive}They tell me what to think.
+{|Expression_Pensive}It's not science.
+{|Expression_Pensive}It's a way of life.
+
+key: denizens/conversations.denizenconversation-c4-random03.loctext 4243994883451975267 v1 Revised
+{|Expression_Idle_Neutral}I can see your lips moving, but I can't hear you.
+{|Expression_Idle_Neutral}Whatever.
+{|Expression_Idle_Neutral}Just listen to the lights buzzing.
+
+key: denizens/conversations.denizenconversation-c4-random04.loctext -5337001925173048368 v1 Revised
+{|Expression_Empathy}Ads get me, you know?
+{|Expression_Empathy}Don't cry, don't cry...
+
+key: denizens/conversations.denizenconversation-c4-random05.loctext 4692482742344120728 v1 Revised
+Don't mind me.
+
+key: denizens/conversations.denizenconversation-c4-random06.loctext 1620113048007503125 v2 Revised
+Leave me alone in this darkness.
+
+key: denizens/conversations.denizenconversation-c4-specialdestination.loctext 1726356985693468383 v4 Revised
+{|Expression_Idle_Neutral}My brother sent you!
+{|Expression_Idle_Neutral}He told you I was lying about this place!?
+{|Expression_Empathy}We've been feuding for many years.
+{|Expression_Empathy}I can’t bear the sound of his name.
+{|Expression_Empathy_to_Idle}It is capital that you return to my brother at once!
+{|Expression_Idle_Neutral}At once, I say.
+{|Expression_Idle_Neutral}You tell him about this marvel, this gem of a location.
+{|Expression_Headnod}Clear my name, you great adventurer.
+{|Expression_Idle_Neutral}I refuse to let this bitter rivalry go on any longer.
+{|Expression_Idle_Neutral}My brother will surely reimburse you for your troubles.
+
+key: denizens/conversations.denizenconversation-c4-specialdestinationanotherbrotherseen.loctext 3954669654948136355 v4 Revised
+{|Expression_Unhappy}Oh, snap, it's you.
+{|Expression_Unhappy}The pranked miss.
+{|Expression_Unhappy}Prank City. Population: You.
+{|Expression_Unhappy}Remember, I don't give out reimbursements.
+{|Expression_Unhappy}Only savage pranks.
+
+key: denizens/conversations.denizenconversation-c6-bullied01.loctext -405397239612331659 v11 Revised
+{|Expression_Unhappy}What are you doing?
+{|Expression_Unhappy}Why are you looking at me like that?
+{|Expression_Unhappy}...
+{|Expression_Unhappy}Okay, okay, relax!
+{|Expression_Unhappy}Wait a second!
+{|Expression_Unhappy}Did those two knuckleheads ask you to intimidate me?
+{|Expression_Unhappy_to_Idle}Stop looking at me like that!
+{|Expression_Pensive}You can drop the act.
+{|Expression_Idle_Neutral}I can’t be muscled out of this job.
+{|Expression_Idle_Neutral}I’ve got mouths to feed.
+{|Expression_Idle_Neutral}I’m not gonna let two tough guys boss me around.
+{|Expression_Idle_Neutral}They were so obvious too.
+{|Expression_Surprise}They were asking around for someone to help ship contraband to other islands.
+{|Expression_Surprise_to_Idle}That's not gonna fly with me.
+{|Expression_Idle_Neutral}You can tell them what you want!
+{|Expression_Idle_Neutral}I don't care.
+{|Expression_Idle_Neutral}Make something up.
+{|Expression_Idle_Neutral}I don’t know what.
+{|Expression_Idle_Neutral}You told me that you would eat my goldfish one by one until I broke.
+{|Expression_Idle_Neutral}Do you like that?
+{|Expression_Idle_Neutral}I’ve got others.
+{|Expression_Idle_Neutral}I’m actually a writer in my spare time.
+{|Expression_Pensive}Anyways.
+{|Expression_Pensive_to_Idle}As long as they get off this dock and move on.
+{|Expression_Headnod}Alright?
+Good!
+
+key: denizens/conversations.denizenconversation-cr1-specialdestination.loctext 7964643038765947734 v6 Revised
+{|Expression_Idle_Neutral}Directions?
+{|Expression_Idle_Neutral}I always just go left and right.
+{|Expression_Idle_Neutral}But, if you want a flashy place to visit...
+{|Expression_Idle_Neutral}My brother heard about this spot filled with giant screens.
+{|Expression_Idle_Neutral}He was probably lying.
+{|Expression_Idle_Neutral}Maybe you could take a look.
+
+key: denizens/conversations.denizenconversation-cr1-specialdestinationanotherbrotherseen.loctext 290448637792030896 v3 Revised
+I actually kinda feel bad now.
+{|Expression_Unhappy}Not for the prank.
+{|Expression_Unhappy}That I feel great.
+{|Expression_Unhappy}Just for my brother not being here.
+{|Expression_Unhappy_to_Idle}Here.
+{|Expression_Idle_Neutral}Take this.
+{|Expression_Idle_Neutral}I'll tell everyone you robbed me.
+{|Expression_Idle_Neutral}I will make you sound cooler than you actually are.
+
+key: denizens/conversations.denizenconversation-cr1-specialdestinationbrotherseen.loctext -7082792692320190251 v1 Revised
+{|Expression_Idle_Neutral}You actually went to the ((Sandwich Walk))?
+{|Expression_Idle_Neutral}You saw my brother.
+{|Expression_Idle_Neutral}He told you to come back here.
+{|Expression_Idle_Neutral}And you came back?
+{|Expression_Idle_Neutral}...
+{|Expression_Unhappy}+=PRRRANNNNK!!!=+
+{|Expression_Unhappy}Classic Derek.
+{|Expression_Unhappy}We used to always prank villagers here together.
+{|Expression_Unhappy}Yeah!
+{|Expression_Unhappy}We got you.
+{|Expression_Unhappy}HARD!
+{|Expression_Unhappy}So very hard.
+{|Expression_Unhappy}In your face random traveler!
+{|Expression_Unhappy}You need to stop listening to random unhelpful randos in the streets.
+{|Expression_Unhappy_to_Idle}Wow, I love the feeling of pranking someone.
+{|Expression_Idle_Neutral}I should start doing this more often.
+{|Expression_Idle_Neutral}Classic me.
+{|Expression_Idle_Neutral}Awww, I miss my brother.
+
+key: denizens/conversations.denizenconversation-d1-diceboysrecord.loctext -658242871371164731 v3 Revised
+'Sup.
+{|Expression_Idle_Neutral}Marcus is the name.
+{|Expression_Idle_Neutral}Rapping is my game.
+{|Expression_Idle_Neutral}I run a small distro, but there's this buzz about the Dice Boys.
+{|Expression_Idle_Neutral}They bring a new energy to the scene.
+{|Expression_Idle_Neutral}You know?
+{|Expression_Idle_Neutral}That's what the people want.
+{|Expression_Idle_Neutral}I can't stop the people from wanting that good stuff.
+{|Expression_Idle_Neutral}Business is business.
+{|Expression_Idle_Neutral}Thank you for the records.
+You have yourself a good one.
+
+key: denizens/conversations.denizenconversation-d1-diceboyssinging.loctext -1581060450126571482 v4 Revised
++=Drink from the necks of my enemies.=+
++=Bubbly champagne tastes like equity.=+
+
+key: denizens/conversations.denizenconversation-dr4-katherine.loctext -2091850450254149941 v1 Revised
+What?
+{|Expression_Idle_Neutral}A new hip-hop record!
+{|Expression_Idle_Neutral}Straight off the press!
+{|Expression_Idle_Neutral}Wax still fresh!
+{|Expression_Idle_Neutral}It's gotta be the Dice Boys.
+{|Expression_Idle_Neutral}The name's Taylor and I manage the street team here in ((Hummingberg)).
+{|Expression_Idle_Neutral}We've been waiting for a while for a new Dice Boys drop.
+{|Expression_Idle_Neutral}I've heard rumors they were breaking up.
+{|Expression_Idle_Neutral}Good to know something good came out of such a hectic time.
+{|Expression_Idle_Neutral}I'll be spreading these copies around.
+{|Expression_Idle_Neutral}Thanks for the help.
+{|Expression_Idle_Neutral}You must be a big fan to come all the way here.
+
+key: denizens/conversations.denizenconversation-dr4-katherineagain.loctext -8175209447099504633 v2 Revised
+Well...
+Are you here to offer me the role?
+
+key: denizens/conversations.denizenconversation-dr4-katherinefirst.loctext -6045320600007405684 v3 Revised
+{|Expression_Idle_Neutral}Woah there.
+{|Expression_Idle_Neutral}You gave me quite the scare.
+{|Expression_Idle_Neutral}You’re moving a lot for someone who is healthy.
+{|Expression_Idle_Neutral}Are you sick?
+{|Expression_Idle_Neutral}I can’t have someone sick near me.
+{|Expression_Idle_Neutral}I must have my fresh air!
+{|Expression_Idle_Neutral}Well, come on!
+{|Expression_Idle_Neutral}What do you want to say to me?
+{|Expression_Headnod}…
+{|Expression_Idle_Neutral}A new Larry Saltzberg picture.
+{|Expression_Idle_Neutral}And he thought of me?
+{|Expression_Idle_Neutral}What’s it about?
+{|Expression_Idle_Neutral}No, no, no.
+{|Expression_Idle_Neutral}I don’t want to know.
+{|Expression_Idle_Neutral}I love a surprise!
+{|Expression_Idle_Neutral}Well...
+Are you here to offer me a role?
+
+key: denizens/conversations.denizenconversation-dr4-katherinefirst-noanswer_conversation.loctext 3656394563885955383 v2 Revised
+Well, that settles it!
+{|Expression_Unhappy}You can leave now.
+{|Expression_Unhappy}I won’t be bothered on my hike.
+
+key: denizens/conversations.denizenconversation-dr4-katherinefirst-yesanswer_conversation.loctext -6894279865602046827 v2 Revised
+{|Expression_Happy}Good.
+{|Expression_Happy_to_Idle}You tell Larry that he just needs to send all the details to my agent.
+I knew it was a good day for a walk outside!
+
+key: denizens/conversations.denizenconversation-dr4-katherinegeneric.loctext 1011051980442044148 v2 Revised
+{|Expression_Idle_Neutral}I'm here enjoying my hike,
+{|Expression_Idle_Neutral}Please, I have no time for fans.
+
+key: denizens/conversations.denizenconversation-dr4-katherinenotpicked.loctext 7827524437923105301 v3 Revised
+{|Expression_Idle_Neutral}Leave me alone.
+{|Expression_Idle_Neutral}Please.
+{|Expression_Idle_Neutral}I need my fresh air.
+
+key: denizens/conversations.denizenconversation-dr4-katherinepicked.loctext -8385872466523745602 v2 Revised
+I can't wait to start shooting this new picture!
+
+key: denizens/conversations.denizenconversation-happygang01.loctext -4630009387339581377 v1 Revised
+Take that, you capitalist pig!
+
+key: denizens/conversations.denizenconversation-happygang02.loctext -5380308705902080513 v1 Revised
+We won!
+
+key: denizens/conversations.denizenconversation-happygang03.loctext 3056836473186305996 v1 Revised
+I'm gonna eat two steaks tonight.
+
+key: denizens/conversations.denizenconversation-happyprotesters01.loctext 1343947147691678602 v1 Revised
+Take that, you capitalist pig!
+
+key: denizens/conversations.denizenconversation-happyprotesters02.loctext -7640061096879717564 v1 Revised
+We won!
+
+key: denizens/conversations.denizenconversation-happyprotesters03.loctext 7546825961230625115 v1 Revised
+I'm gonna eat two steaks tonight.
+
+key: denizens/conversations.denizenconversation-happyprotesters04.loctext 6940915652040083389 v1 Revised
+Hooray!
+
+key: denizens/conversations.denizenconversation-happyprotesters05.loctext -1673347535856617548 v1 Revised
+I just love working.
+
+key: denizens/conversations.denizenconversation-happyprotesters06.loctext 8988061866967358791 v1 Revised
+Unions forever!
+
+key: denizens/conversations.denizenconversation-keyman.loctext -1975895220563930720 v4 Revised
+{|Expression_Surprise}I stole the key from the boss's office yesterday.
+{|Expression_Surprise}Our protest leader thought it would teach him a lesson.
+{|Expression_Surprise}I won't give it up for nothing.
+{|Expression_Surprise_to_Idle}Maybe a little bag ((glims)).
+{|Expression_Idle_Neutral}Let's say an even 100!
+{|Expression_Idle_Neutral}Upfront!
+I do have a family to feed.
+
+key: denizens/conversations.denizenconversation-keyman-no.loctext -7628606176651158505 v1 Revised
+{|Expression_Unhappy}Too bad.
+{|Expression_Unhappy}No ((glims)), no key!
+
+key: denizens/conversations.denizenconversation-keyman-yes.loctext 1230168506595464119 v1 Revised
+{|Expression_Idle_Neutral}Beautiful.
+{|Expression_Idle_Neutral}Here it is.
+{|Expression_Idle_Neutral}One key to the CEO's office.
+
+key: denizens/conversations.denizenconversation-party01.loctext 3368489724716874179 v4 Revised
+I am Elperin, the ranger.
+As leader of the Silver Company, I'm honoured to meet you!
+
+key: denizens/conversations.denizenconversation-party02.loctext 1187069829902705487 v2 Revised
+It's me, Worderic the bard!
+I sing songs, cast spells, and smoke the pipe.
+But mostly, I smoke the pipe.
+
+key: denizens/conversations.denizenconversation-party03.loctext -6246326532588270010 v2 Revised
+I'm Jerome, and my latest character is Emdaril.
+Have I told you about the changes they made to mounted combat in the latest compendium?
+We +=really=+ need to talk about it...
+
+key: denizens/conversations.denizenconversation-partygeneric.loctext 1786082915889086765 v2 Revised
+What will be our side quest, I wonder?
+
+key: denizens/conversations.denizenconversation-protestleader01.loctext -1914475094676355075 v2 Revised
+I can't budge!
+
+key: denizens/conversations.denizenconversation-protestleader02.loctext -7623232955042816926 v1 Revised
+{|Expression_Idle_Neutral}Can you tell someone to unlock the door?
+{|Expression_Surprise}I really need to pee.
+
+key: denizens/conversations.denizenconversation-protestleaderunlockeddoor.loctext -8101101673577236588 v3 Revised
+{|Expression_Idle_Neutral}Thanks for unlocking the door.
+{|Expression_Unhappy}I actually just went in the corner there.
+{|Expression_Unhappy}Sorry for the smell.
+{|Expression_Idle_Neutral}Here is a little something for your troubles.
+{|Expression_Idle_Neutral}Those damn protestors.
+{|Expression_Idle_Neutral}I mean...
+{|Expression_Idle_Neutral}Workers.
+{|Expression_Idle_Neutral}I have to get used to that.
+
+key: denizens/conversations.denizenconversation-protestleaderunlockeddoorgeneric.loctext 4731502721145053817 v2 Revised
+Thanks again.
+
+key: denizens/conversations.denizenconversation-sadgang01.loctext 4294280359226322939 v1 Revised
+No mercy!
+
+key: denizens/conversations.denizenconversation-sadgang02.loctext -6287810163282211271 v1 Revised
+Let's take the fight to him.
+
+key: denizens/conversations.denizenconversation-sadgang03.loctext -4772618124388943819 v1 Revised
+Let's follow him home!
+
+key: denizens/conversations.denizenconversation-sadgang04.loctext -3433219572700794251 v1 Revised
+Down with this facist hog!
+
+key: denizens/conversations.denizenconversation-sadprotesters01.loctext -8832342433387421881 v1 Revised
+No mercy!
+
+key: denizens/conversations.denizenconversation-sadprotesters02.loctext 2981314361858932226 v1 Revised
+Let's take the fight to him.
+
+key: denizens/conversations.denizenconversation-sadprotesters03.loctext -9022440839107454801 v2 Revised
+Let's follow him home!
+
+key: denizens/conversations.denizenconversation-sadprotesters04.loctext 7014014833120251540 v1 Revised
+Down with this facist hog!
+
+key: denizens/conversations.denizenconversation-sadprotesters05.loctext 7602516155924865948 v1 Revised
+I'm just here because I can take a longer break.
+
+key: denizens/conversations.denizenconversation-sadprotesters06.loctext 2190280372143741174 v1 Revised
+Let's eat his dinner and see if he likes it!
+
+key: denizens/conversations.denizenconversation-specialspot.loctext 3821118689265893357 v5 Revised
+My favourite spot is this bench at the end of the pier.
+It’s beautiful and quite peaceful.
+After a long day's work.
+{|Expression_Idle_Neutral}Oh my!
+{|Expression_Unhappy}I shouldn't have told you if I wanted to keep it that way.
+
+key: denizens/conversations.denizenconvesation-adrift-conversation01.loctext 7651577298690786616 v1 Revised
+Help me out here.
+
+key: denizens/conversations.denizenconvestion-brother-conversation01.loctext 1962572901452674667 v1 Revised
+I should have stayed in the ocean!
+
+key: denizens/conversations.denizenconvestion-brother-conversation02.loctext -3445923382075218667 v1 Revised
+Why did I agree to come here?
+
+key: denizens/conversations.denizenconvestion-brother-conversation03.loctext -8231672857705854740 v1 Revised
+I won't forget this torture you're putting me through.
+
+key: denizens/conversations.denizenconvestion-sister-conversationbrotherhere.loctext 7524771909958015948 v1 Revised
+I'm so happy that my brother made it!
+
+key: denizens/conversations.denizenconvestion-sister-conversationwaitingforbrother.loctext -1206016547713502595 v1 Revised
+Where is my brother?
+He should be here!
+
+key: denizens/conversations.denizencr2conversation-cutwoodvalidation._independenttextbubbleloc -3261247055840287168 v2 Revised
+Hey you!
+
+key: denizens/conversations.denizencr2conversation-cutwoodvalidation-chainconversation.loctext 3710748205688413186 v2 Revised
+{|Expression_Idle_Neutral}These trees are my life.
+{|Expression_Idle_Neutral}These are living things.
+{|Expression_Pensive}They have lives, dreams, aspirations.
+{|Expression_Pensive_to_Idle}You can't cut them down.
+{|Expression_Surprise}I'll make sure you pay for this.
+{|Expression_Surprise}You murderer!
+
+key: denizens/conversations.denizen-d1-basiliskfriend01.loctext -301649024480777622 v2 Revised
+{|Expression_Idle_Neutral}Dude, I can't wait for our next game!
+{|Expression_Idle_Neutral}My friend Buck has been preparing a new game for us.
+{|Expression_Idle_Neutral}I'm sure he'll tell us soon!
+
+key: denizens/conversations.denizen-d1-basiliskfriend02.loctext -5768441512069413626 v3 Revised
+{|Expression_Idle_Neutral}Oh, this quest is gonna be great!
+{|Expression_Idle_Neutral}I can't wait to finish my shift!
+{|Expression_Idle_Neutral}I've made small changes to my Bard, I hope it's going to work all right...
+{|Expression_Idle_Neutral}It's all about role play you know! All the tiny details that make a character come to life!
+
+key: denizens/conversations.denizen-d1-basiliskfriendrecruit.loctext -4018134000552879348 v2 Revised
+Wow!
+Buck sent you!
+Finally!
+{|Expression_Idle_Neutral}-=Oh woops sorry=-
+{|Expression_Idle_Neutral}-=I mean=-
+{|Expression_Surprise}Glad to finally make your acquaintance commander!
+{|Expression_Idle_Neutral}I am indeed Worderic the Bard!
+{|Expression_Idle_Neutral}It's me who composed the Ode to Flabbergon the Drunk!
+{|Expression_Idle_Neutral}Me who solemnly performed at the court of Queen Fluthien for her wedding! 
+{|Expression_Idle_Neutral}And I'll be the chronicler of the Silver Company once again!
+{|Expression_Unhappy}-=Pretty good eh?=-
+{|Expression_Unhappy}-=Haha, I love this character!=-
+Yes, you can count on me!
+I will meet you all at the Naked Mole-Bear Inn as planned!
+And in the meantime, I'll scour the elder archives of the great library of Walalbul in search of a very precise information!
+-=I also need to tell my mum=-
+OK, gotta run, seeya!
+
+key: denizens/conversations.denizen-d1-comment-protest01.loctext -8893149179728610270 v2 Revised
+Down with the oligarchy!
+
+key: denizens/conversations.denizen-d1-comment-protest02.loctext 1608860897655432012 v2 Revised
+Let’s break his knees!
+
+key: denizens/conversations.denizen-d1-comment-protest03.loctext 4345300369613282272 v2 Revised
+We will never surrender!
+
+key: denizens/conversations.denizen-d1-comment-protest04.loctext 1515554863900434114 v2 Revised
+And more days off!
+
+key: denizens/conversations.denizen-d1-comment-protest2-01.loctext -6197664598519874991 v2 Revised
+I want designer sunglasses too!
+
+key: denizens/conversations.denizen-d1-comment-protest2-02.loctext -4485431721527538015 v2 Revised
+Yeah, let’s find his wallet!
+
+key: denizens/conversations.denizen-d1-comment-protest2-03.loctext -6545900543973899748 v2 Revised
+An extra 10 minutes for our lunch break!
+
+key: denizens/conversations.denizen-d3-cherrybomb-conversation01._commenttext -7235894570818228589 v2 Revised
+Stay back!
+
+key: denizens/conversations.denizen-d3-cherrybomb-conversation01.loctext 7041054026375969457 v7 Revised
+{|Expression_Surprise}+=You can't stop me!=+
+{|Expression_Surprise_to_Idle}I came here on a mission.
+{|Expression_Idle_Neutral}I'm gonna throw this cherry bomb down this hole.
+{|Expression_Idle_Neutral}Why?
+{|Expression_Idle_Neutral}Cause I feel like it.
+{|Expression_Idle_Neutral}My dad can't stop me.
+{|Expression_Idle_Neutral}This is the great outdoors.
+{|Expression_Idle_Neutral}He doesn't own this.
+{|Expression_Idle_Neutral}Nature always wins!
+[HideBubble]...
+[ShowBubble]{|Expression_Surprise}Wow!
+{|Expression_Surprise}I just made that.
+{|Expression_Surprise}+=Take that, dad!=+
+{|Expression_Surprise_to_Idle}I'm my own person.
+
+key: denizens/conversations.denizen-d3-cherrybomb-conversation02.loctext 807563431911595518 v3 Revised
+{|Expression_Idle_Neutral}That was great!
+
+key: denizens/conversations.denizen-d3-factory-conversation01._commenttext 5759200270136181372 v1 Revised
+A visitor!
+
+key: denizens/conversations.denizen-d3-factory-conversation01.loctext 8636384085053005505 v1 Revised
+{|Expression_Surprise}What are you doing here?
+{|Expression_Surprise}This place is closed, shut down, abandoned.
+{|Expression_Surprise_to_Idle}Nobody comes here.
+{|Expression_Idle_Neutral}It's like a graveyard.
+{|Expression_Idle_Neutral}This was my factory ((Crow's End Inc)).
+{|Expression_Idle_Neutral}...
+{|Expression_Pensive}You don't believe I could own a factory?
+{|Expression_Pensive_to_Idle}Well, I did.
+{|Expression_Idle_Neutral}And it was the biggest mistake in my life.
+{|Expression_Idle_Neutral}I had employees.
+{|Expression_Idle_Neutral}I had deals.
+{|Expression_Idle_Neutral}I had shipping manifests.
+{|Expression_Idle_Neutral}The whole nine yards.
+I had all the things a company could have.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}How did I lose it all, you ask?
+{|Expression_Idle_Neutral}It wasn't my fault.
+{|Expression_Idle_Neutral}It's those damn Theodores.
+{|Expression_Idle_Neutral}They come in, all innocent.
+{|Expression_Idle_Neutral}"Look at us we're ((Raccoon Inc))".
+{|Expression_Idle_Neutral}Then, when you're not looking, they take your territory.
+{|Expression_Idle_Neutral}District by district.
+{|Expression_Empathy}They steal your employees.
+{|Expression_Empathy}They crush your dreams.
+{|Expression_Idle_Neutral}And...
+{|Expression_Idle_Neutral}And...
+{|Expression_Idle_Neutral}They smile at you while they're doing it.
+{|Expression_Idle_Neutral}Animals!
+{|Expression_Pensive}Then your wife leaves you and your kids don't even look you in the eyes.
+{|Expression_Pensive_to_Idle}Never.
+{|Expression_Idle_Neutral}I say never, own a factory.
+
+key: denizens/conversations.denizen-d3-factory-conversation02.loctext -455142197096681003 v4 Revised
+{|Expression_Empathy}Leave me alone with my broken dreams.
+
+key: denizens/conversations.denizendr4_berryconversation-berryintroduction._commenttext -3676714148175886088 v1 Revised
+Young person!
+
+key: denizens/conversations.denizendr4_berryconversation-berryintroduction.loctext 1609199350020191754 v7 Revised
+{|Expression_Headnod}You stopped?
+{|Expression_Idle_Neutral}Good for you, youngster.
+{|Expression_Idle_Neutral}Barry's my name.
+{|Expression_Idle_Neutral}I was on a hike, looking for ((berries)).
+{|Expression_Idle_Neutral}But, there's nothing here.
+{|Expression_Idle_Neutral}Which is odd.
+{|Expression_Idle_Neutral}Berries grow almost everywhere.
+{|Expression_Idle_Neutral}When I walk, I always stop to pick up ((berries)).
+{|Expression_Idle_Neutral}I always leave some.
+{|Expression_Idle_Neutral}Animals need to eat too.
+{|Expression_Idle_Neutral}I'm on the older side of life and I have time to take hikes.
+{|Expression_Idle_Neutral}Walk around in the woods.
+{|Expression_Idle_Neutral}However, my feet grow tired easily.
+{|Expression_Idle_Neutral}My legs aren't what they used to be.
+{|Expression_Idle_Neutral}I could run after shoplifters.
+{|Expression_Idle_Neutral}I could run a marathon.
+{|Expression_Idle_Neutral}I could run for days.
+{|Expression_Idle_Neutral}Now, I just eat ((berries)) and enjoy the sun.
+{|Expression_Idle_Neutral}Long story short, would you find me some berries?
+{|Expression_Idle_Neutral}I like only three kinds.
+{|Expression_Idle_Neutral}I like ((strawberries)).
+{|Expression_Idle_Neutral}I like ((blueberries)).
+{|Expression_Idle_Neutral}I like ((raspberries)).
+{|Expression_Idle_Neutral}The other ones are too wild for my taste buds.
+{|Expression_Idle_Neutral}I'll see you soon, youngster.
+{|Expression_Idle_Neutral}Have a berry day!
+
+key: denizens/conversations.denizendr4_berryconversation-berryvalidation._commenttext -5957899571940385227 v1 Revised
+I can smell them!
+
+key: denizens/conversations.denizendr4_berryconversation-berryvalidation.loctext -5227088945153664383 v7 Revised
+Would you look at that?
+{|Expression_Idle_Neutral}((Berries)), the three kinds I like!
+{|Expression_Idle_Neutral}But...
+{|Expression_Idle_Neutral}But...
+{|Expression_Surprise}They're all squeezed and squished.
+{|Expression_Surprise}I can't accept these "damaged during shipping" ((berries)).
+{|Expression_Surprise_to_Idle}I only like the fresh kind.
+{|Expression_Idle_Neutral}Kids these days.
+{|Expression_Surprise}They don't respect the ((berries)).
+{|Expression_Surprise_to_Idle}Well, too bad.
+{|Expression_Happy}I won't let you go empty-handed.
+{|Expression_Happy_to_Idle}You did go to all the trouble of finding ((berries)).
+Which is, itself, quite the adventure.
+Look, put those ((berries)) to good use with this.
+Take care.
+
+key: denizens/conversations.denizen-dr4-berry-conversation01.loctext 5945414332885998202 v3 Revised
+Don't forget.
+I like ((berries)).
+The good kind.
+Don't go and forget now!
+
+key: denizens/conversations.denizen-dr4-berry-conversation02.loctext 5581854332003048047 v3 Revised
+Thanks again.
+I wish I had some good quality ((berries)).
+Oh well.
+
+key: denizens/conversations.denizen-h2-comment-party01.loctext -3436158152568452549 v2 Revised
+I have succeeded my spot hidden too!
+
+key: denizens/conversations.denizen-h2-comment-party02.loctext 8777616947812900655 v2 Revised
+This shrine is covered in holy scriptures!
+
+key: denizens/conversations.denizen-h2-comment-party03.loctext -8537377959989484458 v3 Revised
+Can I take a short rest?
+
+key: denizens/conversations.denizen-h2-comment-party2-01.loctext 5711261241780004652 v3 Revised
+Cast your magic, Chosen One!
+
+key: denizens/conversations.denizen-h2-comment-party2-02.loctext 4423568986833153080 v1 Revised
+May the light shine!
+
+key: denizens/conversations.denizen-h2-comment-party2-03.loctext 2378725026216215547 v2 Revised
+Advantage on your skill check!
+
+key: denizens/conversations.denizens_b2_leader_random1.loctext -7376914641321008059 v4 Revised
+{|Expression_Unhappy}Everything that the light touches is mine.
+{|Expression_Unhappy}And also everything the light doesn't touch.
+{|Expression_Unhappy_to_Idle}Yeah, everything's mine.
+
+key: denizens/conversations.denizens_b2_leader_random2.loctext -6152239736069411321 v5 Revised
+{|Expression_Idle_Neutral}Have you seen my splendid silverware collection?
+{|Expression_Idle_Neutral}It's an old family heirloom.
+{|Expression_Idle_Neutral}I've been told it was priceless, but I'll let you in on a little insider secret:
+{|Expression_Idle_Neutral}It's very pricey.
+
+key: denizens/conversations.denizens_b2_leader_random3.loctext 5449519435570373317 v12 Revised
+{|Expression_Idle_Neutral}This house is so big, people sometimes get lost walking through it.
+{|Expression_Idle_Neutral}Wandering around for hours, even days.
+{|Expression_Pensive}Growing ever hungrier.
+{|Expression_Pensive}Glimpses of shadowy figures slipping in and out of the very edge of their vision.
+{|Expression_Pensive}An endless Daedalus of wealth and splendor...
+{|Expression_Pensive_to_Idle}What? Me?
+{|Expression_Idle_Neutral}No, of course, it never happened to me, since this is so obviously MY house.
+{|Expression_Idle_Neutral}What a silly thing to say.
+
+key: denizens/conversations.denizens_b2_leader_random4.loctext 3352733839588746007 v4 Revised
+{|Expression_Idle_Neutral}Why do I never leave this balcony, you ask?
+{|Expression_Idle_Neutral}Cause it's my house, and I can do whatever I want in it. That's why.
+{|Expression_Idle_Neutral}I'm rich.
+
+key: denizens/conversations.denizens_b2_leader_welcome.loctext -8733832385085132733 v4 Revised
+{|Expression_Idle_Neutral}Welcome, small traveler, to my humble palace!
+{|Expression_Idle_Neutral}Everything I own is of the finest quality.
+{|Expression_Idle_Neutral}Everything is also bolted down, so don't get any funny ideas.
+
+key: denizens/conversations.denizensconversation-br2-lumberjack01.loctext -1569490792356698576 v16 Revised
+{|Expression_Idle_Neutral}Hey.
+{|Expression_Idle_Neutral}I came here to cut down these trees.
+{|Expression_Idle_Neutral}But...
+{|Expression_Empathy}I forgot my axe.
+{|Expression_Empathy_to_Idle}I'm not gonna start using some else’s axe.
+{|Expression_Idle_Neutral}That would be... strange.
+{|Expression_Idle_Neutral}I like the way my axe feels.
+{|Expression_Idle_Neutral}It's so sturdy and it calms me.
+{|Expression_Empathy}Oh, I miss that axe.
+{|Expression_Empathy_to_Idle}I've been passing the time by writing letters and throwing some in the water.
+{|Expression_Idle_Neutral}I've been writing poetry.
+{|Expression_Idle_Neutral}It's not very good.
+{|Expression_Idle_Neutral}But, I'm getting better.
+{|Expression_Idle_Neutral}Hopefully, no one finds my terrible poetry.
+
+key: denizens/conversations.denizensconversation-br2-lumberjack02.loctext 8464805067671858234 v4 Revised
+{|Expression_Idle_Neutral}Why did I forget my axe?
+{|Expression_Idle_Neutral}I'm lost without it.
+
+key: denizens/conversations.denizensconversation-c1-crew01.loctext -837822276807821416 v2 Revised
+This is our town!
+
+key: denizens/conversations.denizensconversation-c1-crew02.loctext -1110218321961675503 v2 Revised
+Get out of our way you!
+
+key: denizens/conversations.denizensconversation-c1-crewcomments01.loctext -8221291997309790576 v2 Revised
+Hard!
+
+key: denizens/conversations.denizensconversation-c1-crewcomments02.loctext -9147422467618808190 v3 Revised
+Twisted!
+
+key: denizens/conversations.denizensconversation-c1-crewcomments03.loctext -5275175611909966307 v2 Revised
+Dice Boys!
+
+key: denizens/conversations.denizensconversation-c1-crewleader02._commenttext -5368965058541756644 v1 Revised
+Hey you!
+
+key: denizens/conversations.denizensconversation-c1-crewleader02.loctext 5756633302942477732 v3 Revised
+We're the Dice Boys.
+Don't forget the name!
+
+key: denizens/conversations.denizensconversation-c1-generic.loctext 3891499550410417933 v4 Revised
+A good time for a drink, don't you think?
+
+key: denizens/conversations.denizensconversation-c1-generic01.loctext 4911487311746692980 v5 Revised
+Hi.
+
+key: denizens/conversations.denizensconversation-c1-generic02.loctext -7890945544065560919 v5 Revised
+See you.
+
+key: denizens/conversations.denizensconversation-c1-generic03.loctext 1668797462067509573 v2 Revised
+On my way to a happier day.
+
+key: denizens/conversations.denizensconversation-c1-generic04.loctext 1318287872493822961 v2 Revised
+Hello friend!
+
+key: denizens/conversations.denizensconversation-c1-inside01.loctext -763037198445519243 v7 Revised
+{|Expression_Idle_Neutral}The rent here is too much.
+{|Expression_Idle_Neutral}I wish I could afford a bigger apartment.
+{|Expression_Surprise}And have fewer rats.
+
+key: denizens/conversations.denizensconversation-c1-inside02.loctext 5205829002782341579 v1 Revised
+{|Expression_Idle_Neutral}My landlord keeps telling me I don't need to pay rent.
+{|Expression_Idle_Neutral}What is he up too?
+
+key: denizens/conversations.denizensconversation-c1-inside03.loctext 110332270139713980 v2 Revised
+{|Expression_Idle_Neutral}I can't talk right now.
+{|Expression_Idle_Neutral}Oh wow.
+{|Expression_Empathy}I'm talking.
+{|Expression_Empathy}I'm so spaced out.
+{|Expression_Empathy_to_Idle}Leave me alone, please.
+
+key: denizens/conversations.denizensconversation-c1-inside04.loctext -6366291115139514896 v1 Revised
+{|Expression_Idle_Neutral}I like watching people walk outside.
+{|Expression_Idle_Neutral}I think of himself of a peeping...
+{|Expression_Idle_Neutral}No wait!
+{|Expression_Idle_Neutral}That sounds bad.
+{|Expression_Idle_Neutral}I mean... I like to watch people move.
+{|Expression_Idle_Neutral}That sounded even worse.
+{|Expression_Idle_Neutral}Never mind.
+
+key: denizens/conversations.denizensconversation-c1-inside05.loctext 6826627879029619004 v3 Revised
+{|Expression_Idle_Neutral}My roommate is a weird duck.
+{|Expression_Idle_Neutral}I can hear him quacking in his room.
+{|Expression_Idle_Neutral}I hope he's not planning on biting me.
+
+key: denizens/conversations.denizensconversation-c1-inside06.loctext -6548619352553006110 v2 Revised
+{|Expression_Surprise}What are you doing in my house!
+{|Expression_Surprise}Leave, please.
+
+key: denizens/conversations.denizensconversation-c1-inside07.loctext -5835993226748636150 v2 Revised
+{|Expression_Surprise}Are you not ashamed to walk into people's houses.
+
+key: denizens/conversations.denizensconversation-c1-inside08.loctext 7746761167778355116 v3 Revised
+{|Expression_Idle_Neutral}Marjory, the plumber is here.
+{|Expression_Idle_Neutral}Wait a second...
+{|Expression_Idle_Neutral}You don't have a mustache.
+{|Expression_Idle_Neutral}You're not the plumber.
+{|Expression_Surprise}Out!
+
+key: denizens/conversations.denizensconversation-c1-inside09.loctext -7403278703927381445 v2 Revised
+{|Expression_Empathy}I've been tired all my life.
+{|Expression_Empathy}I don't ever want to leave this house.
+
+key: denizens/conversations.denizensconversation-c1-inside10.loctext 1620661030022730509 v2 Revised
+{|Expression_Idle_Neutral}I've been home alone for the last three hours.
+{|Expression_Idle_Neutral}My mom could be back any minute now.
+{|Expression_Idle_Neutral}Or not.
+{|Expression_Idle_Neutral}Hopefully not too soon, I still need to make up a story on why the carpet is burnt.
+
+key: denizens/conversations.denizensconversation-c1-lemonade.loctext -2450960895324322298 v4 Revised
+{|Expression_Idle_Neutral}Do you want to buy some lemonade?
+{|Expression_Idle_Neutral}It's freshly squeezed.
+{|Expression_Idle_Neutral}I'm sure you're too busy to drink this refreshing beverage.
+{|Expression_Idle_Neutral}Some other time, perhaps.
+
+key: denizens/conversations.denizensconversation-c1-lovergeneric.loctext 8140737768015386433 v1 Revised
+{|Expression_Surprise}Leave me alone.
+{|Expression_Surprise_to_Idle}I'm busy.
+{|Expression_Idle_Neutral}The fury of love.
+{|Expression_Idle_Neutral}Ah...
+
+key: denizens/conversations.denizensconversation-c1-lovergenericafterlion.loctext -269452245058360604 v1 Revised
+{|Expression_Unhappy}Leave us alone.
+{|Expression_Unhappy}We'll be getting busy soon.
+
+key: denizens/conversations.denizensconversation-c1-secondbest01.loctext 7456369258073078773 v4 Revised
+{|Expression_Idle_Neutral}I just went to that apartment up there.
+{|Expression_Idle_Neutral}I met this woman in a bar this afternoon.
+{|Expression_Idle_Neutral}I got dressed up, put on aftershave.
+{|Expression_Idle_Neutral}We took a taxi back to her place.
+{|Expression_Pensive}We kissed right there, outside.
+{|Expression_Pensive_to_Idle}There were pictures of her husband, her kids on the walls.
+{|Expression_Idle_Neutral}Hmm...
+{|Expression_Pensive}I don't know if we'll see each other again.
+{|Expression_Pensive_to_Idle}She asked for my number.
+{|Expression_Idle_Neutral}I don't even know if I know her name.
+{|Expression_Idle_Neutral}What's wrong with being the other man?
+{|Expression_Idle_Neutral}What's wrong with second place?
+{|Expression_Idle_Neutral}I think I need a minute here.
+
+key: denizens/conversations.denizensconversation-c1-secondbest02.loctext 2198784414071833250 v2 Revised
+This is the first time something like this has ever happened to me.
+
+key: denizens/conversations.denizensconversation-c1-tomato.loctext -2585725636532852580 v2 Revised
+{|Expression_Idle_Neutral}Do you want to buy some tomato juice?
+{|Expression_Idle_Neutral}It's freshly squeezed.
+{|Expression_Idle_Neutral}I'm sure you're too busy to drink this refreshing beverage.
+{|Expression_Idle_Neutral}Later.
+
+key: denizens/conversations.denizensconversation-c1-walker01.loctext -6142347176156651272 v3 Revised
+{|Expression_Idle_Neutral}Today, I think I'll buy some corn for dessert.
+{|Expression_Idle_Neutral}Why not?
+{|Expression_Idle_Neutral}I'm feeling out of control.
+
+key: denizens/conversations.denizensconversation-c1-walker02.loctext 2562774638935147529 v6 Revised
+Hi there.
+{|Expression_Idle_Neutral}Could this day get any longer?
+{|Expression_Idle_Neutral}No, that's just impossible.
+
+key: denizens/conversations.denizensconversation-c1-walker03.loctext -6325648738322437767 v3 Revised
+{|Expression_Empathy}My brother is tripping out inside our apartment.
+{|Expression_Empathy}I need to find him milk or something.
+{|Expression_Empathy_to_Idle}This is some wild stuff!
+
+key: denizens/conversations.denizensconversation-c1-walker04.loctext 1499642630340046042 v4 Revised
+{|Expression_Idle_Neutral}Have you heard the very good word?
+{|Expression_Idle_Neutral}...
+{|Expression_Happy}It's +=spectacular=+!
+{|Expression_Happy_to_Idle}That's the word.
+
+key: denizens/conversations.denizensconversation-c1-walker05.loctext -1035195897778587105 v2 Revised
+See you around.
+
+key: denizens/conversations.denizensconversation-c1-walker06.loctext -4519665937453906201 v5 Revised
+{|Expression_Idle_Neutral}It was hot yesterday and it was hot today.
+{|Expression_Idle_Neutral}My skin is crawling with sweat.
+{|Expression_Idle_Neutral}I know what's going on out there?
+{|Expression_Pensive}You know they're able to control the weather.
+{|Expression_Pensive}You know what they can't control?
+{|Expression_Surprise}Me.
+{|Expression_Surprise_to_Idle}I think I'll go take a bath.
+
+key: denizens/conversations.denizensconversation-c1-walker07.loctext -6387791503514883825 v2 Revised
+{|Expression_Idle_Neutral}Beautiful day, isn't it?
+{|Expression_Idle_Neutral}Maybe I'll stay out night and day.
+{|Expression_Idle_Neutral}It has nothing to do with me losing my apartment.
+{|Expression_Idle_Neutral}I just like living on the streets.
+{|Expression_Idle_Neutral}Not living +=ON=+ the streets, per se.
+{|Expression_Idle_Neutral}More like, I like spending time on the streets.
+{|Expression_Idle_Neutral}This city.
+{|Expression_Idle_Neutral}What a place!
+
+key: denizens/conversations.denizensconversation-c1-walker08.loctext -5966327685387250826 v2 Revised
+{|Expression_Surprise}Don't come close to me.
+{|Expression_Surprise_to_Idle}I have a rare disease where I hate when people talk to me.
+{|Expression_Idle_Neutral}I, myself, love talking.
+{|Expression_Idle_Neutral}I sometimes make up words.
+{|Expression_Pensive}Like "Burcani".
+{|Expression_Pensive}Like "Watasito".
+{|Expression_Pensive}Like "FrogFrog".
+{|Expression_Pensive_to_Idle}That last one was just the word frog said twice in a row.
+{|Expression_Idle_Neutral}You get it.
+{|Expression_Idle_Neutral}I have a wild imagination and you can't stop me.
+
+key: denizens/conversations.denizensconversation-c1-walker09.loctext -2803419701424943631 v3 Revised
+Have you seen this man?
+{|Expression_Idle_Neutral}Oh gosh.
+{|Expression_Idle_Neutral}I forgot the picture at home.
+{|Expression_Idle_Neutral}Let me describe him to you.
+{|Expression_Pensive}He has hair.
+{|Expression_Pensive}He's got a round face.
+{|Expression_Pensive}His eyes are green.
+{|Expression_Pensive}No, wait!
+{|Expression_Pensive}Brown, maybe.
+{|Expression_Pensive_to_Idle}I'm not sure about his eyes.
+{|Expression_Idle_Neutral}I would have told you to call me if you'd find him.
+{|Expression_Idle_Neutral}But, without his picture, it's near impossible.
+{|Expression_Idle_Neutral}I won't find my brother anytime soon with that attitude.
+{|Expression_Idle_Neutral}Sorry for the bother.
+
+key: denizens/conversations.denizensconversation-c1-walker10.loctext -6925187558336981878 v2 Revised
+{|Expression_Idle_Neutral}Damn!
+{|Expression_Idle_Neutral}I've got two pennies in my pocket.
+{|Expression_Idle_Neutral}I can't reach them.
+{|Expression_Idle_Neutral}They're just stuck down there.
+{|Expression_Idle_Neutral}I can hear them having fun.
+{|Expression_Idle_Neutral}Crushing together.
+{|Expression_Idle_Neutral}I can hear you, you copper deviants!
+{|Expression_Idle_Neutral}+=Quiet!!!=+.
+{|Expression_Idle_Neutral}Do you hear them?
+{|Expression_Idle_Neutral}What do you think they're saying?
+{|Expression_Idle_Neutral}Maybe they're laughing at my shirt.
+{|Expression_Idle_Neutral}I like this shirt.
+{|Expression_Idle_Neutral}I need some peace and quiet.
+{|Expression_Idle_Neutral}I don't want my money talking down to me.
+
+key: denizens/conversations.denizensconversation-c2-generic01.loctext -856406952637241133 v2 Revised
+Hey.
+
+key: denizens/conversations.denizensconversation-c2-generic02.loctext -5248278049557036069 v2 Revised
+Later.
+
+key: denizens/conversations.denizensconversation-c2-generic03.loctext 997575727782400065 v2 Revised
+Less talking, more walking.
+
+key: denizens/conversations.denizensconversation-c2-generic04.loctext 1781257711289118107 v2 Revised
+Good.
+
+key: denizens/conversations.denizensconversation-c2-inside01.loctext -549263359244228032 v3 Revised
+{|Expression_Idle_Neutral}This place is the height of luxury.
+{|Expression_Idle_Neutral}You can order everything!
+{|Expression_Idle_Neutral}I can even order fresh milk for my baths.
+{|Expression_Surprise}I've been taking two baths a day.
+{|Expression_Surprise_to_Idle}It's too much.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}My skin is so soft.
+
+key: denizens/conversations.denizensconversation-c2-inside02.loctext 4112323963011876369 v2 Revised
+{|Expression_Unhappy}When you are this rich, it's easy to boss people around.
+{|Expression_Unhappy}I don't even have a job and I act like a boss.
+{|Expression_Unhappy}If my father could see me now!
+{|Expression_Unhappy_to_Idle}He would be proud.
+
+key: denizens/conversations.denizensconversation-c2-inside03.loctext 4508385055253742082 v6 Revised
+{|Expression_Idle_Neutral}I'm house-sitting for my idiot boss.
+{|Expression_Pensive}Being an assistant is a major pain.
+{|Expression_Pensive_to_Idle}I know, I know...
+{|Expression_Idle_Neutral}I shouldn't complain.
+{|Expression_Idle_Neutral}I get to stay in this mansion.
+{|Expression_Surprise}Plus, I get to take a dump in her bathroom.
+{|Expression_Surprise_to_Idle}The seats are so warm.
+{|Expression_Idle_Neutral}I could spend all day in there.
+
+key: denizens/conversations.denizensconversation-c2-penthouse._commenttext 2428143005020372592 v1 Revised
+You!
+
+key: denizens/conversations.denizensconversation-c2-penthouse.loctext 2143267817328901052 v5 Revised
+{|Expression_Surprise}What are you doing there?
+{|Expression_Surprise_to_Idle}I didn't know the circus was in town.
+{|Expression_Unhappy}You need to get down from there.
+{|Expression_Unhappy}You are not allowed.
+{|Expression_Unhappy}I paid good money to live here.
+{|Expression_Unhappy}Alone with my things.
+{|Expression_Unhappy}If I wanted to see an acrobat, I'd pay to see one.
+{|Expression_Unhappy_to_Idle}Stop trying to rob me, you burglar.
+
+key: denizens/conversations.denizensconversation-c2-penthouse02.loctext -6634090347188013136 v2 Revised
+I'm calling security.
+
+key: denizens/conversations.denizensconversation-c2-penthousegeneric.loctext -473062578020854377 v2 Revised
+Go away, robber.
+
+key: denizens/conversations.denizensconversation-c2-top01.loctext 9191350423975153540 v2 Revised
+{|Expression_Idle_Neutral}This is so intense.
+{|Expression_Idle_Neutral}Look at everyone down there.
+{|Expression_Idle_Neutral}Ants.
+{|Expression_Idle_Neutral}We are giants.
+{|Expression_Idle_Neutral}I think we are better than them.
+
+key: denizens/conversations.denizensconversation-c2-top02.loctext -8660206236995547892 v2 Revised
+{|Expression_Empathy}I can't feel my face.
+{|Expression_Empathy}I haven't blinked in forever.
+{|Expression_Empathy_to_Idle}It's because of this gentle wind.
+{|Expression_Idle_Neutral}I wish I knew how to get down from here.
+
+key: denizens/conversations.denizensconversation-c2-walker01.loctext -8849085568500844898 v2 Revised
+{|Expression_Idle_Neutral}I live in that building right there.
+{|Expression_Idle_Neutral}It's pretty fancy.
+{|Expression_Idle_Neutral}You probably could have guessed by my haircut.
+{|Expression_Idle_Neutral}That ain't no five-cent hair styling.
+{|Expression_Idle_Neutral}I go to this at a world-renowned salon.
+{|Expression_Idle_Neutral}It was pretty expensive.
+{|Expression_Idle_Neutral}I've travelled the whole word to get amazing haircuts.
+{|Expression_Idle_Neutral}They've all been worth it.
+{|Expression_Idle_Neutral}That' just how much I love my precious hair.
+
+key: denizens/conversations.denizensconversation-c2-walker02.loctext -2442900822079203383 v2 Revised
+{|Expression_Idle_Neutral}I always look at people straight in the eyes.
+{|Expression_Idle_Neutral}That's how I can tell if they're being honest.
+{|Expression_Idle_Neutral}That's been the secret to my success.
+{|Expression_Idle_Neutral}Look people in the eyes.
+{|Expression_Idle_Neutral}It's your way into someone's soul.
+{|Expression_Idle_Neutral}That's if you want it to be.
+
+key: denizens/conversations.denizensconversation-c2-walker03.loctext 5367754882079781574 v3 Revised
+{|Expression_Idle_Neutral}There's this coffee place close by.
+{|Expression_Idle_Neutral}I can't go in anymore.
+{|Expression_Idle_Neutral}I'm too ashamed to go back.
+{|Expression_Surprise}I stole the bathroom key.
+{|Expression_Surprise}When I say stole... I mean stole.
+{|Expression_Surprise_to_Idle}I took it on purpose.
+{|Expression_Idle_Neutral}I didn't want the man sitting next to me use the bathroom.
+{|Expression_Idle_Neutral}He was chewing his food and sipping his coffee way too loud.
+{|Expression_Idle_Neutral}I guess I'll have to find another coffee spot.
+
+key: denizens/conversations.denizensconversation-c2-walker04.loctext -7177254416652016849 v3 Revised
+{|Expression_Surprise}Don't talk to me, please.
+{|Expression_Surprise_to_Idle}I don't like it when people disturb my train of thought.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Oh no.
+{|Expression_Idle_Neutral}I lost it.
+{|Expression_Idle_Neutral}See!?
+{|Expression_Idle_Neutral}I don't know what I was thinking about.
+{|Expression_Unhappy}A whole day ruined.
+{|Expression_Unhappy}Leave me alone, ruiner!
+
+key: denizens/conversations.denizensconversation-c2-walker04generic.loctext 6645408525076126395 v3 Revised
+{|Expression_Idle_Neutral}Ah!
+{|Expression_Idle_Neutral}You did it again.
+{|Expression_Idle_Neutral}Leave me alone.
+
+key: denizens/conversations.denizensconversation-c3-generic01.loctext -7801059540121909888 v2 Revised
+{|Expression_Idle_Neutral}Out of the way!
+
+key: denizens/conversations.denizensconversation-c3-generic02.loctext 733083928501276414 v2 Revised
+{|Expression_Idle_Neutral}Don't talk to me.
+
+key: denizens/conversations.denizensconversation-c3-generic03.loctext 35890885931966834 v2 Revised
+{|Expression_Idle_Neutral}You got any?
+
+key: denizens/conversations.denizensconversation-c3-generic04.loctext -2768710495711617339 v2 Revised
+{|Expression_Unhappy}Buzz off.
+
+key: denizens/conversations.denizensconversation-c3-lizardking02.loctext -2450783193472526274 v3 Revised
+How was that?
+Good?
+Thank you.
+I don't like playing the bad guy.
+What a character this Lizard King though!
+Buck gave me 27 pages of background story on him!
+
+key: denizens/conversations.denizensconversation-c3-lizardking03.loctext 2029274025901674725 v2 Revised
+I am the Lizard King!
+
+key: denizens/conversations.denizensconversation-c3-walker01.loctext 2432405489559404058 v2 Revised
+{|Expression_Surprise}You need to check yourself.
+{|Expression_Surprise}Don't come into my face and start asking me questions.
+{|Expression_Surprise}You ain't the government.
+{|Expression_Surprise}Plus, I don't answer them either.
+{|Expression_Surprise_to_Idle}Back up.
+
+key: denizens/conversations.denizensconversation-c3-walker02.loctext 4729071873494089034 v2 Revised
+You need something, sweetie?
+{|Expression_Surprise}A good time, perhaps.
+{|Expression_Surprise_to_Idle}No?
+{|Expression_Idle_Neutral}Well...
+{|Expression_Idle_Neutral}Don't be shy.
+{|Expression_Idle_Neutral}I'm down here all the time.
+
+key: denizens/conversations.denizensconversation-c3-walker02-default.loctext 3890119418559618831 v2 Revised
+Still looking, are we?
+
+key: denizens/conversations.denizensconversation-c3-walker03.loctext 6390137855590160059 v2 Revised
+{|Expression_Idle_Neutral}This place smells like hot garbage on a sunny day.
+{|Expression_Idle_Neutral}When the sun hits hit that dumpster just right, you can really smell the dead fish.
+{|Expression_Idle_Neutral}Our tax glims hard at work!
+
+key: denizens/conversations.denizensconversation-c3-walker04.loctext 8358902042461685005 v2 Revised
+{|Expression_Idle_Neutral}Oh wow!
+{|Expression_Idle_Neutral}A visitor.
+{|Expression_Idle_Neutral}Nobody ever comes here.
+{|Expression_Idle_Neutral}You must be lost.
+{|Expression_Pensive}Or worst, doing something illegal.
+{|Expression_Pensive_to_Idle}Which I am in no way doing.
+Good day, then.
+
+key: denizens/conversations.denizensconversation-c3-walker05.loctext -6572597580151468922 v3 Revised
+{|Expression_Unhappy}No, thank you.
+{|Expression_Unhappy}Keep walking you deviant.
+
+key: denizens/conversations.denizensconversation-c3-walker06.loctext 9157226836769676593 v3 Revised
+{|Expression_Idle_Neutral}You better keep moving.
+{|Expression_Idle_Neutral}I'm meeting someone and it's clearly not you.
+{|Expression_Idle_Neutral}He said inconspicuous.
+{|Expression_Unhappy}And that giant hat doesn't scream inconspicuous.
+
+key: denizens/conversations.denizensconversation-c5-dweller01.loctext 7717673596464527366 v2 Revised
+{|Expression_Idle_Neutral}I made this whole place.
+{|Expression_Idle_Neutral}It started with a dream.
+{|Expression_Idle_Neutral}A city of containers in the air.
+{|Expression_Idle_Neutral}Floating amongst the coulds.
+{|Expression_Idle_Neutral}Than I woke up and thought to myself...
+{|Expression_Idle_Neutral}"That's the most ridiculous thing ever, Marty!"
+{|Expression_Idle_Neutral}If it's just a city of containers in the sea, it makes more sense.
+{|Expression_Idle_Neutral}So, I built it.
+{|Expression_Idle_Neutral}It took a few years.
+Here we are.
+
+key: denizens/conversations.denizensconversation-c5-dweller02.loctext -5053056225654452030 v2 Revised
+This place gives me the creeps.
+{|Expression_Idle_Neutral}It smells like wet rags and damp towels.
+{|Expression_Idle_Neutral}And fish.
+{|Expression_Idle_Neutral}Mostly, fish.
+{|Expression_Idle_Neutral}I don't like it, but I have nowhere to go.
+{|Expression_Idle_Neutral}So I just complain a lot.
+
+key: denizens/conversations.denizensconversation-c5-dweller03.loctext -2420968056929503735 v2 Revised
+{|Expression_Idle_Neutral}Have a good one.
+{|Expression_Idle_Neutral}I'm busy.
+{|Expression_Idle_Neutral}I'm trying to find a gift for my brother.
+{|Expression_Idle_Neutral}Something on a budget.
+{|Expression_Idle_Neutral}He's not worth a full price gift.
+{|Expression_Idle_Neutral}He never gets me anything, anyways.
+{|Expression_Idle_Neutral}I'll figure it out.
+{|Expression_Idle_Neutral}I just need to think about it.
+
+key: denizens/conversations.denizensconversation-c5-generic01.loctext -6997728542379065178 v2 Revised
+Hello stranger.
+
+key: denizens/conversations.denizensconversation-c5-generic02.loctext 5323755761342018680 v2 Revised
+You're always welcome here.
+
+key: denizens/conversations.denizensconversation-c5-generic03.loctext 5359915574935119568 v2 Revised
+Good day.
+
+key: denizens/conversations.denizensconversation-c5-generic04.loctext -2985062688384063477 v2 Revised
+Take care.
+
+key: denizens/conversations.denizensconversation-c5-walker01.loctext -5843539723281359934 v2 Revised
+{|Expression_Headnod}Good day to you too.
+{|Expression_Idle_Neutral}I'm glad you said something.
+{|Expression_Idle_Neutral}It would have been odd for you to just pass by.
+{|Expression_Idle_Neutral}Well, that's it.
+Have a good one.
+
+key: denizens/conversations.denizensconversation-c6-courrier01._commenttext -6334091847069916702 v2 Revised
+Over here...
+
+key: denizens/conversations.denizensconversation-c6-courrier01.loctext 7588427327632267653 v3 Revised
+Listen.
+I'm only gonna say this once.
+{|Expression_Surprise}Mr. Davis is not someone to be taken lightly.
+{|Expression_Surprise}You don't play around with Mr. Davis.
+{|Expression_Surprise}I've seen Mr. Davis get angry for much less.
+{|Expression_Surprise_to_Idle}You hear me?
+{|Expression_Pensive}You understand?
+{|Expression_Pensive}Alright, with this much product, the risk is high.
+{|Expression_Pensive_to_Idle}Here it is.
+{|Expression_Unhappy}Now get out of my sight, you degenerate.
+
+key: denizens/conversations.denizensconversation-c6-courrier02.loctext 3732387772743072077 v2 Revised
+Scram!
+
+key: denizens/conversations.denizensconversation-c6-deliveryman01._commenttext 913317311522953465 v1 Revised
+Psst... Psst...
+
+key: denizens/conversations.denizensconversation-c6-deliveryman01.loctext 8833031274565688427 v3 Revised
+You there.
+{|Expression_Idle_Neutral}You're here for the lemons?
+{|Expression_Headnod}...
+{|Expression_Idle_Neutral}Oh good.
+{|Expression_Idle_Neutral}Listen.
+{|Expression_Pensive}Be cool and don't worry about it.
+{|Expression_Pensive}Just take these lemons and get out of here.
+{|Expression_Pensive}I don't want them in my life.
+{|Expression_Pensive_to_Idle}I don't need the trouble.
+
+key: denizens/conversations.denizensconversation-c6-deliveryman02.loctext -7957097833848674406 v2 Revised
+Come on, get.
+
+key: denizens/conversations.denizensconversation-c6-generic01.loctext -1434953843002825859 v2 Revised
+Out of the way.
+I'm working here.
+
+key: denizens/conversations.denizensconversation-c6-generic02.loctext -792330365978989737 v2 Revised
+Move!
+
+key: denizens/conversations.denizensconversation-c6-workers01.loctext 4370163882259763928 v4 Revised
+My boss told me to come in early today.
+{|Expression_Idle_Neutral}That a-hole isn't even here.
+{|Expression_Idle_Neutral}Probably stuck in traffic.
+{|Expression_Idle_Neutral}I'll just go get a coffee or something.
+
+key: denizens/conversations.denizensconversation-c6-workers02.loctext 7573200781669864657 v3 Revised
+My overtime pay hasn't come in yet.
+{|Expression_Idle_Neutral}I've been doing double shifts for the last two months.
+{|Expression_Idle_Neutral}This is just poor planning.
+{|Expression_Idle_Neutral}I know it's hard to get good help.
+{|Expression_Idle_Neutral}Still.
+{|Expression_Idle_Neutral}I'm burning out over here.
+
+key: denizens/conversations.denizensconversation-c6-workers03.loctext 6213179658404914770 v4 Revised
+{|Expression_Idle_Neutral}I eat the same sandwich every day.
+{|Expression_Idle_Neutral}Tuna.
+{|Expression_Idle_Neutral}With lots of mayo.
+{|Expression_Idle_Neutral}A little bit of lettuce.
+{|Expression_Idle_Neutral}On whole wheat bread.
+{|Expression_Idle_Neutral}I just love it so much.
+{|Expression_Idle_Neutral}I add the lettuce at the last second.
+{|Expression_Idle_Neutral}I want that incredible crunch when I bite into it.
+{|Expression_Idle_Neutral}Do you know where you'll find me at lunchtime?
+{|Expression_Idle_Neutral}That's right?
+{|Expression_Idle_Neutral}Eating that tuna sandwich.
+
+key: denizens/conversations.denizensconversation-c6-workers04.loctext -8492819503606647410 v5 Revised
+{|Expression_Surprise}Mike got his hands cut off yesterday.
+{|Expression_Surprise}It was gross.
+{|Expression_Surprise}There was that red stuff everywhere.
+{|Expression_Surprise}Ah, it was so intense.
+{|Expression_Surprise_to_Idle}Apparently, the doctors were able to reattach them.
+{|Expression_Headnod}Isn't that wild?
+{|Expression_Idle_Neutral}Science is so rad.
+{|Expression_Idle_Neutral}You could do anything these days.
+
+key: denizens/conversations.denizensconversation-c6-workers05.loctext 8206527654333289781 v4 Revised
+{|Expression_Empathy}I heard we might lose our jobs next week.
+{|Expression_Empathy}Don't tell anyone.
+{|Expression_Empathy}It's a big secret.
+{|Expression_Surprise}In one of these containers, there's a bunch of robots.
+{|Expression_Surprise_to_Idle}Robots that might replace us.
+{|Expression_Empathy}We are literally shipping robots that will take our job.
+{|Expression_Empathy}It's pretty depressing.
+
+key: denizens/conversations.denizensconversation-c6-workers06.loctext -2684149536392883617 v5 Revised
+{|Expression_Idle_Neutral}I got this job when I got out of college.
+{|Expression_Idle_Neutral}I wanted to be a painter.
+{|Expression_Idle_Neutral}I went to art school.
+{|Expression_Empathy}I was trash.
+{|Expression_Empathy}I couldn't create anything.
+{|Expression_Empathy_to_Idle}I hadn't seen the world.
+{|Expression_Idle_Neutral}Hadn't met people.
+{|Expression_Idle_Neutral}Hadn't fought with other people.
+{|Expression_Idle_Neutral}Lived, you know?
+{|Expression_Idle_Neutral}Now, I get done at five and I can paint all night.
+{|Expression_Idle_Neutral}It's perfect.
+{|Expression_Idle_Neutral}I'm still not very good.
+But, I'm better.
+I'll get there.
+
+key: denizens/conversations.denizensconversation-c6-workers07.loctext 6791928018919000668 v2 Revised
+We should be wearing hard hats for this job.
+This is just dangerous.
+
+key: denizens/conversations.denizensconversation-cr1-forestdept01._commenttext 6372503602463918077 v2 Revised
+Visitor!
+
+key: denizens/conversations.denizensconversation-cr1-forestdept01.loctext 7160724949648155834 v4 Revised
+Have a great day in our great parks!
+
+key: denizens/conversations.denizensconversation-cr1-forestdept02._commenttext -7548547802159519565 v1 Revised
+Visitor!
+
+key: denizens/conversations.denizensconversation-cr1-forestdept02.loctext -5747982588367012655 v1 Revised
+Welcome to the park.
+{|Expression_Idle_Neutral}My name is David and I'm one of the many rangers in charge of our region's parks.
+{|Expression_Empathy}I just wanted you to know that these trees are sick.
+{|Expression_Empathy}They have a rare disease.
+{|Expression_Empathy_to_Idle}We need to cut them down.
+{|Expression_Idle_Neutral}I've got a crew coming later.
+{|Expression_Idle_Neutral}I just wanted to warn you to be safe in the park.
+{|Expression_Idle_Neutral}To respect the park.
+{|Expression_Idle_Neutral}To serve your community.
+{|Expression_Idle_Neutral}Have park-filled day!
+
+key: denizens/conversations.denizensconversation-cr1-generic01.loctext 6923133741856104977 v1 Revised
+Hi.
+
+key: denizens/conversations.denizensconversation-cr1-generic02.loctext 8912336593246950851 v1 Revised
+Hello friend.
+
+key: denizens/conversations.denizensconversation-cr1-generic03.loctext 5649126329502423727 v2 Revised
+Good, good.
+
+key: denizens/conversations.denizensconversation-cr1-generic04.loctext 8481524233270171981 v1 Revised
+Alright, then.
+
+key: denizens/conversations.denizensconversation-cr1-inside01.loctext -8192355481395430990 v3 Revised
+{|Expression_Empathy}I told my boyfriend to move out.
+{|Expression_Empathy_to_Idle}That was two weeks ago.
+{|Expression_Idle_Neutral}And he's still here.
+{|Expression_Headnod}I need to put my foot down!
+
+key: denizens/conversations.denizensconversation-cr1-inside02.loctext -955377781404909035 v2 Revised
+{|Expression_Idle_Neutral}There's this really cute boy that walks by every morning.
+{|Expression_Idle_Neutral}I just like to sit here and wait for him.
+{|Expression_Idle_Neutral}I don't have anything better to do.
+{|Expression_Idle_Neutral}It gives me something to do.
+
+key: denizens/conversations.denizensconversation-cr1-walker01.loctext 8058620413646994615 v2 Revised
+{|Expression_Idle_Neutral}I keep seeing this girl in the window, looking at me.
+{|Expression_Idle_Neutral}Maybe I know her or something.
+{|Expression_Idle_Neutral}It's a bit odd.
+
+key: denizens/conversations.denizensconversation-cr1-walker02.loctext -6401364570167309934 v2 Revised
+{|Expression_Idle_Neutral}Friend.
+{|Expression_Idle_Neutral}Do you know my friend Marianne's address?
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Well, thanks anyway.
+
+key: denizens/conversations.denizensconversation-cr1-walker03.loctext 4791504367121769959 v2 Revised
+{|Expression_Idle_Neutral}No, thank you.
+{|Expression_Idle_Neutral}I don't believe in what you're selling.
+
+key: denizens/conversations.denizensconversation-cr1-walker04.loctext -8282736720604974839 v2 Revised
+{|Expression_Idle_Neutral}+=I've been out here!=+
+{|Expression_Idle_Neutral}+=Gridding and busting for...=+
+{|Expression_Idle_Neutral}+=For the Dice Game!=+
+{|Expression_Idle_Neutral}+=Respect the Dice Boys!=+
+{|Expression_Idle_Neutral}Oh, I'm sorry.
+{|Expression_Idle_Neutral}I was singing along to this song.
+{|Expression_Idle_Neutral}It's pretty good.
+
+key: denizens/conversations.denizensconversation-cr2-generic01.loctext 2426433632107516778 v1 Revised
+Hi.
+
+key: denizens/conversations.denizensconversation-cr2-generic02.loctext -2778711920226674815 v1 Revised
+Hello stranger.
+
+key: denizens/conversations.denizensconversation-cr2-treelovercomments01.loctext -129435200577832445 v2 Revised
+Murderer!
+
+key: denizens/conversations.denizensconversation-cr2-treelovercomments02.loctext 4076907546255029907 v2 Revised
+Noooo!
+
+key: denizens/conversations.denizensconversation-cr2-treelovercomments03.loctext -7032010907531385265 v2 Revised
+Gaia!
+
+key: denizens/conversations.denizensconversation-cr2-treeloverdefault.loctext -2412976644425853997 v3 Revised
+{|Expression_Idle_Neutral}I do love this park.
+{|Expression_Idle_Neutral}I come here every day.
+{|Expression_Idle_Neutral}I wouldn't want to be anywhere in the world but here.
+
+key: denizens/conversations.denizensconversation-cr2-treeloverifwoodcut.loctext -8140511749620549870 v2 Revised
+{|Expression_Idle_Neutral}Why are you doing this?
+{|Expression_Idle_Neutral}Don't you have respect for all things living!
+
+key: denizens/conversations.denizensconversation-cr2-walker01._commenttext 4026978331379231601 v1 Revised
+If I ask nicely...
+
+key: denizens/conversations.denizensconversation-cr2-walker01.loctext -7648596826968599492 v10 Revised
+{|Expression_Idle_Neutral}I love walking in this park.
+{|Expression_Idle_Neutral}I could do it night or day.
+{|Expression_Idle_Neutral}...
+{|Expression_Surprise}Don't you have any rum?
+{|Expression_Surprise}No.
+{|Expression_Surprise}Whiskey, then?
+{|Expression_Surprise}What!
+{|Expression_Surprise_to_Idle}That's impossible.
+{|Expression_Idle_Neutral}I saw you come from that boat.
+{|Expression_Pensive}That boat used to deliver us some spirits every few weeks.
+{|Expression_Pensive_to_Idle}They were hard-working sailors.
+{|Expression_Idle_Neutral}I just need something to tide me over.
+
+key: denizens/conversations.denizensconversation-cr2-walker01default.loctext 8858528551062318298 v1 Revised
+{|Expression_Idle_Neutral}I just need something to wet my whistle.
+
+key: denizens/conversations.denizensconversation-cr2-walker02.loctext 5337701649971742646 v2 Revised
+My daughter had her birthday party here last year.
+{|Expression_Empathy}I wasn't invited.
+{|Expression_Empathy}We don't get along.
+{|Expression_Empathy}For years now.
+{|Expression_Empathy}Her mother told me about it.
+{|Expression_Empathy}I stood in my car.
+{|Expression_Empathy}Watching.
+{|Expression_Empathy}Listening to them laugh.
+{|Expression_Empathy_to_Idle}It was a nice party.
+
+key: denizens/conversations.denizensconversation-cr2-walker03.loctext 3939551463406172018 v4 Revised
+{|Expression_Idle_Neutral}I came here to clear my head.
+{|Expression_Idle_Neutral}And my throat.
+{|Expression_Idle_Neutral}I've had this pretty bad cold for the past few weeks now.
+{|Expression_Idle_Neutral}It's not looking any better.
+{|Expression_Idle_Neutral}It feels like I have a rock in the back.
+{|Expression_Idle_Neutral}Look!
+{|Expression_Idle_Neutral}Fresh air and not talking do help.
+{|Expression_Idle_Neutral}Wait a second.
+{|Expression_Idle_Neutral}I shouldn't talk come to think of it.
+{|Expression_Idle_Neutral}Let's not talk anymore.
+
+key: denizens/conversations.denizensconversation-cr2-walker03default.loctext -7896709964456681490 v2 Revised
+-=cough=-, -=cough=-!
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice01.loctext -1684132869712764531 v3 Revised
+{|Expression_Happy}I'm supposed to meet a date today.
+{|Expression_Happy}This is the first time we meet in real life.
+{|Expression_Happy_to_Idle}I've been stressing about it for days now.
+{|Expression_Idle_Neutral}I just couldn't wait in my apartment anymore.
+{|Expression_Pensive}So, I got here a few hours before this date actually starts.
+{|Expression_Idle_Neutral}I hope his tastes align with mine.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Okay.
+{|Expression_Idle_Neutral}Here's the deal.
+{|Expression_Surprise}Let me practice on you!
+{|Expression_Surprise_to_Idle}I'll start with some small talk.
+{|Expression_Idle_Neutral}Something casual.
+{|Expression_Idle_Neutral}Something funny.
+{|Expression_Idle_Neutral}Something out of the ordinary.
+{|Expression_Idle_Neutral}Like...
+{|Expression_Pensive}Do you like fries?
+{|Expression_Pensive_to_Idle}No, that's boring.
+{|Expression_Idle_Neutral}Of course, he'll say yes.
+{|Expression_Idle_Neutral}Let me think.
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice02.loctext 5756994851713330529 v6 Revised
+{|Expression_Idle_Neutral}What about this?
+{|Expression_Pensive}How many brothers and sisters do you have?
+{|Expression_Pensive_to_Idle}That doesn't work either.
+{|Expression_Idle_Neutral}What if he doesn't have any?
+{|Expression_Idle_Neutral}What if he only has sisters?
+{|Expression_Idle_Neutral}What if he only has brothers?
+{|Expression_Idle_Neutral}The family angle never works.
+{|Expression_Idle_Neutral}My friend Becca says that talking about family is a death trap.
+{|Expression_Idle_Neutral}No one has a perfect family.
+{|Expression_Pensive}Well, except me!
+{|Expression_Pensive_to_Idle}Let me think of something else!
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice03.loctext -5175908323599508886 v6 Revised
+What about this?
+{|Expression_Pensive}Do you like bears?
+{|Expression_Pensive_to_Idle}Not polar bears, silly.
+{|Expression_Idle_Neutral}Mountain bears.
+{|Expression_Idle_Neutral}Especially brown bears.
+{|Expression_Idle_Neutral}I've never been a cat person.
+{|Expression_Idle_Neutral}But, bears I love.
+{|Expression_Idle_Neutral}I got to hold one on a trip once.
+{|Expression_Idle_Neutral}A cub.
+{|Expression_Happy}It was the nicest and most cuddliest thing in my arms ever.
+{|Expression_Happy_to_Idle}I really hope he likes bears.
+{|Expression_Idle_Neutral}Let me think of a little more!
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice04.loctext -1426971991680526450 v7 Revised
+What about this now?
+{|Expression_Pensive}Do you like to stand on the edge of tall buildings?
+{|Expression_Pensive_to_Idle}I always feel like I want to jump.
+{|Expression_Idle_Neutral}But...
+{|Expression_Idle_Neutral}The vertigo sets in.
+{|Expression_Idle_Neutral}I always close my eyes for a few seconds.
+{|Expression_Idle_Neutral}Then, I think that it wouldn't be that fun to jump.
+{|Expression_Idle_Neutral}But, don't worry, I don't go on tops of buildings that often.
+{|Expression_Idle_Neutral}What about that?
+{|Expression_Idle_Neutral}I should lead with that.
+{|Expression_Pensive}What do you think?
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice04-noanswer_conversation.loctext -3373608914464247453 v2 Revised
+I'll play it safe and stick with what his favourite colour or something.
+Thanks.
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice04-yesanswer_conversation.loctext -3483101565781228252 v2 Revised
+I knew that was the right call!
+Thank you so much.
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice-baddate.loctext -2876757627980447293 v2 Revised
+{|Expression_Surprise}Why did you tell me to say that?
+{|Expression_Surprise_to_Idle}He got freaked out and left.
+{|Expression_Idle_Neutral}I'll be alone forever!
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvicebeforedate.loctext -8936211695064091401 v2 Revised
+I can't wait for this date!
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice-defaultbad.loctext -3732585023924760065 v1 Revised
+Leave me alone.
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice-defaultgood.loctext 4563893726329557107 v2 Revised
+I'm so so happy.
+
+key: denizens/conversations.denizensconversation-cr2-walker04-datingadvice-gooddate.loctext 5316170551668145238 v2 Revised
+{|Expression_Happy}I asked him about his favourite colour and he was eating out of my hand!
+{|Expression_Happy_to_Idle}I'm the best at this dating thing.
+
+key: denizens/conversations.denizensconversation-cr2-woodworker01.loctext -2398611033526962208 v1 Revised
+{|Expression_Idle_Neutral}I love to find fallen branches and make furniture with them.
+{|Expression_Idle_Neutral}I find it peaceful.
+{|Expression_Idle_Neutral}And it pays the bills.
+
+key: denizens/conversations.denizen-shirakawago-conversation-mom-no.loctext 6207891509330783881 v11 Revised
+{|Expression_Unhappy}I'm going to choose to trust you, even though I don't believe you.
+{|Expression_Unhappy}A mother knows when someone is lying.
+{|Expression_Unhappy}And you, missy, look like a liar.
+{|Expression_Unhappy}A bad liar.
+{|Expression_Unhappy_to_Idle}You tell my son you +=haven't=+ seen that his mom +=isn't=+ mad.
+Got it?
+
+key: denizens/conversations.denizen-shirakawago-conversation-mom-yes.loctext 8903500162829852985 v4 Revised
+{|Expression_Idle_Neutral}I knew it!
+{|Expression_Idle_Neutral}How did he get up that high?
+
+key: denizens/conversations.denizenxcleanupconversation-cleaners01.loctext 4948506496490300585 v2 Revised
+{|Expression_Idle_Neutral}This place is so dirty!
+{|Expression_Idle_Neutral}I can't believe it.
+
+key: denizens/conversations.denizenxcleanupconversation-cleaners02.loctext -3491940906670480883 v2 Revised
+{|Expression_Idle_Neutral}Who used to live here?
+{|Expression_Idle_Neutral}Animals, that's who!
+
+key: denizens/conversations.denizenxcleanupconversation-cleaners03.loctext -9208423176351730217 v2 Revised
+I hate cleaning.
+
+key: denizens/conversations.denizenxcleanupconversation-cleaners04.loctext -3638460015330003417 v2 Revised
+{|Expression_Idle_Neutral}This is such a bad job.
+{|Expression_Idle_Neutral}I don't know why I'm doing it.
+
+key: denizens/conversations.denizenxcleanupconversation-cleanupintroduction._commenttext -2517100619988955044 v2 Revised
+Hello!
+
+key: denizens/conversations.denizenxcleanupconversation-cleanupintroduction.loctext 7422259491586744055 v7 Revised
+Welcome, welcome!
+{|Expression_Idle_Neutral}We are the Hummingberg Preservation Society.
+{|Expression_Idle_Neutral}Which was established by... well... me.
+{|Expression_Idle_Neutral}I was tired of sitting around and not doing anything.
+{|Expression_Idle_Neutral}My name is Jabari Simmons and I believe in cleanliness.
+{|Expression_Idle_Neutral}I believe in a clean Hummingberg.
+{|Expression_Idle_Neutral}That's why I and other volunteers are here.
+{|Expression_Idle_Neutral}We want to restore this harbour.
+{|Expression_Idle_Neutral}It's badly in need of a paint job.
+{|Expression_Idle_Neutral}Bring back that sparkle.
+{|Expression_Idle_Neutral}There used to be an old boat docked there.
+{|Expression_Idle_Neutral}We could have used the materials to rebuild these homes.
+{|Expression_Idle_Neutral}Someone has apparently stolen it.
+{|Expression_Idle_Neutral}People do silly things sometimes.
+{|Expression_Idle_Neutral}If you'd like to give us a hand, we are always looking for volunteers.
+{|Expression_Idle_Neutral}Right now, I think we just want to get those crates out of the water.
+{|Expression_Headnod}Up for it?
+{|Expression_Idle_Neutral}Of course, you are, you're a go-getter.
+
+key: denizens/conversations.denizenxcleanupconversation-cleanupreminder._commenttext -8687071232469574802 v2 Revised
+Don't forget.
+
+key: denizens/conversations.denizenxcleanupconversation-cleanupreminder.loctext 2467109494976768671 v2 Revised
+{|Expression_Idle_Neutral}We need to get this place up to code.
+{|Expression_Headnod}Remember we are counting on you.
+
+key: denizens/conversations.denizenxcleanupconversation-destroycratesvalidation._commenttext 4805270994053182084 v1 Revised
+Good job!
+
+key: denizens/conversations.denizenxcleanupconversation-destroycratesvalidation.loctext 13873460832654144 v6 Revised
+{|Expression_Happy}That was great.
+{|Expression_Happy_to_Idle}We'll keep painting and cleaning those stains.
+{|Expression_Pensive}Probably get rid of that dumpster.
+{|Expression_Pensive}I heard, what I think was a possum in there.
+{|Expression_Pensive_to_Idle}Sometimes that's the way it goes.
+{|Expression_Idle_Neutral}That's what happens day in, day out over here.
+{|Expression_Idle_Neutral}"Repair, Restore, Repeat"
+{|Expression_Idle_Neutral}That's our motto.
+{|Expression_Idle_Neutral}The three R's of Hummingberg Preservation Society.
+{|Expression_Pensive}Hopefully no one is already using that motto.
+{|Expression_Pensive_to_Idle}Well, back to business, here's a small, but crucial shopping list.
+{|Expression_Idle_Neutral}If we get all of that, we'll be able to give this beaut the shine she deserves.
+{|Expression_Idle_Neutral}Thanks again for your precious help.
+{|Expression_Idle_Neutral}Be seeing you.
+
+key: denizens/conversations.denizenxcleanupconversation-generic.loctext -2093521669521269195 v1 Revised
+I just believe in Hummingberg Preservation Society's mission so much.
+
+key: denizens/conversations.denizenxcleanupconversation-talktoleadervalidation._commenttext 6962227428062332395 v1 Revised
+Amazing!
+
+key: denizens/conversations.denizenxcleanupconversation-talktoleadervalidation.loctext -1020944258600392266 v2 Revised
+Would you like to donate all of this to Hummingberg Preservation Society?
+
+key: denizens/conversations.denizenxcleanupconversation-talktoleadervalidation-noanswer_conversation.loctext -5804340708379694742 v3 Revised
+Well, that's too bad.
+{|Expression_Idle_Neutral}I hope one day you'll find some comfort in our work.
+{|Expression_Idle_Neutral}For a clean Hummingberg.
+
+key: denizens/conversations.denizenxcleanupconversation-talktoleadervalidation-yesanswer_conversation.loctext -4970746699243852154 v6 Revised
+Thank you so much.
+{|Expression_Idle_Neutral}However, we just got a giant-sized cheque from ((Raccoon Inc.))
+{|Expression_Idle_Neutral}They said that cleanliness leads to good commerce.
+{|Expression_Idle_Neutral}They wanted to see tourists and happy people here.
+{|Expression_Idle_Neutral}But... thank you for your valiant effort.
+{|Expression_Idle_Neutral}We'll get this place up and running and looking great.
+{|Expression_Idle_Neutral}From everyone at Hummingberg Preservation Society...
+{|Expression_Idle_Neutral}Thank you for thinking of our quality of life.
+
+key: denizens/conversations.denizenxcleanupconversation-talktoleadervalidation-yesanswer_conversation-chainconversation.loctext -7360062238681853617 v6 Revised
+Oh, I almost forgot.
+{|Expression_Idle_Neutral}While cleaning, we found this.
+{|Expression_Idle_Neutral}It was in one of the houses.
+{|Expression_Idle_Neutral}You can have it as a token of my appreciation.
+{|Expression_Idle_Neutral}We'll be done in a few days.
+{|Expression_Idle_Neutral}Come back and enjoy the view.
+{|Expression_Idle_Neutral}Have a good day and remember...
+{|Expression_Idle_Neutral}Always apply the Three R's.
+
+key: denizens/conversations.denizenxcleanupconversation-walkers01.loctext 4860545757973801197 v2 Revised
+Wow!
+{|Expression_Idle_Neutral}Look at this.
+{|Expression_Idle_Neutral}I can't believe the work they did!
+
+key: denizens/conversations.denizenxcleanupconversation-walkers02.loctext -8744501109438941194 v2 Revised
+This place is livable now.
+{|Expression_Idle_Neutral}I could eat off those rocks.
+{|Expression_Idle_Neutral}It's so clean.
+
+key: denizens/conversations.denizenxcleanupconversation-walkers03.loctext 3990956275880340387 v3 Revised
+The sun and the air.
+I can finally breathe.
+
+key: denizens/conversations.denizenxcleanupconversation-walkers04.loctext 5241904602092257278 v2 Revised
+Good job, Hummingberg Preservation Society.
+
+key: denizens/conversations.leftcultistdenizen_afterdash._commenttext -4330295634881151294 v1 Revised
+The Chosen One!
+
+key: denizens/conversations.leftcultistdenizen_afterdash.loctext 2574729340167255999 v1 Revised
+{|Expression_Surprise}So you were the Chosen One!
+{|Expression_Surprise}What a wonderful day it is!
+{|Expression_Surprise}Pretty soon, we will all be saved!
+{|Expression_Surprise}Walk over to that cliff, over there, and let Saint Dashius talk to you from above!
+
+key: denizens/conversations.leftcultistdenizen_afterdash_repeat.loctext -8134122263589356349 v1 Revised
+So... erm...
+{|Expression_Pensive}You gonna save us anytime soon?
+{|Expression_Pensive}Not in a hurry, or anything, but...
+{|Expression_Pensive}Y'know.
+{|Expression_Pensive}Chosen One and stuff.
+{|Expression_Pensive_to_Idle}Right?
+
+key: denizens/conversations.leftcultistdenizen_beforedash._commenttext 4006409923640329089 v1 Revised
+Oh, a traveler!
+
+key: denizens/conversations.leftcultistdenizen_beforedash.loctext -6148680393987049214 v1 Revised
+{|Expression_Idle_Neutral}Your pilgrimmage is over.
+{|Expression_Idle_Neutral}Oh, what an incredibly single-minded, persistent journey this must have been!
+{|Expression_Idle_Neutral}You have finally reached the Holy Shrine of Saint Dashius.
+{|Expression_Idle_Neutral}Thousands of years ago, Saint Dashius annointed this statue.
+{|Expression_Idle_Neutral}It is foretold that, one day, Dashius's chosen one will be bestowed with his blessing,
+{|Expression_Idle_Neutral}And they will rescue all of us from the tyranny of this existence.
+{|Expression_Pensive}Oh, but surely you already know that, why else would you have come all this way?
+{|Expression_Pensive_to_Idle}I'll let you to your prayers.
+{|Expression_Idle_Neutral}Blessings of Saint Dashius upon you!
+
+key: denizens/conversations.owlquest_givedeskblueprint.loctext 9178564700765986297 v1 Revised
+{|Expression_Idle_Neutral}Hey there, Gustav told me you'd come see me.
+{|Expression_Idle_Neutral}I've drawn up plans for a sweeeet desk.
+{|Expression_Idle_Neutral}It'll be killer.
+{|Expression_Idle_Neutral}There ya go.
+
+key: denizens/conversations.rightcultistdenizen_afteroffering_repeat.loctext -4432859035943019785 v1 Revised
+Please, don't tell anyone!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering._commenttext -6561400336171152279 v1 Revised
+Oh, a traveler!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering.loctext -7642227058345351695 v1 Revised
+{|Expression_Idle_Neutral}Your pilgrim... wait, how did you get up here?
+{|Expression_Surprise}+=Oh no.=+
+{|Expression_Surprise_to_Idle}You talked to that other idiot, have you not?
+{|Expression_Headnod}I'm sure he filled your head with all of his false idols nonsense.
+{|Expression_Idle_Neutral}That one is dangerous, let me tell you!
+{|Expression_Headnod}I bet he got you to make an offering to his phony shrine, didn't he?
+{|Expression_Surprise}Well, open your eyes, sheeple, +=THIS=+ is the real shrine of our holy Saint Dashius.
+{|Expression_Surprise_to_Idle}See it's grandeur!
+{|Expression_Idle_Neutral}See it's geometric perfection!
+{|Expression_Idle_Neutral}Yes, yes, make an offering here, and a +=REAL=+ blessing awaits you.
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_no._commenttext -4151121933600011466 v1 Revised
+Oh, a traveler!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_no.loctext -5841582944159401631 v1 Revised
+{|Expression_Idle_Neutral}What a shame!
+{|Expression_Idle_Neutral}And I really had faith in you.
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_notenoughobols._commenttext -4696647768444717748 v1 Revised
+Oh, a traveler!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_notenoughobols.loctext -5469714550817987971 v1 Revised
+{|Expression_Idle_Neutral}Oh, you don't have enough?
+{|Expression_Idle_Neutral}Well, of course, that charlatan swindled them all out of you!
+{|Expression_Idle_Neutral}Come back with more if you want to see some real miracle!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_repeat.loctext 1864294768503149503 v1 Revised
+{|Expression_Pensive}What do you think? Only two ((obols))!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_yes._commenttext -3197919657057713364 v1 Revised
+Oh, a traveler!
+
+key: denizens/conversations.rightcultistdenizen_beforeoffering_yes.loctext -6822812423414621980 v1 Revised
+{|Expression_Idle_Neutral}Alright, there we go!
+{|Expression_Surprise}Oh, ye almighty Dashius, bless this girl with your most powerful blessing!
+{|Expression_Surprise}[removeObol]...
+{|Expression_Surprise}[unblock]...
+{|Expression_Surprise_to_Idle}Well, that's awkward.
+{|Expression_Pensive}...
+{|Expression_Pensive}I swear it never happened!
+{|Expression_Pensive}...
+{|Expression_Pensive}Alright, I'll give you this.
+{|Expression_Pensive_to_Idle}Just promise you won't tell anybody!
+
+key: denizens/conversations.shopdenizen_repeat.loctext -3596849240117910712 v1 Revised
+{|Expression_Idle_Neutral}This is terrible.
+{|Expression_Idle_Neutral}I don't even know how to go back!
+
+key: denizens/conversations.sittingdenizen_first.loctext 5586651060289452980 v1 Revised
+I've planned this geyser sightseeing trip for years.
+{|Expression_Idle_Neutral}But after I set up camp, I realized:
+{|Expression_Empathy}My perfect behaviour prevents me from looking left!
+{|Expression_Empathy}What a dumb mistake...
+{|Expression_Empathy_to_Idle}Tell me, does the geyser look as impressive as it sounds?
+
+key: denizens/conversations.sittingdenizen_first_no.loctext -2907428730537639956 v1 Revised
+{|Expression_Surprise}Why did you tell me! Now I feel my trip was useless.
+
+key: denizens/conversations.sittingdenizen_first_yes.loctext 1086909160417337758 v1 Revised
+{|Expression_Surprise}Why did you tell me! Now I'm even madder I can't see it!
+
+key: denizens/conversations.sittingdenizen_repeat.loctext 7063685045127429140 v1 Revised
+{|Expression_Empathy}I just wish I could look behind me...
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_giveaveragefood.loctext -6664042450576794590 v1 Revised
+{|Expression_Unhappy}Is it ready? Have you brought me a ((casserole))?
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_giveaveragefood_no.loctext 7010961913886817063 v1 Revised
+[start]What? Not even that?
+{|Expression_Unhappy}You... you gotta get me something to eat.
+{|Expression_Unhappy}Anything. I'm so hungry, even a ((grilled fish)) would be okay.
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_giveaveragefood_yes.loctext 1181555471958773867 v1 Revised
+{|Expression_Unhappy}Finally! I was starving here!
+{|Expression_Unhappy}Can't very well create on an empty stomach, huh?
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givebadfood.loctext -8275768687682926025 v1 Revised
+{|Expression_Unhappy}Have you brought me some ((grilled fish))?
+{|Expression_Unhappy}I'm so hungry!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givebadfood_no.loctext -5404844175884810164 v1 Revised
+{|Expression_Idle_Neutral}Please! I'm starving!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givebadfood_yes.loctext -645121945962299546 v1 Revised
+{|Expression_Idle_Neutral}Oh yes! I won't starve just yet! Thank you so much!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givecash.loctext 5318155883833741909 v2 Revised
+{|Expression_Unhappy}Are you ready to pay? I remind you : my fee is 450,000 glims, non-negotiable.
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givecash_intro.loctext 5782319329622169183 v3 Revised
+{|Expression_Idle_Neutral}And now, for your little submission...
+{|Expression_Idle_Neutral}I have very good ideas, fantastic ideas.
+{|Expression_Idle_Neutral}But we still haven't discussed my fee.
+{|Expression_Idle_Neutral}Now, this is absolutely non-negotiable:
+{|Expression_Unhappy}I will need 450,000 ((glims)). And that's the friend's price!
+{|Expression_Unhappy_to_Idle}For an artist of my talent, it would be blasphemous to ask anything less!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givecash_intro-chainconversation.loctext 8281585294477197354 v7 Revised
+[lookAway]{|Expression_Pensive}-=And then... We'll be close again...=-
+{|Expression_Pensive}-=And you'll see just how well I can do on my own!=-
+{|Expression_Pensive}-=And you'll know I'm not just lazy slob, and you'll fall in love with me all over again!=-
+{|Expression_Pensive}-=I can't believe my plan is going that well! Unless...=-
+{|Expression_Pensive}[lookAt]And, erm...
+{|Expression_Pensive}Just one last thing, but of the utmost importance!
+{|Expression_Headnod}I have a strict rule against mixing my professional and romantic life.
+{|Expression_Surprise}So under NO CIRCUMSTANCES should you tell my partner in ((Oxbury)) about our dealings.
+{|Expression_Unhappy}You understand?
+{|Expression_Unhappy}No. 
+{|Expression_Unhappy}Circumstances.
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givecash_no.loctext 4428006839756057162 v2 Revised
+{|Expression_Headnod}No? Do you think it is too much?
+{|Expression_Unhappy}But they wouldn't accept any lower... I mean, I won't go any lower!
+{|Expression_Unhappy}My fee is 450,000 ((glims)), deal with it!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givecash_yes.loctext -1150948335106733464 v1 Revised
+Wow, really? This week is finally turning around!
+{|Expression_Idle_Neutral}Apartment, here I come!
+{|Expression_Pensive}Oh, what? The desk?
+{|Expression_Pensive_to_Idle}Oh, yes, of course! There are the plans. Look at the curves!
+{|Expression_Idle_Neutral}Look at the perfect fit of the materials!
+{|Expression_Idle_Neutral}Truly, a masterpiece...
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givegoodfood.loctext -6654073250039999511 v1 Revised
+Is my ((Surf n' turf)) ready?
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givegoodfood_no.loctext -907091895002127112 v1 Revised
+[start]What, no?
+{|Expression_Pensive}Well... I guess I could lower my standards somewhat, come closer to the masses.
+{|Expression_Pensive_to_Idle}All part of my creative process.
+{|Expression_Idle_Neutral}A good, hearty ((casserole)) will be enough for today.
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_givegoodfood_yes.loctext -4116042201412215549 v1 Revised
+{|Expression_Pensive}What, really? Right on! Best day ever!
+{|Expression_Pensive_to_Idle}Erm, I mean, yes, satisfactory.
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_intro.loctext 251040441828212606 v7 Revised
+{|Expression_Idle_Neutral}No, I'm not doing anything! I'm just...
+{|Expression_Idle_Neutral}Oh, wait, I don't know you. What is it?
+{|Expression_Headnod}A woodworker, you say? Why, yes, of course you were looking for me!
+{|Expression_Idle_Neutral}I'm just, huh... Taking a stroll, yes, enjoying nature!
+{|Expression_Idle_Neutral}Refueling my creative batteries, so to speak.
+{|Expression_Idle_Neutral}So you were looking for my genius, I presume. What is it that you need?
+{|Expression_Idle_Neutral}A working desk? Oh yes, fantastic. Sure, I can do that!
+[lookAway]{|Expression_Pensive}-=Ok, that's your chance, don't mess it up. Just breathe.=-
+[lookAt]{|Expression_Pensive}So, erm, yes, about that.
+{|Expression_Pensive}My creative batteries are full, sure...
+{|Expression_Pensive}But all this nature and this walking and this, erm, contemplating,
+{|Expression_Idle_Neutral}Well, it depleted my physical batteries!
+{|Expression_Idle_Neutral}Thus, before I can even start thinking about your commission,
+{|Expression_Idle_Neutral}Well, I'll need some food!
+{|Expression_Headnod}You know, mind and body and all that.
+{|Expression_Pensive}And, well, for an artist of my calibre, not just anything will do.
+{|Expression_Idle_Neutral}I need you to bring me an exquisite, erm...
+{|Expression_Surprise}((Surf n' turf))! Yes, that'll do!
+{|Expression_Pensive}[lookAway]-=Oh no, why did I pick such an expensive meal!=-
+{|Expression_Pensive}-=What if she thinks I'm not worth it?=-
+{|Expression_Pensive}-=Should I change my mind? No, no, too late now.=-
+{|Expression_Pensive}-=I'm just so sick of eating blueberries...=-
+[lookAt]{|Expression_Pensive_to_Idle}Well, what are you waiting for?
+{|Expression_Idle_Neutral}Bring me a ((surf n' turf))
+[lookAway]{|Expression_Idle_Neutral}-=Or anything else, please, I'm starving.=-
+[lookAt]{|Expression_Idle_Neutral}And we'll talk about the commission!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_questcomplete.loctext 7213334125598475445 v1 Revised
+Thank you for you patronage! Tell all your friends!
+
+key: denizens/conversations.woodworkerdenizen_cr2_owldeskquest_talktowoodworkeragain.loctext -5292648380631221796 v1 Revised
+{|Expression_Idle_Neutral}You... you talked to her?
+{|Expression_Idle_Neutral}She said she'll have me back?
+{|Expression_Pensive}Incredible! No more sleeping in the park!
+{|Expression_Pensive}No more surviving off trash!
+{|Expression_Pensive}Back to my dream life! Leisure and good food all day long!
+{|Expression_Pensive_to_Idle}Thank you, thank you so much.
+{|Expression_Happy}As a sign of appreciation, I'll even waive my fee!
+{|Expression_Happy_to_Idle}There you go, here's the final design. Look at the curves!
+{|Expression_Idle_Neutral}Look at the perfect fit of the materials!
+{|Expression_Headnod}Truly, a masterpiece...
+

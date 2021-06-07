@@ -1,0 +1,81 @@
+key: items/descriptor.dishtype.acquiredtaste 1992093160322966455 v1 Revised
+Dish type: ((acquired taste))
+
+key: items/descriptor.dishtype.breakfast -3030181095934311622 v2 Revised
+Dish type: ((breakfast))
+
+key: items/descriptor.dishtype.breakfastandplain 7090561178710579757 v1 Revised
+Dish type: ((breakfast)), ((plain))
+
+key: items/descriptor.dishtype.comfort 6950366344783628355 v1 Revised
+Dish type: ((comfort))
+
+key: items/descriptor.dishtype.dessert 5563642454983887772 v1 Revised
+Dish type: ((dessert))
+
+key: items/descriptor.dishtype.dessertandbreakfast -3513002798956294804 v1 Revised
+Dish type: ((dessert)), ((breakfast))
+
+key: items/descriptor.dishtype.disgusting 6481426108891257664 v1 Revised
+Dish type: ((disgusting))
+
+key: items/descriptor.dishtype.exotic -6444252969661899737 v1 Revised
+Dish type: ((exotic))
+
+key: items/descriptor.dishtype.exoticandbreakfast -7617705439295042802 v1 Revised
+Dish type: ((exotic)), ((breakfast))
+
+key: items/descriptor.dishtype.exoticandcomfort 8803679365887703388 v2 ReadyForRevision
+Dish type: ((exotic)), ((comfort))
+
+key: items/descriptor.dishtype.exoticandhealthy -6811062141305118362 v1 Revised
+Dish type: ((exotic)), ((healthy))
+
+key: items/descriptor.dishtype.exoticandsoup 7973465471630036424 v2 ReadyForRevision
+Dish type: ((exotic)), ((soup))
+
+key: items/descriptor.dishtype.finedining -3432654570136218929 v1 Revised
+Dish type: ((fine dining))
+
+key: items/descriptor.dishtype.finediningandsoup 4443731027706477713 v1 Revised
+Dish type: ((fine dining)), ((soup))
+
+key: items/descriptor.dishtype.healthy -3976663410118093235 v1 Revised
+Dish type: ((healthy))
+
+key: items/descriptor.dishtype.incredible -1798524145635282181 v1 Revised
+Dish type: ((incredible))
+
+key: items/descriptor.dishtype.oldfashioned 5154546749943558040 v1 Revised
+Dish type: ((old fashioned))
+
+key: items/descriptor.dishtype.plain 2749555573551151904 v1 Revised
+Dish type: ((plain))
+
+key: items/descriptor.dishtype.pub -2172892587218216251 v1 Revised
+Dish type: ((pub))
+
+key: items/descriptor.dishtype.salad -6902794147617028107 v1 Revised
+Dish type: ((salad))
+
+key: items/descriptor.dishtype.soup -8262735231539440265 v1 Revised
+Dish type: ((soup))
+
+key: items/descriptor.dishtype.stimulant -6783749844120867114 v1 Revised
+Dish type: ((stimulant))
+
+key: items/descriptor.dishtype.stimulantandstimulant -1851917212267762156 v2 ReadyForRevision
+Dish type: ((exotic)), ((stimulant))
+
+key: items/descriptor.mealsize.large 8616487433621952542 v2 Revised
+Meal size: ((large))
+
+key: items/descriptor.mealsize.regular -6023934722339631430 v1 Revised
+Meal size: ((regular))
+
+key: items/descriptor.mealsize.small -4366606693289455422 v1 Revised
+Meal size: ((small))
+
+key: items/descriptor.mealsize.snack -7359376209185612851 v1 Revised
+Meal size: ((snack))
+

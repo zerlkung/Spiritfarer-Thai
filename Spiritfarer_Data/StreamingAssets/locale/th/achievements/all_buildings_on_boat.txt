@@ -1,0 +1,6 @@
+key: achievements/all_buildings_on_boat.description -8732457792534446548 v2 Revised
+สร้างบ้านและสถานีทั้งหมดอย่างน้อยหนึ่งครั้งบนเรือ.
+
+key: achievements/all_buildings_on_boat.name -8506642021598842639 v2 Revised
+Decked Out
+

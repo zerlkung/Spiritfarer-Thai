@@ -1,0 +1,6 @@
+key: achievements/first_guardian_tower.description -4390189430386036834 v2 Revised
+สนทนาครั้งแรกกับ Hades
+
+key: achievements/first_guardian_tower.name 3740611003772130662 v1 Revised
+First Encounter
+

@@ -1,0 +1,810 @@
+key: dog/conversations.dog_frog_lastvoyagecomment_atlocation._independenttextbubbleloc -22714728294790745 v1 Revised
+Atul!
+
+key: dog/conversations.dog_lastvoyage_1_doghouse._independenttextbubbleloc 4663090787431652035 v2 Revised
+Look at this.
+
+key: dog/conversations.dog_lastvoyage_1_doghouse.loctext -2605712600868134291 v3 Revised
+{|Expression_Idle_Neutral}Nothing but a structure.
+{|Expression_Idle_Neutral}Your house needs to be a sanctuary.
+{|Expression_Idle_Neutral}The world is a distraction, Stella.
+{|Expression_Idle_Neutral}Remember that.
+{|Expression_Idle_Neutral}When you enter your home, you need calm.
+{|Expression_Idle_Neutral}Peace from the stimulation of the outside.
+
+key: dog/conversations.dog_lastvoyage_2_events._independenttextbubbleloc -6739057982703534062 v2 Revised
+Your score.
+
+key: dog/conversations.dog_lastvoyage_7_giveitem._independenttextbubbleloc -7489612578977800783 v2 Revised
+One last thing.
+
+key: dog/conversations.dog_lastvoyage_7_giveitem.loctext -5195056385623769295 v5 Revised
+So, you were my first time student in this... place.
+I don't think you deserve a passing grade.
+I won't hold it against myself.
+And neither should you.
+A lesson you should learn from this:
+If life is hard, you should not be hard to it.
+People have the ability to change.
+You have the ability to change.
+You can shape how you want to be.
+...
+I know that this is sometimes a tradition.
+The passing of a legacy.
+A token at the end.
+An heirloom.
+Something for you to remember my time here.
+I do not wish to give you one.
+However, I have prepared something greater.
+Tasks and requests from the great beyond.
+That you will receive.
+A useless object will not make you think of, but lessons will.
+
+key: dog/conversations.dog_lastvoyage_fallback1.loctext 4393976802232801570 v2 Revised
+{|Expression_Idle_Neutral}I have nothing more to say at the moment.
+
+key: dog/conversations.dog_lastvoyage_fallback2.loctext -173817746393414992 v2 Revised
+{|Expression_Idle_Neutral}Quiet for now, please.
+
+key: dog/conversations.dog_lastvoyage_intender._independenttextbubbleloc 6141993118874603570 v2 Revised
+Student!
+
+key: dog/conversations.dog_lastvoyage_intender.loctext 765357165142047206 v2 Revised
+Are you ready?
+
+key: dog/conversations.dog_lastvoyage_intender_no.loctext 6341968215295804899 v2 Revised
+Oh...
+
+key: dog/conversations.dog_lastvoyage_intender_yes.loctext 1972757691464930658 v2 Revised
+Let's move, then...
+
+key: dog/conversations.dog_lastvoyage_tendersequence_a.loctext -6980388127298439529 v3 Revised
+Hopefully, this will all be over soon.
+
+key: dog/conversations.dog_lastvoyage_tendersequence_b.loctext -6266767573785509513 v2 Revised
+Let me think of something.
+
+key: dog/conversations.dog_lastvoyage_tendersequence_c.loctext -1481062646279101804 v3 Revised
+Ok
+...
+I'll just say it.
+I just want to say.
+Truly.
+From teacher to student, I am proud.
+You did good work.
+
+key: dog/conversations.dog_lastvoyage_tendersequence_d.loctext -2657863519744802060 v2 Revised
+I've been thinking.
+When we get there.
+Maybe, just maybe.
+We can hug.
+We'll see how I feel.
+
+key: dog/conversations.dog_lastvoyage_tendersequence_e.loctext -4873996797308139199 v3 Revised
+This is the only time I will let you.
+
+key: dog/conversations.dog_lastvoyage_tendersequence_f.loctext 1368954757268706836 v3 Revised
+Come on.
+
+key: dog/conversations.dog_like_healthy.loctext 7404642167098385292 v2 Revised
+{Eat}This is good.
+{Eat}That is ((healthy)).
+
+key: dog/conversations.dog_like_healthy_fallback01.loctext 5055926564660785089 v1 Revised
+{Eat}Eat ((healthy)) for body and mind.
+
+key: dog/conversations.dog_like_healthy_fallback02.loctext 9103244989100870742 v1 Revised
+{Eat}I will always be eating ((healthy)).
+
+key: dog/conversations.dog_like_plain.loctext -8900708012006635787 v3 Revised
+{Eat}((Plain)) food might not be exciting.
+{Eat}It just gives you your daily nutriments.
+
+key: dog/conversations.dog_like_plain_fallback01.loctext 2606611276497799339 v1 Revised
+{Eat}This ((plain)) nutriment is enough for me.
+
+key: dog/conversations.dog_like_plain_fallback02.loctext -3470738786990333770 v1 Revised
+{Eat}This ((plain)) dish is satisfying.
+
+key: dog/conversations.dog_love_greensalad.loctext -2432974617668776352 v2 Revised
+{Expression_Happy}Very good.
+{Expression_Happy}There's nothing like a ((green salad)).
+{Eat}That's all you need.
+
+key: dog/conversations.dog_love_greensalad_fallback01.loctext -8630343336334132885 v1 Revised
+{Expression_Happy}If you have any more of this ((green salad))...
+{Eat}You know where to find me.
+
+key: dog/conversations.dog_love_greensalad_fallback02.loctext 1770203843911707706 v1 Revised
+{Eat}This ((green salad)) is my ((favourite)) dish. Period.
+
+key: dog/conversations.dog_readytoleave_accept.loctext 3785972647432999027 v2 Revised
+[Start]Thank you.
+
+key: dog/conversations.dog_readytoleave_question._independenttextbubbleloc -396105610755302333 v2 Revised
+Stella.
+
+key: dog/conversations.dog_readytoleave_question.loctext -7386031514468444006 v4 Revised
+[Particles]We are here.
+...
+I know I've been working you hard lately.
+I hope you do understand.
+Everyone needs a little bit of discipline in their lives.
+For someone who takes others to the afterlife, you're holding on surprisingly well.
+I do have one last request for you.
+It won't be an easy one, considering what we've been talking about.
+Will you make the journey with me?
+
+key: dog/conversations.dog_readytoleave_refuse.loctext -3651596671468262462 v2 Revised
+I can wait.
+
+key: dog/conversations.dog_refuse_finedining.loctext -200653290802235762 v2 Revised
+{|Expression_Idle_Neutral}No thank you.
+{|Expression_Idle_Neutral}I'm not accustomed to this ((fine dining)).
+{|Expression_Idle_Neutral}I need something simple.
+
+key: dog/conversations.dog_refuse_finedining_fallback01.loctext 4630327957904478788 v1 Revised
+{|Expression_Idle_Neutral}You're embarrassing yourself.
+{|Expression_Idle_Neutral}I do not fancy ((fine dining)).
+
+key: dog/conversations.dog_refuse_finedining_fallback02.loctext 3421086801971057475 v1 Revised
+{|Expression_Idle_Neutral}I think you have the wrong impression of me.
+{|Expression_Idle_Neutral}((Fine dining)) is beyond my means.
+
+key: dog/conversations.dog_refuse_fried.loctext -4816128528798696792 v3 Revised
+{|Expression_Idle_Neutral}((Fried)) dishes make you sluggish.
+{|Expression_Idle_Neutral}It makes you lose your focus.
+
+key: dog/conversations.dog_refuse_fried_fallback01.loctext 6535389410361938830 v1 Revised
+{|Expression_Idle_Neutral}I do not approve of ((fried)) foods.
+{|Expression_Idle_Neutral}Not in this classroom.
+
+key: dog/conversations.dog_refuse_fried_fallback02.loctext -913437013471438202 v1 Revised
+{|Expression_Idle_Neutral}Anything ((fried)) is for the weak minded.
+
+key: dog/conversations.dog_refuse_meat.loctext -250751112366098460 v2 Revised
+{|Expression_Idle_Neutral}Please.
+{Expression_Angry|Expression_Idle_Neutral}No meat!
+{|Expression_Idle_Neutral}Ever.
+
+key: dog/conversations.dog_refuse_meat_fallback01.loctext 7966352409828590152 v1 Revised
+{Expression_Angry|Expression_Idle_Neutral}Meat is not for me.
+{|Expression_Idle_Neutral}You should know this by now.
+
+key: dog/conversations.dog_refuse_meat_fallback02.loctext 4986576853463208218 v1 Revised
+{Expression_Angry|Expression_Idle_Neutral}If I wanted meat, I would have asked for some.
+
+key: dog/conversations.dogcall.loctext -1588088295465449312 v2 Revised
+Faster.
+
+key: dog/conversations.dogconversation-askaboutfrogvalidation.loctext -6408398640428339354 v2 Revised
+{|Expression_Idle_Neutral}Atul?
+{|Expression_Idle_Neutral}Right, right.
+{|Expression_Idle_Neutral}I have not seen him.
+
+key: dog/conversations.dogconversation-askaboutplayvalidation.loctext -3057850927751686348 v2 Revised
+{|Expression_Idle_Neutral}Don't tell that child, but he's not ready for the limelight.
+{|Expression_Idle_Neutral}That's why I don't teach children.
+{|Expression_Idle_Neutral}They whine and scream and think they're good at things.
+{|Expression_Idle_Neutral}Which they are not.
+{|Expression_Idle_Neutral}But telling them would be devastating, so I just don't interact with them.
+
+key: dog/conversations.dogconversation-builddogsbuildingintroduction._independenttextbubbleloc 3625138413810594517 v2 Revised
+Student!
+
+key: dog/conversations.dogconversation-builddogsbuildingintroduction.loctext 1659479235457438925 v9 Revised
+{|Expression_Idle_Neutral}Must I do everything for you?
+{|Expression_Idle_Neutral}You have not prepared lodging for me.
+{|Expression_Idle_Neutral}Write this, quickly.
+{|Expression_Blueprint}Something sparse.
+{|Expression_Blueprint}No frills.
+{|Expression_Blueprint_to_Idle}And I need it posthaste.
+{|Expression_Idle_Neutral}Go now.
+
+key: dog/conversations.dogconversation-builddogsbuildingskipconversation._independenttextbubbleloc -5192455247985548651 v2 Revised
+Well, well...
+
+key: dog/conversations.dogconversation-builddogsbuildingskipconversation.loctext 5436406425125584603 v2 Revised
+{|Expression_Idle_Neutral}Ahead of the curve.
+I can appreciate that.
+
+key: dog/conversations.dogconversation-builddogsbuildingvalidation._independenttextbubbleloc -6341954186156657010 v2 Revised
+Well!
+
+key: dog/conversations.dogconversation-builddogsbuildingvalidation.loctext -7630703043520614449 v3 Revised
+{Expression_Angry|Expression_Surprise}This will do.
+{Expression_Angry|Expression_Surprise}This will do nicely.
+{|Expression_Idle_Neutral}But, let me warn you.
+{|Expression_Idle_Neutral}I need the bare minimum.
+{|Expression_Unhappy}Please do not add anything to these quarters.
+{|Expression_Unhappy}Not a single ornament.
+
+key: dog/conversations.dogconversationcall-storm01._independenttextbubbleloc -7640652896693736711 v2 Revised
+Student!
+
+key: dog/conversations.dogconversationcall-storm01.loctext 3230867100215934007 v3 Revised
+[CancelTimer]A severe thunderstorm!
+You need to catch lightning.
+Focus.
+{Expression_Angry}Be quick!!
+And don't forget to use your ((Dash)) ability.
+Time is of the essence.
+What do you say?
+
+key: dog/conversations.dogconversationcall-storm02._independenttextbubbleloc 642537835461912517 v1 Revised
+Student!
+
+key: dog/conversations.dogconversationcall-storm02.loctext 117136886460985137 v2 Revised
+[CancelTimer]Look at that.
+A severe thunderstorm is here.
+Your Everlight will catch those jolts of light.
+And your ((dash)) ability will prove really useful.
+Up for a challenge?
+
+key: dog/conversations.dogconversationcall-stormgeneric._independenttextbubbleloc -1741050711923721267 v1 Revised
+Student!
+
+key: dog/conversations.dogconversationcall-stormgeneric.loctext 910732238616599794 v2 Revised
+[CancelTimer]A thunderstorm has arrived.
+Ready for the challenge?
+
+key: dog/conversations.dogconversationcall-stormquest._independenttextbubbleloc 5824452309447744462 v2 Revised
+Student!
+
+key: dog/conversations.dogconversationcall-stormquest.loctext -2424079533073048734 v3 Revised
+[CancelTimer]{|Expression_Unhappy}Another challenge.
+This is an easy one.
+A little bit of rain and thunder.
+I won't say this often...
+{|Expression_Idle_Neutral}Your survival probabilities are rather high.
+{|Expression_Unhappy}Just don't let your guard down.
+{|Expression_Unhappy}You won't end up like grilled chicken.
+{|Expression_Idle_Neutral}Remember: Use your ((Dash)) ability in there.
+{|Expression_Idle_Neutral}You'll need to move really fast.
+{|Expression_Unhappy}Heads up, thunder is here!
+
+key: dog/conversations.dogconversationcall-stormtutorialno.loctext -8281096559147472963 v1 Revised
+I'm disappointed.
+
+key: dog/conversations.dogconversationcall-stormtutorialyes.loctext -1486374427135434201 v1 Revised
+Good.
+Each hit will count.
+
+key: dog/conversations.dogconversation-commentaboutplay01.loctext -5941321540643166433 v1 Revised
+Preposterous.
+
+key: dog/conversations.dogconversation-dogbigmealfoodintroduction.loctext 929013821597800697 v5 Revised
+{|Expression_Idle_Neutral}Hmm..
+{|Expression_Idle_Neutral}A dinner.
+{|Expression_Idle_Neutral}Sounds unproductive.
+{|Expression_Idle_Neutral}If I must.
+{|Expression_Idle_Neutral}I'll take a ((green salad)).
+
+key: dog/conversations.dogconversation-dragoncancel.loctext -3531896901111001768 v2 Revised
+{|Expression_Idle_Neutral}Oh.
+{|Expression_Idle_Neutral}Okay.
+{|Expression_Idle_Neutral}You need to train someday.
+
+key: dog/conversations.dogconversation-dragonconfirm.loctext -4563580146485611621 v2 Revised
+{Expression_Angry|Expression_Idle_Neutral}Go!
+{|Expression_Idle_Neutral}All eyes on you.
+
+key: dog/conversations.dogconversation-dragon-failedvalidation._independenttextbubbleloc 9001852838365085618 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-dragon-failedvalidation.loctext -219415915211767377 v1 Revised
+{|Expression_Idle_Neutral}You have disappointed me.
+{|Expression_Idle_Neutral}You are being timed.
+{|Expression_Idle_Neutral}You must vanquish this creature in record time!
+{|Expression_Idle_Neutral}You cannot do a simple task.
+{|Expression_Idle_Neutral}You need to try again.
+{|Expression_Idle_Neutral}Faster this time.
+
+key: dog/conversations.dogconversation-dragonintrogeneric._independenttextbubbleloc -4467501596653852283 v1 Revised
+Well, well...
+
+key: dog/conversations.dogconversation-dragonintrogeneric.loctext 8048761583105861810 v1 Revised
+{|Expression_Idle_Neutral}Still haven't had enough?
+{|Expression_Idle_Neutral}What are you waiting for then!
+
+key: dog/conversations.dogconversation-dragonintro-quest._independenttextbubbleloc 7892470706795160331 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-dragonintro-quest.loctext -8161339284774332928 v1 Revised
+{|Expression_Idle_Neutral}A new task.
+{|Expression_Idle_Neutral}This creature is in pain.
+{Expression_Angry|Expression_Idle_Neutral}It will trash and fight!!
+{|Expression_Idle_Neutral}It will be a decent challenge for you.
+{|Expression_Idle_Neutral}As long as you don't forget to use your ((Dash)) ability.
+Go.
+I will be timing you, of course.
+
+key: dog/conversations.dogconversation-dragonoutro-generic._independenttextbubbleloc 6212839069387736911 v1 Revised
+Feeling better, aren't we?
+
+key: dog/conversations.dogconversation-dragonoutro-generic.loctext 5200969667113830402 v1 Revised
+[start]{|Expression_Idle_Neutral}He does seem satisfied!
+{|Expression_Idle_Neutral}You did the task you were asked to do.
+
+key: dog/conversations.dogconversation-dragonoutro-quest._independenttextbubbleloc -5804804082710910519 v1 Revised
+Not bad.
+
+key: dog/conversations.dogconversation-dragonoutro-quest.loctext 7361729035136604546 v1 Revised
+[start]{|Expression_Idle_Neutral}But, not good.
+{|Expression_Idle_Neutral}Keep at it.
+{|Expression_Idle_Neutral}I won't tell you your time.
+{|Expression_Idle_Neutral}It might get to your head.
+{|Expression_Idle_Neutral}On to the next one.
+
+key: dog/conversations.dogconversation-fallingstars-failedvalidation._independenttextbubbleloc -7857414910156229724 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-fallingstars-failedvalidation.loctext 6395805196464160057 v1 Revised
+{|Expression_Idle_Neutral}How pitiful.
+{|Expression_Idle_Neutral}You didn't catch nearly enough.
+{|Expression_Idle_Neutral}You need to double down your efforts.
+{|Expression_Idle_Neutral}You cannot accomplish an easy request.
+{|Expression_Idle_Neutral}You have failed this task.
+{|Expression_Idle_Neutral}Take a moment and try again later.
+
+key: dog/conversations.dogconversation-hard-dragonvalidation._independenttextbubbleloc 9171004989515125371 v3 Revised
+Interesting!
+
+key: dog/conversations.dogconversation-hard-dragonvalidation.loctext -856459161768639095 v4 Revised
+You are showing promise.
+...
+{Expression_Angry|Expression_Idle_Neutral}What are you waiting for?
+{|Expression_Idle_Neutral}Go on now, Student.
+
+key: dog/conversations.dogconversation-hard-fallingstarsvalidation._independenttextbubbleloc 3063704130443575809 v2 Revised
+Better.
+
+key: dog/conversations.dogconversation-hard-fallingstarsvalidation.loctext -2122025219747512230 v6 Revised
+I can see you are sweating a bit.
+Good.
+{Expression_Angry|Expression_Idle_Neutral}These challenges are supposed to be +=difficult=+!
+{|Expression_Idle_Neutral}You have earned a carrot.
+{|Expression_Idle_Neutral}Not a literal carrot, but a reward.
+{|Expression_Idle_Neutral}Here it is.
+{|Expression_Idle_Neutral}It is in the form of a challenge, however.
+{|Expression_Idle_Neutral}I have nothing more to say to you.
+{|Expression_Unhappy}Feedback over.
+
+key: dog/conversations.dogconversation-hard-thunderstormvalidation._independenttextbubbleloc 8798663315474954098 v2 Revised
+And time.
+
+key: dog/conversations.dogconversation-hard-thunderstormvalidation.loctext 5925835468073671565 v6 Revised
+Not bad.
+{|Expression_Idle_Neutral}I wouldn't put it on a leader-board or you on a podium.
+{|Expression_Idle_Neutral}But, you've got some talent.
+{|Expression_Idle_Neutral}This should be a good reward for you.
+{|Expression_Idle_Neutral}I don't have anything else.
+{|Expression_Idle_Neutral}Scram.
+
+key: dog/conversations.dogconversation-havedashintroduction._independenttextbubbleloc 3576081734165831729 v2 Revised
+Wait a second!
+
+key: dog/conversations.dogconversation-havedashintroduction.loctext 722321352316952434 v5 Revised
+{|Expression_Unhappy}Your skills are lacking.
+{|Expression_Idle_Neutral}You can't do these challenges just yet.
+{|Expression_Idle_Neutral}You need to train yourself some more.
+{|Expression_Idle_Neutral}You need to be able to move around freely.
+{|Expression_Idle_Neutral}To push yourself with vigor in any direction.
+{|Expression_Idle_Neutral}You need to be able to ((dash)).
+{|Expression_Idle_Neutral}I won't tell you this again.
+
+key: dog/conversations.dogconversation-havedashskipconversation._independenttextbubbleloc 6479895663773800191 v2 Revised
+Alright then!
+
+key: dog/conversations.dogconversation-havedashskipconversation.loctext 7279788015785857493 v5 Revised
+Good!
+
+key: dog/conversations.dogconversation-havedashvalidation._independenttextbubbleloc -62649702671389373 v2 Revised
+Good!
+
+key: dog/conversations.dogconversation-havedashvalidation.loctext 5131146605560916378 v2 Revised
+You seem to be in top physical shape!
+{Expression_Angry|Expression_Idle_Neutral}Now, the real challenge can start!
+{|Expression_Idle_Neutral}I've marked a few locations on your map.
+{|Expression_Idle_Neutral}You need to find these challenges and conquer them.
+{|Expression_Idle_Neutral}I will be watching you.
+{|Expression_Idle_Neutral}Analyzing your every move.
+{|Expression_Idle_Neutral}Go now.
+
+key: dog/conversations.dogconversationhungry01.loctext 1335547612076233296 v2 Revised
+{|Expression_Idle_Neutral}I'm hungry.
+
+key: dog/conversations.dogconversationhungry02.loctext -8687588588541317272 v2 Revised
+{|Expression_Idle_Neutral}I need a meal.
+
+key: dog/conversations.dogconversationhungry03.loctext -1110733630258326181 v3 Revised
+{|Expression_Unhappy}I'm conserving energy with my slow breathing, but I need food nonetheless.
+
+key: dog/conversations.dogconversationhungrymaster._commenttext -873619545866772110 v1 Revised
+Stop!
+
+key: dog/conversations.dogconversation-invitedogintroduction.loctext 6808510165118252338 v1 Revised
+{|Expression_Idle_Neutral}Never in a million years.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Oh, why not.
+{|Expression_Idle_Neutral}Go away, now!
+
+key: dog/conversations.dogconversation-movingobjects01._independenttextbubbleloc -2337993398273099656 v1 Revised
+Alright.
+
+key: dog/conversations.dogconversation-movingobjects01.loctext 4669622017548290554 v3 Revised
+[CancelTimer]{|Expression_Idle_Neutral}The elements are after you.
+{Expression_Angry|Expression_Idle_Neutral}You need to be scared to vanquish!!
+{|Expression_Idle_Neutral}Ready now?
+
+key: dog/conversations.dogconversation-movingobjectsgeneric._independenttextbubbleloc 3737560198866399224 v1 Revised
+Alright.
+
+key: dog/conversations.dogconversation-movingobjectsgeneric.loctext -1593387310017535299 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}The elements are after you.
+{Expression_Angry|Expression_Idle_Neutral}You need to be scared to vanquish!!
+{|Expression_Idle_Neutral}Ready now?
+
+key: dog/conversations.dogconversation-movingobjectsquest._independenttextbubbleloc -8402565784493982229 v1 Revised
+Let's do this!
+
+key: dog/conversations.dogconversation-movingobjectsquest.loctext -5875882284290231068 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}Are you ready for another challenge?
+{|Expression_Idle_Neutral}They'll be coming from all directions.
+{Expression_Angry|Expression_Idle_Neutral}Steel your mind!
+{Expression_Angry|Expression_Idle_Neutral}Visualize their patterns!
+{Expression_Angry|Expression_Idle_Neutral}Use your ((Dash)) and ((Light Burst)) abilities!
+{|Expression_Idle_Neutral}And act!
+
+key: dog/conversations.dogconversation-mullingoverthings01.loctext -2175750759185179175 v3 Revised
+That was a good show out there.
+{|Expression_Idle_Neutral}I'm thinking things over.
+{|Expression_Idle_Neutral}Keep it up.
+
+key: dog/conversations.dogconversation-mullingoverthings02.loctext 3291104101894381431 v2 Revised
+My role here might be done.
+
+key: dog/conversations.dogconversation-mullingoverthings03.loctext 1307351215945877901 v2 Revised
+I'll have an answer for you soon.
+
+key: dog/conversations.dogconversation-narrativemoment_three_1introduction._commenttext 5228053588673161912 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment_three_1introduction.loctext 5184375644126557982 v2 Revised
+{|Expression_Idle_Neutral}I teach the same thing every year.
+{|Expression_Idle_Neutral}The same words.
+{|Expression_Idle_Neutral}The same language.
+{|Expression_Idle_Neutral}Knowledge is unbreakable.
+{|Expression_Idle_Neutral}You cannot unlearn something that has invaded your mind.
+{|Expression_Idle_Neutral}You just need to be open to the possibilities.
+{|Expression_Idle_Neutral}Stella.
+{|Expression_Idle_Neutral}Every time we run these drills or I see you helping your crew, I think of the first student I helped.
+{|Expression_Idle_Neutral}Celeste was this bright kid.
+{|Expression_Idle_Neutral}She had lost her mother and had a difficult time concentrating.
+{|Expression_Idle_Neutral}Her day-to-day struggles were immense.
+{|Expression_Idle_Neutral}However, she was determined.
+{|Expression_Idle_Neutral}She wanted this prestigious scholarship.
+{|Expression_Idle_Neutral}It took coaching, after-school lessons, phone calls to her dad.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}She did not get that scholarship.
+{|Expression_Idle_Neutral}She didn’t have a chance.
+{|Expression_Idle_Neutral}She learned that even when you try hard, you might fail harder.
+{|Expression_Idle_Neutral}Like, I said, it’s a numbers game.
+{|Expression_Idle_Neutral}She would never be the same.
+{|Expression_Idle_Neutral}Neither would I.
+
+key: dog/conversations.dogconversation-narrativemoment_threeintroduction._commenttext 6848403081785146321 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment_threeintroduction.loctext -8261358223723364830 v2 Revised
+{|Expression_Idle_Neutral}Once in a while...
+{|Expression_Idle_Neutral}There’ll be one of them that stands out of the pack.
+{|Expression_Idle_Neutral}It’s a numbers game.
+{|Expression_Idle_Neutral}You will break a few.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Then one will hatch, eventually.
+
+key: dog/conversations.dogconversation-narrativemoment_two_1introduction._commenttext -7939180837504548643 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment_two_1introduction.loctext 2802150055582084880 v2 Revised
+{|Expression_Idle_Neutral}It wasn’t a cakewalk for the gifted ones either.
+{|Expression_Idle_Neutral}They had their own challenges.
+{|Expression_Idle_Neutral}They were just open to the test.
+{|Expression_Idle_Neutral}They were rewarded handsomely for their dedication.
+{|Expression_Idle_Neutral}The weak ones, as much as the gifted ones, had a monster to tame.
+{|Expression_Idle_Neutral}That monster was me.
+{|Expression_Idle_Neutral}I am the enemy they would remember.
+{|Expression_Idle_Neutral}I am the dragon they would have to slain.
+{|Expression_Idle_Neutral}With hard work.
+{|Expression_Idle_Neutral}And complete dedication.
+{|Expression_Idle_Neutral}Or they could whine and quit.
+{|Expression_Idle_Neutral}And be out of my sight forever.
+
+key: dog/conversations.dogconversation-narrativemoment_twointroduction._commenttext 6265610731190246527 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment_twointroduction.loctext 8231233034266862659 v2 Revised
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}I never really felt useful teaching the gifted ones.
+{|Expression_Idle_Neutral}Nor did I take pleasure in breaking the spirits of the weak ones.
+{|Expression_Idle_Neutral}Seeing them just struggle.
+{|Expression_Idle_Neutral}Not knowing why these challenges were forced upon them.
+{|Expression_Idle_Neutral}They did this to themselves.
+{|Expression_Idle_Neutral}They had to be there, in class.
+{|Expression_Idle_Neutral}They had one task: to listen.
+{|Expression_Idle_Neutral}They were barely able to do that.
+{|Expression_Idle_Neutral}And I loved every second of it.
+{|Expression_Idle_Neutral}Because through hardship, they would learn.
+{|Expression_Idle_Neutral}Learn how to survive
+{|Expression_Idle_Neutral}Learn how to be better.
+{|Expression_Idle_Neutral}Learn how to stop being burdens, and becoming leaders.
+
+key: dog/conversations.dogconversation-narrativemoment-one_1introduction._commenttext 7177411450931969004 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment-one_1introduction.loctext 5534409012927432699 v2 Revised
+{|Expression_Idle_Neutral}I have one memory I particularly cherish.
+{|Expression_Idle_Neutral}It was one day after a particularly rowdy gym class.
+{|Expression_Idle_Neutral}They came back to my room.
+{|Expression_Idle_Neutral}Fuming with hormones and desperation.
+{|Expression_Idle_Neutral}One of my first years on the job.
+{|Expression_Idle_Neutral}“Shaping the minds of the youth,” they told me.
+{|Expression_Idle_Neutral}Anyway, I couldn’t control any of them.
+{|Expression_Idle_Neutral}They wouldn’t keep still for a second.
+{|Expression_Idle_Neutral}I wasn’t shaping anything that day.
+{|Expression_Idle_Neutral}I snapped.
+{|Expression_Idle_Neutral}I started screaming.
+{|Expression_Idle_Neutral}It was the only thing those monsters could understand.
+{|Expression_Idle_Neutral}I told them truths that would only reveal themselves later in their lives.
+{|Expression_Idle_Neutral}When you lose a parent.
+{|Expression_Idle_Neutral}When you lose your best friend.
+{|Expression_Idle_Neutral}When you lose your job.
+{|Expression_Idle_Neutral}When you start to really crumble from the inside.
+{|Expression_Idle_Neutral}After an episode like that, I should have learned a lesson.
+{|Expression_Idle_Neutral}I didn’t.
+{|Expression_Idle_Neutral}I vowed to focus on talent and excellence.
+{|Expression_Idle_Neutral}I vowed to never let go again, and steeled my resolve.
+
+key: dog/conversations.dogconversation-narrativemoment-oneintroduction._commenttext -7780245917197659305 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-narrativemoment-oneintroduction.loctext -2047967566171607905 v2 Revised
+{|Expression_Idle_Neutral}I used to be a teacher.
+{|Expression_Idle_Neutral}I still am.
+{|Expression_Idle_Neutral}Back then, I had a classroom.
+{|Expression_Idle_Neutral}In the kind of school that made sure each student passed.
+{|Expression_Idle_Neutral}The kind of school "that teaches that" money can buy everything
+{|Expression_Idle_Neutral}And every September, it was full of students ready to learn.
+{|Expression_Idle_Neutral}Each year, however, they failed to impress me.
+{|Expression_Idle_Neutral}Chatting amongst themselves.
+{|Expression_Idle_Neutral}Passing glances around.
+{|Expression_Idle_Neutral}Closing their ears and their minds to my lessons.
+{|Expression_Idle_Neutral}Immature little shits.
+{|Expression_Idle_Neutral}All of them.
+
+key: dog/conversations.dogconversation-realchoiceintroduction._independenttextbubbleloc 2570287787220839141 v2 Revised
+Good haul, Student!
+
+key: dog/conversations.dogconversation-realchoiceintroduction.loctext 1961809313535011793 v2 Revised
+You made good on your promise to find these valuables.
+I know these bring back memories.
+{|Expression_Idle_Neutral}Your ring from a past marriage.
+{|Expression_Idle_Neutral}Those coins... from your brother, you say.
+{|Expression_Idle_Neutral}You need to stop thinking of such things.
+{|Expression_Idle_Neutral}Your past will always bring you shame.
+{|Expression_Idle_Neutral}Your past will bring you down.
+{|Expression_Idle_Neutral}Your heart needs to guide you forward.
+{|Expression_Idle_Neutral}I need you to do something hard.
+{|Expression_Idle_Neutral}Perhaps impossible in your current state.
+{|Expression_Surprise}I need one of those valuables.
+{|Expression_Surprise}Take your time to decide.
+{|Expression_Idle_Neutral}Then, you can ((give)) it to me.
+
+key: dog/conversations.dogconversation-realchoicemanualconversation._independenttextbubbleloc -8588486976743387077 v1 Revised
+There we go.
+
+key: dog/conversations.dogconversation-realchoicemanualconversation.loctext 8615666230973836430 v8 Revised
+{|Expression_Idle_Neutral}That must have been hard.
+{|Expression_Idle_Neutral}Such is life.
+{|Expression_Idle_Neutral}You live.
+{|Expression_Idle_Neutral}You lose.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Were you expecting something in return?
+{|Expression_Surprise}I will let you have some time for yourself now, Student.
+
+key: dog/conversations.dogconversation-realchoicereminder._commenttext 2198354624351366468 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-realchoicereminder.loctext -3760672749916487901 v2 Revised
+You still need to ((give)) me one of those valuables.
+
+key: dog/conversations.dogconversation-recruitdogintroduction._independenttextbubbleloc 7884627112356702954 v2 Revised
+Child.
+
+key: dog/conversations.dogconversation-recruitdogintroduction.loctext -5144375908323529650 v2 Revised
+You look lost young one.
+I can show you what you have been missing this whole time.
+Let me come aboard.
+My teaching starts now.
+
+key: dog/conversations.dogconversation-releasedogvalidation._independenttextbubbleloc 5919107475814348238 v2 Revised
+Student!
+
+key: dog/conversations.dogconversation-releasedogvalidation.loctext 7014970194297497886 v4 Revised
+{|Expression_Idle_Neutral}I have another teaching for you.
+{|Expression_Idle_Neutral}And you're tough enough to not be broken.
+{|Expression_Idle_Neutral}...
+{|Expression_Surprise}I need you to take me to the ((Everdoor)).
+{|Expression_Empathy}You are equipped to do so now.
+{|Expression_Empathy}We don't need to say more until we get there.
+{|Expression_Empathy}Peace.
+{|Expression_Empathy}Quiet.
+{|Expression_Empathy}That is good practice.
+{|Expression_Empathy}It starts now.
+
+key: dog/conversations.dogconversationstarving01.loctext -2016549986492002111 v2 Revised
+{|Expression_Idle_Neutral}I.
+{|Expression_Idle_Neutral}Need.
+{|Expression_Idle_Neutral}Food.
+
+key: dog/conversations.dogconversationstarving02.loctext 4622606622153166572 v2 Revised
+{|Expression_Idle_Neutral}Feed me now!
+
+key: dog/conversations.dogconversationstarving03.loctext -3934477785154180201 v2 Revised
+{|Expression_Idle_Neutral}Should I go in the kitchen myself?
+{|Expression_Idle_Neutral}Feed me!
+
+key: dog/conversations.dogconversationstarvingmaster._commenttext 6700893383983718219 v2 Revised
+Stop!
+
+key: dog/conversations.dogconversationstarvingmaster._independenttextbubbleloc -8092922563894490605 v2 Revised
+Stella!
+
+key: dog/conversations.dogconversation-storm-failedvalidation._independenttextbubbleloc 6745670059131131534 v1 Revised
+Student!
+
+key: dog/conversations.dogconversation-storm-failedvalidation.loctext -6398287857310179650 v1 Revised
+{|Expression_Idle_Neutral}What a piss poor lack of talent.
+{|Expression_Idle_Neutral}This makes me sick.
+{|Expression_Idle_Neutral}You have to catch thoses lightning bolts.
+{|Expression_Idle_Neutral}You need to catch more.
+{|Expression_Idle_Neutral}Be better next time.
+
+key: dog/conversations.dogconversation-talktodogabouttinyowlintroduction.loctext 2087143484982626089 v2 ReadyForRevision
+Maybe?
+I say what's on my mind.
+I'm direct and precise.
+You should know that by now, Student.
+In this case.
+...
+I don't believe I critized Beverly.
+I barely noticed her presence.
+
+key: dog/conversations.dogconversation-threespiritsreleasedreminder01._commenttext 5968429526383997871 v1 Revised
+Ah...
+
+key: dog/conversations.dogconversation-threespiritsreleasedreminder01.loctext 3117305451832957691 v4 Revised
+Please don't waste my time with your childish things.
+
+key: dog/conversations.dogconversation-threespiritsreleasedreminder02._commenttext 2286262554956866904 v3 Revised
+You there.
+
+key: dog/conversations.dogconversation-threespiritsreleasedreminder02.loctext 1000002666518652955 v2 Revised
+{|Expression_Idle_Neutral}You are not ready yet.
+{|Expression_Idle_Neutral}Come back some other time.
+{|Expression_Idle_Neutral}Don't bother me.
+
+key: dog/conversations.dogconversation-toastreminder.loctext 555620615839730587 v1 Revised
+You did go through some effort.
+Good job.
+
+key: dog/conversations.dogconversation-welcomedogreminder._commenttext -1505269110289566305 v1 Revised
+Come here!
+
+key: dog/conversations.dogconversation-welcomedogreminder.loctext -8274904222148485753 v2 Revised
+No time to waste.
+Duty await.
+
+key: dog/conversations.dogconversation-welcomenewspirit01.loctext -6346844837383472830 v2 Revised
+The word is discipline.
+
+key: dog/conversations.dogconversation-welcomenewspirit02.loctext 4297638157457908082 v2 Revised
+Your posture is incorrect.
+
+key: dog/conversations.dogfoodsame.loctext -6091894392907289935 v2 Revised
+{|Expression_Idle_Neutral}I will not eat the same thing twice.
+
+key: dog/conversations.dog-gossipmean1._commenttext -3327178415897141213 v1 Revised
+Stand up straight!
+
+key: dog/conversations.dog-gossipmean2._commenttext 4744025240411168652 v1 Revised
+Watch your posture!
+
+key: dog/conversations.dog-gossipmean3._commenttext 5220924927999718133 v1 Revised
+A little discipline!
+
+key: dog/conversations.doghugaccept.loctext 2749259053587885070 v2 Revised
+Okay.
+
+key: dog/conversations.doghughappy01.loctext -151129932860194566 v2 Revised
+Alright.
+
+key: dog/conversations.doghughappy02.loctext 6793031798845680646 v2 Revised
+Very good.
+
+key: dog/conversations.doghugrefuse.loctext 8022167282718671582 v3 Revised
+{|Expression_Idle_Neutral}Physical contact won't be necessary.
+
+key: dog/conversations.doghugrefuse01.loctext -8384438811146520722 v3 Revised
+{|Expression_Idle_Neutral}Keep your distance.
+
+key: dog/conversations.doghugrefuse02.loctext 1490085858595064039 v3 Revised
+{|Expression_Idle_Neutral}Do not touch me.
+
+key: dog/conversations.dogwelcome.loctext -1265782444288917453 v2 Revised
+{|Expression_Idle_Neutral}Look into my eyes.
+{|Expression_Idle_Neutral}This is serious business.
+
+key: dog/conversations.dogwelcomeend.loctext -2216395218005747316 v12 Revised
+{|Expression_Idle_Neutral}Your training with me starts today.
+{|Expression_Idle_Neutral}I can see it in your eyes.
+{|Expression_Idle_Neutral}You are feeling overwhelmed with this job.
+{|Expression_Idle_Neutral}You need guidance.
+{|Expression_Idle_Neutral}Balance.
+{|Expression_Idle_Neutral}Strength.
+{|Expression_Idle_Neutral}New skills.
+{|Expression_Idle_Neutral}Someone to teach you.
+{|Expression_Idle_Neutral}That someone is me.
+{|Expression_Idle_Neutral}From this point on, there will be no backsliding.
+{|Expression_Idle_Neutral}There will be no physical contact either.
+{|Expression_Idle_Neutral}I need your full devotion and your cooperation.
+{|Expression_Idle_Neutral}I will steel your resolve and bolster your courage.
+{|Expression_Idle_Neutral}But only...
+{|Expression_Idle_Neutral}If...
+{|Expression_Idle_Neutral}You...
+{|Expression_Idle_Neutral}Do as I say.
+{|Expression_Idle_Neutral}And never question my methods.
+{|Expression_Idle_Neutral}Now listen up, Student.
+{|Expression_Idle_Neutral}You will be tested.
+{|Expression_Idle_Neutral}You will be graded.
+{|Expression_Idle_Neutral}You will cry.
+{|Expression_Idle_Neutral}In the end...
+{|Expression_Idle_Neutral}You will succeed.
+{|Expression_Idle_Neutral}Right, enough of this.
+{|Expression_Idle_Neutral}Let's see what you're made of.
+{|Expression_Idle_Neutral}A real challenge awaits.
+{|Expression_Idle_Neutral}On your feet!
+{|Expression_Idle_Neutral}Quickly!
+
+key: dog/conversations.foodaccept.loctext -3879266438925865112 v3 Revised
+{Eat}Thank you for the meal.
+
+key: dog/conversations.foodaccept_dislike.loctext -8112412083038607819 v3 Revised
+{Eat}I only eat this out of necessity.
+
+key: dog/conversations.foodaccept_like.loctext -870015310781769738 v3 Revised
+{Eat}This will do!
+
+key: dog/conversations.foodaccept_love.loctext 4541405697100646124 v3 Revised
+{Eat}This has incredible depth and flavour. Thank you.
+
+key: dog/conversations.foodrefuse.loctext 708618196351117547 v2 Revised
+I'm currently not that hungry.
+
+key: dog/conversations.foodrefuse_inedible.loctext 3453251943186140021 v3 Revised
+This is not considered food, per se.
+
+key: dog/conversations.foodrefuse_same.loctext 5571733396978193242 v2 Revised
+Isn't this the same as last time.
+You must have something else?
+
+key: dog/conversations.foodrefuse_same_fallback01.loctext -8687317578486731928 v1 Revised
+Do you remember the last thing you gave me?
+Well, I sure do and I don't want it again.
+
+key: dog/conversations.foodrefuse_same_fallback02.loctext -8285398963822348010 v1 Revised
+Please remember...
+{|Expression_Idle_Neutral}I value learning and growth.
+{|Expression_Idle_Neutral}And forgetting you just gave me this dish is unforgivable.
+

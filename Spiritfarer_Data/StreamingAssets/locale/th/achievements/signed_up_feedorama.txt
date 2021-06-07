@@ -1,0 +1,6 @@
+key: achievements/signed_up_feedorama.description 6321930214730065295 v2 Revised
+Sign up to Feedorama.
+
+key: achievements/signed_up_feedorama.name 7581336180751043629 v1 Revised
+Food Delivery
+

@@ -1,0 +1,6 @@
+key: achievements/all_decorations_lynx.description -5345741141542521524 v2 Revised
+ปรับปรุง บังกะโลของอัสตริด ทั้งหมด
+
+key: achievements/all_decorations_lynx.name -2311678700938256669 v1 Revised
+Fully Improved: Astrid
+

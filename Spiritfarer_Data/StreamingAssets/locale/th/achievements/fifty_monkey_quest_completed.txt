@@ -1,0 +1,6 @@
+key: achievements/fifty_monkey_quest_completed.description 468351135606774124 v3 Revised
+Complete 30 errands for Francis.
+
+key: achievements/fifty_monkey_quest_completed.name 7315393222219173774 v1 Revised
+Monkey Business
+

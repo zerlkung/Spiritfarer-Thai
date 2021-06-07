@@ -1,0 +1,6 @@
+key: achievements/all_decorations_owl.description 6932874332327490037 v2 Revised
+ปรับปรุงแกลเลอรีของกุสตาฟทั้งหมด
+
+key: achievements/all_decorations_owl.name 1146247101785854593 v1 Revised
+Fully Improved: Gustav
+

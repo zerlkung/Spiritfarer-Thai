@@ -1,0 +1,71 @@
+key: demo/conversations.conversationowlday01.loctext 2763331759789274398 v1 Placeholder
+Life is suffering, it’s hard.
+
+The World is cursed.
+
+But you still find reasons to keep on living.
+
+Don’t you never forget that Kid.
+
+key: demo/conversations.conversationowlday02.loctext 6663967151645717884 v1 Placeholder
+I've always prided myself in having impeccable manners
+
+It didn't matter how foul or bottommost everything around was
+
+Oh damn, I'm dumping life lessons on you again
+
+Please accept my sincerest atonement.
+
+Ok now, Pip pip Kid, keep on going...
+
+key: demo/conversations.conversationowl-intro.loctext 2462893017995795051 v1 Placeholder
+This conversation is a intro for a quest. Notice the occurance.
+It is linked in a quest graph.
+Also, the underscore of the folder it is in is important!
+
+key: demo/conversations.conversationowlnight01.loctext 812422898059100583 v4 Placeholder
+Stars are
+
+The World is cursed.
+
+But you still find reasons to keep on living.
+
+Don’t you never forking forget that Kid.
+
+key: demo/conversations.conversationowlnight02.loctext -4907245195112033429 v1 Placeholder
+Life is suffering, it’s hard.
+
+The World is cursed.
+
+But you still find reasons to keep on living.
+
+Don’t you never forking forget that Kid.
+
+key: demo/conversations.conversationowlnotwelcomed.loctext -6268803829698581707 v1 Placeholder
+I'm ready to talk to you, girl!
+
+key: demo/conversations.conversationowlsleep.loctext 5269834827358025565 v1 Placeholder
+ZzZ
+
+zZz
+
+ZzZzZ zZz
+
+zzZZZzz
+
+zZz
+
+key: demo/conversations.conversationowlstorm01.loctext -4069189237790590548 v1 Placeholder
+Life is suffering, it’s hard.
+
+The World is cursed.
+
+But you still find reasons to keep on living.
+
+Don’t you never forking forget that Kid.
+
+key: demo/conversations.conversationowl-validation.loctext -6364427570889222561 v1 Placeholder
+This conversation is a validation for a quest. Notice the occurance.
+It is linked in a quest graph.
+Also, the underscore of the folder it is in is important!
+

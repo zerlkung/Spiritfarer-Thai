@@ -1,0 +1,6 @@
+key: achievements/any_spirit_ecstatic.description -1181949469310317516 v2 Revised
+ทำให้วิญญาณเข้าถึงอารมณ์ที่เป็นสุขอย่างน้อยหนึ่งครั้ง.
+
+key: achievements/any_spirit_ecstatic.name -3920448956664098546 v2 Revised
+At Least Someone is Happy
+

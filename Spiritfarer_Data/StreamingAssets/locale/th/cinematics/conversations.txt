@@ -1,0 +1,522 @@
+key: cinematics/conversations.basiliskconversationmanualconversation.loctext 7315437454420966445 v5 Revised
+{Expression_Happy|Expression_Idle_Neutral}By the 11 Stars!
+{Expression_Happy|Expression_Idle_Neutral}I knew you would come!
+{Expression_Happy|Expression_Idle_Neutral}The Chosen One!
+{Expression_Happy|Expression_Idle_Neutral}The Spiritfarer!
+{Expression_Happy|Expression_Idle_Neutral}A mere glimpse at your white sail on the horizon, gleaming with hope and virtue, sufficed to brighten my soul!
+{Expression_Happy|Expression_Idle_Neutral}A simple glance at your glorious galleon, made my heart race in awe!
+Praised be Hallor!
+You are here Commander!
+One can only bow in front of your illustrious presence!
+I am Buck, your humble servant and narrator!
+My modest presence on your august vessel will guide your footsteps on the path to glory!
+Oh, may the Radiant Fae bless your hat forever!
+This is a grand day!
+The joy overwhelming me is tall as Mount Faradras!
+Vast as the Great Sea!
+To the vessel!
+
+key: cinematics/conversations.basiliskconversationmanualconversation01.loctext 4985068395766180776 v2 Revised
+The Oracle words were true!
+Commander, these dark woods conceal a shrine of immense power!
+Old ancient shrines have a will of their own!
+Imbued with the divine power of Haltaran the wise, they can only reveal themselves to a true heir of Romalda!
+
+key: cinematics/conversations.basiliskconversationmanualconversation02.loctext 3443754371217095352 v2 Revised
+Only you, the chosen one, can resonate with its magic!
+Only you, the star-child can yield the glaive of divine justice!
+Go, commander.
+Cast your heavenly magic and whisper the secret words.
+May your actions enlighten our path!
+
+key: cinematics/conversations.bullconversation-toast.loctext -7051457219668344233 v1 Revised
+Cheers.
+
+key: cinematics/conversations.charon_intro_10.loctext -6023813036665436211 v3 Revised
+There is no task more important than this one.
+(Stella)Never forget this, Stella.
+
+Here, there is something I need to give you.
+
+key: cinematics/conversations.charon_intro_11.loctext -7979453569688952836 v12 Revised
+Now, be really careful with it.
+(Everlight)[CatFishingReact]It is the Everlight.
+The symbol of your status here, and the only tool you will ever need.
+
+(Woh)[CatAttackAndWait]Wait, what are you?...
+[CatAttackWait2]...
+(O)[CatAttackWait2]Oh, how highly inappropriate...
+[CatAttackCharon_GetBack]
+(Mmm)[ShowBubble]Well, that settles it.
+
+(Everlight)The Everlight will help you throughout your travels.
+[CatGetsUp]It will be the light that shines in the darkness, the last remaining hope of the departed.
+
+key: cinematics/conversations.charon_intro_12.loctext 4285840726544981165 v12 Revised
+(Listen){RaiseStaff_3}Hope is a flame, the light that never falters, the beacon of eternity.
+{RaiseStaff_to_Idle|Idle_Passive}It is heavy and inconvenient, but there is no greater duty than this one.
+
+{PointStella|Idle_Passive}The fate of lost souls rest on your shoulders.
+(I){PointStella_to_Idle}Look, I was overwhelmed, too, at first.
+Just try to keep your focus.
+(Woh)Take it one step at a time.
+You will soon get used to this place.
+Accustomed to these moments. 
+(Spiritfarer)You are the new Spiritfarers, after all.
+
+(JustOneThing){FingerUp}Oh, one last thing:
+Once I am gone, you will have to find a Ship of your own.
+[CatIdleBreakSleep]Mine is not suited for you, and It will fade away once I am gone.
+(Mmm){FingerUp_to_Idle}You might find one not too far from here, if you keep rowing in the right direction for some time.
+Probably.
+It's time. Here I go.
+
+(ByeBye){Goodbye}So long, Stella. And good luck. You will need it.
+
+key: cinematics/conversations.charon_intro_5.loctext 981215422896803654 v3 Placeholder
+[NOTUSED_TEMP_ToKeepCopyOfAll_Charon6Effects]
+
+key: cinematics/conversations.charon_intro_6.loctext 6897209657118473338 v51 Revised
+(A)Ah, finally.
+I thought for a second you would never wake up, little one.
+How ironic that would have been, would it not?
+(Bonjour)[CatIdleBreakSleep]{PointSelf}I'm Charon.
+
+key: cinematics/conversations.charon_intro_7.loctext 807632659799954506 v13 Revised
+(Spiritfarer)[Wait]The Spiritfarer.
+
+key: cinematics/conversations.charon_intro_8.loctext -8080499230399852436 v8 Revised
+{RaiseStaff_to_Idle|INTRO-Stella_Sits_Neutral}Well, that is what I have been until your arrival.
+
+(No)I cannot say that I am sad to leave, but I still had a few things left to do here.
+I'm afraid you will have to pick up things where I left them.
+It is, after all, my very last day.
+
+{PointStella}And you are?
+[HideBubbleAndWait]{|INTRO-Stella_Gets_Up}...
+(Stella)[ShowBubble]Stella.
+{Welcome}Welcome, Stella.
+
+(Mmm){PointDog}I see you have brought a friend here with you. What's his name?
+[HideBubble]...
+(Daffodil)[CatGetsUpAndShowBubble]Daffodil.
+I see.
+{PointDog_to_Idle}You two will share the burden then.
+(Me)[CatIdleBreakSleep]And take it over from me.
+
+As I said, in a few minutes I will be gone from this world.
+(You)And that is why you are here.
+{|INTRO-Surprise}You will be the new Spiritfarer.
+
+(Listen){FingerUp}Listen, your task here will be far from easy, but simple nonetheless.
+{|INTRO-Surprise_to_Idle_Neutral}Go fetch the stray spirits stranded on the islands, and when they are ready, bring them back here.
+Dying souls can't pass away on their own.
+(You)You will have to help them fulfill their last requests, and be at their service until their last breath.
+
+key: cinematics/conversations.charon_intro_9.loctext -950591737930742446 v3 Revised
+(Everdoor){RaiseStaff_2}The big, round bridge over there is the ((Everdoor)). 
+The alpha where everything starts, the omega where everything ends. 
+This is where all the quests get completed and where existence meets its threshold.
+
+key: cinematics/conversations.deerconversation-bargain1.loctext -1282666129401553141 v6 Revised
+Theodore.
+I know what you're doing here.
+And you should be ashamed of yourself, you trash panda.
+People like you are the reason we have middle fingers.
+
+key: cinematics/conversations.deerconversation-bargain2.loctext 7275936297903140162 v6 Revised
+My friend here is the new Spiritfarer.
+But she's not a newbie.
+And neither am I.
+That little scam of yours won't work on us.
+
+key: cinematics/conversations.deerconversation-bargain3.loctext 8252514160287183093 v8 Revised
+Be warned, you treacherous striped weasel.
+I won't tolerate this behaviour one more second.
+No more shenanigans, no more double crosses.
+Just fair prices.
+
+key: cinematics/conversations.deerconversation-bargain4.loctext -3666904603224796503 v5 Revised
+So stop being dishonest at once.
+And next time I see you, I'll try being nicer.
+If you start being smarter.
+Got it?
+
+key: cinematics/conversations.deerconversation-toast.loctext 7423855202072305667 v1 Placeholder
+A toast to our great host!
+And to Stella.
+
+key: cinematics/conversations.frogconversation-toastmanualconversation01.loctext 5134062710544609706 v3 Revised
+Thank you so much for being gathered here!
+I couldn't have done it all alone.
+This feels like a real family dinner.
+You've all made me feel part of your family!
+
+key: cinematics/conversations.frogconversation-toastmanualconversation02.loctext 6216945831878382071 v4 Revised
+And, of course, Stella.
+My niece.
+Thank you.
+Alright, I'll stop talking now.
+Just dig in.
+
+key: cinematics/conversations.hades_intro_1.loctext -1606048082456067135 v1 Placeholder
+(VO_Hades_Intro_1a)The fates have spoken.
+
+()The obol has granted its passage.
+
+()Make way for the chosen ones, the new bearers of the light!
+
+key: cinematics/conversations.hades_intro_2.loctext 8235523772915833066 v1 Placeholder
+(VO_Hades_Intro_2a)You know I don't get to choose, and neither do you.
+
+()Besides, what did you expect?
+
+key: cinematics/conversations.hades_intro_3.loctext -3113316534460065427 v1 Placeholder
+(VO_Hades_Intro_3)She shall be the one.
+
+key: cinematics/conversations.hades_intro_4.loctext 2769752957275184789 v1 Placeholder
+(VO_Hades_Intro_4)That's a cat.
+
+key: cinematics/conversations.hades_intro_5.loctext 1380241337372886750 v1 Placeholder
+(VO_Hades_Intro_5a)Indeed.
+
+()See you soon, old friend.
+
+key: cinematics/conversations.lionconversation-encounter01.loctext -633588127056219771 v1 Revised
+Astrid!
+Oh... Astrid...
+
+key: cinematics/conversations.lionconversation-encounter02.loctext 1063028354902327592 v1 Revised
+Always!
+{Call}And you look splendid too princess!
+
+key: cinematics/conversations.lionconversation-encounter02_2.loctext 6861760955537790252 v1 Revised
+{Expression_Depressed}Astrid, I was looking for you!
+{Expression_Depressed}Everywhere I went, you were not there!
+{Expression_Depressed}Honey, my life is empty without you.
+{Expression_Depressed}The air tastes like dust!
+{Expression_Depressed}The ground feels wobbly!
+{Expression_Depressed}The stars are gone from the sky!
+{Expression_Depressed}And no one is here to scratch my back!
+{Expression_Sad}I even had to buy a back scratcher!
+{Expression_Sad}-=you know the wooden ones with a little plastic hand on top=-
+
+key: cinematics/conversations.lionconversation-encounter03.loctext 1821434814033088957 v1 Revised
+But?
+
+key: cinematics/conversations.lionconversation-encounter04.loctext 8136134380115034405 v1 Revised
+Hmm...
+
+key: cinematics/conversations.lionconversation-encounter04_2.loctext -4724956506687818986 v1 Revised
+{Expression_Happy}Yes!
+{Expression_Happy}Oh yes my princess!
+{Expression_Happy}Have me back and I'll show you how trustworthy I can be!
+I will shower you with gifts and never take the slightest peep at other women ever again!
+Heavens, I'll even stop looking at other people!
+You have my word!
+
+key: cinematics/conversations.lynxconversation-encounter01.loctext -6046678097998697677 v2 Revised
+Olga!
+You haven’t changed a bit old friend!
+Still so... green!
+
+key: cinematics/conversations.lynxconversation-encounter02.loctext 3174080498311724783 v3 Revised
+As you said, I'm back into the world!
+The first thing I wanted to do was paying you a little visit. 
+You know to... catch up on things!
+How are you and your sisters doing?
+
+key: cinematics/conversations.lynxconversation-encounter03.loctext 1933192415815089981 v2 Revised
+Yes?
+
+key: cinematics/conversations.lynxconversation-encounter04.loctext -6329719240113958661 v2 Revised
+What?
+
+key: cinematics/conversations.lynxconversation-encounter05.loctext -5202253389894456536 v2 Revised
+What!?
+I can’t believe it!
+
+key: cinematics/conversations.lynxconversation-encounter06.loctext -6171062333115820261 v2 Revised
+Nooooooo...
+You’re kidding me!
+Incredible!
+Oh well, she always knew how to lure them boys...
+
+key: cinematics/conversations.lynxconversation-encounter07.loctext -7763207392879189887 v2 Revised
+Gio...
+Giovanni is back?
+Who told you that?
+Where?
+When?
+
+key: cinematics/conversations.lynxconversation-encounter08.loctext -1257169984415907840 v2 Revised
+Yes!
+Huh, No!
+No... I don’t care what he does...
+I don’t want to know.
+He can frolic all he wants.
+
+key: cinematics/conversations.lynxconversation-encounter09.loctext -8212115737023125269 v2 Revised
+Sure, ok.
+But no rush.
+I’m happy Stella found me, and I want to spend some time with her and her crew for now.
+Olga, dear, could you show her what you can do?
+I’m certain your help will be greatly appreciated.
+
+key: cinematics/conversations.lynxconversation-loverencounter01.loctext -8686861728248395056 v2 Revised
+Giovanni.
+
+key: cinematics/conversations.lynxconversation-loverencounter02.loctext -6866900986781425421 v2 Revised
+You look good.
+
+key: cinematics/conversations.lynxconversation-loverencounter03.loctext 2568848859870593866 v2 Revised
+{Expression_Angry}Stop it Giovanni.
+{Expression_Angry}I haven't forgotten what you did.
+{Expression_Angry}I will never forget.
+{Expression_Angry}...
+{Expression_Angry}But...
+
+key: cinematics/conversations.lynxconversation-loverencounter04.loctext -1001687888716717063 v2 Revised
+{Expression_Angry}But I'm willing to forgive you.
+{Expression_Angry}ONLY if you promise me to behave.
+Can you do that Giovanni?
+Can I trust you on this?
+{Expression_Angry}Or should I forget about you right here and right now?
+
+key: cinematics/conversations.lynxconversation-loverencounter05.loctext -5252993812275935675 v3 Revised
+Alright!
+{Expression_Happy}Alright Giovikins...
+{Expression_Angry}But you're still on probation mister!
+{Expression_Angry}If I ever see you doing something fishy, I'll kill you!
+{Expression_Angry}You hear me?
+{Expression_Happy}Now come here, I have so much to tell you...
+
+key: cinematics/conversations.lynxconversationmanualconversation01.loctext -6023519316471436776 v2 Revised
+{|Expression_Idle_Neutral}The time has come, my friends!
+{|Expression_Idle_Neutral}Let’s trample the thorns of inequity!
+{|Expression_Idle_Neutral}Let’s burn the tangling ropes of low-wages employment!
+{|Expression_Idle_Neutral}Let’s tear down the golden walls of the upper class!
+{|Expression_Idle_Neutral}Your conditions here have been appalling!
+{|Expression_Idle_Neutral}It’s time for you to revolt!
+{|Expression_Idle_Neutral}Let’s show this capitalist pig that it’s YOUR work that creates wealth and value!
+{|Expression_Idle_Neutral}YOUR work that makes him a profit!
+{|Expression_Idle_Neutral}And HE is the one living off YOUR backs!
+
+key: cinematics/conversations.lynxconversationmanualconversation02.loctext 4723082285796946163 v2 Revised
+{|Expression_Idle_Neutral}Do not despair my friends!
+{|Expression_Idle_Neutral}Together, we can reverse this unjust stream of enrichment!
+{|Expression_Idle_Neutral}Together, we can finally give the power back to the working class!
+{|Expression_Idle_Neutral}Power YOU deserve, and wealth YOU should benefit from!
+{|Expression_Idle_Neutral}Time to claim what is rightfully yours my friends!
+
+key: cinematics/conversations.lynxconversation-secondencounter01.loctext -5351688207126998852 v3 Revised
+Masha!
+Good to see you again old hag!
+You've retreated much further than I thought!
+How are you doing these days?
+
+key: cinematics/conversations.lynxconversation-secondencounter02.loctext -8948553776883641093 v2 Revised
+That's nice of you but...
+That won't be necessary no, thank you.
+Stella here welcomed me on her boat and made a wonderful house for me, while we were cruising the oceans.
+All of my needs are met thanks to this wonderful young lady!
+Actually, it's information I'm after.
+Darling, have you heard anything about Giovanni?
+I know it's silly, but I'm still looking for my lazy husband.
+Olga said in a letter you had a lead on where to find him?
+
+key: cinematics/conversations.lynxconversation-secondencounter03.loctext 8514612593532251536 v2 Revised
+Oh, Masha, darling, that's true!
+But what do you make of Sir Langdon's spat with his wife?
+All because "someone" blabbered about his mistress to Mrs Langdon's maid...
+Oh and what about that time when little Bobby "accidentally" discovered who had killed his pet bird Zacharia?
+Oh... oh...
+What do you think of the ruckus caused by the discreet "revelation" of Mrs Gardner's secret stash of fine liquor?
+And I could go on, and on, and on honey...
+
+key: cinematics/conversations.lynxconversation-secondencounter04.loctext 3361154074117477077 v2 Revised
+Where is he, Masha?
+
+key: cinematics/conversations.lynxconversation-secondencounter05.loctext -546932944000387237 v2 Revised
+Wasn't so hard now was it?
+Thanks a lot for helping me out, Masha!
+Your kindness is as gigantic as your forehead!
+You did the right thing, and I won't forget about it.
+Who knows, you might even receive a crate or two of freshly threaded wool in a couple of weeks!
+And Stella here might need your services!
+I'll leave you to it.
+See you soon Masha!
+-=Damn, I hate her stupid face.=-
+-=I'm out of here.=-
+
+key: cinematics/conversations.mushroom-playmanualconversation01.loctext -3505508989960625658 v8 Revised
+There is a girl with the big hat.
+She's tall.
+She runs around everywhere.
+She does everything.
+
+key: cinematics/conversations.mushroom-playmanualconversation02.loctext -5604045398208019470 v11 Revised
+There's this big gate.
+It's huge.
+It's shiny.
+Where is it anyways?
+That girl knows.
+Because when you're ready, she takes you.
+Then, you leave with her.
+It's long.
+Everyone else is sad.
+Then...
+Boom!
+
+key: cinematics/conversations.mushroom-playmanualconversation03.loctext 3249916099878421170 v6 Revised
+Big lights!
+And... a big rumble!
+Explosion!
+Wind!
+Dust!
+Smoke everywhere.
+Everything is quiet for a second.
+
+key: cinematics/conversations.mushroom-playmanualconversation04.loctext -2150668957279128445 v5 Revised
+Then, we don't get to see our friend again.
+That's when the real pain starts.
+...
+The End.
+Thank you for coming.
+
+key: cinematics/conversations.owlconversation-toast.loctext -8541366005122507819 v1 Revised
+What a treat to be with friends.
+
+key: cinematics/conversations.raccoonconversation-bargain1.loctext -1747225845245807575 v4 Revised
+{Expression_Surprised|}What?!
+{Expression_Surprised|}Madam, what's the meaning of this?
+
+key: cinematics/conversations.raccoonconversation-bargain2.loctext -8628471369957616845 v7 Revised
+{Expression_Surprised|}But... 
+{Expression_Surprised|}I...
+{Expression_Surprised|}I can assure you, my business practices are quite above board!
+
+key: cinematics/conversations.raccoonconversation-bargain3.loctext -1101267216979261327 v2 Revised
+{Expression_Surprised|}I...
+{Expression_Surprised|}I...
+
+key: cinematics/conversations.raccoonconversation-bargain4.loctext -1808260637011099006 v3 Revised
+{Expression_Surprised|}But...
+{Expression_Sad|}Yes!
+{Expression_Sad|}Yes of course!
+{Expression_Sad|}I promise you I'll adjust my prices!
+{Expression_Sad|}I beg you, please don't scold me anymore!
+{Expression_Sad|}I'll even give you a discount!
+
+key: cinematics/conversations.snakeconversation-toast.loctext 7126033001731940626 v1 Revised
+Well done.
+
+key: cinematics/conversations.turtleconversation-encounter01.loctext -5370963863521456623 v2 Revised
+Astrid! 
+My dear old Astrid!
+I'm glad to see you!
+And glad to see that you're out of your old shell!
+Would you happen to owe this to this charming young lady here?
+You are the new Spiritfarer, aren’t you?
+Albert was telling everyone that Charon had been replaced!
+Stella, isn’t it?
+When I think he borrowed my hairbrush and never gave it back...
+Oh well.
+I hope this new job of yours doesn't weigh too heavily on your frail shoulders.
+You can count on me to give you a hand my little lady!
+So tell me, Astrid, what brings you here?
+
+key: cinematics/conversations.turtleconversation-encounter02.loctext -4794859119670455476 v3 Revised
+Oh, you know, Irina is still focusing on her studies.
+And Masha has picked up a new hobby.
+Knitting!
+She says it keeps her stress level low.
+Not that she’s ever done anything really stressful, mind you.
+But she crafts nice little mits for the winter!
+You should pay them a visit as well!
+Oh, and Astrid!
+
+key: cinematics/conversations.turtleconversation-encounter03.loctext 7678757309683333327 v4 Revised
+You won’t believe what I’ve heard the other day!
+
+key: cinematics/conversations.turtleconversation-encounter04.loctext -6487802501098258648 v2 Revised
+Miss Shrewsberry is pregnant!
+Again!
+
+key: cinematics/conversations.turtleconversation-encounter05.loctext 7077346505902523521 v3 Revised
+Yes!
+And you know what?
+Bob is not the father!
+
+key: cinematics/conversations.turtleconversation-encounter06.loctext 8677891648315404098 v3 Revised
+And talking about boys...
+I heard Giovanni is back...
+And from a reliable source at that...
+
+key: cinematics/conversations.turtleconversation-encounter07.loctext -7645008053569112154 v2 Revised
+Well, if you’re interested, I can go dig deeper.
+But are you?
+Interested?
+
+key: cinematics/conversations.turtleconversation-encounter08.loctext 8897626390443279031 v1 Revised
+As you wish.
+But you know what?
+I’ll go check my sources, and I’ll write back to you.
+Just in case.
+Now that you’re traveling in good company, I know where to find you.
+
+key: cinematics/conversations.turtleconversation-encounter09.loctext 4436008449881791423 v1 Revised
+But of course!
+And on with the main attraction.
+Come here little lady!
+I’m a very old being, but I’m not very wise.
+Yes, a bit like Astrid.
+But there are some things I can do!
+My specialty is patience.
+And spinach puffs, but we won’t talk about that right now.
+If you look carefully, there are 3 receptacles on my back.
+You plant logs, ores or rocks in them.
+And then you wait.
+You wait for me to come back to the surface.
+And when I’m back, the rocks or logs you used will have become a tree or a mining rock!
+Isn’t that nice?
+I can’t tell you what my secret is, but you have to know one thing.
+It’s normal if they smell like strawberries ok?
+Alright, hop on my back little lady!
+
+key: cinematics/conversations.turtleconversation-secondencounter01.loctext -268458348405315621 v2 Revised
+Well, well...
+If it isn't Astrid!
+You've never been this nice to me before!
+Did Olga send you?
+Should I assume you'd need a favour?
+If it's a scarf, sorry honey but I've just given the last one I knitted to a lovely chap up in the mountains.
+But I still have some winter socks if you're interested...
+
+key: cinematics/conversations.turtleconversation-secondencounter02.loctext -6210124179184746119 v2 Revised
+Oh, I did actually!
+But Astrid...
+You know I'm not in the business of gossiping...
+Olga, maybe, and I won't even talk about Irina...
+But me?
+Oh my, never!
+...
+Remember when I inadvertently mentioned to Sir Brogwood...
+How his wife had met with his cousin in the lower garden?
+Or when Mrs Fredericks came to me and confided in me the secret of her foreign lover?
+You don't?
+Exactly!
+That's because I've never told no one!
+
+key: cinematics/conversations.turtleconversation-secondencounter03.loctext 5728723611774299937 v2 Revised
+...
+I...
+But!
+That was different!
+
+key: cinematics/conversations.turtleconversation-secondencounter04.loctext -3336449030314550918 v1 Revised
+Oh well, ok.
+He's in ((Loneberg)).
+He hooked up with someone.
+I don't know the details.
+

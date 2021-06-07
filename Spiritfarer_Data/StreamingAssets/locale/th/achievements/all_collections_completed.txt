@@ -1,0 +1,6 @@
+key: achievements/all_collections_completed.description -2776185142473235496 v2 Revised
+รวบรวมคอลเล็กชันทั้งหมดของซูซานให้สมบูรณ์
+
+key: achievements/all_collections_completed.name 1504238032323069607 v1 Revised
+Collector
+

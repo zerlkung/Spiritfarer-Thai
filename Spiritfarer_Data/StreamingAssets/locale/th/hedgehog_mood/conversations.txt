@@ -1,0 +1,57 @@
+key: hedgehog_mood/conversations.hedgehog_moodconversation-askstobecarriedintroduction._independenttextbubbleloc -5332341153383346695 v2 Revised
+My legs...
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-askstobecarriedintroduction.loctext -5095859542792411965 v3 Revised
+{|Expression_Empathy}My old legs won't carry me anymore.
+{|Expression_Empathy}Could you perhaps help me get to the prow?
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-1stouting._commenttext 1768213904597220942 v1 Revised
+Such a nice day!
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-1stouting.loctext -7491478228333199863 v12 Revised
+{|Expression_Headnod}The sea air is so nice!
+Once, my daughter Annie and I had a little outing to the sea.
+It was such a nice day.
+Oh, there was a picture of that day in the envelope you found, the other day.
+[learnOutfit]{|Expression_Headnod}I've got it right here. Look at her outfit. Always so fashionable!
+{|Expression_Pensive}Later that day, she lost her hat to a gust of wind, though.
+What a shame...
+Oh, are you ready to walk me back home?
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-1stouting-allnighter._commenttext -3912076110635798940 v1 Revised
+I want to leave!
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-1stouting-allnighter.loctext -8792611461783888252 v1 Revised
+I'm cold, and tired.
+You left me here all night!
+Did you really forget about me?
+Still...
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-2ndouting._commenttext -3936674897986464753 v1 Revised
+Annie?
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-2ndouting.loctext 2637861704979695013 v4 Revised
+{|Expression_Surprise}Oh, you're not Annie...
+{|Expression_Surprise_to_Idle}Sorry, I don't know what I was thinking.
+Is it time to go back, yet?
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-2ndouting-allnighter._commenttext 6801290882156084513 v1 Revised
+Annie, I'm cold...
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-2ndouting-allnighter.loctext 6600945485154298107 v1 Revised
+{|Expression_Empathy}I'm getting tired. And it's cold.
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-3rdouting._commenttext 6847416529969472023 v1 Revised
+What's this place?
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprow-3rdouting.loctext 2935861793486777601 v1 Revised
+{Expression_Sad|Expression_Idle_Neutral}Oh, who are you?
+{Expression_Sad|Expression_Idle_Neutral}What am I...
+{Expression_Sad|Expression_Idle_Neutral}Oh...
+{Expression_Sad|Expression_Idle_Neutral}Oh, sorry, I was distracted.
+{|Expression_Idle_Neutral}I'm alright. I'm fine. 
+{|Expression_Idle_Neutral}Yes, yes, I'm sure, just carry on with your day.
+
+key: hedgehog_mood/conversations.hedgehog_moodconversation-startcarry_fromprowvalidation1.loctext 4191979469297005476 v2 Revised
+This is the end of my first outing.
+

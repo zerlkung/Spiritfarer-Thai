@@ -1,0 +1,1662 @@
+key: deer/conversations.askgiveallfiber.loctext -2135762183349056197 v4 Revised
+I've got some fiber I bought.
+I was going to use it to weave some thread for you later but if you want I can give it to you now.
+Do you want it?
+
+key: deer/conversations.askgiveallfiber-noanswer_conversation.loctext 387268802786097577 v2 Revised
+I'll keep it for my weaving then !
+
+key: deer/conversations.askgiveallfiber-yesanswer_conversation.loctext -786956454030430511 v2 Revised
+Here it is!
+
+key: deer/conversations.askgiveallthreads.loctext 4720944239338466119 v6 Revised
+I've got some thread here.
+I was going to use it to weave some fabric for you later but if you want I can give it to you for you to weave.
+Do you want the thread?
+
+key: deer/conversations.askgiveallthreads-noanswer_conversation.loctext 8421244275068832665 v2 Revised
+Okay, I'll keep the thread for my weaving.
+
+key: deer/conversations.askgiveallthreads-yesanswer_conversation.loctext 8502212577032988891 v2 Revised
+Here it is!
+
+key: deer/conversations.askstoplooming.loctext -4367145175305177615 v2 Revised
+Do you want me to stop weaving?
+
+key: deer/conversations.askstoplooming-noanswer_conversation.loctext -1551478814855471723 v3 Revised
+Alright, I'll continue!
+
+key: deer/conversations.askstoplooming-yesanswer_conversation.loctext 8508833863887830413 v2 Revised
+I'll do something else then.
+
+key: deer/conversations.conversationhungry01._independenttextbubbleloc -8733426548094610734 v1 Revised
+Stella... I'm rather hungry.
+
+key: deer/conversations.conversationhungry01.loctext 5919423025463581842 v1 Revised
+A snack would be great right about now.
+
+key: deer/conversations.conversationhungry02._independenttextbubbleloc -6966416692206530514 v1 Revised
+Something's going on in my stomach, a remarkable absence of food.
+
+key: deer/conversations.conversationhungry02.loctext 274841742161078600 v1 Revised
+{|Expression_Idle_Neutral}I've got that weird feeling.
+{|Expression_Idle_Neutral}I'm actually rather hungry.
+
+key: deer/conversations.conversationhungry03._independenttextbubbleloc 2619159805780236654 v1 Revised
+{|Expression_Idle_Neutral}Damn I'm hungry...
+
+key: deer/conversations.conversationhungry03.loctext 850767879076529739 v1 Revised
+{|Expression_Idle_Neutral}Hmmm... I could go for an amuse-bouche.
+
+key: deer/conversations.conversationhungrymaster._commenttext 1157290017588716450 v1 Revised
+Please, I'm famished!
+
+key: deer/conversations.deer_favorite_blackcoffee.loctext 6483668055225757817 v1 Revised
+...
+Now, this is one damn fine cup of ((coffee)).
+I've had I can't tell you how many cups of ((coffee)) in my life.
+{Eat}But this is certainly my ((favourite)) of them all.
+{Eat}Thank you very, very much, Stella.
+
+key: deer/conversations.deer_favorite_blackcoffee_fallback01.loctext 8781398927912145668 v1 Revised
+That's what I call a perfect blend of ((coffee)).
+{Eat}That hits the spot!
+
+key: deer/conversations.deer_favorite_blackcoffee_fallback02.loctext 5399427376954439890 v1 Revised
+{Eat}I'll take a cup of ((coffee)) any time, any day.
+
+key: deer/conversations.deer_hedgehog_lastvoyagecomment2.loctext 8681182370944539405 v1 Revised
+I'll remember all those recipes she shared with me.
+
+key: deer/conversations.deer_lastvoyage_7_heirloom._independenttextbubbleloc 6112854423095013081 v2 Revised
+We are here.
+
+key: deer/conversations.deer_lastvoyage_7_heirloom.loctext -2148329946549509835 v6 Revised
+{|Expression_Idle_Neutral}Stella.
+{|Expression_Idle_Neutral}Look.
+{|Expression_Idle_Neutral}There is something I wanted to give you.
+{|Expression_Idle_Neutral}I used to hide it in my old music box.
+{|Expression_Idle_Neutral}I don't know why, but it always felt to me like it was the best hiding spot.
+{|Expression_Idle_Neutral}Here it is.
+[GiveHeirloom]My old lighter.
+{|Expression_Idle_Neutral}I haven't thought about this old thing in a while.
+{|Expression_Idle_Neutral}It barely works.
+{|Expression_Idle_Neutral}I stole it off father when I was twelve.
+{|Expression_Idle_Neutral}...
+{|Expression_Empathy}Please, use it to remember me.
+{|Expression_Empathy}In the good times.
+{|Expression_Empathy}In the bad times.
+{|Expression_Empathy}They exist together.
+{|Expression_Empathy}Intertwined.
+{|Expression_Empathy}If there is one thing you learned from me, it should be that.
+
+key: deer/conversations.deer_lastvoyage_fallback1.loctext 5886047930133988270 v4 Revised
+{|Expression_Idle_Neutral}I've had my share of good times.
+{|Expression_Idle_Neutral}It has to stop someday. 
+
+key: deer/conversations.deer_lastvoyage_fallback2.loctext 4213701735223956916 v2 Revised
+{|Expression_Idle_Neutral}Don't worry.
+{|Expression_Idle_Neutral}It will be over in a second.
+
+key: deer/conversations.deer_lastvoyage_intender._independenttextbubbleloc 8413335384729075670 v2 Revised
+Alright.
+
+key: deer/conversations.deer_lastvoyage_intender.loctext -7370969312926793101 v2 Revised
+{|Expression_Idle_Neutral}Alright.
+{|Expression_Idle_Neutral}Let's do this
+{|Expression_Idle_Neutral}Are you ready?
+
+key: deer/conversations.deer_lastvoyage_intender_no.loctext -4216979873480206646 v2 Revised
+I'll be waiting here.
+
+key: deer/conversations.deer_lastvoyage_intender_yes.loctext 701176264781331839 v1 Revised
+Let's go.
+
+key: deer/conversations.deer_lastvoyage_tendersequence_c.loctext -1332211584158228462 v5 Revised
+Seems I couldn't escape it, doesn't it?
+Me being here, now.
+You know me, I’ve never been one to dwell on the past.
+Mainly because it always felt overwhelming to me.
+Like an irrepressible wave of resentment.
+But even at this very moment, I still wonder.
+I don’t know if I’ve ever tried to connect.
+And I’ve been so sure of it.
+My opinion just never changed.
+...
+You know what I’ve always said.
+That people come and go, but don’t pay attention to each other.
+They never really did.
+That lives are only ever parallel. 
+Adjacent at best.
+Well.
+That’s bullshit.
+...
+I can see that now.
+And you’re the proof of it.
+And not just you, but Mum cared as well.
+In her own way.
+And others here, even given the circumstances.
+I still don't know about father.
+I should probably forgive him now.
+Find that last shred of strength left in me.
+Would that make me a better person?
+Would that make a difference?
+Maybe.
+But after all this...
+I don't think I care.
+And it doesn't matter.
+Because I had my best friend by my side.
+I had you.
+You are a wonderful person Stella.
+My life would not have been the same without you.
+The light you showed me was more than a beacon.
+It was a guide.
+Only I was too blind to see it.
+My shades were too opaque.
+
+key: deer/conversations.deer_lastvoyage_tendersequence_d.loctext -744332636247175679 v6 Revised
+Ok.
+Let's go.
+I can't hold it any longer.
+
+key: deer/conversations.deer_lastvoyage_tendersequence_e.loctext 33828626535039974 v4 Revised
+Thank you, Stella.
+Thank you for bringing me here, even if you didn’t want to.
+Thank you for kicking my butt, and shaking my ego.
+Don’t forget that I’ve loved you as much as I could.
+Goodbye, my friend.
+
+key: deer/conversations.deer_lastvoyage_tendersequence_f.loctext 3888687978963069927 v7 Revised
+See you there.
+
+key: deer/conversations.deer_like_comfort.loctext -8511314615750813068 v1 Revised
+Oh, thank you Stella.
+{Eat}I love ((comfort)) food so damn much.
+
+key: deer/conversations.deer_like_comfort_fallback01.loctext -6581025409795636670 v1 Revised
+This it outrageously good.
+{Eat}((Comfort)) food always tastes so good.
+
+key: deer/conversations.deer_like_comfort_fallback02.loctext 3972781421262255408 v1 Revised
+{Eat}I'll take ((comfort)) food over almost anything.
+
+key: deer/conversations.deer_like_finedining.loctext 3641293124872757513 v1 Revised
+{Eat}Ha, this is absolutely exquisite!
+{|Expression_Happy}Worthy of the best ((fine dining)) restaurants I've been to.
+{|Expression_Happy}And I've been in those a lot.
+{|Expression_Happy}Thanks a lot!
+
+key: deer/conversations.deer_like_finedining_fallback01.loctext 5707187370670533870 v1 Revised
+{|Expression_Happy}I always said you could open an upscale restaurant.
+{Eat|Expression_Happy}((Fine dining)) at its best!
+
+key: deer/conversations.deer_like_finedining_fallback02.loctext 4848853165153790271 v1 Revised
+{Eat|Expression_Happy}Now this is a ((fine dining)) experience!
+{Eat|Expression_Happy}You're on your way to another Michelin star.
+
+key: deer/conversations.deer_readytoleave_accept.loctext -2549528025837378327 v3 Revised
+[Start]Thank you.
+
+key: deer/conversations.deer_readytoleave_question._independenttextbubbleloc 2690975240770061101 v2 Revised
+Stella.
+
+key: deer/conversations.deer_readytoleave_question.loctext 9114716465320577895 v2 Revised
+{|Expression_Idle_Neutral}Ok.
+{|Expression_Idle_Neutral}Here we are.
+{|Expression_Empathy}I guess...
+{|Expression_Empathy}I guess I had been waiting for that moment to arrive.
+{|Expression_Empathy}Sooner or later.
+{|Expression_Idle_Neutral}Will you accompany me my friend?
+
+key: deer/conversations.deer_readytoleave_refuse.loctext -903287626630752158 v2 Revised
+Alright, I can wait a bit longer.
+
+key: deer/conversations.deer_refuse_fruit.loctext 5362547124698611979 v1 Revised
+Mmm...
+No, sorry, Stella....
+{|Expression_Pensive}You know I can't eat ((fruits)) for the life of me.
+{|Expression_Pensive}I've tried!
+But I just can't.
+
+key: deer/conversations.deer_refuse_fruit_fallback01.loctext 3152754354088602050 v1 Revised
+{|Expression_Pensive}Don't get me started on ((fruit))...
+{|Expression_Pensive}They've ruined some of my best dresses.
+
+key: deer/conversations.deer_refuse_fruit_fallback02.loctext 307526781514490164 v1 Revised
+{|Expression_Pensive}Sorry, Stella. You know how much I despise ((fruits))...
+
+key: deer/conversations.deer_refuse_shellfish.loctext -5594073667198810734 v1 Revised
+Is that... ((shellfish))?
+{|Expression_Pensive}Oh no.
+{|Expression_Pensive}No no no.
+{|Expression_Pensive}Not for me.
+Sorry.
+
+key: deer/conversations.deer_refuse_shellfish_fallback01.loctext 7011944066699154386 v1 Revised
+I just can't do ((shellfish)), remember?
+{|Expression_Pensive}It doesn't agree with my skin and my stomach.
+
+key: deer/conversations.deer_refuse_shellfish_fallback02.loctext 8431116937224232372 v1 Revised
+You know how I feel about ((shellfish)), Stella...
+I wouldn't be caught dead next to a mollusc.
+
+key: deer/conversations.deercall.loctext 7794360482439464235 v1 Revised
+Over here!
+
+key: deer/conversations.deerconversation-addloomupgradeintroduction._independenttextbubbleloc -3856106717131866217 v3 Revised
+Here we go.
+
+key: deer/conversations.deerconversation-addloomupgradeintroduction.loctext 6295043865159331348 v4 Revised
+It's time to upgrade this ((loom)) of yours.
+Once you've got the required resources, go for it.
+It's the only way to craft ((fabric)) from ((thread)).
+Go on, I'll wait.
+
+key: deer/conversations.deerconversation-addloomupgradeskipconversation._independenttextbubbleloc 7038221702509584082 v3 Revised
+Great.
+
+key: deer/conversations.deerconversation-addloomupgradeskipconversation.loctext -7900256053550933337 v4 Revised
+Always ahead of the pack!
+
+key: deer/conversations.deerconversation-addloomupgradevalidation._independenttextbubbleloc -2625603983391748333 v2 Revised
+Brilliant!
+
+key: deer/conversations.deerconversation-addloomupgradevalidation.loctext -4226987140860168521 v17 Revised
+Now the ((loom)) is fully useful.
+{|Expression_Idle_Neutral}Of course, many stations can be upgraded.
+{|Expression_Idle_Neutral}You just have to find the blueprints for them and the materials, of course.
+{|Expression_Idle_Neutral}...
+{|Expression_Pensive}Stella, I believe it's time for me to teach you advanced loom techniques.
+{|Expression_Idle_Neutral}Yes, it's a thing.
+{|Expression_Pensive}There are a few improvements you can make to the machine itself.
+{|Expression_Pensive}It depends on how you place your hands on the machine.
+{|Expression_Pensive}How you arrange threads as you load it up has a big impact too. 
+{|Expression_Pensive}With a few simple tricks, you'll be able to craft much more intricate items.
+{|Expression_Pensive}Fabric, actually.
+{|Expression_Idle_Neutral}Here, let's go take a look.
+{|Expression_Idle_Neutral}We can finally craft ((fabric)) from ((thread)).
+
+key: deer/conversations.deerconversation-askaboutfrogvalidation.loctext 1661233361714457942 v2 Revised
+Do you know what's odd?
+{|Expression_Pensive}I didn't hear your uncle snoring last night.
+{|Expression_Pensive}I must have been fast asleep.
+Where is he anyways?
+
+key: deer/conversations.deerconversation-askaboutplayvalidation.loctext -6272075125141533307 v1 Revised
+Yeah.
+{|Expression_Unhappy}It was not good.
+
+key: deer/conversations.deerconversation-attheterraceintro._independenttextbubbleloc -513394103119047090 v2 Revised
+Oh...
+
+key: deer/conversations.deerconversation-attheterraceintro.loctext 287109802840740246 v17 Revised
+[StartCamera]How long has it been since we've been here together Stella...
+Seems Jerry has been taking good care of the premises.
+He's always been the best gardener we ever had with us.
+{|Expression_Idle_Neutral}Mum has not been home much since father died.
+[RemoveCamera]{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Shit, I'm much more emotional than I thought I could ever be.
+{Expression_Gloom|Expression_Empathy}...
+{Expression_Gloom|Expression_Empathy}I loved this house so much.
+{Expression_Gloom|Expression_Empathy}As much as I hated it probably.
+{Expression_Gloom|Expression_Idle_Neutral}Look, I don't think I can go in there.
+{|Expression_Idle_Neutral}Even with you.
+{|Expression_Idle_Neutral}It's just...
+{|Expression_Idle_Neutral}No, I can't.
+{|Expression_Idle_Neutral}Go without me, I'll wait for you here.
+{|Expression_Idle_Neutral}Here is the key.
+{|Expression_Idle_Neutral}Oh, and, Stella...
+{|Expression_Idle_Neutral}If you stumble upon my old music box, would you bring it back to me?
+{|Expression_Headnod}Thanks a lot.
+{|Expression_Idle_Neutral}Remember, this house has always been a real labyrinth. 
+{|Expression_Idle_Neutral}If you're lost, you have to follow the light.
+{|Expression_Idle_Neutral}Good luck in there.
+{|Expression_Headnod}I'll wait for you outside.
+
+key: deer/conversations.deerconversation-bargain-no.loctext 2256288311604815271 v1 Revised
+I'll wait until you're ready.
+
+key: deer/conversations.deerconversation-bargain-yes.loctext -1266450684487482366 v1 Revised
+{|Expression_Headnod}Good, let's do this.
+
+key: deer/conversations.deerconversation-blueprintupdateintroduction._independenttextbubbleloc -9123932182358867632 v4 Revised
+Oh no.
+
+key: deer/conversations.deerconversation-blueprintupdateintroduction.loctext 9213606394822443055 v21 Revised
+{|Expression_Unhappy}What a mess.
+{|Expression_Unhappy}Reminds me of Aunt Petunia's old yard.
+{|Expression_Unhappy}A beautiful, unorganized testament to someone's laziness.
+{|Expression_Unhappy}Or a vital impossibility to get rid of anything.
+{|Expression_Idle_Neutral}At any rate, we should do something about this, or my dust allergies will be back.
+{|Expression_Pensive}Let me think.
+{|Expression_Pensive}...
+{|Expression_Pensive}There is only one way to clean this up.
+{|Expression_Idle_Neutral}You have to meet Albert.
+{|Expression_Idle_Neutral}He's your local shipwright.
+{|Expression_Idle_Neutral}And his jokes are garbage.
+{|Expression_Idle_Neutral}But he is the only one who can fix your boat.
+{|Expression_Idle_Neutral}We should head to ((Albert's Shipyard)).
+{|Expression_Idle_Neutral}...
+{|Expression_Pensive}You must be wondering how to make this ship move.
+{|Expression_Idle_Neutral}It's really easy actually.
+{|Expression_Idle_Neutral}There, let me give you this key I found on the island.
+{|Expression_Idle_Neutral}It will unlock that cabin in the back.
+{|Expression_Idle_Neutral}You should find a map projector in there.
+{|Expression_Idle_Neutral}How do I know all this?
+{|Expression_Idle_Neutral}Well, I was planning an escape, remember?
+{|Expression_Idle_Neutral}And you know me.
+{|Expression_Unhappy}I plan things meticulously.
+{|Expression_Unhappy}Very.
+{|Expression_Unhappy}Meticulously.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Go, open up that cabin Stella.
+{|Expression_Idle_Neutral}The map projector should be simple enough to use, and you just have to go to ((Albert's Shipyard))
+
+key: deer/conversations.deerconversation-boatbellspamvalidation._independenttextbubbleloc -4179927073749391953 v2 Revised
+Relax!
+
+key: deer/conversations.deerconversation-boatbellspamvalidation.loctext 2417512496242796028 v3 Revised
+{|Expression_Idle_Neutral}You need to calm down with that bell.
+{|Expression_Idle_Neutral}When you ring it at night, people will get up.
+{|Expression_Idle_Neutral}Nobody likes to be woken up.
+{|Expression_Idle_Neutral}Especially me.
+
+key: deer/conversations.deerconversation-boughtblueprintsvalidation._independenttextbubbleloc 1298263037963590120 v1 Revised
+Fantastic!
+
+key: deer/conversations.deerconversation-boughtblueprintsvalidation.loctext 5268998942852911660 v6 Revised
+If you've got everything you need, I'll take my leave.
+Feel free to stay here as long as you want, I'll meet you at the pier.
+
+key: deer/conversations.deerconversation-buildfieldskipconversation._independenttextbubbleloc 6309568120418434048 v2 Revised
+Wow.
+
+key: deer/conversations.deerconversation-buildfieldskipconversation.loctext -3604551369517073387 v2 Revised
+You beat me to the punch.
+
+key: deer/conversations.deerconversation-buildfieldskipconversation-chainconversation.loctext 840229415156831565 v3 Revised
+We just need to find some ((seeds)) for that ((field)).
+
+key: deer/conversations.deerconversation-buildfieldvalidation._independenttextbubbleloc 7371935240732930314 v3 Revised
+A field!
+
+key: deer/conversations.deerconversation-buildfieldvalidation.loctext 8182978091205258538 v6 Revised
+{|Expression_Happy}Ha, it's better looking than I thought.
+There is a little "je-ne-sais-quoi" to it.
+Simple, but elegant.
+Now, all you have to do is plant ((Field Seeds)) in there.
+Seeds can grow only in their respective places.
+{|Expression_Idle_Neutral}((Garden Seeds)) won't grow in the ((Field)), so don't bother trying.
+{|Expression_Idle_Neutral}But you know me, I would kill a plastic cactus, so don't take my word on this.
+{|Expression_Pensive}Anyway, there's only one place where we could possibly find what we need.
+{|Expression_Pensive}Theodore specializes in ((Seeds)).
+{|Expression_Idle_Neutral}He has set shop in ((Hummingberg)), the busiest town of the area.
+{|Expression_Idle_Neutral}Theodore and his brothers are the founders of Raccoon Inc., a shady retail franchise with very loose moral values.
+{|Expression_Unhappy}Yes, this world has a serious problem of dubious business practices.
+{|Expression_Idle_Neutral}Since I don't want you to get swindled, I'll come with you and do most of the talking.
+{|Expression_Idle_Neutral}I've run into this cheeky little raccoon once, and his dishonesty was blatant.
+Let's head to ((Hummingberg)) then.
+
+key: deer/conversations.deerconversation-buildguesthouseskipvalidation.loctext -8666439718900114998 v3 Revised
+{|Expression_Idle_Neutral}As well as the necessary resources.
+{|Expression_Idle_Neutral}Damn.
+{|Expression_Idle_Neutral}You require ((Bright Jelly)).
+{|Expression_Idle_Neutral}And there is only one way to get some.
+{|Expression_Idle_Neutral}...
+{Expression_Gloom|Expression_Idle_Neutral}I...
+{Expression_Gloom|Expression_Empathy}Look, I should've told you when I first met you here.
+{Expression_Gloom|Expression_Empathy}...
+{Expression_Gloom|Expression_Empathy}Something scares the hell out of me.
+{Expression_Gloom|Expression_Empathy}A dark presence, and even I cower from it.
+{Expression_Gloom|Expression_Empathy}A void that swallows all, light included.
+{Expression_Gloom|Expression_Empathy}It can take many forms, and for me it is always jellyfish.
+{Expression_Gloom|Expression_Idle_Neutral}Yes, I'm fully aware of the irony.
+{|Expression_Pensive}The ((Bright Jelly)) you need for the ((Kitchen)), well, only these jellyfish can provide it to you.
+{|Expression_Pensive}So there is no other option.
+{|Expression_Pensive}I'll have to face my fears.
+{|Expression_Pensive}...
+{|Expression_Idle_Neutral}But you're here.
+With you, I can do it.
+{|Expression_Idle_Neutral}They will appear as a dark patch of pure fear on your map, so you can't miss it.
+{|Expression_Idle_Neutral}Go, I'll take some time to prepare myself.
+
+key: deer/conversations.deerconversation-buildguesthousevalidation._independenttextbubbleloc 1673315424433206358 v2 Revised
+Very nice!
+
+key: deer/conversations.deerconversation-buildguesthousevalidation.loctext 1615436445467191077 v21 Revised
+{|Expression_Happy}This ((Guest House)) is very pretty.
+{Expression_Laugh|Expression_Happy}It has your touch.
+{|Expression_Happy}Nice work, as usual.
+Now, at last, I have a place to sit down and enjoy the view.
+{|Expression_Pensive}Oh!
+{|Expression_Pensive}Wait.
+{|Expression_Pensive}What is going on?
+{|Expression_Pensive}Something else is happening.
+{|Expression_Pensive}...
+{|Expression_Pensive}Ah.
+{|Expression_Pensive}I should've expected this.
+{|Expression_Surprise}I'm actually hungry.
+{|Expression_Surprise}Very hungry.
+{|Expression_Idle_Neutral}You know how terrible a cook I am.
+{|Expression_Happy}But I remember you being absolutely fantastic at it.
+{|Expression_Idle_Neutral}And you might have fished a few fishes already.
+{|Expression_Idle_Neutral}Trouble is, I can't really eat an entire raw fish.
+{|Expression_Idle_Neutral}I could try for sure, but I'll probably choke on the fishbone and never survive.
+{|Expression_Idle_Neutral}That's not how you want me to go.
+{|Expression_Idle_Neutral}As absurd as this sounds.
+{|Expression_Idle_Neutral}So you should keep on using this ((Blueprint Table)) of yours and build a ((Kitchen)) aboard.
+{|Expression_Idle_Neutral}I'm pretty sure I've seen the plans for it in there.
+
+key: deer/conversations.deerconversation-buildkitchenreminder._commenttext -9157872515349451157 v2 Revised
+Don't forget...
+
+key: deer/conversations.deerconversation-buildkitchenreminder.loctext -3935313640251750418 v4 Revised
+You need a ((kitchen)) to cook food.
+
+key: deer/conversations.deerconversation-buildkitchenvalidation._independenttextbubbleloc -4590664777130078712 v4 Revised
+Lovely kitchen!
+
+key: deer/conversations.deerconversation-buildkitchenvalidation.loctext 8699871789238991458 v5 Revised
+You can now use the kitchen's oven.
+It should be rather simple.
+Put any one ingredient in the oven, and wait for it to be cooked.
+You could even try these loose corn kernels that have been hanging around my pockets.
+I can't wait to see you in your cooking glory again.
+You got this.
+
+key: deer/conversations.deerconversation-buyadecorationintroduction._independenttextbubbleloc 3561293372676584070 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-buyadecorationintroduction.loctext 4779416502840249130 v4 Revised
+{|Expression_Pensive}There is something else I wanted to talk to you about.
+{|Expression_Pensive}Look, I'm still really grateful to you for having allowed me to reside in such a nice cabin.
+{|Expression_Pensive}But I must admit, it's just a bit empty.
+{|Expression_Idle_Neutral}You know me, I've spent my life surrounded by pointless and tacky things.
+{|Expression_Idle_Neutral}But in a house like this one, I believe we could do something very special.
+Unique.
+With class and coziness.
+What do you think?
+A little of bit of ((improving)) might do the trick. 
+{|Expression_Headnod}Fabulous.
+I'll leave you to it, no rush.
+
+key: deer/conversations.deerconversation-buyadecorationreminder._commenttext 1990580716510507210 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-buyadecorationreminder.loctext -2774319353140482359 v2 Revised
+Remember you can use the blueprint station to ((improve)) any building.
+
+key: deer/conversations.deerconversation-buyadecorationskipconversation._independenttextbubbleloc -5651792510587332575 v2 Revised
+Oh wow.
+
+key: deer/conversations.deerconversation-buyadecorationskipconversation.loctext 8823984865523683408 v2 Revised
+Ahead of the curve are we?
+
+key: deer/conversations.deerconversation-buydeerblueprintreminder._commenttext -5466088376165031173 v2 Revised
+Go ahead, Stella.
+
+key: deer/conversations.deerconversation-buydeerblueprintreminder.loctext 2709439794830287063 v5 Revised
+You can buy those seeds now.
+At a fair price.
+Don't hesitate to spend it all.
+That's what we're here for after all.
+
+key: deer/conversations.deerconversation-buydeerhousereminder._commenttext 3921187932713208424 v2 Revised
+Stella!
+
+key: deer/conversations.deerconversation-buydeerhousereminder.loctext 536292174061429197 v4 Revised
+I hope the resources necessary to build my house aren't too hard to come by.
+
+key: deer/conversations.deerconversation-buydeerhouseskipconversation._independenttextbubbleloc 5810191392178090504 v2 Revised
+Well well.
+
+key: deer/conversations.deerconversation-buydeerhouseskipconversation.loctext 679106247218831530 v5 Revised
+Look at this.
+{|Expression_Happy}This cabin is outstanding.
+{|Expression_Happy}It really does wonder to have a place of your own.
+Doesn't it remind you of my old condo on Waverly?
+Probably the only place where I could get some peace and quiet.
+Thank you, old friend.
+
+key: deer/conversations.deerconversation-buygwenhouseintro._independenttextbubbleloc 9036941975053981914 v1 Revised
+Good.
+
+key: deer/conversations.deerconversation-buygwenhouseintro.loctext 3747279298437850947 v1 Revised
+Don't worry.
+I won't embarrass you like last time.
+Just go ahead and add my house to your boat.
+
+key: deer/conversations.deerconversation-buygwenhousevalidation._independenttextbubbleloc 2631842672421187955 v1 Revised
+Good.
+
+key: deer/conversations.deerconversation-buygwenhousevalidation.loctext 8003969541615903279 v1 Revised
+Thank you.
+Let's head back to your boat and take a look.
+
+key: deer/conversations.deerconversation-buygwenloomreminder._commenttext 3434534439281932316 v2 Revised
+Now...
+
+key: deer/conversations.deerconversation-buygwenloomreminder.loctext -6787847509604865846 v2 Revised
+It's time for you to add the loom to your boat.
+
+key: deer/conversations.deerconversation-buyhouseblueprintvalidation._independenttextbubbleloc 8106075963553260018 v3 Revised
+There you go!
+
+key: deer/conversations.deerconversation-buyhouseblueprintvalidation.loctext 4094791373937985678 v13 Revised
+{|Expression_Idle_Neutral}Found the box?
+Could you give it to me?
+
+key: deer/conversations.deerconversationcall-jellfishtutorialyes._independenttextbubbleloc 5300707625419188048 v1 Revised
+Stella! Quick, come here!
+
+key: deer/conversations.deerconversationcall-jellfishtutorialyes.loctext 351770333232092712 v1 Revised
+Don't be scared, Stella.
+They'll be coming straight for us.
+
+key: deer/conversations.deerconversationcall-jellyfishjellyfishobligated._independenttextbubbleloc -3525311411603942213 v1 Revised
+Here we are.
+
+key: deer/conversations.deerconversationcall-jellyfishjellyfishobligated.loctext 129821366869617675 v7 Revised
+[CancelTimer]Damn.
+{|Expression_Surprise}Here They come.
+{|Expression_Headnod}Remember, set your eyes on the ones with ((Bright Jelly)).
+{|Expression_Idle_Neutral}They should be visible enough.
+{|Expression_Idle_Neutral}That said, pop as many as you can, you'll get ((Glims)) anyway.
+{|Expression_Idle_Neutral}I will wait for you inside, it's just too hard for me to stay out there.
+{|Expression_Idle_Neutral}Ok, go ahead, I believe in you.
+
+key: deer/conversations.deerconversationcall-jellyfishjellyfishobligated-conditionalchainconversations_conversation.loctext -8567306806948596506 v2 Revised
+{|Expression_Idle_Neutral}I'll be inside.
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial02._independenttextbubbleloc 8013578566615325563 v1 Revised
+Oh great!
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial02.loctext 2330506105573227331 v2 Revised
+[CancelTimer]{|Expression_Idle_Neutral}Jellyfish are here again.
+{|Expression_Idle_Neutral}Remember, you just have to crash into them to make the light burst out.
+{|Expression_Idle_Neutral}You won't get hurt, and I will feel queasy.
+{|Expression_Idle_Neutral}I know they will be back, but at least it will buy me a bit more time.
+{|Expression_Idle_Neutral}What do you say?
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial03._independenttextbubbleloc -4808330270560853943 v2 Revised
+Jellyfish!
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial03.loctext -2297039131657773324 v1 Revised
+[CancelTimer]Here they come again.
+{|Expression_Idle_Neutral}Hugh, I don't feel great...
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Go, I still have faith in you.
+{|Expression_Idle_Neutral}I'll watch from inside.
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial04._independenttextbubbleloc 4686214974694325824 v1 Revised
+Again!
+
+key: deer/conversations.deerconversationcall-jellyfishtutorial04.loctext -7089736235281270307 v1 Revised
+[CancelTimer]{|Expression_Idle_Neutral}Here we are again.
+{|Expression_Idle_Neutral}The jellyfish are stealing all the light.
+{|Expression_Empathy}As they've stolen all hope for me.
+{|Expression_Idle_Neutral}I'll never get used to it.
+{|Expression_Idle_Neutral}And a part of me makes me think it's all my fault.
+{|Expression_Idle_Neutral}Alright, you can do your thing again.
+{|Expression_Idle_Neutral}Are you up for it?
+
+key: deer/conversations.deerconversationcall-jellyfishtutorialno._independenttextbubbleloc -7804229308544426483 v1 Revised
+Stella! Quick, come here!
+
+key: deer/conversations.deerconversationcall-jellyfishtutorialno.loctext -1676287485982473675 v1 Revised
+Let's just wait it out.
+
+key: deer/conversations.deerconversation-cerealfieldintro._independenttextbubbleloc -8099692950791443571 v1 Revised
+Hmm...
+
+key: deer/conversations.deerconversation-cerealfieldintro.loctext -5482430922791993339 v2 Revised
+[Seed]If you feel like it, step inside this ((Field)) and plant this seed.
+It might just grow into something interesting.
+Or not.
+Who knows.
+
+key: deer/conversations.deerconversation-cerealfieldreminder.loctext -5850438517608808436 v1 Revised
+That seed is not going to plant itself.
+
+key: deer/conversations.deerconversation-cerealfieldvalidation._independenttextbubbleloc -2160680039905584181 v1 Revised
+Voilà!
+
+key: deer/conversations.deerconversation-cerealfieldvalidation.loctext 6906235259030984115 v1 Revised
+You planted your first seed.
+{|Expression_Happy}You're on your way to becoming a regular green thumb.
+[Seeds]Here's a few more to make this field plentiful again.
+{|Expression_Headnod}Now, don't you forget to add some water!
+
+key: deer/conversations.deerconversation-checkifloomisbuiltintroduction._commenttext -4430119609074270722 v1 Revised
+Well...
+
+key: deer/conversations.deerconversation-checkifloomisbuiltintroduction.loctext 1436993746039506897 v9 Revised
+Stella, I'm sure you remember my old sewing machine.
+It was a Diva, with gold lettering and a manual wheel.
+You know I've always been into textiles.
+Well, a few years ago, I went to a museum which had tons of different sorts of fabric crafting machines.
+And I couldn't help but notice that you can build a ((loom)) on this ship.
+This could be a great opportunity for me to teach you a few tricks.
+And I'm quite sure you'll need ((thread)) and ((fabric)) soon.
+So you should definitely add a ((loom)) to this boat.
+The resources for it should be simple to find.
+Just check in your ((blueprint table)).
+
+key: deer/conversations.deerconversation-cleartrashvalidation._independenttextbubbleloc 3304985994029411334 v4 Revised
+Wonderful!
+
+key: deer/conversations.deerconversation-cleartrashvalidation.loctext 8037203388728490944 v7 Revised
+{|Expression_Happy}You did a wonderful job Stella.
+{|Expression_Pensive}And the good news is that you have enough resources to add a ((Guest House)) to your ship.
+{|Expression_Pensive}A necessary amenity.
+{|Expression_Pensive}Newly welcomed spirits such as myself will have a temporary place to relax and sleep.
+{|Expression_Pensive}Well, sleep, not really.
+{|Expression_Pensive}I can tell you for sure that no one will be thrilled to spend more than one night in there.
+{|Expression_Unhappy}But it beats sleeping on the deck.
+{|Expression_Unhappy}The stars are pretty, but the wood is stiff and the humidity is hard to tolerate.
+I'll leave you to it, have fun.
+
+key: deer/conversations.deerconversation-commentaboutplay01.loctext -3109774198348276613 v1 Revised
+Oh dear...
+
+key: deer/conversations.deerconversation-cooksomethingvalidation._independenttextbubbleloc 1279276852069887310 v1 Revised
+I can smell it.
+
+key: deer/conversations.deerconversation-cooksomethingvalidation.loctext -5172420512125150430 v3 Revised
+I could eat anything.
+Just give me some food.
+
+key: deer/conversations.deerconversation-craftthreadintro._independenttextbubbleloc -7500807783095670901 v3 Revised
+Alright.
+
+key: deer/conversations.deerconversation-craftthreadintro.loctext -7875527145002513201 v17 Revised
+{|Expression_Happy}This ((loom)) looks fantastic.
+{|Expression_Idle_Neutral}Don't be scared.
+It's in perfect working order.
+{|Expression_Pensive}Let me show you how it works.
+{|Expression_Pensive}You put ((fiber)) inside and then you spin.
+{Loom|Expression_Pensive}You just have to make sure you hit the target.
+{Loom|Expression_Pensive}And you get a little extra if you hit the marker needle.
+{Loom|Expression_Pensive}See?
+{Loom|Expression_Pensive}Pretty easy, right?
+{Idle}Now, you try it.
+Try it with this ((fiber))
+
+key: deer/conversations.deerconversation-decorationsintro._independenttextbubbleloc 5672090056405607047 v5 Revised
+Hey Stella!
+
+key: deer/conversations.deerconversation-decorationsintro.loctext -5708229462763921112 v11 Revised
+{|Expression_Idle_Neutral}Stella I...
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Nah, nevermind.
+{|Expression_Idle_Neutral}Nostalgia is not my forte.
+{|Expression_Idle_Neutral}I'm slightly happy the villa is still in good condition.
+{|Expression_Idle_Neutral}Or is it?
+{|Expression_Idle_Neutral}Ok, let's change the subject.
+{|Expression_Idle_Neutral}You must have noticed the ((improve)) tab in your ((blueprint table)).
+{|Expression_Idle_Neutral}Through there, you can add decorative elements to the Spirit houses and the stations.
+{|Expression_Idle_Neutral}It's time to upgrade this ((loom)) of yours.
+{|Expression_Idle_Neutral}Once you've got the required resources, go for it.
+{|Expression_Idle_Neutral}It's the only way to craft ((fabric)) from ((thread)).
+{|Expression_Idle_Neutral}Go on.
+
+key: deer/conversations.deerconversation-decorationsreminder.loctext 6952505485388809709 v1 Revised
+{|Expression_Idle_Neutral}Remember I wouldn't be against living in a cabin that is a little less bare-bones.
+{|Expression_Idle_Neutral}But as I said, no rush.
+
+key: deer/conversations.deerconversation-decorationsvalidation._independenttextbubbleloc -1247703218630445998 v1 Revised
+Wow!
+
+key: deer/conversations.deerconversation-decorationsvalidation.loctext -3476014117029031644 v5 Revised
+The house looks so much better.
+{|Expression_Happy}As if everything had been designed with my happiness in mind.
+{|Expression_Happy}The textures, the tones, the cosiness.
+{|Expression_Happy}It's perfect.
+Look at you, listening to me and building such a nice cabin for me.
+I won't forget this.
+
+key: deer/conversations.deerconversation-deerhugreminder._commenttext 5564652869672492309 v2 Revised
+Hey!
+
+key: deer/conversations.deerconversation-deerhugreminder.loctext 5145727150083100047 v3 Revised
+I really need a ((hug)) right now.
+
+key: deer/conversations.deerconversation-deerhugskipconversation._independenttextbubbleloc 3249670742187748565 v2 Revised
+Hey.
+
+key: deer/conversations.deerconversation-deerhugskipconversation.loctext -1296352969952812926 v11 Revised
+Come with me now.
+Let's take a look at this chaos.
+
+key: deer/conversations.deerconversation-deerlockedreminder._commenttext -6345088120983146189 v1 Revised
+Stella!
+
+key: deer/conversations.deerconversation-deerlockedreminder.loctext -1697472887190569440 v4 Revised
+{|Expression_Idle_Neutral}Look Stella.
+{|Expression_Idle_Neutral}I...
+{|Expression_Empathy}I'm not feeling so great right now.
+{|Expression_Empathy}...
+{|Expression_Headnod}Just give me a bit of time ok?
+{|Expression_Idle_Neutral}It won't be long.
+{|Expression_Idle_Neutral}You'll be the first to know.
+
+key: deer/conversations.deerconversation-exploreblingmansionreminder._commenttext -8700488335038891441 v2 Revised
+Did you forget?
+
+key: deer/conversations.deerconversation-exploreblingmansionreminder.loctext -2669826890018925183 v4 Revised
+We should head over to ((Villa Maggiore)).
+
+key: deer/conversations.deerconversation-exploreblingmansionvalidation._independenttextbubbleloc -3208783417221402120 v1 Revised
+Alright.
+
+key: deer/conversations.deerconversation-exploreblingmansionvalidation.loctext 5892878866036811876 v3 Revised
+{|Expression_Idle_Neutral}Here we are.
+{|Expression_Idle_Neutral}It's curious, I'm both excited and anxious.
+{|Expression_Idle_Neutral}I'm even starting to have second thoughts.
+{|Expression_Idle_Neutral}As if...
+{|Expression_Idle_Neutral}Nevermind.
+Let's go.
+
+key: deer/conversations.deerconversation-explorecanalislandreminder._commenttext 6025104717407968656 v2 Revised
+Let's go...
+
+key: deer/conversations.deerconversation-explorecanalislandreminder.loctext 1809109625154611047 v2 Revised
+((Hummingberg)) awaits!
+
+key: deer/conversations.deerconversation-explorecanalislandvalidation._independenttextbubbleloc 3106887345629385380 v1 Revised
+Alright.
+
+key: deer/conversations.deerconversation-explorecanalislandvalidation.loctext -8469955690189203230 v7 Revised
+We're here!
+{|Expression_Idle_Neutral}Let's buy some seeds.
+{|Expression_Idle_Neutral}Theodore has set up shop on this island, let's pay him a visit.
+
+key: deer/conversations.deerconversation-exploreshipyardvalidation._independenttextbubbleloc -6592958703729790112 v2 Revised
+Here we are.
+
+key: deer/conversations.deerconversation-exploreshipyardvalidation.loctext 4522961294899261430 v7 Revised
+Now head down to ((Albert's Shipyard)) and upgrade your ((blueprint station)).
+{|Expression_Idle_Neutral}It's the only way to clear this clutter.
+{|Expression_Idle_Neutral}I'm curious about what it's all made of.
+{|Expression_Unhappy}Considering the smell, I'd say at least seven different types of dirt and dust.
+
+key: deer/conversations.deerconversation-feddeerreminder._commenttext 756919005759740427 v2 Revised
+Please...
+
+key: deer/conversations.deerconversation-feddeerreminder.loctext -3797881219063819628 v3 Revised
+((feed)) it to me.
+
+key: deer/conversations.deerconversation-fedgwenvalidation._independenttextbubbleloc -2922466666132953683 v1 Revised
+That really hits the spot.
+
+key: deer/conversations.deerconversation-fedgwenvalidation.loctext 6732642440398866991 v20 Revised
+{Eat}Well, I won't die just yet.
+{Eat|Expression_Happy}Thanks Stella, it's better than I thought it could be.
+{Eat|Expression_Happy}But then again, you've always been a wonder in the kitchen
+{Eat}Don't forget: Spirits don't run on sunshine and water.
+{Eat}We need a good meal once in a while.
+It will be up to you to understand who's fond of what.
+As for me, I'm sure you remember I've always loved ((Comfort)) food.
+And that I would die for a cup of ((coffee)).
+But I'm not that picky, I can eat anything.
+{|Expression_Unhappy}Just never the same thing twice.
+{|Expression_Unhappy}...
+{|Expression_Idle_Neutral}Oh, and before I forget, here is something I was supposed to give you.
+{|Expression_Pensive}I'm not sure exactly how it works, but an ((Obol)) is a symbol of passage.
+{|Expression_Pensive}It's a fee each Spirit has to pay you.
+{|Expression_Idle_Neutral}But something tells me you knew that already.
+{|Expression_Idle_Neutral}...
+{|Expression_Pensive}Ok, let's keep on improving this craft.
+{|Expression_Pensive}As you must have seen, in your ((Blueprint Table)) there is both a ((Field)) and a ((Garden)) blueprint.
+{|Expression_Pensive}Which means you can grow many different things.
+{|Expression_Surprise}And turn this ship into an adorable farm of sorts.
+You should add a ((Field)) first in my opinion.
+It's going to be easier to find the resources for it around here, and you can grow ((Flax)) in it.
+Which in turn will be used to craft more things.
+In addition to building a ((Field)), we should go buy ((seeds)) to use in it.
+
+key: deer/conversations.deerconversation-fedgwenvalidationpart2.loctext 5680980598545765878 v2 Revised
+But, that will come later.
+I need you to visit an island close by.
+It's called ((Mosstein Cove)) and there something on it we need.
+I'll tell you when we get there.
+
+key: deer/conversations.deerconversation-findbr3validation._independenttextbubbleloc -2028045193567483949 v3 Revised
+Look at that!
+
+key: deer/conversations.deerconversation-findbr3validation.loctext 7252768199017473785 v2 Revised
+We should hop on that island over there.
+Maybe we'll find something interesting.
+
+key: deer/conversations.deerconversation-findhouseblueprintreminder._commenttext -5404157801030353153 v2 Revised
+Where is it?
+
+key: deer/conversations.deerconversation-findhouseblueprintreminder.loctext -6118844442313145178 v5 Revised
+{|Expression_Idle_Neutral}Still hesitant to enter?
+{|Expression_Idle_Neutral}I certainly wouldn't blame you...
+
+key: deer/conversations.deerconversation-findhouseblueprintskipconversation._independenttextbubbleloc -3745363522013187443 v2 Revised
+Wow!
+
+key: deer/conversations.deerconversation-findhouseblueprintskipconversation.loctext -6178325398107552130 v7 Revised
+You've already found it!
+
+key: deer/conversations.deerconversation-findjellyfishvalidation._independenttextbubbleloc 7546076243109709352 v1 Revised
+Wow!
+
+key: deer/conversations.deerconversation-findjellyfishvalidation.loctext -5556208106805641297 v2 Revised
+Wow.
+You've been great.
+Stunning even.
+Thanks Stella.
+That was awesome.
+
+key: deer/conversations.deerconversation-getsnakealreadyintroduction._commenttext 5066604221143968471 v1 Revised
+Wait a second!
+
+key: deer/conversations.deerconversation-getsnakealreadyintroduction.loctext 5845258888345929925 v6 Revised
+{|Expression_Idle_Neutral}You went back to that shrine, but you didn't look around the city much.
+{|Expression_Idle_Neutral}You should really explore ((Hummingberg)).
+{|Expression_Idle_Neutral}There might even be someone waiting for you.
+{|Expression_Idle_Neutral}Just saying...
+{|Expression_Idle_Neutral}I'm not a oracle or anything like that.
+
+key: deer/conversations.deerconversation-getsomewoodintroduction._independenttextbubbleloc 3906147389713368548 v2 Revised
+Here we go.
+
+key: deer/conversations.deerconversation-getsomewoodintroduction.loctext 6593979683610825095 v3 Revised
+{|Expression_Headnod}What a majestic tree!
+{|Expression_Surprise}Well, you can cut it down.
+{|Expression_Idle_Neutral}Yes, it's fine, I promise
+{|Expression_Idle_Neutral}It's the best way to get the wood you need actually.
+But don't worry, they'll regrow over time.
+Another interesting fact about the Everlight.
+
+key: deer/conversations.deerconversation-getsomewoodvalidation._independenttextbubbleloc 3929861256178131186 v2 Revised
+Well done.
+
+key: deer/conversations.deerconversation-getsomewoodvalidation.loctext 2481638904885053106 v4 Revised
+Congratulations!
+{|Expression_Idle_Neutral}For you have become death, the destroyer of worlds!
+{|Expression_Unhappy}Joke aside, that's how you do it.
+You go on ahead, cutting down more trees.
+Then we can go back to the boat and build the ((field)) with all those ((maple logs))
+{|Expression_Headnod}I'll be next to the raft.
+
+key: deer/conversations.deerconversation-givemusicboxmanualconversation._independenttextbubbleloc -899594911097897156 v1 Revised
+You got it!
+
+key: deer/conversations.deerconversation-givemusicboxmanualconversation.loctext 6230940965257238052 v3 Revised
+{|Expression_Idle_Neutral}Thank you.
+{|Expression_Idle_Neutral}I'll hold on to it.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Oh, you've found something else?
+{|Expression_Idle_Neutral}Wow, I forgot we even had that.
+{|Expression_Surprise}It's an old manual for a Golden Royale.
+{|Expression_Pensive}Remember they had one as first prize in the town's yearly tombola?
+{|Expression_Pensive}I dreamt of having this machine since 2nd grade, but father would never let me participate in the lottery.
+{|Expression_Idle_Neutral}This manual will come in handy
+We can use it as an upgrade for your ((loom)).
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}I...
+{|Expression_Idle_Neutral}Yeah, let's get back to the boat.
+{|Expression_Idle_Neutral}And forget this place ever existed.
+
+key: deer/conversations.deerconversation-gwenbigmealfoodintro.loctext -4946363948559183280 v2 Revised
+Atul is throwing a nice get together?
+{|Expression_Headnod}How refreshing!
+I'll be there with bells on.
+{|Expression_Pensive}However, my palate needs something a little more niche than sardines.
+{|Expression_Pensive}...
+((Black coffee))!
+{|Expression_Headnod}That's it, Stella.
+
+key: deer/conversations.deerconversation-gwenhungryreminder.loctext 1209915253740637134 v1 Revised
+I'm still waiting on my meal.
+I never have any ideas on what to eat.
+Maybe you could try fishing something and cooking that up?
+{|Expression_Headnod}Something simple.
+Anything could do right now.
+
+key: deer/conversations.deerconversation-gwenishungryintroduction._independenttextbubbleloc 4061426370735105443 v2 Revised
+Hey Stella!
+
+key: deer/conversations.deerconversation-gwenishungryreminder._commenttext -5354678296105336446 v2 Revised
+Come on.
+
+key: deer/conversations.deerconversation-gwenishungryreminder.loctext 174876415231078915 v2 Revised
+I need you to cook something and ((feed)) it to me.
+
+key: deer/conversations.deerconversation-gwenismissingvalidation._independenttextbubbleloc -6944577065313091740 v1 Revised
+Hmm..
+
+key: deer/conversations.deerconversation-gwenismissingvalidation.loctext -8158172414826485943 v2 Revised
+{|Expression_Pensive}Look, this will come as a shock.
+{|Expression_Surprise}But I’m ready to leave.
+{|Expression_Empathy}I just can’t fight it anymore.
+{|Expression_Empathy}...
+{|Expression_Empathy}But it’s ok.
+{|Expression_Empathy}I know you’re with me.
+{|Expression_Idle_Neutral}Bring me to the ((Everdoor)), where you met Charon.
+{|Expression_Idle_Neutral}I'm ready.
+{|Expression_Empathy}I think.
+
+key: deer/conversations.deerconversation-havekeyvalidation._independenttextbubbleloc 5560621154538085118 v2 Revised
+Gotta love Francis...
+
+key: deer/conversations.deerconversation-havekeyvalidation.loctext -7547656497283243084 v4 Revised
+Don't you think Francis is absolutely charming?
+In his own peculiar kind of way.
+{|Expression_Idle_Neutral}He smells really bad though.
+But who wouldn’t like such a colorful onion monkey?
+His kindness is refreshing, and his obsessions are lovely.
+
+key: deer/conversations.deerconversation-housematerialsvalidation._independenttextbubbleloc -8147840177585577214 v2 Revised
+Would you look at that?
+
+key: deer/conversations.deerconversation-housematerialsvalidation.loctext 7311268112456336997 v5 Revised
+{|Expression_Idle_Neutral}Ah, I see you've got everything.
+{|Expression_Idle_Neutral}All the resources needed to build a cosy house for me to sleep in.
+{|Expression_Idle_Neutral}You can just do it from your blueprint station.
+
+key: deer/conversations.deerconversation-hugatmansionvalidation.loctext -1641645387305236202 v2 Revised
+I needed that.
+You always pull through.
+
+key: deer/conversations.deerconversation-hugdeerreminder01.loctext -4635781215653158784 v2 Revised
+I really need a hug right now.
+
+key: deer/conversations.deerconversationhungrmaster._commenttext 4572487434682816699 v2 Revised
+So hungry...
+
+key: deer/conversations.deerconversationhungry01.loctext 2377963392096161380 v1 Revised
+{|Expression_Idle_Neutral}A snack would be great right about now.
+
+key: deer/conversations.deerconversationhungry02.loctext -5453219213022977822 v4 Revised
+{|Expression_Idle_Neutral}I've got that weird feeling.
+{|Expression_Idle_Neutral}I'm actually rather hungry.
+
+key: deer/conversations.deerconversationhungry03.loctext -2210399643512493912 v1 Revised
+Hmmm... I could go for an amuse-bouche.
+
+key: deer/conversations.deerconversationhungrymaster._commenttext -2715366593218595901 v3 Revised
+Well, well...
+
+key: deer/conversations.deerconversationhungrymaster1._commenttext -2167015828896540143 v1 Revised
+So hungry...
+
+key: deer/conversations.deerconversationindenpendant-giveseeds.loctext -5999275672294839999 v1 Revised
+Stella, come here for a second.
+
+key: deer/conversations.deerconversationindenpendant-watergarden.loctext 8600456770379548174 v1 Revised
+Here's that garden.
+
+key: deer/conversations.deerconversation-invitedeerintroduction.loctext -2294760112157860626 v4 Placeholder
+{|Expression_Idle_Neutral}I'll be there.
+{|Expression_Idle_Neutral}Maybe.
+
+key: deer/conversations.deerconversation-jellyfisheventskipconversation._independenttextbubbleloc -4852632576915477975 v2 Revised
+Perfect.
+
+key: deer/conversations.deerconversation-jellyfisheventskipconversation.loctext -4535071265466621301 v3 Revised
+You got it done quick.
+
+key: deer/conversations.deerconversation-jellyfisheventvalidation._independenttextbubbleloc 2051054742034686281 v2 Revised
+Fantastic!
+
+key: deer/conversations.deerconversation-jellyfisheventvalidation.loctext 7648345806293848210 v8 Revised
+Ok.
+I'm really impressed.
+{|Expression_Happy}You rocked out there.
+{|Expression_Happy}Tumbling and diving like a shooting star.
+{|Expression_Happy}And without the slightest fear nor hesitation at that.
+{|Expression_Happy}You definitely haven't lost your touch Stella.
+And you even gathered enough ((Bright Jelly)) to build a proper ((Kitchen))
+Go for it.
+{|Expression_Idle_Neutral}I'll be patiently waiting.
+{|Expression_Unhappy}Slowly digesting myself.
+
+key: deer/conversations.deerconversation-jellyfishvalidation._independenttextbubbleloc -3767206469714093122 v1 Revised
+Good riddance!
+
+key: deer/conversations.deerconversation-jellyfishvalidation.loctext 4571240965166102245 v1 Revised
+{|Expression_Empathy}I hate when jellyfish show up like that.
+{|Expression_Empathy}Uninvited.
+I feel much better now.
+{|Expression_Headnod}Good job.
+
+key: deer/conversations.deerconversation-loominreminder._commenttext 5747888546461847638 v3 Revised
+Stella!
+
+key: deer/conversations.deerconversation-loominreminder.loctext 8984688347502801113 v3 Revised
+{|Expression_Idle_Neutral}You need to pratice the loom a bit more.
+
+key: deer/conversations.deerconversation-loominvalidation._independenttextbubbleloc -1008387642470890901 v1 Revised
+Look at that!
+
+key: deer/conversations.deerconversation-loominvalidation.loctext -2669522728463196145 v4 Revised
+{|Expression_Happy}You're a natural!
+{|Expression_Happy}Why am I not surprised.
+You've reached a pro level now, there is nothing more I can teach you on this subject.
+That being said, and if you don't mind, I'll give a go at it myself.
+It will definitely help me unwind a bit.
+
+key: deer/conversations.deerconversation-loommaterialsreminder.loctext 2068637012712786187 v1 Revised
+{|Expression_Idle_Neutral}You're missing a few materials to actually build that loom.
+{|Expression_Idle_Neutral}I've heard Summer talk about a dragon.
+{|Expression_Idle_Neutral}Could that be it?
+
+key: deer/conversations.deerconversation-loommaterialsvalidation._independenttextbubbleloc 8519143499466414762 v1 Revised
+Would you look at that?
+
+key: deer/conversations.deerconversation-loommaterialsvalidation.loctext 2643746554724129069 v2 Revised
+{|Expression_Idle_Neutral}You are ready to buy that ((loom)) blueprint.
+{|Expression_Idle_Neutral}Just head to the ((Albert's Shipyard)).
+
+key: deer/conversations.deerconversation-mansionhug._independenttextbubbleloc -2540829469507822987 v1 Revised
+Much better!
+
+key: deer/conversations.deerconversation-mansionhug.loctext -3802755334457375235 v2 Revised
+Thank you so much.
+
+key: deer/conversations.deerconversation-morespiritsreminder._commenttext -6162914487320988706 v2 Revised
+Over here...
+
+key: deer/conversations.deerconversation-morespiritsreminder.loctext 4052517294761800113 v3 Revised
+Glad you came to talk to me.
+Like I said earlier, we needed more people on this boat.
+New passengers.
+There's got to be a few people around.
+{|Expression_Idle_Neutral}Lost like I was.
+{|Expression_Idle_Neutral}Well. maybe not exactly like me.
+{|Expression_Idle_Neutral}I'm aware of a few things that might go unnoticed by most.
+{|Expression_Idle_Neutral}That's probably why father was always suspicious of me, and why Mum gave me a hard time for it.
+
+key: deer/conversations.deerconversation-morespiritsvalidation._commenttext -2676089770959269622 v1 Revised
+Well, well...
+
+key: deer/conversations.deerconversation-morespiritsvalidation._independenttextbubbleloc 1261948663611514118 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-morespiritsvalidation.loctext -7925468059777077671 v7 Revised
+You did good!
+Now we've got a real boat going.
+And you'll have to take care of these new passengers now.
+They'll be the ones testing your patience, not me.
+But, before all that, I have something to ask you.
+{|Expression_Idle_Neutral}You might have noticed it by now, but sleeping in the ((Guest House)) is not the ideal scenario for any of us.
+{|Expression_Idle_Neutral}Especially since it's getting crowded in there.
+{|Expression_Idle_Neutral}Look, I'm not complaining you know.
+You've been terrific up to this point, and it would be terribly rude of me to blame you for anything.
+{|Expression_Pensive}But I think it's time for me to have a space of my own.
+{|Expression_Blueprint}A nice little house, unpretentious but sophisticated, with a cosy vibe.
+{|Expression_Blueprint}A space in which I could read and unwind, far from the turmoil of the deck.
+{|Expression_Blueprint}Oddly enough, I'd see something with an Alpine flair.
+See, even I can be filled with nostalgia sometimes.
+Again, I won't be pushy on this, but I'd be delighted if you could build it for me.
+
+key: deer/conversations.deerconversation-narrativemoment_one_2introduction._commenttext 5611377373894901712 v1 Revised
+Well, you see...
+
+key: deer/conversations.deerconversation-narrativemoment_one_2introduction.loctext 3112013202554819704 v4 Revised
+{|Expression_Idle_Neutral}Don’t ask me how, but I’ve met Albert  already.
+{|Expression_Idle_Neutral}He definitely is a shark.
+{|Expression_Idle_Neutral}But his interest in all things maritime will be helpful.
+{|Expression_Idle_Neutral}Such as the boat upgrades he sells at an outrageously high price.
+{|Expression_Idle_Neutral}With those, you’ll be able to cross ominous weather barriers in the world.
+{|Expression_Idle_Neutral}They look like classic mythical challenges again.
+{|Expression_Idle_Neutral}A bit cliche if you ask me.
+
+key: deer/conversations.deerconversation-narrativemoment_three_2introduction._commenttext 1264399616664134426 v1 Revised
+Stella
+
+key: deer/conversations.deerconversation-narrativemoment_three_2introduction.loctext 2056211410031819000 v3 Revised
+{|Expression_Idle_Neutral}You know, when I accepted that promotion at Global, I genuinely thought I could succeed.
+{|Expression_Idle_Neutral}And I almost did.
+{|Expression_Idle_Neutral}If it wasn’t for my sickness, I could’ve made a difference.
+{|Expression_Idle_Neutral}When I moved upstate, I had to have my piano and my sewing machine transferred.
+{|Expression_Idle_Neutral}So I just stayed thereafter, to avoid the trouble.
+{|Expression_Idle_Neutral}Everywhere I went, I ran into the McMillans.
+{|Expression_Idle_Neutral}Chad always wanted me to get out with him and his friends.
+{|Expression_Idle_Neutral}But I just never happened to trust them.
+{|Expression_Idle_Neutral}They’re douchebags
+{|Expression_Unhappy}...
+{|Expression_Unhappy}Well, I just don’t use that word lightly.
+
+key: deer/conversations.deerconversation-narrativemoment_threeintroduction._commenttext -4676352934542216908 v1 Revised
+One last time...
+
+key: deer/conversations.deerconversation-narrativemoment_threeintroduction.loctext 800336526746619568 v3 Revised
+{|Expression_Idle_Neutral}Look, I need to tell you about Doug.
+{|Expression_Surprise}He called me the night father died.
+{|Expression_Idle_Neutral}Mum was still on the plane, and he couldn’t talk to anyone else.
+{|Expression_Idle_Neutral}He was polite, very articulate.
+{|Expression_Idle_Neutral}We chatted for an hour or so, and he cried only twice.
+{|Expression_Idle_Neutral}It didn't strike me at the time, but he was in a bar.
+{|Expression_Idle_Neutral}Which was odd for an accountant.
+{|Expression_Idle_Neutral}He told me father’s last words were that he loved me.
+{|Expression_Idle_Neutral}…
+{|Expression_Idle_Neutral}We never talked again.
+
+key: deer/conversations.deerconversation-narrativemoment_two_2introduction._commenttext 2112317995709275400 v1 Revised
+Stella...
+
+key: deer/conversations.deerconversation-narrativemoment_two_2introduction.loctext 9072743824196351822 v3 Revised
+{|Expression_Idle_Neutral}I’ve been thinking about father recently.
+{|Expression_Idle_Neutral}When he left with Doug, I didn’t feel anything.
+{|Expression_Idle_Neutral}No sorrow.
+{|Expression_Idle_Neutral}No hate.
+{|Expression_Idle_Neutral}No relief.
+{|Expression_Idle_Neutral}Nothing.
+{|Expression_Idle_Neutral}It didn’t really matter to me.
+{|Expression_Idle_Neutral}But it mattered to you, you spent 3 days crying in aunt Petunia’s room.
+{|Expression_Idle_Neutral}I bought you Three Sisters and gave you that damn oversized sweater I had knitted a month prior.
+{|Expression_Idle_Neutral}Mum was appalled, but you felt better.
+{|Expression_Idle_Neutral}I’ve long wondered why you were so sad.
+{|Expression_Idle_Neutral}And the best I could come up with is that you were sad in my stead.
+{|Expression_Idle_Neutral}Feeling things I couldn’t feel myself.
+
+key: deer/conversations.deerconversation-narrativemoment_twointroduction._commenttext -657374955915760343 v1 Revised
+Stella!
+
+key: deer/conversations.deerconversation-narrativemoment_twointroduction.loctext 6922364620376916311 v2 Revised
+You know, I'm delighted that you're here with me.
+{|Expression_Pensive}But I'm not surprised one bit.
+{|Expression_Pensive}It adds up.
+{|Expression_Empathy}You here, taking care of me in my final hours.
+{|Expression_Empathy}...
+{|Expression_Idle_Neutral}You've always cared so damn much about others.
+{|Expression_Idle_Neutral}Always protected those you found vulnerable.
+{|Expression_Idle_Neutral}Even pedantic snobs like me.
+{|Expression_Headnod}Remember the day my father yelled at the cat?
+We just got out of elementary school.
+{|Expression_Headnod}You were wearing those blue sneakers with the glittery tags.
+{|Expression_Idle_Neutral}And there you were, yelling back at my father like you were on a mission.
+{|Expression_Idle_Neutral}…
+{|Expression_Idle_Neutral}Father turned red and smashed the purple Delano vase.
+It was rad.
+
+key: deer/conversations.deerconversation-narrativemoment-oneintroduction._commenttext -4628404903069821635 v1 Revised
+Stella!
+
+key: deer/conversations.deerconversation-narrativemoment-oneintroduction._independenttextbubbleloc -5081780062793018782 v1 Revised
+Stella!
+
+key: deer/conversations.deerconversation-narrativemoment-oneintroduction.loctext -3888143375165107737 v10 Revised
+{|Expression_Idle_Neutral}As I understand, the ship is powered by your Everlight.
+{|Expression_Pensive}That’s how it cruises the ocean and reveals the stray Spirits.
+{|Expression_Pensive}It also explains why I couldn’t do anything by myself.
+{|Expression_Pensive}You must admit, it’s quite fascinating.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Look, I know you must feel overwhelmed.
+{|Expression_Idle_Neutral}Charon, the Everdoor, the Spiritfarers, this place, this boat, me being here...
+{|Expression_Idle_Neutral}It’s a lot.
+{|Expression_Pensive}You must be wondering what is going on.
+{|Expression_Idle_Neutral}Truth be told, I don’t really know either.
+But I’m here for you.
+{|Expression_Headnod}I’ll do my best to help you and try to make sense of it all.
+{|Expression_Pensive}As I said earlier, I wanted to leave by myself, but somehow, I just couldn’t.
+{|Expression_Idle_Neutral}Now that I see you, I think I know why.
+I’ll give you some space, for now, don’t hesitate to explore this ship.
+You can even give that fishing rod a try.
+The world is your oyster.
+
+key: deer/conversations.deerconversation-nightstopboattutorialintroduction._independenttextbubbleloc -2276807401640551337 v2 Revised
+Stella!
+
+key: deer/conversations.deerconversation-nightstopboattutorialintroduction.loctext -7831644007927355092 v6 Revised
+{|Expression_Pensive}Ah.
+{|Expression_Pensive}Yes. 
+{|Expression_Pensive}I forgot to tell you about this.
+{|Expression_Idle_Neutral}As you can see, this boat stops at night.
+{|Expression_Unhappy}I believe it's a side effect of your Everlight being, well, light.
+{|Expression_Unhappy}Or some other technicality.
+{|Expression_Pensive}That being said, it will allow people to sleep undisturbed.
+You in the meantime can do anything you want, tackle unfinished business or just chill on the deck under the stars.
+I'd suggest you go to sleep too, in that cozy little room atop you cabin.
+You'll wake up refreshed and ready to go, and this ship will start up again in the morning.
+{|Expression_Idle_Neutral}Oh, and, talking about that.
+{|Expression_Idle_Neutral}You know me, waking up on time has never been my forte.
+{|Expression_Idle_Neutral}You can ring that big bell over there to wake people up.
+{|Expression_Idle_Neutral}Remember!
+{|Expression_Idle_Neutral}Only do it at the right time.
+{|Expression_Idle_Neutral}Early morning should do the trick.
+{|Expression_Headnod}Talking about this, time for me to take a nap.
+{|Expression_Headnod}See you tomorrow Stella.
+{|Expression_Headnod}Have a good night.
+
+key: deer/conversations.deerconversation-plantinfieldintroduction._independenttextbubbleloc -8303591324163178009 v2 Revised
+Looks great.
+
+key: deer/conversations.deerconversation-plantinfieldintroduction.loctext 862474133733022253 v11 Revised
+{|Expression_Happy}Now you can plant seeds in there.
+Give it a go!
+
+key: deer/conversations.deerconversation-plantinfieldskipconversation._independenttextbubbleloc 8278452235283568702 v2 Revised
+Looks great.
+
+key: deer/conversations.deerconversation-plantinfieldskipconversation.loctext 1068698126595489536 v5 Revised
+Way ahead of me, Stella.
+
+key: deer/conversations.deerconversation-plantinfieldskipvalidation._independenttextbubbleloc -1411801039700903511 v1 Revised
+Awesome.
+
+key: deer/conversations.deerconversation-plantinfieldskipvalidation.loctext 911129587364527261 v2 Revised
+{|Expression_Idle_Neutral}Which reminds me...
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}I believe it's time for you to find new people.
+{|Expression_Idle_Neutral}Not that I don't love the idea of just the two of us cruising the oceans.
+{|Expression_Idle_Neutral}But you are the Spiritfarer.
+{|Expression_Idle_Neutral}And Spiritfarers find spirits.
+{|Expression_Idle_Neutral}And yes, help them fulfill their last wishes, however mundane they can be...
+{|Expression_Idle_Neutral}I've heard of a place not far from here, where someone might be in need of your help.
+{|Expression_Headnod}And I'll bet you'll like this one, if he is who I think he is.
+{|Expression_Idle_Neutral}Go.
+{|Expression_Idle_Neutral}Let's sail.
+
+key: deer/conversations.deerconversation-plantinfieldvalidation._independenttextbubbleloc 2064329680571453515 v2 Revised
+Awesome.
+
+key: deer/conversations.deerconversation-plantinfieldvalidation.loctext 5831056951658705596 v11 Revised
+{|Expression_Happy}Your thumb is as green as your hat.
+{|Expression_Headnod}This boat will soon become a cosy floating farm.
+{|Expression_Idle_Neutral}Don't forget that you'll probably have to water the plants once in a while.
+{|Expression_Pensive}Don't ask my word for it though.
+{|Expression_Idle_Neutral}My gardening knowledge is as limited as my father's empathy.
+{|Expression_Idle_Neutral}You'll have to find better mentors than me.
+
+key: deer/conversations.deerconversation-purchasedeerhousevalidation._independenttextbubbleloc -1339772034486611574 v2 Revised
+I love it.
+
+key: deer/conversations.deerconversation-purchasedeerhousevalidation.loctext -5054139243231962021 v8 Revised
+{|Expression_Happy}This cabin is outstanding.
+{|Expression_Happy}It really does wonders to have a place of your own.
+Doesn't it remind you of my old condo on Waverly?
+Probably the only place where I could get some peace and quiet.
+Thank you, old friend.
+
+key: deer/conversations.deerconversation-raccoonlookintro._independenttextbubbleloc 228434022103981180 v1 Revised
+Good.
+
+key: deer/conversations.deerconversation-raccoonlookintro.loctext -5927133623952007712 v5 Revised
+{|Expression_Idle_Neutral}There's Theodore.
+{|Expression_Idle_Neutral}Go ahead, take a look at what he's selling.
+
+key: deer/conversations.deerconversation-raccoonlookreminder._commenttext -283325864272786674 v2 Revised
+Go.
+
+key: deer/conversations.deerconversation-raccoonlookreminder.loctext 321741334115238110 v4 Revised
+{|Expression_Idle_Neutral}Just take a peek at what that shop is selling.
+
+key: deer/conversations.deerconversation-raccoonshopintro._independenttextbubbleloc -6227223276144508794 v1 Revised
+What was that?
+
+key: deer/conversations.deerconversation-raccoonshopintro.loctext 3158888419612307415 v4 Revised
+{|Expression_Unhappy}Those prices are out of control.
+{|Expression_Idle_Neutral}I won't let him get away with this.
+Are you ready to see me obliterate this merchant?
+
+key: deer/conversations.deerconversation-raccoonshopreminder.loctext 7425774542845536855 v1 Revised
+So, are you ready now?
+
+key: deer/conversations.deerconversation-showloomreminder._commenttext -5470610217933015339 v2 Revised
+Hey!
+
+key: deer/conversations.deerconversation-showloomreminder.loctext -733862169970099535 v5 Revised
+Let's give this splendid ((loom)) a try.
+
+key: deer/conversations.deerconversation-showloomvalidation._independenttextbubbleloc 6352120175355660045 v1 Revised
+Good job!
+
+key: deer/conversations.deerconversation-showloomvalidation.loctext 3124905027229045627 v4 Revised
+See, it's not that hard.
+The machine does all the work, you just have to flow with it.
+And that's what makes this so soothing.
+The rhythm, the sounds, the feel of it.
+Utterly satisfying.
+I'll probably give a go at it myself, when you don't need it.
+But don't worry about the materials, I'll manage.
+
+key: deer/conversations.deerconversation-shrineintro._independenttextbubbleloc -3195401876566002313 v1 Revised
+Oh...
+
+key: deer/conversations.deerconversation-shrineintro.loctext 844505672395001198 v11 Revised
+{|Expression_Surprise}Take a good look at this shrine Stella.
+{|Expression_Surprise}It's simply stunning.
+{|Expression_Surprise}Some objects in this world are meant to resonate with the Spiritfarer, and the Everlight.
+{|Expression_Pensive}I've heard this monument has the power to enhance the Everlight's abilities.
+
+key: deer/conversations.deerconversation-shrineintro-conditionalchainconversations_conversation.loctext 405699409692362389 v1 Revised
+{|Expression_Pensive}The two slots on it need to be filled up.
+{|Expression_Pensive}I'm fairly certain you could use obols to activate it.
+{|Expression_Pensive}But to get ((obols)), you need to welcome more spirits on your ship.
+{|Expression_Pensive}I'm sure you'll soon find more lost souls like me...
+
+key: deer/conversations.deerconversation-shrinereminder.loctext 126083931097272618 v1 Revised
+That shrine looks interesting.
+
+key: deer/conversations.deerconversation-startboatreminder._commenttext 4537577614736256506 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-startboatreminder.loctext -8243419003637929421 v4 Revised
+We can wait here.
+Or we can go to the ((Albert's Shipyard)).
+I'm in no hurry.
+
+key: deer/conversations.deerconversationstarving01.loctext 1977155396330076975 v1 Revised
+I can't think about anything else but food right now.
+
+key: deer/conversations.deerconversationstarving02.loctext 139664240803027000 v1 Revised
+I just couldn't explain it at first.
+But then it hit me: I'm starving.
+
+key: deer/conversations.deerconversationstarving03.loctext -3669657837995810502 v1 Revised
+There isn't really a fire.
+But I wouldn't mind a nice hot dish to warm me up.
+
+key: deer/conversations.deerconversationstarvingmaster._commenttext -238923454264450007 v2 Revised
+Well, well...
+
+key: deer/conversations.deerconversation-talkatterraceintroduction.loctext -4908490785903561046 v2 Placeholder
+
+key: deer/conversations.deerconversation-talktodenizendeerintroduction._commenttext 5902353357033493010 v4 Revised
+Right here!
+
+key: deer/conversations.deerconversation-talktodenizendeerintroduction.loctext -6520327141817763387 v10 Revised
+[start]{|Expression_Idle_Neutral}Stella!
+{|Expression_Pensive}It really is you.
+{|Expression_Idle_Neutral}Stand up straight and let me get a look at you.
+{|Expression_Idle_Neutral}...
+You look good!
+{|Expression_Idle_Neutral}And Daffodil is here too, I see.
+{|Expression_Idle_Neutral}We'll have to find a lint roller then.
+{|Expression_Pensive}...
+{|Expression_Pensive}Ah, it might not be that obvious after all.
+{|Expression_Pensive}It's me.
+{|Expression_Surprise}Gwen.
+{|Expression_Happy}Good thing you found me.
+{|Expression_Idle_Neutral}But if you're here it means...
+{|Expression_Idle_Neutral}Oh.
+{|Expression_Surprise}YOU are the new Spiritfarer.
+{|Expression_Surprise}YOU are the one replacing Charon.
+{|Expression_Idle_Neutral}I was trying to get rid of him and only ended up here by accident.
+{|Expression_Idle_Neutral}I've been stuck on this disgusting island for about a week, living off sardines and cigarettes.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Funny how I used to be the one getting you out of trouble before.
+{|Expression_Idle_Neutral}I can see you have an Everlight now.
+{|Expression_Idle_Neutral}Of course.
+{|Expression_Pensive}See that boat over there?
+
+key: deer/conversations.deerconversation-talktodenizendeerreminder._commenttext 44404278031365037 v2 Revised
+Listen!
+
+key: deer/conversations.deerconversation-talktodenizendeerreminder._independenttextbubbleloc 4561527803040045347 v1 Revised
+Listen!
+
+key: deer/conversations.deerconversation-talktodenizendeerreminder.loctext -2129186514536995253 v3 Revised
+As I was saying...
+
+key: deer/conversations.deerconversation-talktodenizendeervalidation._independenttextbubbleloc -5554650304615460752 v3 Revised
+That's the one.
+
+key: deer/conversations.deerconversation-talktodenizendeervalidation.loctext -2852275082971706875 v5 Revised
+{|Expression_Pensive}It's obviously slightly shabby, but let's commandeer it.
+{|Expression_Pensive}I'd wager it will work, since you're the Spiritfarer.
+Ok, meet me on the deck over there.
+I'll explain it all.
+
+key: deer/conversations.deerconversation-terraceconfessionintro._independenttextbubbleloc 3019393614947010150 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-terraceconfessionintro.loctext 2715253579046691425 v2 Revised
+{|Expression_Surprise}Stella!
+{Expression_Gloom|Expression_Empathy}I...
+{Expression_Gloom|Expression_Empathy}I'm sorry.
+{Expression_Gloom|Expression_Empathy}...
+{Expression_Gloom|Expression_Empathy}Sorry I even considered doing this.
+{Expression_Gloom|Expression_Empathy}Ending your days in your family house is so cliche to boot...
+{Expression_Gloom|Expression_Empathy}...
+{Expression_Gloom|Expression_Empathy}I can't explain myself either.
+{Expression_Gloom|Expression_Empathy}I just wanted to finish it off you know.
+{Expression_Gloom|Expression_Empathy}To decide on my own terms how I'd go.
+{Expression_Gloom|Expression_Empathy}And not letting myself been taken away...
+{Expression_Gloom|Expression_Empathy}I've been weak, I'm sorry.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Oh, the irony.
+{|Expression_Idle_Neutral}Crap, I feel so selfish now.
+{|Expression_Idle_Neutral}Sometimes, I wish I could've been like you.
+{|Expression_Surprise}But rarely.
+{Expression_Laugh|Expression_Unhappy}...
+{|Expression_Idle_Neutral}Ah, crap. 
+{|Expression_Surprise}Hug me now.
+
+key: deer/conversations.deerconversation-toastreminder.loctext 1116170942133109081 v1 Revised
+I can't wait to eat.
+
+key: deer/conversations.deerconversation-upgradetheboat_introduction._independenttextbubbleloc 4421504478729256444 v3 Revised
+Stella!
+
+key: deer/conversations.deerconversation-upgradetheboat_introduction.loctext 7507559704463156866 v17 Revised
+I'm proud of you, you know.
+You've got the hang of it.
+This ship is definitely going in the right direction.
+{|Expression_Unhappy}And, yes, also, literally.
+{|Expression_Idle_Neutral}The downside is, this place is cramped now.
+Didn't Albert tell you you could expand the size of this boat?
+{|Expression_Headnod}You sure could go check at the ((Albert's Shipyard)).
+{|Expression_Idle_Neutral}Probably won't come cheap this time.
+{|Expression_Idle_Neutral}So be prepared to shell out quite a few ((glims)).
+
+key: deer/conversations.deerconversation-upgradetheboat_reminder._commenttext 126467247070131107 v1 Revised
+Don't forget...
+
+key: deer/conversations.deerconversation-upgradetheboat_reminder.loctext 5940643620230528243 v4 Revised
+To expand your boat size, don't forget to pay a visit to Albert at the ((Albert's Shipyard)).
+
+key: deer/conversations.deerconversation-upgradeyoureverlightintroduction._independenttextbubbleloc 424984988259668754 v2 Revised
+Would you look at that!
+
+key: deer/conversations.deerconversation-upgradeyoureverlightintroduction.loctext -5850515431759723152 v5 Revised
+{|Expression_Idle_Neutral}You've got two ((obols)).
+{|Expression_Headnod}Remember that shrine in ((Hummingberg))?
+{|Expression_Headnod}I'd try and add them there.
+If we're lucky it might do something amazing.
+{|Expression_Idle_Neutral}If not, you'll have wasted your time.
+You should go see.
+
+key: deer/conversations.deerconversation-usetheblueprintstationintroduction._independenttextbubbleloc 8718463210376075770 v2 Revised
+Finally!
+
+key: deer/conversations.deerconversation-usetheblueprintstationintroduction.loctext 7282151672796529198 v6 Revised
+Good.
+{|Expression_Headnod}Albert gave it to you for free?
+{|Expression_Idle_Neutral}And he said he "loaned" the ship to you?
+{|Expression_Unhappy}Ominous.
+{|Expression_Unhappy}Hard to know what he has in mind but it doesn't sound reassuring.
+{|Expression_Idle_Neutral}Anyway, let's focus on the task at hand for now.
+{|Expression_Headnod}Cleaning up this deck.
+{|Expression_Pensive}You can go to your new ((Blueprint Table)) above your cabin and select the ((Move)) option.
+{|Expression_Idle_Neutral}In it, you'll be able to remove any building and get back resources.
+Go for it, I'll wait down here.
+
+key: deer/conversations.deerconversation-usingblueprintstationreminder._commenttext 642098407537025312 v3 Revised
+It's up there.
+
+key: deer/conversations.deerconversation-usingblueprintstationreminder.loctext -3155289229565968760 v2 Revised
+Your blueprint station is up there.
+
+key: deer/conversations.deerconversation-visitparentshouseintroduction._independenttextbubbleloc -8183948267411417195 v2 Revised
+Stella!
+
+key: deer/conversations.deerconversation-visitparentshouseintroduction.loctext -8457323647868473570 v7 Revised
+Stella, I've got to tell you.
+{|Expression_Pensive}There is something I'd stumbled upon some time ago, and up until now it didn't seem that important.
+{|Expression_Pensive}Brace yourself.
+{|Expression_Pensive}Remember my parent's manor on the lake?
+{|Expression_Surprise}As weird as this sounds, it's not too far from here.
+{|Expression_Surprise}...
+{|Expression_Surprise}Yes, I know.
+{|Expression_Idle_Neutral}It makes me wonder about this world too.
+{|Expression_Idle_Neutral}I must admit, I've been actively trying to avoid it.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}At any rate, it's become hard to ignore.
+{|Expression_Idle_Neutral}As I've spend much time with you here, I think I'm ready to tackle this challenge.
+{|Expression_Idle_Neutral}I'll probably only find regrets and sorrows there, but it's worth a shot.
+{|Expression_Idle_Neutral}I've added the location to your map.
+I'll be ready whenever you are.
+
+key: deer/conversations.deerconversation-visitparentshousereminder.loctext 2367164379640957280 v1 Revised
+{|Expression_Idle_Neutral}I really wonder what the house looks like now.
+{|Expression_Idle_Neutral}The garden must be terribly overgrown.
+
+key: deer/conversations.deerconversation-waituntitgwenisneutralintroduction._independenttextbubbleloc 1779597290429041489 v2 Revised
+Stella.
+
+key: deer/conversations.deerconversation-waituntitgwenisneutralintroduction.loctext -4625185066993942403 v8 Revised
+{|Expression_Idle_Neutral}Look, Stella, I...
+{|Expression_Idle_Neutral}I'm sorry, I think I just need some space.
+{|Expression_Empathy}Just a bit of time by myself.
+{|Expression_Empathy}I knew going back to the villa was a bad idea.
+{|Expression_Idle_Neutral}Sorry, this doesn't have anything to do with you.
+{|Expression_Idle_Neutral}You've been nothing but great since you found me on that island.
+{|Expression_Idle_Neutral}I just need to be alone for a little while.
+
+key: deer/conversations.deerconversation-waituntitgwenisneutralreminder.loctext -5439422360054331125 v1 Revised
+{|Expression_Idle_Neutral}Sorry Stella.
+{|Expression_Empathy}I...
+{|Expression_Empathy}I just need some time.
+{|Expression_Idle_Neutral}Don't worry, I'll be better soon.
+
+key: deer/conversations.deerconversation-welcome.loctext -3936659645021297517 v2 Revised
+{|Expression_Surprise}Ok, here goes.
+{|Expression_Surprise}Hope my fur coat won't be too damaged.
+
+key: deer/conversations.deerconversation-welcomedeerreminder01.loctext -8030553472658703546 v2 Revised
+It's time to head back to your ship.
+
+key: deer/conversations.deerconversation-welcomedeerreminder02.loctext -80407204598306617 v2 Revised
+It's time to head back to your ship.
+
+key: deer/conversations.deerconversation-welcomeend.loctext 82164947811535185 v13 Revised
+{|Expression_Happy}Wonderful.
+{|Expression_Happy}I'm not one to jump for joy but this feels good!
+{|Expression_Happy}Much better than anticipated
+{|Expression_Idle_Neutral}So.
+{|Expression_Pensive}The way I see it, this boat is yours now.
+{|Expression_Pensive}Don't you think?
+{|Expression_Headnod}Good.
+{|Expression_Headnod}And as you're the Spiritfarer, welcoming stray spirits is your new job. 
+{|Expression_Idle_Neutral}And once aboard, they will assume their true forms.
+{|Expression_Idle_Neutral}Well, it's my theory anyway.
+{|Expression_Idle_Neutral}...
+{|Expression_Idle_Neutral}Why are you looking at me like that?
+{|Expression_Idle_Neutral}You need to come here and give me a ((HUG)).
+
+key: deer/conversations.deerconversation-welcomeendcontinue._independenttextbubbleloc 1885350439175911284 v2 Revised
+Much better!
+
+key: deer/conversations.deerconversation-welcomeendcontinue.loctext -7481432078989588850 v8 Revised
+Much better.
+
+key: deer/conversations.deerconversation-welcomeendcontinueskip._independenttextbubbleloc -8453760490729109651 v2 Revised
+Hey.
+
+key: deer/conversations.deerconversation-welcomenewspirit01.loctext -3136225125108482218 v1 Revised
+Interesting.
+
+key: deer/conversations.deerconversation-welcomenewspirit02.loctext 7400950184049156491 v1 Revised
+Hmm...
+
+key: deer/conversations.deerfoodsamefood.loctext 8245085878987763286 v2 Revised
+Please... I can't eat the same thing twice.
+I don't hate myself that much.
+
+key: deer/conversations.deerfoodsamefood_fallback01.loctext -1329012615598587692 v1 Revised
+I like to try the whole menu.
+Not the same dishes.
+That's how you know a restaurant is good.
+
+key: deer/conversations.deerfoodsamefood_fallback02.loctext -4175942343048003198 v1 Revised
+A little variety, please!
+
+key: deer/conversations.deerhug.loctext 4135057094495318235 v1 Revised
+Thank you. I needed that.
+
+key: deer/conversations.deerhughappy.loctext -3977584870406770130 v2 Revised
+Feeling much better.
+
+key: deer/conversations.deerhughappy1.loctext 6270634528933756157 v2 Revised
+Thank you.
+
+key: deer/conversations.deerhugrefuse.loctext -415190959115020796 v5 Revised
+{|Expression_Idle_Neutral}Sorry, I'm ok now.
+
+key: deer/conversations.deerhugrefuse1.loctext 40494106346655369 v3 Revised
+{|Expression_Idle_Neutral}Thanks but that won't be necessary.
+
+key: deer/conversations.deerhugrefuse2.loctext 5901555506676554105 v3 Revised
+{|Expression_Idle_Neutral}I'm fine, thank you.
+
+key: deer/conversations.deerrefusedefault.loctext 5333804368594168659 v3 Revised
+Thanks, but no.
+
+key: deer/conversations.deerrefusedefault1.loctext 1947455099998809018 v2 Revised
+Well, nope.
+
+key: deer/conversations.deerrefusedefault2.loctext 7891061429523931997 v2 Revised
+I'm fine without this.
+
+key: deer/conversations.deershowfloorconversation-cerealfieldskipconversation._independenttextbubbleloc 7789077933853026237 v1 Revised
+Well, well..
+
+key: deer/conversations.deershowfloorconversation-cerealfieldskipconversation.loctext 1315514854840374767 v1 Revised
+Guess you didn't need my help after all!
+
+key: deer/conversations.fibershopper.loctext 6672255395438323606 v3 Revised
+I'm browsing for some fiber.
+
+key: deer/conversations.foodaccept.loctext 1101768464791945256 v2 Revised
+{Eat}Thanks. I love it.
+
+key: deer/conversations.foodaccept1.loctext 5366752897853398033 v2 Revised
+{Eat}Wow. This is just perfect.
+
+key: deer/conversations.foodaccepthappy.loctext -5056933564370181533 v2 Revised
+{Eat}Nice. Really nice. I might eat this in one bite.
+
+key: deer/conversations.foodaccepthappy1.loctext 2465857898348931836 v2 Revised
+{Eat}This is really good. Reminds me of that joint on Clark.
+
+key: deer/conversations.fooddislikes.loctext -6779474137398135291 v1 Revised
+If I wanted cafeteria food, I'd go back to high school.
+
+key: deer/conversations.fooddislikes1.loctext 4290108455035722309 v3 Revised
+Stella. This is terrible.
+
+key: deer/conversations.fooddislikes2.loctext 5728574470749093972 v2 Revised
+Well. This tastes like crap.
+
+key: deer/conversations.foodrefuse.loctext 9017412296473712071 v1 Revised
+No thank you, Stella. I'm not hungry right now.
+
+key: deer/conversations.foodrefuse_inedible.loctext 8333658212325089015 v2 Revised
+This can't be food.
+
+key: deer/conversations.foodrefuse1.loctext 5448558479092223688 v2 Revised
+Nope. Not hungry yet.
+
+key: deer/conversations.giveallfabrics._commenttext 5342036644959193103 v1 Revised
+I have a gift for you Stella!
+
+key: deer/conversations.giveallfabrics.loctext 4675830130830086321 v2 Revised
+I weaved some fabrics for you.
+
+key: deer/conversations.giveallthreads._commenttext 2319978719398088191 v2 Revised
+Thread?
+
+key: deer/conversations.threadshopper.loctext -8551622386036191777 v3 Revised
+I'm looking to buy some thread.
+
+key: deer/conversations.verysadconversation.loctext -4654695925805079624 v3 Revised
+{Expression_Gloom|Expression_Empathy}I'm very sad.
+

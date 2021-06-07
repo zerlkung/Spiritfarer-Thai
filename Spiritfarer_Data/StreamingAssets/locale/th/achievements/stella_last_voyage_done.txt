@@ -1,0 +1,6 @@
+key: achievements/stella_last_voyage_done.description 450590975481228797 v2 Revised
+Accomplish your very last objective.
+
+key: achievements/stella_last_voyage_done.name -7994643409677323924 v2 Revised
+Let It Go
+

@@ -1,0 +1,6 @@
+key: achievements/all_decorations_basilisk.description 3693521397078177812 v2 Revised
+ปรับปรุง รังของบัค ทั้งหมด.
+
+key: achievements/all_decorations_basilisk.name 1561956383182502995 v1 Revised
+Fully Improved: Buck
+

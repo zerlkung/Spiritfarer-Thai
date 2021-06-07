@@ -1,0 +1,6 @@
+key: achievements/stella_kept_cheating_lion.description -7189685379472393896 v2 Revised
+Do not tell Astrid about Giovanni's night excursions.
+
+key: achievements/stella_kept_cheating_lion.name -4405215260475269670 v1 Revised
+Sealed Lips
+

@@ -1,0 +1,1058 @@
+key: basilisk/conversations.basilikconversation-welcomenewspirit01.loctext 8948686985055947162 v4 Placeholder
+เพื่อนใหม่!
+
+key: basilisk/conversations.basilikconversation-welcomenewspirit02.loctext -4279922886418023215 v3 Placeholder
+ไชโย!
+
+key: basilisk/conversations.basilikhug.loctext 6749710704054603281 v52 Revised
+ฉันกำลังลำบากในการรักษาวิญญาณ, มานาของฉันต่ำ...
+
+key: basilisk/conversations.basilikhugrefuse01.loctext -3190276858500120582 v2 Revised
+{|Expression_Idle_Neutral}ขออภัยผู้บัญชาการ!
+{|Expression_Idle_Neutral}ฉันไม่ต้องการการโอบกอดที่เพิ่มพลังเช่นนี้.
+{|Expression_Idle_Neutral}มานาของฉันเต็มแล้ว.
+
+key: basilisk/conversations.basilikhugrefuse02.loctext -8893204475428221573 v2 Revised
+{|Expression_Idle_Neutral}ขออภัยผู้บัญชาการr, ฉันลาพักร้อนแล้ว.
+
+key: basilisk/conversations.basilisk_favorite_frenchfries.loctext 6333780765939002318 v4 Revised
+{Expression_Happy}ไม่ได้....
+{Expression_Happy}สาบานต่อหน้าดวงจันทร์แห่ง Dor-Umin!
+{Expression_Happy}นี่คือ...
+{Expression_Angry}+=ดิสก์สีแดงของบลิสส์ที่ไม่สามารถเข้าถึงได้!=+
+ผู้บัญชาการ... ฉันพูดไม่ออกเลย...
+{Eat}ขอให้ความพยายามของคุณได้รับพรตลอดไปด้วยสัมผัสอันอ่อนโยนของ Radiant Fae!
+{Eat}ขอให้ความอดทนของคุณแข็งแกร่งเหมือน Roghar the Brave ชั่วนิรันดร์!
+{Eat}อร่อยมาก!
+{Eat}...
+{Eat}-=เพื่อน, ฉันชอบ ((พิซซ่ามะเขือเทศ)) มาก...=-
+
+key: basilisk/conversations.basilisk_favorite_tomatopizza_fallback01.loctext -7962982118163764784 v1 Revised
+{Expression_Happy}วิสัยทัศน์! จากโด - อูมินนั่นเอง!
+{Expression_Happy}+=ชิ้นส่วนของซอสสีเลือด!=+
+{Eat}-=หรือที่มนุษย์เรียกว่า: ((พิซซ่ามะเขือเทศ)).=-
+
+key: basilisk/conversations.basilisk_favorite_tomatopizza_fallback02.loctext -5811464313726426806 v1 Revised
+{Expression_Happy}ขอบคุณมาก, ผู้บัญชาการ!
+{Expression_Happy}เป็นอีกครั้ง, ที่ฉันมีความสุขมากที่ได้เห็นแผ่นดิสก์สีแดงที่สวยงาม!
+{Eat}อร่อย!
+{Eat}-=ฉันกิน ((พิซซ่ามะเขือเทศ)) ได้ทั้งวัน!=-
+
+key: basilisk/conversations.basilisk_like_comfort.loctext 2608606519794897933 v2 Revised
+{Expression_Happy}สาบานต่อ the Seven Graces of Immalda!
+{Expression_Happy}You coming forth and offering me the gift of ((comfort)) food is a sign of Hallor, the prince of Fate!
+{Eat}My appetite can't resist such delicacies!
+{Eat}A very wise choice commander, I'm not surprised by your cleverness!
+{Eat}-=I guess Hallor won't mind if I gain a few pounds after all...=-
+
+key: basilisk/conversations.basilisk_like_comfort_fallback01.loctext -1471463735077935604 v1 Revised
+{Expression_Happy}Praise be Hallor!
+{Expression_Happy}These ((comfort)) delicacies bring tears to my eyes!
+{Eat}-=And pounds to my belly.=- 
+
+key: basilisk/conversations.basilisk_like_comfort_fallback02.loctext 5794635587486012394 v1 Revised
+{Expression_Happy}Glorious!
+{Expression_Happy}Your humble servant accepts your gift of ((comfort)) with much deference, Commander!
+{Eat}And as much as his taste buds cast a salivate spell in delectation,
+{Eat}His stomach lost its initiative roll…
+{Eat}-=This is so good…=-
+
+key: basilisk/conversations.basilisk_like_oldfashioned.loctext 298980233305922719 v2 Revised
+{Expression_Happy}Oh!
+{Expression_Happy}Blessed be the Stars!
+I salute your insight commander!
+You astutely guessed that my heart would be brimming with joy at the sight of a good ((old-fashioned)) meal!
+{Eat}An ancestral delight of epic resonance!
+{Eat}Many thanks!
+{Eat}May the lords of Wa-Eron accompany you in your path!
+{Eat}...
+{Eat}-=Woops sorry, I spitted on you a bit.=-
+
+key: basilisk/conversations.basilisk_like_oldfashioned_fallback01.loctext 5012030599717353075 v1 Revised
+{Expression_Happy}Blessed be the Stars!
+{Expression_Happy}An ((old-fashioned)) entrée!
+{Eat}A treat of ancestral beauty!
+{Eat}-=It's so beautiful.=-
+
+key: basilisk/conversations.basilisk_like_oldfashioned_fallback02.loctext -6587978154756513539 v1 Revised
+{Expression_Happy}By the lords of Wa-Eron!
+{Expression_Happy}Mother Chance is surely on my side!
+{Eat}Commander, this ((old-fashioned)) meal is incredibly delicious!
+{Eat}Delicious I say!
+
+key: basilisk/conversations.basilisk_refuse_dairy.loctext 4971124007458372756 v2 Revised
+{|Expression_Idle_Neutral}My deepest apologies commander.
+{|Expression_Idle_Neutral}I cannot accept your generous offer.
+{|Expression_Idle_Neutral}As I've crossed path with him, Lactergroth the Nobgoblin cursed me by jealousy.
+{|Expression_Idle_Neutral}A dreadful level three lactose intolerance.
+{|Expression_Idle_Neutral}Yes, it's a conjuration ritual
+{|Expression_Idle_Neutral}-=I won't talk about what happens if I ingest the smallest dose of dairy...=-
+
+key: basilisk/conversations.basilisk_refuse_dairy_fallback01.loctext 7387854885479987971 v1 Revised
+{|Expression_Idle_Neutral}Remember the curse that afflicts me, Commander!
+{|Expression_Idle_Neutral}Unless you could do something about it?
+{|Expression_Idle_Neutral}Remove Curse is a level 3 spell though, and I don’t think you can access it yet...
+{|Expression_Idle_Neutral}In the meantime, no dairy for your humble servant.
+
+key: basilisk/conversations.basilisk_refuse_dairy_fallback02.loctext 8945483581728822633 v1 Revised
+{|Expression_Idle_Neutral}Look, Stella, I can’t digest dairy, remember?
+{|Expression_Idle_Neutral}-=I just… can’t...=-
+
+key: basilisk/conversations.basilisk_refuse_fruit.loctext -2856668155994070204 v7 Revised
+{|Expression_Idle_Neutral}Oh...
+{|Expression_Idle_Neutral}Wait...
+{|Expression_Idle_Neutral}This sustenance contains ((fruits)) doesn't it?
+{|Expression_Idle_Neutral}I'm sorry commander, I unfortunately cannot accept your generous donation.
+{|Expression_Idle_Neutral}((Fruits)) are sacred according to the holy scriptures of Dor-Umin, of which I am a pious follower.
+{|Expression_Idle_Neutral}It is utterly forbidden to even think about someone thinking about eating one.
+{|Expression_Idle_Neutral}I cannot ingest them, by faith.
+{|Expression_Idle_Neutral}-=Yes, by faith...=-
+
+key: basilisk/conversations.basilisk_refuse_fruit_fallback01.loctext 4886571148085200895 v1 Revised
+{|Expression_Idle_Neutral}According to Dor-Umin's teachings, ((fruit)) is made from the lost souls of fallen warriors.
+{|Expression_Idle_Neutral}Eating this blessed offering would be sacrilegious.
+
+key: basilisk/conversations.basilisk_refuse_fruit_fallback02.loctext 3112858440133276430 v1 Revised
+{|Expression_Idle_Neutral}Holy Scriptures of Dor-Umin, 7th verse, 84th amendment:
+{|Expression_Unhappy}Thou shall never eat, touch, smell nor carry ((fruit)).
+{|Expression_Unhappy}Thou shall never question why, how, or when.
+{|Expression_Unhappy}This is the word.
+
+key: basilisk/conversations.basiliskcall.loctext 1681857469950435888 v2 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-activeshrineafterreminder.loctext 2822223315573034027 v2 Revised
+Absolutely wonderful!
+Commander, you soared like a celestial starbird!
+I kneel before your magnificence, O Chosen One!
+You are the true wielder of Magic.
+The rightful heir of the radiant crown of Romalda!
+{Expression_Angry}Huzzah for Stella!
+{Expression_Angry}Huzzah for you, commander!
+{Expression_Angry}Long live our hope!
+
+key: basilisk/conversations.basiliskconversation-activeshrinereminder._commenttext -7511130642558614881 v1 Revised
+This way!
+
+key: basilisk/conversations.basiliskconversation-activeshrinereminder.loctext -7297955357789929563 v3 Revised
+Here we are commander.
+Seldom does the winds of fate blow upon our fortune!
+But your courage and fortitude brought us to these veiled shores.
+The time has come forth to cast your divine magic, and stir this shrine from its deep slumber.
+Take as much time as you need, I'll be watching in awe!
+
+key: basilisk/conversations.basiliskconversation-activeshrinevalidation._independenttextbubbleloc -1808838677701334875 v2 Revised
+Magical!
+
+key: basilisk/conversations.basiliskconversation-activeshrinevalidation.loctext -2270313209290384751 v3 Revised
+{Expression_Happy}Blessed be the 11 Stars! 
+{Expression_Happy}You definitely are the chosen one!
+{Expression_Happy}The light-bearer!
+{Expression_Happy}The sun-bringer!
+{|Expression_Idle_Neutral}She who shall enlighten our souls and liberate our consciousness drenched in shadow!
+{|Expression_Idle_Neutral}That power bestowed upon you by the very fabric of this world will be our weapon!
+{|Expression_Idle_Neutral}A weapon whose power will rival the thrice forged glaive of Effeldur, the first of the Dalars!
+{|Expression_Idle_Neutral}Alas, this party must split up now.
+{|Expression_Idle_Neutral}The Silver Company has played its role fully, and it is time for its members to ride back to their homesteads.
+{|Expression_Unhappy}-=Also, these guys are past their curfews and need to get back home.=-
+{|Expression_Idle_Neutral}Let's trek back to the galleon, where I shall describe our next task in great, lore dumping details!
+{|Expression_Unhappy}-=Also, I need to look again at my notes...=-
+
+key: basilisk/conversations.basiliskconversation-askaboutfrogvalidation.loctext 1938185987918276460 v6 Revised
+{|Expression_Pensive}Where's my new best buddy?
+{|Expression_Pensive}Your uncle, I mean.
+{|Expression_Pensive_to_Idle}I don't see him on the deck.
+
+key: basilisk/conversations.basiliskconversation-askaboutplayvalidation.loctext -8941830241872045342 v7 Revised
+{|Expression_Idle_Neutral}That was... 
+{|Expression_Unhappy}A bit boring.
+{|Expression_Unhappy}No wizards, no dragons, no traps, no elves...
+{|Expression_Unhappy}Not for me, sorry.
+{|Expression_Idle_Neutral}But that child has guts and imagination!
+He will no doubt be a great Dungeon Master in a few years!
+
+key: basilisk/conversations.basiliskconversation-backtoboatreminder01.loctext -2785694149254393957 v2 Revised
+Let's make haste.
+I can't wait to bootstrap this all.
+
+key: basilisk/conversations.basiliskconversation-bas-buildbasilisksbuildingvalidation._independenttextbubbleloc 3188879346513105314 v4 Revised
+Wonderful!
+
+key: basilisk/conversations.basiliskconversation-bas-buildbasilisksbuildingvalidation.loctext 3158975099862573205 v11 Revised
+{Expression_Happy}Oh, commander, your humble servant couldn't be more excited!
+{Expression_Happy}This mage tower is reminiscent of the glorious halcyon castles of Whithlum!
+{Expression_Happy}I can feel magic permeating through its pearly walls!
+{Expression_Happy|Expression_Idle_Neutral}-=It's even got a collector's bookshelf!=-
+{Expression_Happy}I kneel before your solicitude, gasp in awe at your prowess!
+Now that this fabulous lair of wonder has been summoned to this planar realm, it's time to gaze ahead!
+{Expression_Happy}Rejoice!
+{Expression_Angry|Expression_Surprise}The time has come for the Silver Company to proudly float its battle banner again!
+We will reassemble the finest group of adventurers ever to set foot in this realm:
+Elperin the noble Ranger!
+{|Expression_Idle_Neutral}A plain-speaking High-Elf ranger from a line of fallen royalty (who was once rescued by good-natured beholders)!
+{|Expression_Idle_Neutral}Some say his family castle had a very low ceiling, and he sold everything he owned to pay for the Hero Academy tuition.
+Worderic the cunning Bard!
+{|Expression_Idle_Neutral}A sassy human Bard from the Mirror Desert who has serious mommy issues and gets easily attached to people. 
+{|Expression_Idle_Neutral}Also very afraid of sharp edges.
+Emdaril the...
+{|Expression_Idle_Neutral}Well, it’s complicated.
+{|Expression_Idle_Neutral}Emdaril is a  multi-classed Warlock-Paladin-Plumber Gnome from a dysfunctional marriage who saw his whole family eaten by a gelatinous cube. 
+{|Expression_Unhappy}Don’t pity him, he is quick to take credit and assign blame. 
+{|Expression_Unhappy}-=And his min-maxing tendency is insufferable.=-
+Commander, let your modest servant scrawl on your map their last known dwellings.
+{|Expression_Headnod}Onward! Fate awaits us!
+{|Expression_Idle_Neutral}-=Also that sneaky bastard Jerome never gave me back my monster's manual...=-
+
+key: basilisk/conversations.basiliskconversation-bas-continuedndquestvalidation._independenttextbubbleloc -1495517201117433753 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndparty_corndogintroduction._independenttextbubbleloc -8285834599583712709 v3 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndparty_corndogintroduction.loctext -4652503144050750682 v3 Revised
+{Expression_Happy}This is utterly fantastic!
+{Expression_Happy}The Silver Company has answered the call once again!
+{Expression_Happy}We will soon traipse once more on the Elysium fields of adventure!
+May the 11 stars bless your heart commander!
+You have been truly an indomitable herald of bravery!
+Now, our next step will lead us to a shifty tavern.
+{|Expression_Idle_Neutral}The Naked Mole-Bear Inn, nested in the frozen mists of the white hamlet of ((Nordweiler)).
+{|Expression_Idle_Neutral}But before our appearance at the mysterious premises, there is a little something we should accomplish commander!
+{|Expression_Idle_Neutral}I certainly am entertaining the concept of sustenance!
+{|Expression_Idle_Neutral}-=Yeah, we cannot come empty handed...=-
+{|Expression_Idle_Neutral}-=that wouldn't be a good idea...=-
+{|Expression_Idle_Neutral}Ok, look.
+{|Expression_Idle_Neutral}We should bring munchies otherwise everyone will be miserable.
+{|Expression_Idle_Neutral}Let's say...
+{|Expression_Idle_Neutral}Some ((popcorn))?
+{|Expression_Idle_Neutral}A ((corndog)) would be nice too!
+{|Expression_Idle_Neutral}Oh and yeah, for dessert, ((toffee))!
+{|Expression_Idle_Neutral}Yeah, that should do it.
+{|Expression_Idle_Neutral}-=Alright, where was I already?=-
+{|Expression_Idle_Neutral}-=Ah, yeah...=-
+{|Expression_Unhappy}This undertaking might very well be below your level commander, but it shall be a well-earned respite in our quest for justice and glory!
+{|Expression_Idle_Neutral}Onward!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_corndog.loctext 7231292767804546718 v5 Revised
+Right on, some good old ((corndog))!
+Jerome and I don't always agree, but our friendship has been cemented by our mutual love of ((corndogs))!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_corndog_moreplease.loctext -4121107310172225809 v2 Revised
+((Corndog))!
+What a treat.
+Just a few more to go and we're good!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_corndog-conditionalchainconversations_completedall3_conversation.loctext 3917061764239316620 v4 Revised
+Yay Stella!
+You've got everything!
+Oh damn, sorry.
+{|Expression_Idle_Neutral}-=hum hum=-
+{|Expression_Idle_Neutral}By the lords of Wa-Eron!
+{|Expression_Idle_Neutral}Our fellowship's larder has now been filled up to the brim with delectable victuals!
+{|Expression_Idle_Neutral}Commander, victory won't have been simply earned on the battlefield, but in the kitchen too!
+{|Expression_Idle_Neutral}Now, let's soar swiftly and sprucely to the modest hamlet of ((Nordweiler))!
+{|Expression_Idle_Neutral}The Silver Company is bursting with impatience!
+{|Expression_Idle_Neutral}The naked mole-bear Inn's walls will forever see in their stones imprinted the memories of our congregation!
+{|Expression_Idle_Neutral}Give the order, Commander!
+{|Expression_Idle_Neutral}Fate awaits!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_popcorn.loctext 3419589035888152660 v4 Revised
+Hummm... That ((popcorn)) smells great!!
+Man, Bryan won't stop talking about it...
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_popcorn_moreplease.loctext -474192421023233088 v2 Revised
+Perfect!
+A tasty bag of ((popcorn))!
+Just a little bit more and we're good to go!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_toffee.loctext 8826789747588445933 v4 Revised
+That ((toffee)) is perfect!
+Wow it looks so yummy!
+Bob will be delighted!
+Wonderful job!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartymanualconversation_toffee_moreplease.loctext 7712502274686600003 v2 Revised
+Some ((toffee)).
+Great!
+But, you're still missing the complete order!
+Almost there though!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartyvalidation._independenttextbubbleloc -2661015075228074162 v1 Revised
+Well done!
+
+key: basilisk/conversations.basiliskconversation-bas-gatherallfooditemsfordndpartyvalidation.loctext -2762878442993980212 v2 Revised
+Your prowesses are fascinating commander!
+You made that oven sing like the magnificent Sun-birds of Wa-Eron!
+Now that our bags are full, let's stride towards the Naked Mole-Bear Inn!
+The Silver Company must be feverishly waiting for us there already!
+
+key: basilisk/conversations.basiliskconversation-basiliskbigmealfoodintroduction.loctext 1955743521499467554 v6 Revised
+{|Expression_Happy}That sounds like fun!
+{|Expression_Happy_to_Idle}I'll take a ((casserole)).
+
+key: basilisk/conversations.basiliskconversation-bas-shadyraccoonblueprintintroduction._independenttextbubbleloc 2301304525807417069 v2 Revised
+Over here!
+
+key: basilisk/conversations.basiliskconversation-bas-shadyraccoonblueprintintroduction.loctext 6428737218574951441 v9 Revised
+{Expression_Happy}Words can't aptly describe the immensity of my joy, Commander!
+{Expression_Happy}At the idea of my humble presence here on this very deck!
+{Expression_Happy}But also as I gaze into the stars, and impatiently wait for our future adventures to unfold!
+{|Expression_Idle_Neutral}Commander, the duty of knowledge rests heavily on my frail shoulders.
+{|Expression_Idle_Neutral}I must inform you of your mission! 
+{|Expression_Idle_Neutral}Laid ahead of us by the tortuous vicissitudes of fate itself, your task is of the utmost importance!
+{Expression_Angry|Expression_Surprise}With your power, the cruel and terrible Lich God Gor-Nemloth can be finally defeated!
+{|Expression_Surprise}Make a Fear check!
+{|Expression_Surprise}(DiceRoll)15!
+{|Expression_Unhappy}You sense a cold shiver slithering down your spine!
+{|Expression_Unhappy}Your courage jumps forth and your mind stays clear and untroubled at the sound of this name!
+{|Expression_Surprise}Gor-Nemloth wants to conquer the Sun itself!
+{|Expression_Surprise}He conspires to steal the light itself!
+{|Expression_Surprise}You must stop him at once!
+{|Expression_Idle_Neutral}Only your powers can shield the world from this unholy plot!
+{|Expression_Idle_Neutral}The bulwark of the stars will make the sky whole once more!
+{|Expression_Idle_Neutral}But!
+{|Expression_Idle_Neutral}Before we delve further into the treacherous plans of the Lich-God, some preparations are in order.
+{|Expression_Idle_Neutral}Your humble narrator here needs a little something before we venture forth on our grand journey.
+{|Expression_Pensive}In the shadowy alleys of ((Edgeborough Lane)) lies an emporium of great interest.
+{|Expression_Pensive}A bazaar whose gilded cabinets harbor artifacts of epic value and great rarity.
+{|Expression_Idle_Neutral}Its owner, an eccentric shopkeeper, is in equal parts shoddy and unscrupulous.
+{|Expression_Idle_Neutral}This scoundrel has got in his possession a unique scroll I covet.
+{|Expression_Idle_Neutral}On this magic scroll is written in great details how to erect a very special mage tower.
+{|Expression_Idle_Neutral}A lair of infinite wonders.
+{|Expression_Idle_Neutral}Only the scroll will allow you to build it, so I, your modest chronicler, can set my quarters in it!
+{|Expression_Idle_Neutral}Onward!
+{|Expression_Idle_Neutral}Let's set forth towards the wretched shores of the emerald city!
+-=((Edgeborough Lane)) is kinda green after all=-
+
+key: basilisk/conversations.basiliskconversation-bas-shadyraccoonblueprintvalidation._independenttextbubbleloc 4650193706444869129 v3 Revised
+Perfect!
+
+key: basilisk/conversations.basiliskconversation-bas-shadyraccoonblueprintvalidation.loctext -1560133020984712356 v4 Revised
+{Expression_Happy}Yes!
+{Expression_Happy}I can feel its venerable magic flowing through my nostrils!
+{Expression_Happy|Expression_Idle_Neutral}Its perfume possesses the distinct aromas of lilac and elderberries!
+{|Expression_Idle_Neutral}Look at it!
+{|Expression_Idle_Neutral}Cryptic runes, silvery ornaments...
+{|Expression_Idle_Neutral}Without the shadow of a doubt, the scroll is written in the ancient language of Na-Gaadan!
+{|Expression_Idle_Neutral}Make a Knowledge roll!
+{|Expression_Unhappy}(DiceRoll)18!
+{|Expression_Unhappy}Fantastic!
+{|Expression_Idle_Neutral}Your success indicates you can read old Na-Gaadian proficiently!
+{|Expression_Idle_Neutral}Commander, let yourself be guided by its enchanted instructions.
+{|Expression_Unhappy}-=Once the house is built, I can finally read the rest of the scenario...=-
+{|Expression_Idle_Neutral}Once the Lair is erected, I will at rest at last!
+{|Expression_Idle_Neutral}And I will have the power to pierce through the ethereal veil, and communicate with the elemental powers!
+{|Expression_Idle_Neutral}My humble fate lies in your hands commander!
+
+key: basilisk/conversations.basiliskconversation-commentaboutplay01.loctext -4116891257735579933 v2 Revised
+Oh no!
+
+key: basilisk/conversations.basiliskconversation-denizenadviceintroduction._independenttextbubbleloc 6777331469017724983 v2 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-denizenadviceintroduction.loctext 2658212253866551968 v4 Revised
+A new adventure awaits!
+Deep down in the narrowest crevices of the underworld, slithers a vile and villainous creature.
+A treacherous enemy, who puts our newly gained peace at peril!
+The Lizard King!
+Fallen monarch of the Slizzirazz dynasty.
+Long was he in waiting, cloaked by the shadows of the Kerlomin grottos.
+Long was he devising his grotesque return.
+But, commander!
+The ever vigilant sentinel thrushes have warned us of his re-apparition!
+He has been seen last in ((Edgeborough Lane)).
+There is hope we can stop him, and make him see reason!
+Onward! 
+
+key: basilisk/conversations.basiliskconversation-denizenadvicereminder._commenttext 1080315497833421183 v1 Revised
+Oh!
+
+key: basilisk/conversations.basiliskconversation-denizenadvicereminder.loctext -847051640499307044 v4 Revised
+Find the Lizard King in ((Edgeborough Lane))!
+
+key: basilisk/conversations.basiliskconversation-denizenadvicevalidation._independenttextbubbleloc 5079156078777175399 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-denizenadvicevalidation.loctext 2986465122553696536 v5 Revised
+Oh, what a valiant effort!
+The Lizard King is fierce combatant!
+And his taste for ((carrots)) is legendary.
+We should have planned more meticulously.
+Nothing good ever comes out of helping the wicked.
+But!
+A true warrior always tries!
+
+key: basilisk/conversations.basiliskconversationhungry01.loctext -7289906889905891927 v3 Revised
+{|Expression_Idle_Neutral}My sincerest apologies for pestering you with such mundane requirements commander...
+{|Expression_Idle_Neutral}But your humble servant feels the need for sustenance.
+{|Expression_Idle_Neutral}I would gladly accept the smallest of scraps from your magnificent cooking skills!
+
+key: basilisk/conversations.basiliskconversationhungry02.loctext 4330236999555094253 v2 Revised
+{|Expression_Idle_Neutral}Commander!
+{|Expression_Idle_Neutral}I'm sorry to require but a fragment of your precious time.
+{|Expression_Idle_Neutral}But I'd gladly accept a modest meal!
+{|Expression_Idle_Neutral}A vile hunger tortures my innards!
+
+key: basilisk/conversations.basiliskconversationhungrymaster._commenttext 4285886491739599618 v1 Revised
+So hungry...
+
+key: basilisk/conversations.basiliskconversation-invitebasiliskintroduction.loctext -5076501528196599405 v6 Revised
+{|Expression_Happy}Sounds fun!
+{|Expression_Happy}I love to play!
+
+key: basilisk/conversations.basiliskconversation-lightthelighthousesintroduction._independenttextbubbleloc 7307547313948676663 v2 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-lightthelighthousesintroduction.loctext 1964076707422034787 v3 Revised
+{|Expression_Idle_Neutral}Commander, I must, sadly, bequeath you with a grim knowledge...
+{|Expression_Idle_Neutral}I need to shed an anguished light on your essential mission.
+{|Expression_Idle_Neutral}We cannot defeat the primeval, evil powers of the Lich-God Gor-Nemloth by ourselves.
+{|Expression_Idle_Neutral}We must rallying to our cause the free people of the 3 continents.
+{Expression_Angry} You shall light the fires of Tondor!
+{Expression_Angry} We will trek through the treacherous waters of the Great Sea and illuminate the sky, sending our heroic message!
+{|Expression_Idle_Neutral}The fires of Tondor might be known to you already:
+{|Expression_Idle_Neutral}Cradle of light itself, the Tower of Radiance, where you met me, your humble narrator!
+{|Expression_Idle_Neutral}Then the most conspicuous fire of Tondor is nested at the heart of the Gallery of Sins!
+{|Expression_Idle_Neutral}Finally, the last fire of Tondor is hidden atop the Eternal Ice Spire, concealing its pure white light!
+{|Expression_Idle_Neutral}But!
+{|Expression_Idle_Neutral}Commander, you have to know that our roads will be all but safe!
+{|Expression_Idle_Neutral}I must warn you of the great danger posed by the Orcs of the Shadow Steel Clan!
+{|Expression_Idle_Neutral}Their master, the war-chief Omgrothog "One-Eye" is Gor-Nemloth's vassal.
+{|Expression_Idle_Neutral}Surely, the Orcs will maneuver to ambush us at the faintest of opportunities.
+{|Expression_Pensive}In fact...
+{|Expression_Surprise}Quick! Roll Initiative!
+{|Expression_Unhappy}(DiceRoll)01! Fumble!
+{|Expression_Unhappy}You are completely taken by surprise!
+{|Expression_Idle_Neutral}The Orcs jump from the shadows and bellow ugly roars!
+{|Expression_Surprise}+="The Shadow Steel Clan will devour your innards"=+ Shouts Ghomghota, the Orc Chieftain!
+{|Expression_Surprise}Ready yourself!
+{|Expression_Surprise}And, Commander!
+{|Expression_Surprise}Some of these foes will be protected by Gor-Nemloth's nefarious magic!
+{|Expression_Surprise}Only your ((Light Burst)) ability can shatter their protection!
+{|Expression_Surprise}May the fight begin!
+
+key: basilisk/conversations.basiliskconversation-lightthelighthousesvalidation._independenttextbubbleloc 4793344872327968115 v2 Revised
+Unimaginable!
+
+key: basilisk/conversations.basiliskconversation-lightthelighthousesvalidation.loctext 7947556338547640316 v4 Revised
+{|Expression_Pensive}Through the thick mist of the aftermath...
+{|Expression_Pensive}...
+{|Expression_Pensive}A silhouette is barely discernible against the terrifying backdrop of a gargantuan battle...
+{|Expression_Pensive}...
+{|Expression_Pensive}All free people of the world are holding their breath, hearts pounding in their chests...
+{|Expression_Pensive}...
+{|Expression_Pensive}A deafening silence creeps in an atmosphere thick as rock...
+{|Expression_Pensive}...
+{Expression_Angry|Expression_Happy}VICTORY!!!!!!!
+{Expression_Angry|Expression_Happy}The Chosen One has triumphed!!!!
+{Expression_Angry}She-who-bears-the-light has conquered!!!!
+In a crackling sound of terror, Gor-Nemloth's shadow stops immediately its course over the darkened sky!
+The Lich-God is no more!!!
+May the Radiant Fae bless our souls!
+May Hallor forever watch over your path!
+May the Graces of Immalda sing our praises for eons to come!
+The world is saved!
+And now, jaded but jolly, the hero stands up once more.
+Looking at the horizon, her heart fills with hope, her resolve stronger than ever.
+A chapter of her adventures might be completed, but her story is far from over!
+Rejoice, free people of the world!
+For the chosen one will be back!
+But for now, she will rest her heavy shoulders.
+Unload her burden.
+And once more, gaze at the stars...
+...
+-=Hot damn I'm tired=-
+{Expression_Happy}Congratz!
+{Expression_Happy}You did it Stella!
+Ok now if you don't mind, I need to take a break...
+I'll take some time to think about what great adventure we could do next?
+A space opera with lasers and spaceships? 
+A post-apocalyptic road war setting? 
+Or a horrific eldritch adventure with cosmic horrors maybe?
+We'll see!
+
+key: basilisk/conversations.basiliskconversation-monkeyquestintroduction._independenttextbubbleloc 8651552032501852973 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-monkeyquestintroduction.loctext -926676513307149574 v2 Revised
+Thrushes once again sang to us a simple message.
+Are you ready for a little side adventure?
+This one involves the wandering merchant, Francis.
+He carries cargo and stories, and doesn't shy away from giving errands to adventuring rovers.
+You should run an ((errand)) from him.
+I'll explain it all.
+
+key: basilisk/conversations.basiliskconversation-monkeyquestvalidation._independenttextbubbleloc -5875737604242657026 v2 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-monkeyquestvalidation.loctext -4598413780960008876 v3 Revised
+Well done!
+You accomplished once again an adventurous task!
+Bards will once again sing your praises!
+The Graces of Immalda will once again inscribe your name in their golden scrolls!
+You did great!
+Congratulations!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-fiveintroduction._commenttext 9187874787064812364 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-fiveintroduction.loctext 5020142308177383699 v2 Revised
+I mean... Stella!
+{|Expression_Idle_Neutral}I...
+{|Expression_Idle_Neutral}I...
+{|Expression_Idle_Neutral}-=I... welp…=-
+{|Expression_Idle_Neutral}I can’t believe the campaign is over...
+{|Expression_Idle_Neutral}I mean yeah I’m thrilled but...
+{|Expression_Idle_Neutral}I dunno..
+{|Expression_Idle_Neutral}I feel empty now...
+{|Expression_Surprise}Hah!
+{|Expression_Pensive}You know what?
+{|Expression_Headnod}I’ll prepare a little something else for you!
+Something simpler maybe, just to take a breather.
+You’ll see!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-fourvalidation._commenttext -4924076272801424775 v1 Revised
+Hey, Stella!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-fourvalidation.loctext -7724699687380035218 v2 Revised
+Wow, I’m impressed!
+{Expression_Happy}Your playstyle has been SO good so far!
+I mean, your spells could be a bit optimized for sure...
+{Expression_Happy}But your roleplay is frackin’ A!!
+Even Bob was impressed!
+And...
+Yeah...
+We’ve never had a girl at the table before...
+{Expression_Happy}We’re happy you’re here!
+{Expression_Happy}I’m REALLY happy!
+{Expression_Happy}I’ll try to finish the campaign to the best of my ability!
+{Expression_Happy}More NPCs!
+{Expression_Happy}More Background elements!
+{Expression_Happy}More magic items!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-oneintroduction._commenttext 7557306393353699385 v2 Revised
+May I?
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-oneintroduction.loctext -5419964819134441424 v2 Revised
+Hello Commander!
+As a Hero... Of...
+-=Of…=-
+-=Damn I should’ve read the script sooner...=-
+{|Expression_Idle_Neutral}Oh, well.
+{|Expression_Idle_Neutral}Nevermind.
+{|Expression_Idle_Neutral}...
+{|Expression_Surprise}Yeah, I’m taking a pause.
+{|Expression_Surprise}And you should too!
+It’s always a good moment when we’re in between games to browse through your character sheet and think of what you’ll do next with your XPs!
+But don’t worry, I’ll soon be ready!
+{Expression_Happy|Expression_Idle_Neutral}What did you think of the beginning of Gor-Nemloth’s story arc?
+{Expression_Happy|Expression_Headnod}Pretty cool eh?
+I’ve taken as a basis the “Dungeon of Destruction”, sprinkled here and there a few elements from the “Masks of Imhotep” and added the single best magic item from the “Royal Campaign”.
+Ah and...
+{|Expression_Pensive}I’ll let you in on a little secret...
+{|Expression_Pensive}Remember One-Eye Omgrothog from the “Three Towers”?
+{|Expression_Headnod}Yeah, remember him?
+{Expression_Happy|Expression_Happy}I’ve added him to the campaign!!!!
+{|Expression_Unhappy}Converting his stats to the new edition was a pain in the butt though...
+{Expression_Happy}But I’m soooooo excited!!!
+Alright alright, I’ll go back to my notes.
+Can’t be ready soon enough!
+Seeya!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-sixintroduction._independenttextbubbleloc -352858731458267897 v1 Revised
+Stella!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-sixintroduction.loctext -1523300859302455107 v2 Revised
+Look...
+{|Expression_Idle_Neutral}I...
+{|Expression_Idle_Neutral}I have something to tell you.
+{|Expression_Idle_Neutral}Now that there are only the two of us in here.
+{|Expression_Idle_Neutral}You might’ve guessed already but...
+{|Expression_Idle_Neutral}Yeah, I can’t really go through the ((Everdoor)).
+{|Expression_Idle_Neutral}It’s really hard to explain.
+{|Expression_Idle_Neutral}My guess would be that... I’ve already been through it?
+{|Expression_Idle_Neutral}In a weird, strange way?
+{|Expression_Idle_Neutral}See what I mean?
+{|Expression_Idle_Neutral}Sorry to break it to you but...
+{|Expression_Idle_Neutral}I don’t think there is more to it.
+{|Expression_Idle_Neutral}You. Me. Us. This world.
+{|Expression_Idle_Neutral}Listen, I really don’t want to push you towards it!
+{|Expression_Idle_Neutral}Frack no!
+{|Expression_Idle_Neutral}But, you know, I think you...
+{|Expression_Idle_Neutral}Should give a try at accepting your fate?
+{|Expression_Idle_Neutral}I’m really not one to give you a lesson, far from it...
+{|Expression_Idle_Neutral}Funny thing, I don’t even know if I myself accepted it.
+{|Expression_Idle_Neutral}My presence here might give us a clue.
+{|Expression_Idle_Neutral}…
+{|Expression_Idle_Neutral}That being said, if you stay, I’ll try to entertain you to the best of my abilities!
+{|Expression_Idle_Neutral}But there is not much I can do you know.
+{|Expression_Idle_Neutral}As if... as if I was somewhat limited.
+{|Expression_Idle_Neutral}As if an invisible barrier existed in me too.
+{|Expression_Idle_Neutral}I kinda feel it, you know.
+{|Expression_Idle_Neutral}Sorry Commander.
+{|Expression_Idle_Neutral}I’m really sorry.
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-threeintroduction._commenttext -2061994976479472334 v1 Revised
+Stella!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-threeintroduction.loctext -5184992919867422177 v2 Revised
+{Expression_Happy|Expression_Surprise}Stella stella stella stella!!!
+{Expression_Happy|Expression_Surprise}Guess what!!
+{Expression_Happy|Expression_Unhappy}They’ve FINALLY corrected the 2nd module of the weapon manual!
+{Expression_Happy|Expression_Unhappy}They added the critical tables on Finesse Weapons and clarified the rules of engagement!
+{Expression_Happy|Expression_Unhappy}Right when I was about to call it quits on War and Wyrms ™!!
+{|Expression_Unhappy}You know, I was legit worried that it would go down the 2.5 Edition path.
+{|Expression_Unhappy}Yes, I know, I’m not mincing words.
+{Expression_Happy|Expression_Unhappy}Remember how they modified the spell-casting system?
+{Expression_Happy|Expression_Unhappy}Haha, as if W&W was a kid’s game such as Sorcery: The Reunion™!
+{Expression_Happy|Expression_Unhappy}Man, even after all these years, I’m still so mad at it...
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-twointroduction._commenttext -5212140550657988462 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-narrativemoment-twointroduction.loctext 7263929499609788721 v3 Revised
+Commander!
+Your humble servant needs to...
+-=Oh haha oooops=-
+{|Expression_Idle_Neutral}Yeah sorry.
+{|Expression_Idle_Neutral}But it’s fun you know!
+I love being your humble servant and telling stories and crafting monsters and having a dungeon master screen!
+{|Expression_Idle_Neutral}What I don’t like though is that I’m the only one buying all books...
+{|Expression_Idle_Neutral}And usually preparing everything...
+{|Expression_Idle_Neutral}But Bob, Bryan, and Jerome are cool enough.
+{|Expression_Idle_Neutral}I mean, yeah, they could for sure make an effort.
+Bryan is chill though. 
+{|Expression_Idle_Neutral}That being said I ALWAYS have to remind him of the rules for flanking.
+Well me or Jerome anyways. 
+{|Expression_Idle_Neutral}That guy, polar opposite: doesn’t give a single frack about roleplaying. 
+{|Expression_Idle_Neutral}He only wants to roll dices and find loopholes in the rules.
+{|Expression_Idle_Neutral}Yeah, it pisses me off.
+But hey, at least Bob usually backs me up. 
+{|Expression_Idle_Neutral}Well, maybe Bob is a bit toooooo much in character all the time?
+{|Expression_Idle_Neutral}But hey, who am I to judge?
+
+key: basilisk/conversations.basiliskconversation-peekabooafteralvalidation._independenttextbubbleloc 3185439706584343268 v2 Revised
+Fantastic!
+
+key: basilisk/conversations.basiliskconversation-peekabooafteralvalidation.loctext -5714425864508922566 v2 Revised
+{|Expression_Idle_Neutral}Crawling through the debris, wounded and vanquished, Ghomghota extirpates himself from the field.
+{|Expression_Idle_Neutral}+="I will be back, stronger and crueler!"=+
+{|Expression_Idle_Neutral}In a shriek, the routed Orc vanishes from the remnants.
+{|Expression_Idle_Neutral}This was astounding Commander!
+{|Expression_Idle_Neutral}Your fighting aptitude is exceptional!
+{|Expression_Idle_Neutral}But there is not a minute to waste!
+{|Expression_Idle_Neutral}Cowering deep in their caves, the Orcs of the Shadow Steel clan are regrouping, and planning their revenge.
+{|Expression_Idle_Neutral}Quick!
+{|Expression_Idle_Neutral}To the fires of Tondor!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterblintroduction._independenttextbubbleloc -4923617714850182706 v1 Revised
+Wonderful!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterblintroduction.loctext -2578685023901073862 v2 Revised
+{Expression_Happy}You did it Commander!
+{Expression_Happy}The first fire has been lit, and you can hear from afar the hopeful chants of the free people!
+{Expression_Happy|Expression_Idle_Neutral}Your worth is grander than the mightiest arm of Wrokthador the Paladin!
+{Expression_Happy|Expression_Idle_Neutral}The Moon Birds of Wa-Eron will soon sing your praises in all the languages of Romalda!
+{|Expression_Idle_Neutral}But, Commander!
+{|Expression_Idle_Neutral}As bright our moment of joy can shine, we have to remain vigilant.
+{|Expression_Idle_Neutral}Ghomghota and his lackeys will probably be alerted by the sight of this glorious fire.
+{|Expression_Idle_Neutral}And...
+{|Expression_Idle_Neutral}Lurking in the branches...
+{|Expression_Surprise}Roll Initiative!
+{|Expression_Surprise}(DiceRoll)15!
+Great!
+{|Expression_Idle_Neutral}Amidst the squalor of the exotic foliage, you can decipher clearly a group of Orcs and Goblins progressing towards your encampment...
+{|Expression_Idle_Neutral}Getting closer...
+{Expression_Angry|Expression_Surprise}Springing from their retreat, they jump on you!
+{Expression_Angry|Expression_Surprise}Fight!!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterblvalidation._independenttextbubbleloc 5783863222925081183 v1 Revised
+Victory!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterblvalidation.loctext 3223812738314635939 v4 Revised
+{|Expression_Idle_Neutral}The dust from what was an epic battles barely settles.
+{|Expression_Idle_Neutral}Layers upon layers of evil carcasses litter the ground of the battlefield.
+{|Expression_Idle_Neutral}You are exhausted, but once again, victorious!
+{Expression_Angry|Expression_Idle_Neutral}Make a Perception check!
+{Expression_Angry|Expression_Idle_Neutral}(DiceRoll)14!
+{Expression_Angry|Expression_Idle_Neutral}Success!
+{|Expression_Idle_Neutral}As you observe your defeated enemies, you can only wonder where Ghomghota lies.
+{|Expression_Idle_Neutral}He is nowhere to be seen!
+{|Expression_Idle_Neutral}His pathetic retreat doesn't surprise you.
+{|Expression_Idle_Neutral}He is a follower of Gor-Nemloth after all, and his cowardice is notable.
+Quick, let's ride post-haste!
+The next fire awaits!
+Onward!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterclintroduction._independenttextbubbleloc -3424203707981472104 v1 Revised
+Superb!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterclintroduction.loctext 1874714831150483610 v5 Revised
+As the second fire of Tondor is lit, clamors of exultation spread throughout the vast expanses of the kingdom!
+{Expression_Angry}+="The chosen one has arrived!"=+
+{Expression_Angry}+="She who bears the Light will help us all!"=+
+{Expression_Angry}+="Glory to the Commander!"=+
+{Expression_Angry}+="Glory to Hallor!"=+
+Your heart lifted by such grandiose acclamation, your soul irradiates with serenity!
+{|Expression_Idle_Neutral}But your mind remains watchful and perceptive!
+{|Expression_Idle_Neutral}You know that, stirred by an upheaval that marks their near demise, the Orcs of the Shadow Steel Clan must be closing on your position.
+{|Expression_Idle_Neutral}And...
+{|Expression_Idle_Neutral}Lo and behold...
+{Expression_Angry}Roll Initiative!
+{Expression_Angry|Expression_Surprise}(DiceRoll)20!
+{Expression_Angry|Expression_Surprise}CRITICAL!
+Without a moment of hesitation, you jump into the fray!
+Taking by surprise the approaching phalanx of Orc fighters, you ready yourself to mow through them with deftness and style!
+Fight!!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterclvalidation._independenttextbubbleloc -1403533345043633187 v1 Revised
+What a fight!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterclvalidation.loctext 4039864085799296255 v2 Revised
+{Expression_Happy}They didn't stand a chance!
+{Expression_Happy}What remains of their shattered dark armors is promptly blown away by the swift Northern Wind.
+{Expression_Happy}Commander, you are victorious once again!
+{Expression_Happy}And this time, Ghomghota couldn't oppose your strength, and was heroically slain!
+The Orcs of the Shadow Steel clan shall henceforth dread your might commander!
+Cunning they will have to prove, to even attempt to find you.
+But let's not dawdle a second more!
+Your goal is within your grasp commander!
+{Expression_Angry}Let's set sail again!
+{Expression_Angry}On to the ultimate fire of Tondor!!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterthirdlighthouseintroduction._independenttextbubbleloc -8196587534889794258 v2 Revised
+Sublime!
+
+key: basilisk/conversations.basiliskconversation-peekabooafterthirdlighthouseintroduction.loctext 8081824159888424601 v2 Revised
+At last!
+The world erupts in elation!
+All the fires have been lit!
+Tondor has arisen!
+The Lich-God Gor-Nemloth is on the verge of being defeated once more!
+{|Expression_Pensive}But!
+{|Expression_Pensive}What is it?
+{|Expression_Pensive}What is this terrible ruckus you hear?
+{|Expression_Pensive}A thousand war horns roar at once!
+{|Expression_Pensive}Could it be?
+{|Expression_Idle_Neutral}Fatefully, yes!
+{|Expression_Surprise}The final assault of the Shadow Steel Clan!
+{|Expression_Surprise}Led by One-Eye Omgrothog himself!
+Clad in the eldritch armor of Rongmar, Omgrothog points his loathsome blade at you
+{|Expression_Idle_Neutral}+=You won't escape me this time, you miserable maggot!!=+
+{|Expression_Idle_Neutral}+=I will destroy you and the hopes of this world!!=+
+{|Expression_Idle_Neutral}Trembling in fear and apprehension, you gather your inner strength to face the enemy.
+{Expression_Angry|Expression_Idle_Neutral}Make a courage check!
+{Expression_Angry|Expression_Idle_Neutral}(DiceRoll)18!
+{Expression_Angry|Expression_Idle_Neutral}Success!
+{|Expression_Idle_Neutral}The Orc won't scare you!
+{Expression_Angry|Expression_Idle_Neutral}For +=YOU ARE THE LIGHT BEARER!=+
+{Expression_Angry|Expression_Idle_Neutral}+=THE CHOSEN ONE!=+
+Now, the time has come for you to show them what your are made of!
+Fight!!!
+
+key: basilisk/conversations.basiliskconversation-readlettervalidation._independenttextbubbleloc 3635009470663285020 v2 Revised
+Oh wow!
+
+key: basilisk/conversations.basiliskconversation-readlettervalidation.loctext 527171514301980203 v2 Revised
+What a riddle!
+The hunt is on!
+
+key: basilisk/conversations.basiliskconversationstarving01.loctext -4827854908693786527 v2 Revised
+{|Expression_Idle_Neutral}My sincerest apologies for pestering you with such mundane requirements commander...
+{|Expression_Idle_Neutral}But your humble servant feels the need for sustenance.
+{|Expression_Idle_Neutral}I would gladly accept the smallest of scraps from your magnificent cooking skills!
+{|Expression_Idle_Neutral}-=Anything really...=-
+
+key: basilisk/conversations.basiliskconversationstarving02.loctext -2465434680679300744 v2 Revised
+{|Expression_Idle_Neutral}Commander!
+{|Expression_Idle_Neutral}The time has come for you to cast a level 3 "abundant meals" spell!
+{|Expression_Idle_Neutral}I am, unfortunately, starving...
+{|Expression_Idle_Neutral}-=Like, +=REALLY=+ hungry...=-
+
+key: basilisk/conversations.basiliskconversationstarvingmaster._commenttext -4526813399156497667 v1 Revised
+So hungry...
+
+key: basilisk/conversations.basiliskconversationstarvingmaster1._commenttext 4321641977425001448 v3 Revised
+So hungry...
+
+key: basilisk/conversations.basiliskconversation-talkattavernvalidation._independenttextbubbleloc 2829141545288963076 v2 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-talkattavernvalidation.loctext 2906482133808208429 v2 Revised
+Sometimes, grand events happen in the simplest of places.
+{|Expression_Idle_Neutral}The air is damp with mead fumes...
+{|Expression_Idle_Neutral}The atmosphere is tense, and the onlookers gaze at your appearance.
+{|Expression_Idle_Neutral}The Naked Mole-Bear Inn is a shabby parlor indeed.
+{|Expression_Idle_Neutral}Its inconspicuousness its best quality.
+{|Expression_Idle_Neutral}A lot of people lost eyes here.
+{|Expression_Idle_Neutral}You can smell the bloodshed in the air.
+{|Expression_Idle_Neutral}The perfect rendezvous for the Silver Company!
+{|Expression_Idle_Neutral}And indeed, our reunited avengers came forth with each a piece of an intricate scenario.
+{|Expression_Pensive}Worderic the Bard found in his research an ancient tome in the elder archives of the great library of Walalbul.
+{|Expression_Pensive}In it, words of a very wise and ancient being, an Oracle, had been mentioned by the Sages of Wa-Eron.
+{|Expression_Pensive}Elperin the noble Ranger met with the Witch's conclave of Samdara.
+{|Expression_Pensive}The Witches talked about the leaves of an elder Tree.
+{|Expression_Pensive}And through their forbidden ritual of Almazar, awakened the Tree from its ageless slumber.
+{|Expression_Pensive}And finally, Emdaril, riding his white steed... Emdaril...
+{|Expression_Unhappy}-=Emdaril did nothing but argue on the Internet over the merits of the Poison Cloud spell cast at level 2...=-
+{|Expression_Unhappy}-=Good job Jerome, once again...=-
+{|Expression_Surprise}Commander, the Silver Company might have unearthed where our next step might be.
+{Expression_Angry|Expression_Idle_Neutral}Roll a Knowledge skill!
+{Expression_Angry|Expression_Idle_Neutral}(DiceRoll)18!
+{Expression_Angry|Expression_Idle_Neutral}Success!
+{|Expression_Surprise}You can't shake the idea that the Oracle is indeed hidden in ((Furogawa))!
+This can be the only possible solution!
+Determined, you believe it's time to set sail!
+Towards ((Furogawa))!
+To the Oracle!
+
+key: basilisk/conversations.basiliskconversation-talktobasiliskabouttinyowlintroduction.loctext 8060779703670061514 v4 ReadyForRevision
+Beverly!
+Talking behind her back?
+I would never. I couldn't!
+Hmmm...
+I thought she liked me.
+Weird.
+-=I hope I didn't do anything to upset her.=-
+
+key: basilisk/conversations.basiliskconversation-talktooracleintroduction._independenttextbubbleloc -6963783104054679725 v1 Revised
+Commander!
+
+key: basilisk/conversations.basiliskconversation-talktooracleintroduction.loctext 8025450470393200735 v5 Revised
+The Oracle is a being of immense wisdom.
+Only the Chosen One will be deemed worthy.
+You will have to face The Oracle alone.
+He is old as time.
+Watching all of us mortals.
+You can find him in ((Furogawa)).
+Find The Oracle.
+
+key: basilisk/conversations.basiliskconversation-talktooraclereminder.loctext 4671802086408544613 v2 Revised
+You need to find The Oracle.
+You'll know when you seen it.
+
+key: basilisk/conversations.basiliskconversation-talktooraclevalidation._commenttext 8248406342868575960 v1 Revised
+Amazing!
+
+key: basilisk/conversations.basiliskconversation-talktooraclevalidation.loctext -6859705891435501259 v6 Revised
+Commander!
+This day will forever be inscribed archives of yore!
+Forever sung by the balladeers of the 7 corners!
+The Oracle has awakened!
+He talked to you!
+His puzzle might be cryptic, but you will no doubt find the solution.
+Of this I'm sure.
+{|Expression_Idle_Neutral}Roll...
+{|Expression_Idle_Neutral}-=Oh well.=-
+{|Expression_Idle_Neutral}Nah, I think you can figure this one on your own.
+{|Expression_Idle_Neutral}Good luck!
+
+key: basilisk/conversations.basiliskconversation-toast.loctext 4472183608176207112 v1 Revised
+Yeah!
+
+key: basilisk/conversations.basiliskconversation-toastreminder.loctext 7479965678154200280 v3 Revised
+This is going to be amazing!
+
+key: basilisk/conversations.basiliskconversation-travelatnightintroduction._independenttextbubbleloc -8391920264052317516 v1 Revised
+Captain!
+
+key: basilisk/conversations.basiliskconversation-travelatnightintroduction.loctext -2917611133316627309 v1 Revised
+{|Expression_Pensive}+=ARR=+!
+{|Expression_Pensive}What does Old Johnny Silverleg see?
+{|Expression_Pensive}-=I’m trying out a new character, just roll with it!=-
+{|Expression_Idle_Neutral}Your kin has boarded the vessel.
+{|Expression_Idle_Neutral}Our pirate captain has a sister!
+{|Expression_Idle_Neutral}Or, should I say?
+{|Expression_Idle_Neutral}An able seawoman!
+{|Expression_Pensive}Someone to clean the decks, perhaps.
+{|Expression_Idle_Neutral}No, no, no.
+{|Expression_Idle_Neutral}Excuse me, O Great Pirate Captain.
+{|Expression_Pensive}We wouldn’t give a member of your family such vile duties.
+{|Expression_Idle_Neutral}Especially, since she has gifted us with such an extravagant gift.
+{|Expression_Idle_Neutral}Yes!
+{|Expression_Pensive}+=ARR=+!
+{|Expression_Pensive}-=My mouth feels funny when I do that sound.=-
+{|Expression_Happy}A great gift, indeed.
+{|Expression_Happy}The ability for your ship to travel during ((nighttime)).
+{|Expression_Idle_Neutral}How does it work?
+{|Expression_Idle_Neutral}I do not care and I don’t want to know.
+{|Expression_Idle_Neutral}The only thing I know is:
+{|Expression_Pensive}Don't look a gift squid in the mouth.
+{|Expression_Idle_Neutral}We are no longer bound by the laws of mere mortals.
+{|Expression_Idle_Neutral}We are free to roam the open seas.
+{|Expression_Idle_Neutral}-=Including when the sun goes down.=-
+{|Expression_Idle_Neutral}We are pirates!
+{|Expression_Idle_Neutral}We will live forever!
+{|Expression_Pensive}Everyone knows the best pirate crimes are committed at night.
+{|Expression_Idle_Neutral}We can now steal treasure instead of sleep.
+{|Expression_Idle_Neutral}Hidden bounties to be discovered.
+{|Expression_Idle_Neutral}No more Z’s for this crew.
+{|Expression_Idle_Neutral}Onwards, O Great Pirate Captain.
+{|Expression_Idle_Neutral}Let’s take this ship for its twilight maiden voyage!
+
+key: basilisk/conversations.basiliskconversation-travelintroduction._independenttextbubbleloc 747643898396952670 v2 Placeholder
+Maiden!
+
+key: basilisk/conversations.basiliskconversation-travelintroduction.loctext 1954434065860410317 v2 Placeholder
+There is beauty in voyage.
+I say we just take a normal, regular voyage.
+It needs to be long.
+If you get bored, you can always talk to me.
+
+key: basilisk/conversations.basiliskconversation-travelreminder01._commenttext -955305040410136598 v2 Placeholder
+Oh the air!
+
+key: basilisk/conversations.basiliskconversation-travelreminder01.loctext 2639276454427080931 v2 Placeholder
+Don't you just love the air.
+Day or night it's always there.
+
+key: basilisk/conversations.basiliskconversation-travelreminder02.loctext 7107540196006111287 v2 Placeholder
+This place...
+This reminds me being in school.
+We actually had a sailing class.
+I know all the nautical terms.
+...
+Just don't quiz me.
+
+key: basilisk/conversations.basiliskconversation-travelreminder03.loctext 7098085580277485064 v2 Placeholder
+I like my room just like it is.
+
+key: basilisk/conversations.basiliskconversation-travelreminder04.loctext 2235714903825499894 v3 Placeholder
+I'm glad you are playing these campaigns with me.
+
+key: basilisk/conversations.basiliskconversation-travelreminder05.loctext 3196698850201233382 v2 Placeholder
+You know what?
+No need to always talk.
+Let's just wait it out.
+
+key: basilisk/conversations.basiliskconversation-travelvalidation._independenttextbubbleloc 6867841922271607350 v1 Placeholder
+Stella
+
+key: basilisk/conversations.basiliskconversation-travelvalidation.loctext -2508617990242286940 v3 Placeholder
+That was good.
+I don't always get to talk about myself.
+I usually a bit off.
+I like hiding behind a character.
+Thanks for listening, Stella.
+
+key: basilisk/conversations.basiliskconversation-treasuremapsintroduction._independenttextbubbleloc 5659453454138983075 v2 Revised
+It came!
+
+key: basilisk/conversations.basiliskconversation-treasuremapsintroduction.loctext 7521644404775839778 v4 Revised
+Stella!
+You have to check this out.
+I subscribed to it a few weeks ago.
+{Expression_Happy|Expression_Pensive}It's the famous Looter’s Literary Review!
+{|Expression_Pensive}...
+{|Expression_Pensive}What?
+{|Expression_Pensive}Are you kidding me?
+{|Expression_Pensive}You don't know what this is?
+{|Expression_Idle_Neutral}It's just the most epic treasure hunting magazine in the world!
+{|Expression_Idle_Neutral}The guy who writes it "Kaspar Crayford".
+{|Expression_Idle_Neutral}Obviously a pseudonym.
+{|Expression_Idle_Neutral}For security reasons, I assume.
+{|Expression_Idle_Neutral}Anyway, I just got my first issue.
+{Expression_Happy|Expression_Idle_Neutral}Open it up!
+{Expression_Happy|Expression_Idle_Neutral}Open it up!
+
+key: basilisk/conversations.basiliskfoodaccept.loctext -1753905603317469787 v1 Revised
+Humble thanks, commander!
+This sustenance is right on time!
+My hunger was reaching level 1!
+
+key: basilisk/conversations.basiliskfoodrefuse.loctext -1191006444895798065 v1 Placeholder
+I will not eat this.
+
+key: basilisk/conversations.basiliskfoodsame.loctext -686316324939736104 v2 Revised
+{|Expression_Idle_Neutral}Commander, may I interject?
+{|Expression_Idle_Neutral}Your humble servant is not exactly picky.
+{|Expression_Idle_Neutral}But once in a while...
+{|Expression_Idle_Neutral}-=How to say this?=-
+{|Expression_Idle_Neutral}I just don't feel like eating the same thing over and over again.
+{|Expression_Idle_Neutral}Sorry Stella.
+{|Expression_Idle_Neutral}Something else maybe?
+
+key: basilisk/conversations.basilisk-givemushrooms._commenttext 1169302802959812133 v1 Revised
+Ingredients!
+
+key: basilisk/conversations.basilisk-givemushrooms.loctext -6206702592426968423 v2 Revised
+Commander, I have some magic ingredients for you.
+Toadstools from the shadow forest.
+Can I offer them to you?
+
+key: basilisk/conversations.basilisk-givesnacks._commenttext 4422209047257134341 v1 Revised
+Sustenance!
+
+key: basilisk/conversations.basilisk-givesnacks.loctext -3468092380424676171 v3 Revised
+Commander I...
+-=Well, nevermind.=-
+I have some snacks Stella.
+Do you want some?
+
+key: basilisk/conversations.basilisk-givexppotion._commenttext -3060835378574352755 v1 Revised
+Commander!
+
+key: basilisk/conversations.basilisk-givexppotion.loctext 3828572044358952227 v4 Revised
+Your performance during your latest encounter was remarkable!
+Here are XPs to reward your perfect role-play!
+Enjoy!
+
+key: basilisk/conversations.basilisk-mushroomharvester.loctext -3070268179328195232 v2 Revised
+Look at all these mushrooms!
+
+key: basilisk/conversations.basilisk-verysadconversation.loctext 3598335284585368683 v2 Revised
+I'm too sad.
+
+key: basilisk/conversations.basiliskwelcome.loctext -7052989304291507292 v1 Placeholder
+<spirit>Welcome
+
+key: basilisk/conversations.basiliskwelcomeend.loctext -3948556301549374762 v1 Placeholder
+<spirit>WelcomeEnd
+
+key: basilisk/conversations.foodaccept.loctext -854343127296085311 v2 Revised
+{Eat}Humble thanks, commander!
+{Eat}This sustenance is right on time!
+{Eat}My hunger was reaching level 1!
+
+key: basilisk/conversations.foodaccept_dislike.loctext -4135960119221628607 v2 Placeholder
+{Eat}This food is bad.
+
+key: basilisk/conversations.foodaccept_like.loctext 4606899763984668082 v2 Placeholder
+{Eat}That is some tasty food!
+
+key: basilisk/conversations.foodaccept_love.loctext -9141810333345903109 v2 Placeholder
+{Eat}This is my favorite food! Thank you!
+
+key: basilisk/conversations.foodrefuse.loctext -2380793530481408656 v1 Revised
+{|Expression_Idle_Neutral}Thank you commander, but I am at full HP.
+{|Expression_Idle_Neutral}This won't be necessary
+
+key: basilisk/conversations.foodrefuse_inedible.loctext -5223256593973760993 v1 Revised
+Commander, this is not meant for mortals.
+
+key: basilisk/conversations.foodrefuse_same.loctext -5398286446288238793 v1 Revised
+{|Expression_Idle_Neutral}Commander, may I interject?
+{|Expression_Idle_Neutral}Your humble servant is not exactly picky.
+{|Expression_Idle_Neutral}But once in a while...
+{|Expression_Idle_Neutral}-=how to say this=-
+{|Expression_Idle_Neutral}I just don't feel like eating the same thing over and over again.
+{|Expression_Idle_Neutral}Sorry Stella.
+{|Expression_Idle_Neutral}Something else maybe?
+
+key: basilisk/conversations.foodrefuse_same_fallback01.loctext 2415204961327937180 v1 Revised
+{|Expression_Idle_Neutral}No thanks, Stella.
+{|Expression_Idle_Neutral}A strong commander also knows true food etiquette.
+
+key: basilisk/conversations.foodrefuse_same_fallback02.loctext -5777960365514046482 v1 Revised
+{|Expression_Idle_Neutral}Sorry, Stella.
+{|Expression_Idle_Neutral}I don't repeat quests.
+
+key: basilisk/conversations.foodsame.loctext -7141055780704893411 v1 Revised
+{|Expression_Idle_Neutral}Commander, may I interject?
+{|Expression_Idle_Neutral}Your humble servant is not exactly picky.
+{|Expression_Idle_Neutral}But once in a while...
+{|Expression_Idle_Neutral}-=how to say this=-
+{|Expression_Idle_Neutral}I just don't feel like eating the same thing over and over again.
+{|Expression_Idle_Neutral}Sorry Stella.
+{|Expression_Idle_Neutral}Something else maybe?
+

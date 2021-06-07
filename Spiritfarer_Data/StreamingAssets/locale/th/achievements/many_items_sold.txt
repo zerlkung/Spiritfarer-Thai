@@ -1,0 +1,6 @@
+key: achievements/many_items_sold.description -6601776694939626486 v2 Revised
+Sell at least 200 items.
+
+key: achievements/many_items_sold.name 3614072041648692581 v1 Revised
+Taking Out The Trash
+

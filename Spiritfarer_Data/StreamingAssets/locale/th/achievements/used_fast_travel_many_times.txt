@@ -1,0 +1,6 @@
+key: achievements/used_fast_travel_many_times.description 8168083196275690076 v2 Revised
+ใช้ป้ายรถเมล์ของอเล็กซ์ 50 ครั้ง
+
+key: achievements/used_fast_travel_many_times.name 1574226793204615074 v1 Revised
+Public Transportation
+

@@ -1,0 +1,6 @@
+key: achievements/all_decorations_bull.description 1861817406002047689 v2 Revised
+ปรับปรุง เปลของบรูซและมิกกี้ ทั้งหมด
+
+key: achievements/all_decorations_bull.name 3748229368715046908 v1 Revised
+Fully Improved: Bruce & Mickey
+

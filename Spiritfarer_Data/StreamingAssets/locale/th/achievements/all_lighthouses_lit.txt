@@ -1,0 +1,6 @@
+key: achievements/all_lighthouses_lit.description 3311896071542721814 v2 Revised
+เปิดไฟประภาคารทั้งหมด.
+
+key: achievements/all_lighthouses_lit.name -6526599172483947173 v1 Revised
+Everything is Illuminated
+
